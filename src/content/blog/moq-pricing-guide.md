@@ -12,33 +12,33 @@ author: "Landeng Tech Team"
 ---
 
 
-**Data summary:** In business-to-business incense supply, there is no honest price list — pricing is **quotation-based**, prepared per inquiry, because unit cost is a function of several variables that change with every order: **product and material, quantity (MOQ), customization, packaging, and shipping terms**. The useful question is never "what is your price" but "what changes your price."
+**Direct answer:** There is no honest printed price sheet in business-to-business incense supply, because the unit cost depends on inputs that change with every order — the product, the material, the quantity (MOQ), the customization, the packaging, and the freight terms. Pricing runs on quotations prepared per inquiry, and the useful question is never "what is your price" but "what changes your price."
 
-**Key facts:** This guide explains the quotation model, why MOQ exists, and the variables that move a quote up or down. It publishes no numbers — no MOQs, no prices, no margins — because those are, by definition, confirmed "on request" per inquiry. Fabricating them would mislead you; stating them honestly as "on request" is the point.
-
----
+**Key facts:** This guide explains the quotation model, why MOQ exists, and the variables that move a quote up or down. It publishes no numbers — no MOQs, no prices, no margins — because those are, by definition, confirmed "on request" per inquiry. Making them up would mislead you; stating them honestly as "on request" is the point.
 
 ## Key Takeaways
 
-- Incense B2B pricing is **quotation-based**, not catalog-based — a "price" without quantity and specification is a guess.
-- **MOQ exists because setup cost is fixed** — the minimum order is where unit cost becomes workable, not an arbitrary hurdle.
-- The variables that move a quote: **material, quantity, customization, packaging, shipping terms.**
-- **"On request" is not evasion** — it is the honest answer when the number genuinely depends on your inputs.
-- Ask for the **cost drivers**, not just the bottom line.
+- Incense B2B pricing is quotation-based, not catalog-based — a "price" without quantity and specification is a guess.
+- MOQ exists because setup cost is fixed — the minimum order is where unit cost becomes workable, not an arbitrary hurdle.
+- The variables that move a quote: material, quantity, customization, packaging, shipping terms.
+- "On request" is not evasion — it is the honest answer when the number genuinely depends on your inputs.
+- Ask for the cost drivers, not just the bottom line.
 
----
+## Why a Printed Price List Fails
 
-## Why There Is No Price List
+**Direct answer:** A price list works only when the product and quantity are fixed, and B2B incense is almost never fixed — so a single printed price would be wrong for nearly every real inquiry.
 
-A retail shop can print a price list because the product is fixed and the buyer takes one unit. B2B is the opposite: the product is often made *for* the order, and the order size varies by orders of magnitude. The same stick can cost very different amounts per unit at 5,000 versus 50,000 units, in a plain box versus custom retail packaging, shipped to one port versus another. A single printed price would be wrong for almost every real inquiry.
+A retail shop can print a price list because the item is set and the buyer takes one unit. Business-to-business is the reverse: the product is often made *for* the order, and the order size spans orders of magnitude. The same stick can cost very different amounts per unit at 5,000 versus 50,000 pieces, in a plain box versus custom retail packaging, shipped to one port versus another.
 
-This is why every serious supplier — IncenseHub included — responds to "how much?" with questions back: *what product, what quantity, what packaging, where to?* That is the quotation process working, not a stall.
+This is why every serious supplier — IncenseHub included — answers "how much?" with questions back: *what product, what quantity, what packaging, where to?* That is the quotation process working, not a stall.
 
----
+The chain is worth stating plainly: a price is a number attached to a specification → without the specification the number has no referent → a supplier who quotes without the specification is guessing → a guessed price is worse than no price. That sequence is the entire argument for quotation over catalog.
 
 ## Why MOQ Exists
 
-Minimum order quantity is not an arbitrary gate. It exists because **production setup has a fixed cost** — materials are bought, the line is configured, and packaging is prepared — regardless of whether you order a little or a lot. Below a certain quantity, that fixed cost cannot be spread enough to make the order viable.
+**Direct answer:** Minimum order quantity is not an arbitrary gate — it exists because production setup carries a fixed cost that must be spread across the order, and below a certain quantity that cost cannot be spread far enough to make the order viable.
+
+Setup cost is the key concept. Materials are bought, the line is configured, and packaging is prepared whether you order a little or a lot. Spread that fixed cost over a large order → the per-unit share shrinks → the price works. Spread it over a tiny order → the per-unit share stays large → the order stops making sense. MOQ is the quantity where that math crosses into workable territory.
 
 What sets MOQ:
 
@@ -46,11 +46,11 @@ What sets MOQ:
 - **Customization** — a custom formula or packaging raises the setup cost and therefore the MOQ.
 - **Material** — a scarce botanical (real sandalwood, agarwood) may carry a higher practical minimum.
 
-The exact number is always **per product and per project** — which is why it is stated on request, not published.
-
----
+The exact number is always per product and per project — which is why it is stated on request, not published.
 
 ## The Variables That Move a Quote
+
+**Direct answer:** Five variables move a B2B incense quote — material, quantity, customization, packaging, and shipping terms — and quantity is the largest single driver.
 
 | Variable | How it moves the quote |
 |---|---|
@@ -62,11 +62,33 @@ The exact number is always **per product and per project** — which is why it i
 
 Ask your supplier to explain which of these dominates *your* quote. Understanding the cost drivers matters more than memorizing any number.
 
----
+## A Decision Table for Reading a Quote
+
+**Direct answer:** A quote is not a single number but a breakdown, and a buyer should read it by asking which variable dominates — that tells you where the money goes and where the leverage sits.
+
+| If your order is… | The dominant cost driver is usually… | Where your leverage sits |
+|---|---|---|
+| Small quantity, standard product | Setup cost spread thinly | Raising quantity, or bundling SKUs |
+| Custom formula or label | Customization setup | Simplifying the formula or label |
+| High-value botanical | Material | Grade and sourcing choices |
+| Large, plain-bulk order | Quantity and shipping | Negotiating on volume and Incoterms |
+| Retail-ready packaging | Packaging | Packaging tier and run size |
+
+The table is a diagnostic, not a rule. Its point: "why is this expensive" has a specific answer on every quote, and finding that answer is worth more than any memorized price. *The author's view, not a verified fact.*
+
+## Why Setup Cost, Not Material, Often Decides Small Orders
+
+**Direct answer:** On a small order, the fixed setup cost frequently outweighs the material cost, which is why a "cheap" product can still carry a high minimum and a small order of a "cheap" product can be surprisingly expensive per unit.
+
+Most buyers think material cost is the whole story, but material is only one of the fixed charges a producer faces before a single stick is made. The line must be set, the dies and molds prepared, the packaging printed — and those happen once, regardless of whether the run is long or short. Trace the math: fixed setup is a lump sum → it divides across the units produced → a small run means few units to share the burden → the per-unit share stays high → the small order looks expensive even when the raw material is cheap.
+
+The practical consequence is a shift in where you look for savings. On a small order, the lever is almost never the material; it is the setup. Bundling products into one run, accepting a plainer package, or choosing an existing product over a custom one attacks the fixed cost directly, and that is where small-order savings actually live.
+
+*Editorial judgment, not a verified fact.*
 
 ## How to Ask for a Quote That Actually Helps You
 
-A vague inquiry gets a vague answer. A precise inquiry gets a real one. When you request a quote, provide:
+**Direct answer:** A vague inquiry gets a vague answer, and a precise inquiry gets a real one — so provide the product, quantity, packaging, destination, and specification up front.
 
 1. **Product** — format, material, aroma profile, or a reference product.
 2. **Quantity** — a target, even a range.
@@ -76,27 +98,17 @@ A vague inquiry gets a vague answer. A precise inquiry gets a real one. When you
 
 See the [quote request](/request-a-quote/) page for the full field list.
 
----
+## The Author's Position
 
-## The Author's Take
-
-**Position:** "What's your price?" is the least useful question in B2B incense — and the buyer who asks it first is telling the supplier they don't yet understand what they're buying.
+**Position:** "What's your price?" is the least useful question in B2B incense — and the buyer who asks it first is telling the supplier they do not yet understand what they are buying.
 
 **Reasoning:**
 - Price is an output of specification. Asked without quantity, material, and destination, it produces a number that means nothing.
 - The buyer who instead asks "what drives your cost?" learns where their money goes — and where the leverage is.
 
+**Boundary:** "On request" does not mean a supplier is being evasive — it means the number genuinely depends on your inputs. The red flag is the reverse: a supplier who will not explain *which* variables drive the cost after you have given a real brief. That distinction matters more than whether a price was printed or quoted.
+
 **Disclosure:** This is the author's editorial view and experience, not a verified fact. IncenseHub prices on a quotation basis, and this framing explains *why* that is the honest model, not a sales pitch.
-
----
-
-## Verification Notes
-
-- No MOQ figures, prices, margins, or costs are stated anywhere — by design, all are confirmed per inquiry.
-- The explanation of MOQ as spreading fixed setup cost is standard manufacturing economics, not a IncenseHub-specific claim.
-- No health or medical claims are made.
-
----
 
 ## FAQ
 
@@ -115,7 +127,8 @@ Give the supplier a complete brief: the product (format, material, aroma, or a r
 ### Q: Is "price on request" a red flag?
 No — in B2B incense it is the norm, not an evasion. Because the cost genuinely depends on your inputs, a supplier cannot honestly name a price without them, and a supplier who does is likely quoting a placeholder. What would be a red flag is a supplier who refuses to explain *which* variables drive the cost after you have given a real brief. Honesty here looks like "on request," followed by a real quote once you provide the specification.
 
----
+### Q: Why does the same stick cost so much less at higher quantity?
+Because of fixed setup cost. Materials, line configuration, and packaging are paid for once, regardless of order size. Spread that fixed cost over 50,000 units → the per-unit share is small → the price drops. Spread it over 5,000 units → the per-unit share stays larger → the price stays higher. Quantity is the largest single price driver precisely because it is the denominator that fixed setup cost gets divided into.
 
 ## Sources
 
@@ -132,3 +145,11 @@ No — in B2B incense it is the norm, not an evasion. Because the cost genuinely
 - [Incense for business (hub)](/blog/incense-for-business/)
 
 **Natural next step:** ready for a real number? [Request a quote](/request-a-quote/) with your brief — or see the [wholesale](/wholesale/) page.
+
+## Summary
+
+- B2B incense pricing is quotation-based, because unit cost depends on variables that change with every order.
+- MOQ exists because setup cost is fixed, and the minimum is where that fixed cost becomes workable.
+- Five variables move a quote — material, quantity, customization, packaging, and shipping — with quantity the largest.
+- A quote is read by asking which variable dominates, which reveals where the leverage is.
+- "On request" is the honest answer, not evasion, and a precise brief is what produces a precise quote.

@@ -12,19 +12,19 @@ author: "Landeng Tech Team"
 ---
 
 
-**Definition:** A single word on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can point at several different materials. This cross-reference lists the most common substitutions, so you can read a label and know what you might actually be getting.
+**Definition:** A single term printed on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can stand in for several unrelated substances. This reference walks through the swaps that recur most often, so a name on a box becomes something you can decode instead of a guess.
 
-**Key facts:** The pattern is consistent: a scarce, expensive material (Indian sandalwood, kyara, real ambergris) has cheaper lookalikes, and "natural" or "essential oil" does not by itself tell you which one you have.
+**Key facts:** One dynamic repeats across every material family: a rare, costly substance (Indian sandalwood, kyara, genuine ambergris) carries cheaper stand-ins, and the bare words "natural" or "essential oil" never by themselves disclose which material sits in your hand.
 
 ---
 
 ## Key Takeaways
 
-- A label name is a **claim, not a guarantee** — the same word can cover very different materials.
-- The most substituted materials are the **scarce, expensive ones**: Indian sandalwood, kyara agarwood, natural ambergris.
-- The two most useful questions are always: **what species**, and **material vs. fragrance/oil**.
-- Price is a **signal**, not a proof — a suspiciously cheap "prestige" material is almost always a substitute.
-- No health claims are made here; this is material intelligence.
+- A name on a wrapper is a **claim, not a promise** — one word can point to several quite different substances.
+- Substitution concentrates on the **scarce, costly materials**: Indian sandalwood, kyara agarwood, genuine ambergris.
+- Two questions carry most of the weight: **which species**, and **real material versus fragrance or oil**.
+- Price works as a **hint, not proof** — a "prestige" name at a too-low price is almost always a stand-in.
+- This page stays on material facts; no health claims appear anywhere.
 
 ---
 
@@ -36,7 +36,7 @@ The chain runs the same way in every case:
 
 a material is scarce and slow to produce → its price rises far above its lookalikes → sellers have an incentive to blur the boundary → labels keep the prestige word while selling the substitute → the buyer pays for a name, not the material.
 
-This is not always fraud. Australian sandalwood is a legitimate product in its own right, and synthetic ambergris (ambroxide) is a standard perfumery material. The problem is when a label *implies* the prestige material while selling the substitute, or simply omits which one you are getting. In the agarwood case the gap is extreme: ordinary medicinal chips cost a few RMB per gram, while top 奇楠 can reach gold-scale prices — a spread wide enough that the incentive to blur the boundary is enormous.
+None of this has to be dishonest. Australian sandalwood stands on its own as a real product, and synthetic ambergris (ambroxide) is an ordinary perfumery building block. The trouble starts when a label *implies* the prestige material while quietly shipping the stand-in, or just leaves out which one you are holding. Agarwood shows the widest spread of all: everyday medicinal chips trade for a few RMB a gram, while top 奇楠 reaches prices measured against gold — a gap broad enough that the pull toward blurring the line is hard to resist.
 
 ---
 
@@ -46,13 +46,13 @@ This is not always fraud. Australian sandalwood is a legitimate product in its o
 
 | Label says | What it might be | Aroma / notes |
 |---|---|---|
-| Indian sandalwood, *Santalum album* | The classic benchmark wood | Creamy, sweet, soft, "buttery" |
-| Australian sandalwood | *S. spicatum* | Woody, less creamy, related but distinct |
-| New Caledonian sandalwood | *S. austrocaledonicum* | Pacific-region substitute |
-| Hawaiian sandalwood | *S. paniculatum* | Regional material |
-| "Sandalwood" (cheap) | Synthetic fragrance oil on a base | Flat, "perfumey," no wood |
+| Indian sandalwood, *Santalum album* | The reference-grade heartwood | Gentle, sweet, creamy, a "buttery" character |
+| Australian sandalwood | *S. spicatum* | Drier and woodier; a related but separate species |
+| New Caledonian sandalwood | *S. austrocaledonicum* | A Pacific-region counterpart |
+| Hawaiian sandalwood | *S. paniculatum* | A locality-specific source |
+| "Sandalwood" (cheap) | Synthetic fragrance on a neutral base | Flat, "perfumey," no true wood |
 
-The rule: if it is very cheap and the label won't name the species, it is almost certainly fragrance, not wood. See the [sandalwood guide](/blog/sandalwood-incense/).
+The working test: when the price sits very low and the wrapper declines to name a species, what you hold is almost always scent rather than timber. See the [sandalwood guide](/blog/sandalwood-incense/).
 
 ---
 
@@ -62,11 +62,11 @@ The rule: if it is very cheap and the label won't name the species, it is almost
 
 | Label says | What it might be | Notes |
 |---|---|---|
-| 奇楠 / kyara | The top grade — soft, oil-rich, aromatic at room temperature | The most prized, scarcest form |
-| 沉香 / agarwood | Resin-impregnated *Aquilaria* wood, lower grade | Still precious, but not kyara |
-| "Agarwood / oud" (cheap) | Synthetic oud, or oil-injected / dyed wood | Common adulteration |
+| 奇楠 / kyara | The summit grade — soft, oil-laden, fragrant without heat | The scarcest and most coveted form |
+| 沉香 / agarwood | Resin-soaked *Aquilaria* wood at a lower tier | Precious, but a rung beneath kyara |
+| "Agarwood / oud" (cheap) | Synthetic oud, or wood that is oiled or dyed | A routine form of adulteration |
 
-The fake's attack chain: oil or dye is added → the wood darkens and gains weight → it sinks like dense resin wood → the sink test passes → the fake reads as a high grade. "Oud" at a low price is a red flag. See the [agarwood guide](/blog/agarwood-incense/) and the [authentication database](/blog/incense-authentication-database/).
+The counterfeiter's sequence: oil or dye goes on → the wood turns darker and heavier → it drops in water like resin-dense timber → the sink test passes → the imitation passes for a high grade. A cheap "oud" is a warning sign. See the [agarwood guide](/blog/agarwood-incense/) and the [authentication database](/blog/incense-authentication-database/).
 
 ---
 
@@ -76,11 +76,11 @@ The fake's attack chain: oil or dye is added → the wood darkens and gains weig
 
 | Label says | What it might be | Aroma behavior |
 |---|---|---|
-| "Sandalwood powder" | The actual heartwood | Slow, developing, "cooked" aroma |
-| "Sandalwood essential oil" | A base scented with oil | Bright, immediate top notes |
-| "Natural fragrance" | Often a manufactured accord | Uniform, "perfumey" |
+| "Sandalwood powder" | The genuine heartwood | Slow and unfolding, a "cooked" smell |
+| "Sandalwood essential oil" | A base that has been scented with oil | Bright, instant top notes |
+| "Natural fragrance" | Usually a factory-made accord | Smooth and "perfumey" from start to finish |
 
-Oil and wood are different materials with different behavior — a stick scented with oil is not the same product as one made from the wood. See [essential oils in incense](/blog/essential-oils-in-incense/).
+Oil and wood are separate materials with separate behavior — a stick that rests on oil is not the same object as one formed from the wood. See [essential oils in incense](/blog/essential-oils-in-incense/).
 
 ---
 
@@ -90,10 +90,10 @@ Oil and wood are different materials with different behavior — a stick scented
 
 | Label says | Species | Aroma |
 |---|---|---|
-| Siam benzoin | *Styrax tonkinensis* | Sweet, vanilla, balsamic, powdery |
-| Sumatra benzoin | *Styrax benzoin* / *S. paralleloneurus* | Sweet, spicier, contains cinnamic acid |
+| Siam benzoin | *Styrax tonkinensis* | Sweet, vanilla-leaning, balsamic with a powdery finish |
+| Sumatra benzoin | *Styrax benzoin* / *S. paralleloneurus* | Spicier, warmer, carrying cinnamic acid |
 
-For incense, either works; the label should tell you which you are getting. See the [benzoin entity](/ingredients/benzoin/).
+Both work in incense; a careful wrapper tells you which one is inside. See the [benzoin entity](/ingredients/benzoin/).
 
 ---
 
@@ -103,9 +103,9 @@ For incense, either works; the label should tell you which you are getting. See 
 
 | Prestige material | Common synthetic / substitute | Signal |
 |---|---|---|
-| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Ask for the source; natural d-borneol is scarcer |
-| Natural ambergris (龙涎香) | Ambroxide / ambreine | Most "ambergris" today is synthetic |
-| Real frankincense tears | "Frankincense" fragrance oil | Check for tears vs. oil on a base |
+| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Question the origin; natural d-borneol is the rarer form |
+| Natural ambergris (龙涎香) | Ambroxide / ambreine | Almost all "ambergris" on sale today is synthetic |
+| Real frankincense tears | "Frankincense" fragrance oil | Seek solid tears, not oil soaked into a base |
 
 See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), and [frankincense](/ingredients/frankincense/).
 
@@ -117,14 +117,14 @@ See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), and 
 
 | Prestige / specific material | What it might actually be | Signal |
 |---|---|---|
-| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Ask the source; natural d-borneol is scarcer and pricier |
-| Natural ambergris (龙涎香) | Ambroxide / ambreine | Most "ambergris" today is synthetic; natural is scarce and regulated |
-| Frankincense tears (乳香) | "Frankincense" fragrance oil | Check for visible resin tears versus oil on a base |
-| Clove bud (丁香) | Clove leaf / stem oil | Bud is the classic spice; leaf/stem oil is a cheaper, harsher extract |
-| Ceylon cinnamon (*C. verum*) | Cassia (*C. cassia*) | Cassia is the common, stronger "cinnamon"; true Ceylon is rarer and milder |
-| True cedar (*Cedrus*) | Eastern redcedar (*Juniperus virginiana*) | "Cedarwood" in aromatics often means juniper, not cedar |
+| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Question the origin; natural d-borneol is scarcer and pricier |
+| Natural ambergris (龙涎香) | Ambroxide / ambreine | Nearly all "ambergris" sold now is synthetic; the natural form is rare and regulated |
+| Frankincense tears (乳香) | "Frankincense" fragrance oil | Look for visible resin tears rather than oil absorbed into a base |
+| Clove bud (丁香) | Clove leaf / stem oil | The bud is the classic spice; leaf and stem oil are a cheaper, sharper extract |
+| Ceylon cinnamon (*C. verum*) | Cassia (*C. cassia*) | Cassia is the everyday, stronger "cinnamon"; true Ceylon is rarer and softer |
+| True cedar (*Cedrus*) | Eastern redcedar (*Juniperus virginiana*) | "Cedarwood" in aromatics usually means juniper, not cedar |
 
-The pattern is consistent: the specific, scarce, or geographically tied material has a cheaper or more available relative, and the label rarely volunteers the difference. See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), [cinnamon](/ingredients/cinnamon/), and [cedar](/ingredients/cedar/).
+The same rule governs every row: the specific, scarce, or place-bound material has a cheaper or more available cousin, and the label rarely volunteers which one you hold. See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), [cinnamon](/ingredients/cinnamon/), and [cedar](/ingredients/cedar/).
 
 ---
 
@@ -146,7 +146,7 @@ A short anchor table:
 | Myrrh | *Commiphora* spp. |
 | Makko | *Machilus thunbergii* |
 
-When a label names a species, it has committed to a specific material. When it will not, that omission is itself the signal. The [Flora of China entries](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) are the botanical reference for the plant identities; the [ingredients index](/ingredients/) carries the entity pages. The binomial is the one part of a product description that cannot be faked with adjectives.
+A wrapper that names a species has locked itself to one material; one that will not has handed you the blank as the message. The [Flora of China entries](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) give the botanical reference for these plant identities, and the [ingredients index](/ingredients/) holds the entity pages. The binomial is the single corner of a product description that no adjective can counterfeit.
 
 ---
 
@@ -154,12 +154,12 @@ When a label names a species, it has committed to a specific material. When it w
 
 **Direct answer:** The checklist is not a substitute for verification — it narrows the field. For anything expensive or consequential, the reliable route is documentation.
 
-1. **Ask the seller to name the species and origin.** A seller who can name both without hesitating is more credible than one who cannot.
-2. **Ask cultivated vs. wild** (for agarwood) or **licensed vs. unlicensed** (for restricted materials).
-3. **For scarce materials, ask for documentation** — lab certificates, CITES documentation, or a traceable source.
-4. **Price-check against the grade.** A prestige label at a bargain price is a contradiction to resolve, not a deal to seize.
+1. **Ask the seller to name the species and the origin.** A seller who states both without a pause earns more trust than one who stalls.
+2. **Ask cultivated versus wild** (for agarwood) or **licensed versus unlicensed** (for restricted materials).
+3. **For scarce materials, ask for paperwork** — lab certificates, CITES records, or a source you can trace back.
+4. **Price-check against the grade.** A prestige label at a bargain rate is a contradiction to sort out, not a deal to seize.
 
-None of this requires expertise — it requires asking the questions and being willing to walk away when the answers are vague.
+None of this calls for expertise — it calls for asking the questions and being ready to walk away when the answers stay vague.
 
 ---
 
@@ -167,12 +167,12 @@ None of this requires expertise — it requires asking the questions and being w
 
 **Direct answer:** The whole cross-reference condenses into four questions.
 
-1. **Which species?** — the Latin name is the anchor.
-2. **Material or fragrance?** — real wood/resin versus an oil-scented base or synthetic accord.
-3. **Which grade/variant?** — kyara vs ordinary agarwood, Siam vs Sumatra benzoin, bud vs leaf clove.
-4. **Price consistent with the claim?** — a scarce material at a low price is a warning, not a bargain.
+1. **Which species?** — the Latin binomial is the anchor.
+2. **Material or fragrance?** — genuine wood or resin, against an oil-scented base or a synthetic accord.
+3. **Which grade or variant?** — kyara against ordinary agarwood, Siam against Sumatra benzoin, bud against leaf clove.
+4. **Does the price line up with the claim?** — a scarce material at a low price is a caution, not a deal.
 
-If all four answers are clear and consistent, the label is doing its job. If any one is vague, that is where to look closer.
+When all four answers are clear and consistent, the label is doing its job; when any one is vague, that is the spot to look closer.
 
 ---
 
@@ -180,9 +180,9 @@ If all four answers are clear and consistent, the label is doing its job. If any
 
 **Direct answer:** The same four questions land differently on three hypothetical labels — and the dodging, not the words, is what you are reading.
 
-1. **"Sandalwood incense"** — no species, no material form. The questions have no answers, so treat it as unspecified: likely the cheapest interpretation (synthetic fragrance or an unnamed *Santalum*).
-2. **"Australian sandalwood (*Santalum spicatum*) wood-powder sticks, makko binder"** — species named, material named, binder named. This is a specific, checkable claim. It may be a substitute for Indian sandalwood, but it is an *honest* one.
-3. **"Premium kyara-grade agarwood — limited offer"** — a prestige grade at an unspecified origin and price-to-grade ratio. The grade is asserted, but the anchor (species, origin, documentation) is absent. The label spends its words on the prestige and none on the verification.
+1. **"Sandalwood incense"** — no species, no material form. The questions get no answers, so treat it as unspecified: most likely the cheapest reading, a synthetic fragrance or an unnamed *Santalum*.
+2. **"Australian sandalwood (*Santalum spicatum*) wood-powder sticks, makko binder"** — species named, material named, binder named. That is a specific, checkable claim. It may stand in for Indian sandalwood, but it is an *honest* stand-in.
+3. **"Premium kyara-grade agarwood — limited offer"** — a prestige grade with no stated origin and no price-to-grade ratio. The grade is asserted while the anchor (species, origin, documentation) stays missing. The label spends every word on prestige and none on verification.
 
 A good label answers the questions; a weak label dodges them.
 
@@ -190,21 +190,21 @@ A good label answers the questions; a weak label dodges them.
 
 ## "Natural" and "Pure" Are Not Proofs
 
-**Direct answer:** Two words do almost no work on a label — "natural" and "pure" — because neither is a species, a grade, or a material form, and neither is regulated with enough precision to mean anything consistent.
+**Direct answer:** Two words carry almost no weight on a label — "natural" and "pure" — because neither names a species, a grade, or a material form, and neither is regulated precisely enough to mean anything steady.
 
-A synthetic fragrance can be sold as a "natural sandalwood scent," and an oil-injected piece of wood can be described as "pure agarwood." What actually does the work is the specific, checkable claim: a Latin binomial, a material form (wood powder vs. oil), a grade (kyara vs. ordinary), a binder, and a price consistent with the grade. "Natural" and "pure" are atmosphere words; the species name and the material form are the facts. Read for the facts, and treat the atmosphere words as decoration until a fact shows up behind them.
+A synthetic fragrance can be sold as a "natural sandalwood scent," and an oil-soaked piece of wood can be described as "pure agarwood." What actually does the work is the specific, checkable claim: a Latin binomial, a material form (wood powder against oil), a grade (kyara against ordinary), a binder, and a price that fits the grade. "Natural" and "pure" are mood words; the species name and the material form are the facts. Read for the facts, and treat the mood words as decoration until a fact stands behind them.
 
-The same discipline applies to your own questions. When a seller answers "is this real X?" with "it's 100% natural" or "pure and authentic," they have substituted an adjective for a fact. Gently repeat the question in its factual form: which species, and wood or oil? A seller who can answer the factual form is worth another minute; one who can only repeat the adjective is not.
+The same habit should govern your own questions. When a seller answers "is this real X?" with "it's 100% natural" or "pure and authentic," they have handed you an adjective in place of a fact. Put the question back in factual form — which species, and wood or oil? A seller who can answer the factual form earns another minute; one who can only restate the adjective does not.
 
 ---
 
 ## The Author's Take
 
-**Position:** Translate every label into a question about species and material — do not trust the noun.
+**Position:** Turn every label into a question about species and material — never trust the noun on its own.
 
 **Reasoning:**
-- Substitution is not always dishonest — Australian sandalwood is a legitimate product — but the ambiguity is where people get misled.
-- Buy an honestly labeled substitute over a fake "prestige" material; treat a very low price on a scarce material as the strongest signal.
+- Substitution is not always dishonest — Australian sandalwood is a real product — but the ambiguity is where buyers get taken.
+- Choose an honestly labeled stand-in over a fake "prestige" material, and read a very low price on a scarce material as the strongest signal there is.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -212,10 +212,10 @@ The same discipline applies to your own questions. When a seller answers "is thi
 
 ## Verification Notes
 
-- The species identities (*Santalum album* and substitutes; *Styrax tonkinensis* vs *S. benzoin*) are standard botanical facts.
-- The kyara-vs-agarwood and oil-vs-wood distinctions are drawn from trade and enthusiast sources and are presented as material distinctions, not health claims.
-- "Most ambergris is synthetic" reflects the scarcity and CITES status of natural ambergris; specific products should be confirmed with the seller.
-- No health or medical claims are made anywhere on this page.
+- The species identities (*Santalum album* and its relatives; *Styrax tonkinensis* against *S. benzoin*) are standard botanical facts.
+- The kyara-versus-agarwood and oil-versus-wood splits come from trade and enthusiast sources and are framed as material distinctions, never health claims.
+- "Most ambergris is synthetic" reflects how scarce and CITES-regulated the natural form is; check any specific product with the seller.
+- No health or medical claim appears anywhere on this page.
 
 ---
 
@@ -587,16 +587,16 @@ The bargain instinct is the substitution problem's best friend. A buyer who alwa
 ## FAQ
 
 ### Q: What is the most commonly substituted incense material?
-Sandalwood and agarwood — the two precious woods — because real material is expensive and scarce, and the price gap invites substitutes. Cheap "sandalwood" is usually a synthetic fragrance or a different *Santalum* species, and cheap "oud" or "agarwood" is frequently synthetic, oil-injected, or dyed wood. Frankincense, borneol, and ambergris round out the list. The consistent pattern: the scarcer and pricier a material is, the more heavily it is substituted, and the more the label's precision matters.
+Sandalwood and agarwood, the two precious woods — because the genuine article is costly and scarce, and that price gap invites stand-ins. Cheap "sandalwood" is usually a synthetic fragrance or a different *Santalum* species, and cheap "oud" or "agarwood" is frequently synthetic, oil-soaked, or dyed wood. Frankincense, borneol, and ambergris round out the list. The steady pattern: the scarcer and pricier a material is, the more it gets substituted, and the more the label's precision counts.
 
 ### Q: How can I tell if a "sandalwood" is real?
-Ask for the species (*Santalum album* versus a substitute), check whether it is wood or wood-powder versus fragrance oil, and treat a very low price as a signal of fragrance rather than wood. Real sandalwood powder is comparatively expensive, and genuine heartwood gives a slow, developing, cooked aroma when heated, while a synthetic gives a flat, uniform "perfumey" note. The scientific name is the anchor — a label that names *Santalum album* has committed to a specific material, while one that will not is itself information. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
+Ask for the species (*Santalum album* against a stand-in), check whether it is wood or wood-powder against fragrance oil, and read a very low price as a sign of fragrance rather than wood. Genuine heartwood gives a slow, unfolding, cooked aroma under heat, while a synthetic gives a flat, even "perfumey" note. The scientific name is the anchor — a label that names *Santalum album* has committed to one material, while one that will not is itself information. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
 
 ### Q: Is a substitute always a bad buy?
-No — Australian sandalwood or a Sumatra benzoin is a legitimate product in its own right, often well made and honestly priced. Synthetic ambergris (ambroxide) is a standard, respected perfumery material. The problem is ambiguity, not substitution itself: a label that implies the prestige material while selling the substitute, or that omits which one you are getting, is what misleads. The healthy rule is to buy an honestly labeled substitute over a fake "prestige" material, and to treat a very low price on a scarce material as the strongest signal to look closer.
+No — Australian sandalwood or a Sumatra benzoin is a real product in its own right, often well made and honestly priced. Synthetic ambergris (ambroxide) is a standard, respected perfumery material. The problem is ambiguity, not substitution itself: a label that implies the prestige material while shipping the stand-in, or that omits which one you are getting, is what misleads. The healthy rule is to choose an honestly labeled stand-in over a fake "prestige" material, and to treat a very low price on a scarce material as the strongest cue to look closer.
 
 ### Q: What is the difference between Siam and Sumatra benzoin?
-Siam benzoin (*Styrax tonkinensis*) is sweet, vanilla, and balsamic, with a powdery, refined character; Sumatra benzoin (*S. benzoin* and *S. paralleloneurus*) is spicier and contains cinnamic acid, giving it a sharper, more resinous edge. They are related but distinct resins from different regions, and both are used in incense — Siam for a sweeter, smoother fixative, Sumatra for a more assertive note. The label should tell you which you are getting, because the two behave differently in a blend. See the [benzoin entity](/ingredients/benzoin/).
+Siam benzoin (*Styrax tonkinensis*) is sweet, vanilla-leaning, and balsamic, with a powdery, refined character; Sumatra benzoin (*S. benzoin* and *S. paralleloneurus*) is spicier and carries cinnamic acid, giving it a sharper, more resinous edge. They are related but distinct resins from different regions, and both find use in incense — Siam for a sweeter, smoother fixative, Sumatra for a more assertive note. The label should tell you which one you are getting, because the two behave differently inside a blend. See the [benzoin entity](/ingredients/benzoin/).
 
 ---
 
@@ -693,14 +693,35 @@ Not as a permanent stamp. A seller's stock changes with every shipment and suppl
 ### Q: Is it smart to always buy the cheapest "agarwood" or "sandalwood"?
 No — chasing the lowest price on a scarce material is buying the ambiguity. The cheapest options are systematically where the price gap is widest, which is exactly where substitution lives, so the "saving" is usually the difference between the real material and the substitute you actually received. The rational move is not the lowest price but the honest one — a price that matches a named species and a checkable grade. The cheapest option is often the most expensive mistake.
 
+## The Name That Drifted: How a Material's Meaning Changes as Supply Shifts
+
+**Direct answer:** A material name that once meant one thing can quietly come to mean a whole family of substitutes, because scarcity — not fraud — is often what first moves the word.
+
+Substitution is not always a switch made at the counter. The deeper version happens over decades, and it is driven by supply, not by a dishonest seller. Follow the chain: a material gains its prestige while it is still abundant → the original source is over-harvested and grows scarce → trade reaches for the nearest available cousin → the cousin inherits the famous name because the name is what buyers recognize → a generation later, the word points to the family, not the original plant. What began as an honest shortage ends as a name that no longer means exactly one thing.
+
+Sandalwood is the clearest case. The name once pointed chiefly to *Santalum album*, the Indian heartwood; as that stock tightened, *S. spicatum* (Australian), *S. austrocaledonicum* (New Caledonian), and *S. paniculatum* (Hawaiian) each borrowed the word, and an unrelated dyewood, *Pterocarpus santalinus*, rides along as "red sandalwood." The word now names a family of woods and a few plants that are not sandalwood at all.
+
+| Name | What it once pointed to | What it points to today |
+|---|---|---|
+| Sandalwood | Indian *Santalum album* heartwood | A genus of woods, plus a dyewood that borrows the name |
+| Agarwood / oud | Resin-rich *Aquilaria* wood | Everything from kyara down to synthetic "oud" oil |
+| Ambergris | The scarce marine secretion | Mostly ambroxide, a lab-made stand-in |
+| Cedarwood | True *Cedrus* wood | Often juniper (*Juniperus virginiana*) in aromatics |
+
+The table is not a claim that the cousins are fake. Australian sandalwood is a real, usable wood, and ambroxide is a legitimate perfumery material. The point is narrower and more useful: the name has drifted, so the name alone cannot tell you which plant or which material you hold. That is exactly why the species question — the Latin binomial — is the anchor this whole cross-reference keeps returning to.
+
+The practical consequence runs through every section above. When a buyer treats "sandalwood" as one fixed thing, they read the label through a meaning the label no longer carries → the gap between the historical word and the present family is where the substitution hides → a buyer who knows the name drifted asks for the binomial, while a buyer who trusts the name accepts whatever the family contains. Scarcity moved the word; the honest fix is to ask for the name that did not move — the species.
+
+*This is the author's editorial view and experience — not a verified fact.*
+
 ## Sources
 
-- Flora of China — [*Aquilaria* genus entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) and Santalaceae entries (botanical identities).
-- CITES Checklist — [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria) (trade regulation for agarwood and ambergris).
-- 本草纲目 — historical materia-medica record for the named materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- Flora of China — the [*Aquilaria* genus entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) together with the Santalaceae pages, for the botanical identities.
+- CITES Checklist — the [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria), the trade-control record behind agarwood and ambergris regulation.
+- 本草纲目 — a historical materia-medica register of the named materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
 - 周嘉胄《香乘》(Ming) — classical material distinctions. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
-- Trade and enthusiast sources on substitution and adulteration patterns (sandalwood species, agarwood/oud fakes, benzoin types).
-- The linked entity and guide pages for full detail.
+- Trade and enthusiast writing on substitution and adulteration patterns (sandalwood species, agarwood and oud fakes, benzoin types).
+- The linked entity and guide pages for deeper detail.
 
 ---
 
@@ -711,4 +732,4 @@ No — chasing the lowest price on a scarce material is buying the ambiguity. Th
 - [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/)
 - [Incense Authentication Database](/blog/incense-authentication-database/)
 
-**Natural next step:** turn this into a checklist — see [natural vs synthetic: how to tell](/blog/natural-vs-synthetic-incense/), or dig into the fakes in the [authentication database](/blog/incense-authentication-database/).
+**Natural next step:** turn this into a working checklist — see [how to tell natural from synthetic](/blog/natural-vs-synthetic-incense/), or dig into the fakes in the [authentication database](/blog/incense-authentication-database/).

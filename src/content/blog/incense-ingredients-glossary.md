@@ -11,7 +11,7 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Incense ingredients fall into a handful of families — woods (sandalwood, agarwood), resins (frankincense, myrrh, benzoin), flowers (jasmine, rose, osmanthus, lotus), spices (clove, cassia), and binders (makko). Once you can name the family, you already understand most of how a scent will act under heat.
+**Direct answer:** Incense ingredients sort into a small set of families. Woods hold sandalwood and agarwood; resins cover frankincense, myrrh, and benzoin; flowers span jasmine, rose, osmanthus, and lotus; spices are clove and cassia; and makko leads the binders. Name the family and you already know most of how a scent will act under heat.
 
 **Key facts:** This glossary is a fast reference, not a complete catalog. Each entry lists the material, its origin, and its general character; the linked guides carry the depth. The one idea to keep throughout is *family predicts behavior*.
 
@@ -27,9 +27,9 @@ Here is the chain the whole glossary hangs on. Burn behavior comes from structur
 
 | Material | Origin | Character |
 |---|---|---|
-| **Sandalwood** (檀香, tánxiāng) | *Santalum* heartwood | Milky, honeyed, gentle timber |
-| **Agarwood** (沉香, chénxiāng) | Resin-impregnated *Aquilaria* wood | Dark, balsamic, sweetly resinous |
-| **Cedar** (雪松, xuěsōng) | *Cedrus* spp. (often *Juniperus virginiana* "cedarwood") | Dry, clean, pencil-wood |
+| **Sandalwood** (檀香, tánxiāng) | heartwood of the *Santalum* tree | Soft, milky, honeyed |
+| **Agarwood** (沉香, chénxiāng) | *Aquilaria* heartwood saturated with resin | Deep, dark, sweet-balsamic |
+| **Cedar** (雪松, xuěsōng) | true *Cedrus*, or the juniper *Juniperus virginiana* | Crisp, dry, pencil-like |
 
 The cedar row hides a trap: "cedarwood" in Western aromatics frequently means Eastern redcedar (*Juniperus virginiana*), not a true *Cedrus*. One common name points at two unrelated plants — which is precisely the kind of ambiguity the scientific name exists to remove.
 
@@ -39,11 +39,11 @@ The cedar row hides a trap: "cedarwood" in Western aromatics frequently means Ea
 
 | Material | Origin | Character |
 |---|---|---|
-| **Frankincense** (乳香, rǔxiāng) | *Boswellia* gum-resin | Zesty, citrus, balsamic |
-| **Myrrh** (没药, mòyào) | *Commiphora* gum-resin | Bitter, balsamic, loamy |
-| **Benzoin** (安息香, ānxīxiāng) | *Styrax* resin | Sweet, vanilla-like, warm |
-| **Pine resin** (松香, sōngxiāng) | *Pinus* oleoresin (rosin) | Woody, balsamic |
-| **Sweetgum** (枫香, fēngxiāng) | *Liquidambar formosana* | Sweet, balsamic |
+| **Frankincense** (乳香, rǔxiāng) | gum-resin of *Boswellia* | Bright, citrus, zesty-balsamic |
+| **Myrrh** (没药, mòyào) | gum-resin of *Commiphora* | Earthy, bitter, balsamic |
+| **Benzoin** (安息香, ānxīxiāng) | resin of *Styrax* | Vanilla-sweet, warm, soft |
+| **Pine resin** (松香, sōngxiāng) | oleoresin of *Pinus* (rosin) | Dry, woody, balsamic |
+| **Sweetgum** (枫香, fēngxiāng) | resin of *Liquidambar formosana* | Balsamic, sweet |
 
 The wood-vs-resin split is the first distinction worth memorizing. Wood is a tree's heartwood; resin is the tree's dried exudate. The two react differently to heat, and that difference is the whole reason classical blends pair them together.
 
@@ -53,11 +53,11 @@ The wood-vs-resin split is the first distinction worth memorizing. Wood is a tre
 
 | Material | Origin | Character |
 |---|---|---|
-| **Jasmine** (茉莉, mòlì) | *Jasminum* flowers | Rich, sweet, heady floral |
-| **Rose** (玫瑰, méigui) | *Rosa* petals | Classic, sweet floral |
-| **Osmanthus** (桂花, guìhuā) | *Osmanthus fragrans* | Sweet, apricot-fruity floral |
-| **Lotus** (莲花, liánhuā) | *Nelumbo* flower | Fresh, subtle, aquatic-floral |
-| **Chrysanthemum** (菊花, júhuā) | *Chrysanthemum morifolium* | Herbal, faintly bitter floral |
+| **Jasmine** (茉莉, mòlì) | blooms of *Jasminum* | Heady, rich, indolic-sweet |
+| **Rose** (玫瑰, méigui) | petals of *Rosa* | Sweet, classic rose |
+| **Osmanthus** (桂花, guìhuā) | blossoms of *Osmanthus fragrans* | Fruity-apricot, sweet |
+| **Lotus** (莲花, liánhuā) | the *Nelumbo* flower | Delicate, aquatic, faint |
+| **Chrysanthemum** (菊花, júhuā) | *Chrysanthemum morifolium* | Herbal, mildly bitter |
 
 When a label says "lotus" or "lavender," ask whether it means the flower or an accord. They are not the same thing — a raw flower that will not survive the flame, versus a blended impression assembled from other materials that will.
 
@@ -67,9 +67,9 @@ When a label says "lotus" or "lavender," ask whether it means the flower or an a
 
 | Material | Origin | Character |
 |---|---|---|
-| **Clove** (丁香, dīngxiāng) | *Syzygium aromaticum* buds | Warm, spicy, sweet |
-| **Cassia** (桂皮, guìpí) | *Cinnamomum cassia* bark | Warm, sweet-spicy |
-| **Aged mandarin peel** (陈皮, chénpí) | *Citrus reticulata* peel | Warm, sweet, earthy citrus |
+| **Clove** (丁香, dīngxiāng) | buds of *Syzygium aromaticum* | Sweet, warming, peppery |
+| **Cassia** (桂皮, guìpí) | bark of *Cinnamomum cassia* | Sweet, spicy-warm |
+| **Aged mandarin peel** (陈皮, chénpí) | peel of *Citrus reticulata* | Citrus, earthy, mellow |
 
 Clove is the sharp one; cassia the warm-sweet one. Both read as "warm spice," yet they hold different roles in a 合香 formula, so they cannot be swapped.
 
@@ -79,12 +79,12 @@ Clove is the sharp one; cassia the warm-sweet one. Both read as "warm spice," ye
 
 | Material | Origin | Character |
 |---|---|---|
-| **Mugwort** (艾草, àicǎo) | *Artemisia* herb | Herbal, green, slightly bitter |
-| **Angelica** (白芷, báizhǐ) | *Angelica dahurica* root | Herbal, aromatic |
-| **Calamus** (菖蒲, chāngpú) | *Acorus calamus* rhizome | Spicy, aromatic (safety caveat) |
-| **Patchouli** (广藿香, guǎnghuòxiāng) | *Pogostemon cablin* leaf | Earthy, deep |
-| **Vetiver** (岩兰草, yánláncǎo) | *Chrysopogon zizanioides* root | Deep, earthy, smoky |
-| **Borneol** (龙脑, lóngnǎo) | *Dryobalanops aromatica* (natural d-borneol) | Camphoraceous, cool |
+| **Mugwort** (艾草, àicǎo) | the *Artemisia* herb | Green, herbal, faintly bitter |
+| **Angelica** (白芷, báizhǐ) | root of *Angelica dahurica* | Aromatic, herbal |
+| **Calamus** (菖蒲, chāngpú) | rhizome of *Acorus calamus* | Pungent, spicy (safety caveat) |
+| **Patchouli** (广藿香, guǎnghuòxiāng) | leaf of *Pogostemon cablin* | Deep, earthy, musky |
+| **Vetiver** (岩兰草, yánláncǎo) | root of *Chrysopogon zizanioides* | Smoky, deep, earthy |
+| **Borneol** (龙脑, lóngnǎo) | natural d-borneol of *Dryobalanops aromatica* | Cool, camphor-like |
 
 The calamus caveat needs its own sentence: *Acorus calamus* contains β-asarone, and some varieties are restricted in food use, so calamus incense should get the same ventilation caution as any aromatic — a material warning, not a fragrance note.
 
@@ -94,22 +94,22 @@ The calamus caveat needs its own sentence: *Acorus calamus* contains β-asarone,
 
 | Material | Origin | Character |
 |---|---|---|
-| **Makko** (抹香, mǒxiāng) | *Machilus thunbergii* bark | Near-odorless combustible binder |
-| **Honey** (蜂蜜, fēngmì) | — | Sweet binder in classical pills |
-| **Charcoal / bark powder** (炭皮末) | — | Combustion aid |
+| **Makko** (抹香, mǒxiāng) | bark of *Machilus thunbergii* | Combustible binder, almost scentless |
+| **Honey** (蜂蜜, fēngmì) | — | Sweet binder for classical pills |
+| **Charcoal / bark powder** (炭皮末) | — | A combustion aid |
 
-The mechanism that makes the binder a signal: a natural wood binder (makko) means the stick is held together by material itself → it suggests a material-based stick; a charcoal or bark-powder base means the stick needs an added combustion aid → it usually marks a cheap fragrance-oil stick. Checking the binder is a fast, honest way to read a label. See [makko & natural binders](/blog/makko-natural-binders/).
+The mechanism that makes the binder a signal: a natural wood binder (makko) means the stick is held together by material itself → it suggests a material-based stick; a charcoal or bark-powder base means the stick needs an added combustion aid → it usually marks a cheap fragrance-oil stick. The binder, then, is a quick and reliable label decoder. Full details in [makko & natural binders](/blog/makko-natural-binders/).
 
 ---## How Each Family Behaves Under Flame
 
-**Direct answer:** Each family behaves differently under heat, and the difference is why a good incense is rarely one ingredient — no single material covers the whole burn.
+**Direct answer:** Under heat, each family behaves its own way, and that spread of behaviors is why a satisfying incense rarely comes from a single ingredient — no one material covers the whole burn.
 
-- **Woods** burn slowly and carry the deep, persistent base — the "long" notes.
-- **Resins** release bright, balsamic top-and-middle notes quickly and often act as fixatives.
-- **Flowers** fade fast and are fragile under direct flame, which is why they are usually accords.
-- **Spices** add a quick warm lift at the start and support the middle.
-- **Roots/herbs** give earthy or herbal middle tones that ground the brighter materials.
-- **Binders** add no scent of their own; they keep the form burning evenly.
+- **Woods** smolder slowly and hold up the deep, persistent base — the "long" notes of the piece.
+- **Resins** fire off bright, balsamic top-and-middle notes in a rush, frequently acting as fixatives.
+- **Flowers** die out quickly and are fragile under an open flame, which is exactly why they tend to be accords.
+- **Spices** deliver a quick warm lift at the opening and shore up the middle.
+- **Roots/herbs** add earthy or herbal mid-tones that sit under the brighter materials.
+- **Binders** add nothing of their own; their sole purpose is a steady, even burn.
 
 This is the practical logic of 合香: a blend spreads the scent across the full duration, layering a fast top note over a slow base so the piece unfolds rather than arriving all at once.
 
@@ -131,17 +131,17 @@ The table collapses to a single lesson: when two ingredients get confused, the c
 
 ## Names: Chinese, Pinyin, and Botanical
 
-**Direct answer:** Each ingredient carries three names — the Chinese term (沉香), its romanization (chénxiāng), and the scientific name (*Aquilaria*) — and only the scientific name unambiguously identifies the plant.
+**Direct answer:** Every ingredient carries three names — the Chinese term (沉香), its romanization (chénxiāng), and the scientific name (*Aquilaria*) — and only the last one pins the plant down without ambiguity.
 
-The three are not interchangeable, and one Chinese word does not always map to one English word. 香 alone can mean fragrance, incense, or a fragrant material; 桂 can point at cassia or osmanthus depending on context. Each name serves a different job: the Chinese name is the tradition's vocabulary, the pinyin is how it is pronounced, and the scientific name is the anchor that common names lack. "Sandalwood," "cedarwood," and "lotus" are English common names that can each point at several different things — which is why the [substitution cross-reference](/blog/incense-substitution-cross-reference/) builds its whole argument on species names.
+The three labels do not line up one-to-one, and a single Chinese character does not reliably translate to a single English word. The character 香 covers three senses at once — fragrance, incense, or a fragrant material — while 桂 flips between cassia and osmanthus according to its surroundings. Each name holds a distinct job: the Chinese name is the tradition's working word, the pinyin captures how it is said, and the scientific name is the anchor that common names lack. English common names like "sandalwood," "cedarwood," and "lotus" can each point at several unrelated plants — which is exactly why the [substitution cross-reference](/blog/incense-substitution-cross-reference/) grounds its whole case in species names.
 
 ---
 
 ## Ingredients in the Classical Manuals
 
-**Direct answer:** The classical manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary — agarwood, sandalwood, frankincense, borneol, musk, clove, spikenard, tonka/mellilot, operculum, and honey — but two of them are flagged for modern use.
+**Direct answer:** The classical manuals (香谱, 香乘) name a working palette that overlaps heavily with this glossary — agarwood, sandalwood, frankincense, borneol, musk, clove, spikenard, tonka/mellilot, operculum, and honey — but two of them carry a modern flag.
 
-Two entries deserve a flag. Musk (麝香) is animal-derived and largely restricted today, and 甲香 ([operculum](/ingredients/onycha/)) is shellfish-derived and rarely used in modern reproductions. The manuals are recipes for a specific historical palette, not a checklist for the modern kitchen. See the [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/).
+Two names deserve the flag. Musk (麝香) is drawn from an animal and is largely restricted today; 甲香 ([operculum](/ingredients/onycha/)) is drawn from shellfish and rarely appears in modern reproductions. The manuals record a specific historical palette; they are not a shopping list for the modern kitchen. The [recipe library](/blog/chinese-incense-recipes/) and the [manuals page](/blog/xiangpu-incense-manuals/) carry the full context.
 
 ---
 
@@ -149,11 +149,11 @@ Two entries deserve a flag. Musk (麝香) is animal-derived and largely restrict
 
 **Direct answer:** Three questions cut through most label ambiguity — which species, material or accord, and which binder.
 
-1. **Which species?** "Sandalwood" can be *Santalum album*, another *Santalum*, or a synthetic; "cedarwood" can be true cedar or juniper.
-2. **Material or accord?** "Lotus" or "lavender" is often a fragrance accord, not the flower.
-3. **Binder?** A natural binder (makko) suggests a material-based stick; a charcoal base suggests a fragrance stick.
+1. **Which species?** The word "sandalwood" may stand for *Santalum album*, a lesser *Santalum*, or a synthetic outright; "cedarwood" may be true cedar or a juniper.
+2. **Material or accord?** "Lotus" or "lavender" is frequently a constructed accord rather than the actual flower.
+3. **Binder?** Makko, a natural wood binder, points to a stick of real material, whereas a charcoal base points to a fragrance stick.
 
-The family tells you the behavior; the label tells you whether you are getting the real material or a name. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the full version.
+The family predicts the burn; the label reveals whether you are buying the actual material or only a name. The complete treatment sits in the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
 
 ---
 
@@ -182,42 +182,42 @@ My position is that the family predicts the behavior, and the two distinctions d
 - Woods are the slow base; resins are the fast balsamic lift; flowers are usually accords; spices add warm lift; binders hold the form.
 - The wood-vs-resin and flower-as-material-vs-accord distinctions are the two to memorize.
 - Each ingredient has three names — Chinese, pinyin, scientific — and only the scientific one is unambiguous.
-- The binder is a fast signal of what kind of stick you are buying.
+- The binder quickly reveals which build of stick you are holding.
 
 ---
 
 ## FAQ
 
-### Q: What are the main families of incense ingredients?
-Six families cover the field: woods (sandalwood, agarwood, cedar), resins (frankincense, myrrh, benzoin, pine resin, sweetgum), flowers (jasmine, rose, osmanthus, lotus, chrysanthemum), spices (clove, cassia, aged mandarin peel), roots and herbs (mugwort, angelica, calamus, patchouli, vetiver, borneol), and binders (makko, honey). Each family behaves differently under heat: woods give the deep, slow base; resins are bright and balsamic; flowers are fragile and usually accords; spices add warm lift; roots and herbs contribute earthy middle tones; binders hold the form without adding scent. Learning the family is most of the battle.
+### Q: How many ingredient families does incense use?
+Six families span the field — woods, resins, flowers, spices, roots-and-herbs, and binders — and the tables above list the members of each. Heat treats each family differently: woods produce the deep, slow base; resins burn bright and balsamic; flowers are fragile, so they mostly become accords; spices add a warm lift; roots and herbs supply earthy middle tones; binders hold the form and add nothing. Once you can name the family a material belongs to, you have already guessed most of how it will behave before you light it.
 
-### Q: Are flowers real in incense?
-Often not. Many floral incense scents are fragrance accords rather than the actual flower, because a raw flower does not burn well and its delicate scent does not survive an open flame. A "lotus" or "lavender" incense is usually a constructed floral impression, the same way perfume builds a floral accord from non-floral materials. When a label names a flower, check whether it means the real flower or an accord — the answer changes what you are actually smelling and buying. See the [lotus guide](/blog/lotus-incense/).
+### Q: Do the flowers in incense come from real blooms?
+Often they do not. Many floral incense scents are constructed accords rather than the actual flower, because a raw flower does not burn cleanly and its delicate scent does not survive an open flame. A "lotus" or "lavender" incense is usually a built floral impression, the same way perfume assembles a floral accord from non-floral materials. If a label names a flower, ask which it means — the real bloom or a built accord — because that choice changes what you smell and what you pay for. More on this in the [lotus guide](/blog/lotus-incense/).
 
-### Q: What is the difference between wood and resin incense?
-Woods (sandalwood, agarwood) are tree heartwood; resins (frankincense, myrrh) are dried tree exudates. They behave differently: woods give a deep, persistent, slow-developing scent and form the base of a blend, while resins give fresh or balsamic brightness that arrives quickly and often doubles as a fixative. Wood is the body, resin is the lift. A material-based incense can be either, and many classical blends pair a wood chief with a resin assistant precisely to get the deep base and bright top together.
+### Q: How does wood incense differ from resin incense?
+Sandalwood and agarwood are heartwood cut from a living tree; frankincense and myrrh are the hardened sap a tree lets out. Heat makes them part ways: a wood hands over a deep, persistent, slow-building scent and settles at the base of a blend, while a resin delivers fresh, balsamic brightness that lands fast and often doubles as a fixative. The wood supplies the body; the resin supplies the lift. A material-based incense can be either kind, and classical blends pair a wood chief with a resin assistant exactly so the deep base sits under the bright top.
 
-### Q: What is a binder in incense?
-A functional ingredient — usually a combustible wood powder like makko (抹香, *Machilus thunbergii* bark) — that holds the formed incense together and helps it burn evenly, without adding its own scent. Honey fills a similar role in classical pill recipes, and a charcoal or bark-powder base is the binder of cheap modern sticks. The binder matters because it signals what kind of stick you have: a natural wood binder suggests a material-based stick, while a charcoal base usually means a fragrance-oil stick. See [makko & natural binders](/blog/makko-natural-binders/).
+### Q: What does a binder do in incense?
+A binder is the functional ingredient — usually a combustible wood powder such as makko (抹香, *Machilus thunbergii* bark) — that keeps the shaped incense intact and burning evenly while adding nothing to the smell. Honey plays the same part in classical pill recipes, while cheap modern sticks lean on a charcoal or bark-powder base. The binder matters because it exposes the build: natural wood binder equals a material-based stick, charcoal base equals a fragrance-oil stick. Full details in [makko & natural binders](/blog/makko-natural-binders/).
 
 ---
 
 ## More Questions Answered
 
-### Q: What is the difference between benzoin and frankincense?
-Both are resins, but from different trees: benzoin (*Styrax*) is sweet and vanilla-balsamic; frankincense (*Boswellia*) is fresh, citrus, and earthy. Benzoin works more as a sweet base and fixative — it anchors and rounds a blend — while frankincense is a bright ritual resin that opens at the top. They do not swap: one sweetens and fixes, the other freshens and lifts. A blend can carry both, benzoin for the sweet base and frankincense for the bright top, but each holds a different job in the formula.
+### Q: How do benzoin and frankincense differ?
+Each is a resin, but from a separate tree. Benzoin (*Styrax*) gives a sweet, vanilla-balsamic profile; frankincense (*Boswellia*) gives a fresh, citrus, earthy one. In a blend they pull opposite ways: benzoin serves as the sweet base and fixative, anchoring and rounding, while frankincense is the bright ritual opener that fires at the top. Neither substitutes for the other: one sweetens and anchors, the other freshens and opens. A formula can hold both at once, benzoin beneath for sweetness and frankincense above for brightness, each doing a different job.
 
-### Q: What is makko and why does it matter?
-Makko (抹香) is the powdered bark of *Machilus thunbergii*, the traditional combustible binder. It holds incense together and burns cleanly with little odor of its own, the mark of a material-based stick. Why it matters: the binder is a quiet signal of what you are buying. A natural makko binder suggests the stick is made from real wood and resin powder, while a charcoal base usually indicates a fragrance-oil stick. Checking the binder is a fast, honest way to read a label. See [makko & natural binders](/blog/makko-natural-binders/).
+### Q: What is makko, and why should I care?
+Makko (抹香) is the traditional combustible binder, ground from *Machilus thunbergii* bark. It does two things — keeps the incense together and burns clean with almost no smell of its own, which is how a material-based stick is recognized. Why it matters: the binder quietly gives away the build. Makko binder signals a stick made from genuine wood and resin powder; a charcoal base signals a fragrance-oil stick. The binder is a quick, reliable label decoder. Full details in [makko & natural binders](/blog/makko-natural-binders/).
 
-### Q: Why do some ingredients have Chinese names in this glossary?
-Because the material tradition is Chinese, and the Chinese terms are the vocabulary the manuals and the trade actually use. Each entry gives the Chinese name, its pinyin, and the scientific name because they serve different purposes: the Chinese name is the tradition's vocabulary, the pinyin is how it is pronounced, and the scientific name is the unambiguous botanical anchor. English common names alone are unreliable — "sandalwood" or "cedarwood" can point at several different things — so keeping all three names is how this glossary stays precise rather than just familiar. When comparing products, the scientific name is the part to carry across labels.
+### Q: Why are the Chinese names included in this glossary?
+The glossary follows a Chinese tradition, and its Chinese terms are the words the manuals and the trade actually use. Every entry lists the Chinese name, its pinyin, and the scientific name because the three carry separate jobs: the Chinese name is the tradition's word, the pinyin is how to pronounce it, and the scientific name is the botanical anchor that never drifts. English common names alone mislead — "sandalwood" or "cedarwood" can each point at several plants — so keeping all three is what makes this glossary precise instead of merely familiar. When you compare two products, carry the scientific name across the labels.
 
-### Q: What is spikenard (甘松) and is it common?
-Spikenard (甘松, gānsōng) is an aromatic herb whose roots give a warm, earthy, slightly sweet-woody note, and it shows up repeatedly in classical 合香 recipes from the 香谱 and 香乘 as a minister or assistant ingredient. It is common in the historical recipes but rare on modern retail labels, which is why it sits in the manuals rather than the everyday spice rack. If you meet 甘松 in a recipe, treat it as a specialist 合香 herb: it rounds and grounds the woody base, an example of how the classical palette reached beyond the familiar woods and resins.
+### Q: Is spikenard (甘松) a common ingredient today?
+Spikenard (甘松, gānsōng) is an aromatic herb whose roots yield a warm, earthy, lightly sweet-woody note. It recurs throughout classical 合香 recipes from the 香谱 and 香乘, usually in a minister or assistant role. On modern retail shelves it is scarce, so it lives in the manuals far more than in the everyday spice rack. If a recipe names 甘松, treat it as a specialist 合香 herb that rounds and grounds the woody base — evidence the classical palette stretched well beyond the familiar woods and resins.
 
-### Q: Are clove and cassia interchangeable in incense?
-They are both warm spices but distinct: clove is the dried flower bud (*Syzygium aromaticum*), cassia is bark (*Cinnamomum cassia*). Clove is sharper and more pungent, with a slightly numbing edge; cassia is warmer and sweeter. They serve different ends in a blend — clove for a sharp spicy lift, cassia for warm sweetness — so they do not substitute, even though both read as "warm spice." In a 合香 formula they occupy different roles and proportions, so swapping one for the other changes the balance of the whole blend rather than simply trading one warm note for another.
+### Q: Can I swap clove for cassia in incense?
+Both come across as warm spices, yet from different plant parts: clove is the dried flower bud (*Syzygium aromaticum*), cassia the bark (*Cinnamomum cassia*). Clove is the sharper, more pungent one, with a faint numbing edge; cassia is the warmer, sweeter one. In a blend they do different work — clove for a sharp spicy lift, cassia for warm sweetness — so they do not substitute even though both answer to "warm spice." Inside a 合香 formula they take different roles and amounts, so trading one for the other reshapes the whole balance rather than just swapping one warm note for another.
 
 ---
 
@@ -275,7 +275,7 @@ The table's lesson is that each family hides its own fraud. Woods are faked by c
 
 **Direct answer:** The classical manuals name a palette that overlaps heavily with this glossary, but two of its entries — musk and operculum — sit outside modern use, and the gap between the manual's shelf and today's shelf is worth naming.
 
-Musk (麝香) is animal-derived and largely restricted, and 甲香 (operculum) is shellfish-derived and rarely used in modern reproductions. Their presence in the manuals is a record of a historical palette, not a recommendation for the modern kitchen. The practical point is that a classical recipe cannot always be reproduced ingredient-for-ingredient, and a modern maker often substitutes or omits. Reading the manuals as a window into a past palette — rather than a checklist — is the honest way to use them, and it is why the glossary flags these two entries instead of hiding them.
+Musk (麝香) comes from animals and is largely restricted today; 甲香 ([operculum](/ingredients/onycha/)) comes from shellfish and rarely shows up in modern reproductions. Their presence in the manuals is a record of a historical palette, not a recommendation for the modern kitchen. The practical point is that a classical recipe cannot always be reproduced ingredient-for-ingredient, and a modern maker often substitutes or omits. Reading the manuals as a window into a past palette — rather than a checklist — is the honest way to use them, and it is why the glossary flags these two entries instead of hiding them.
 
 ## How a Blend Spreads One Scent Across the Whole Burn
 
@@ -539,17 +539,95 @@ Ask "what family" and the answer sorts everything. Wood → slow, deep base. Res
 
 Five words carry the glossary. A base is the slow, deep anchor → wood. A lift is the bright, fast opener → resin. A top is the delicate, short-lived first impression → flower or spice. A fixative is the heavy note that holds the rest → benzoin, sometimes clove. A binder is the neutral fuel that carries the burn → makko. Every entry in the glossary lands in one of these five slots, and the five slots map onto the burn's timeline: top first, lift next, base last, fixative and binder holding it all together underneath. A buyer who holds these five words has compressed the whole glossary into a pocket vocabulary — and that vocabulary is the real deliverable of the page.
 
-## A Beginner's First Three Purchases, and Why
+## A Reading Order for the Complete Beginner
 
-**Direct answer:** A beginner building a first kit is better served by three contrastive materials — one wood, one resin, one spice — than by any single expensive wood, because contrast is what teaches the families.
+**Direct answer:** If you are new to incense materials, do not read this page alphabetically — read it in burn order, because the families make far more sense when you meet them the way a lit stick actually releases them.
 
-Start with a wood, a resin, and a spice. A sandalwood or cedar powder gives the slow, deep base → you learn what a base does to a burn. A frankincense or benzoin gives the bright, balsamic lift → you learn what a resin does. A clove or cassia gives the quick, vivid lift → you learn what a spice does. Three materials, three families, three clearly different behaviors, all cheap. A single costly agarwood teaches you one material; three contrastive cheap ones teach you the system. The beginner's error is to buy the most expensive wood first and learn nothing but its price. Buy contrast, not prestige, and the families teach themselves.
+A practical sequence beats an alphabetical one. Start with the woods, the slow base you will smell last and longest → move to the resins, the bright lift that opens the piece → then the flowers and spices, the fragile and the quick top notes → then the binder, the silent frame that carries everything → and only at the end the roots and herbs, the specialist materials you will not need until a classical recipe asks for them. Reading in this order mimics the burn, so each family lands where it belongs in time instead of as an abstract label. A beginner who reads burn-order understands the glossary the first pass; one who reads alphabetically has to reconstruct the timeline later.
+
+## Three Materials That Teach the Whole System
+
+**Direct answer:** You can learn almost everything this glossary teaches from three cheap materials — one wood, one resin, one spice — because they demonstrate the three distinct burn behaviors at a fraction of the cost of a single prestige wood.
+
+Burn them side by side and the whole framework becomes tactile. A sandalwood or cedar powder smolders slowly → it shows you the deep, persistent base. A frankincense or benzoin melts bright and fast → it shows you the balsamic lift. A clove or cassia flashes a quick, warm top → it shows you the accent. Three materials, three families, three behaviors you can actually smell happen in sequence. A single costly agarwood teaches you one material; three contrastive cheap ones teach you the system. The error is buying the most expensive wood first and learning nothing but its price. Buy contrast, not prestige, and the families teach themselves.
+
+## How to Read One Glossary Entry, Line by Line
+
+**Direct answer:** Every entry in this glossary packs four pieces of information into two short lines — the material's common name, its Chinese term with pinyin, its source, and its character — and knowing which piece answers which question is the fastest way to use the page.
+
+Take a single row and read it as a contract. The bold word is what the shelf calls it; the parenthetical is what the tradition calls it, with the pinyin telling you how to say it aloud; the source column names the plant part and the species that actually produces it; the character column sketches what it will smell and burn like. Four questions — what am I buying, what is it called in the manuals, where does it come from, and how will it behave — each answered by a different column. A reader who can map the four columns to the four questions never has to reread an entry twice, and never confuses a common name for an identity.
+
+## What the Burn Timeline Teaches That the Table Cannot
+
+**Direct answer:** A glossary entry is static, but a burning stick is a sequence — top, then middle, then base — and the timeline is the piece of information the table can only hint at.
+
+Hold the idea of a scent unfolding rather than arriving. A lit stick does not smell like its label all at once; it opens on the fastest materials, carries on the middle, and closes on the slowest. The table tells you a wood is a base and a spice is a top, but only the timeline shows you how those two actually meet — the spice fires in the first breath, the wood is still going after the spice is spent, and the point where they hand off is where the blend lives. That is the difference between reading about a material and understanding how it performs. A buyer who thinks only in labels hears one note; a buyer who thinks in timeline hears the whole piece.
+
+## How Moisture and Grinding Change a Material's Behavior
+
+**Direct answer:** The same ingredient behaves differently depending on how wet it is and how finely it is ground, and both of those are decisions made after harvest — so they belong to the maker, not the plant.
+
+Two quiet variables sit between the ingredient and the ember. Moisture sets how fast the material gives up its scent: too damp and it smolders weakly and risks mold in storage, too dry and it burns hot and fast and flashes its fragrance away before the session is done. Grind size sets how evenly it burns: a fine, uniform powder packs evenly and smolders steadily, while a coarse, irregular grind leaves gaps that make the ember sputter. Neither variable is named on the plant; both are chosen in the workshop. That is why two sticks made from the same sandalwood can smell and burn differently — the wood was the same, the preparation was not.
+
+## A Shelf Checklist That Collapses the Whole Glossary
+
+**Direct answer:** The entire glossary folds down into a short shelf check — name the family, chase the species, ask about the flower, and read the binder — and those four moves catch nearly every way a label misleads.
+
+Run the four moves in order and the shelf stops being a wall of unknown names. Name the family first → wood, resin, flower, spice, root, or binder → that fixes the role and the burn. Chase the species second → the binomial, not the pretty English word → that catches the common-name trap. Ask about any flower third → extract or accord → that exposes the method. Read the binder fourth → natural wood powder or charcoal filler → that reveals the build. Four moves, a few seconds each, and the label becomes a set of predictions you can test against the actual burn. The glossary exists so that these four moves have somewhere to look things up; the moves are what you carry into the shop.
+
+## How a Material's Cost Tracks Its Difficulty, Not Its Prestige
+
+**Direct answer:** An ingredient's price is less about status and more about how hard it is to obtain and process — a scarce, slow-forming material costs more than a common one, and that gap is a sourcing fact, not a quality claim.
+
+Think of price as a map of difficulty. A material that forms over decades, yields little per tree, or needs careful handling commands a higher ask than one that grows fast and grinds easily. The spread between ordinary agarwood and 奇楠, or between a common resin and a rare animal product, is a story about supply and labor, not about which one is "better" in a blend. A buyer who reads price as difficulty stops overpaying for a story and starts asking what the extra cost actually bought. The expensive material may be right for one product and wasted in another; the cheap one may be exactly what the formula needs.
+
+## A Worked Example: Reading a Single Stick From Its Label Alone
+
+**Direct answer:** A single line of fine print can be decoded into the whole story of a stick — species, material form, and binder — if you know which three words to look for.
+
+Walk one label as a demonstration. "Australian sandalwood wood-powder sticks, makko binder" names the species, the material form, and the binder → the stick is a real-wood product with a clean-burning plant binder. "Sandalwood incense" names none of the three → it could be any *Santalum*, a synthetic accord, or a charcoal-core fragrance stick. The difference between the two labels is not length but honesty: the first commits to specific, checkable facts, the second leaves every door open to the cheapest reading. Decoding the label this way is the whole glossary applied to one sentence, and it takes about five seconds once you know the three words.
+
+## What to Ignore on a Label, and Why
+
+**Direct answer:** A label's most confident words are often its least informative — "natural," "pure," and "premium" carry no species, no material form, and no grade, so a careful reader sets them aside and looks for the facts behind them.
+
+Sort label language into two piles. The fact pile holds the species, the material form, the binder, and a grade or origin that can be checked. The atmosphere pile holds "natural," "pure," "premium," "handcrafted," and every other word that describes a feeling rather than a thing. A label can be full of atmosphere and empty of fact, and that is exactly when the atmosphere is doing the heavy lifting. The fix is not to distrust the seller; it is to keep reading until a fact shows up behind the adjective. The glossary trains that habit: every entry pairs a name with a species precisely so the name cannot float free of the material.
+
+## How a Glossarist Actually Works: From Name to Behavior
+
+**Direct answer:** The working method behind this page is a two-step move — look up the name to find the family, then use the family to predict the burn — and the whole glossary is built to make that move fast.
+
+Picture the sequence a reader runs without thinking about it. A label prints an unfamiliar word → the eye finds that word in one of the six tables → the table hands back the family and the source → the family hands back the behavior → the reader now knows roughly how the material will act before it is ever lit. That is the entire workflow, and it explains the layout: tables arranged by family, not by alphabet, because the second step — predicting the burn — depends on the family, not on the first letter of the name. A reader who only ever learns this one move has learned the glossary; everything else on the page is elaboration on that single trick.
+
+## Why the Family Column Is the Whole Point
+
+**Direct answer:** If this page had to lose every column but one, the family would be the one to keep, because the family — not the name — is what determines how a material burns.
+
+Test the claim against the tables. Two materials with nothing in common — sandalwood and benzoin — live in different families and burn differently; two materials that smell nothing alike — frankincense and myrrh — live in the same family and burn alike. The family is the load-bearing column; the name is the label, the source is the fact-check, the character is the preview, but the family is the prediction. That is why the glossary sorts by family and not by alphabet, and why a reader who memorizes the six families has already internalized the page even if they forget half the individual names. The names come and go across centuries; the families have not changed.
+
+## Reading Across Two Tables: The Cross-Check
+
+**Direct answer:** A careful reader checks a material in two places — its own family table for the behavior, and the confusion table for what it might actually be — because a name is never proof on its own.
+
+The two passes are different tools for different questions. The family table answers "how will it burn," and it assumes the label is honest. The confusion table answers "what might this actually be," and it assumes nothing. Run both on a single purchase and you get a picture no single table can give: the family table tells you that "sandalwood" should burn slow and creamy, the confusion table tells you that the same word could be a cheaper *Santalum* or a synthetic, and the gap between those two answers is the risk. A buyer who reads only the family table trusts the label; a buyer who reads both tables verifies it. The glossary supplies both precisely because neither is enough by itself.
+
+## How a Recipe Reader Uses This Page
+
+**Direct answer:** Someone working from a classical 合香 recipe meets names that are two kinds of unfamiliar — rare, and in Chinese — and the glossary is the bridge that converts both into something checkable.
+
+Walk a recipe line through the page. A formula names 甘松 and 白芷 → the reader finds each in the roots-and-herbs table → the Chinese name confirms it is the right material, the pinyin shows how to say it, the scientific name pins the species, and the character column sketches the role → the reader can now judge whether the ingredient is available, whether a modern substitute exists, and where it sits in the blend. Without the glossary, those two names are a wall of characters; with it, they become two entries with a source and a role. That is the concrete payoff of pairing every name with its pinyin and binomial, and it is why the page earns its place for a recipe reader as much as for a shopper.
+
+## What a Name Cannot Promise, and a Species Can
+
+**Direct answer:** A common name promises nothing checkable — it is a label a seller chose — while a species name is a claim about a specific plant that can be looked up and contradicted, and that difference is the whole argument of the page.
+
+Set the two side by side. "Sandalwood" is a word that has drifted across several plants and at least one synthetic; it makes no checkable promise. *Santalum album* is a binomial that names one plant, appears in botanical databases, and can be verified or refuted. The glossary therefore treats every common name as a pointer and every binomial as the destination. A buyer who asks for the species is asking for the one piece of a label that can be fact-checked; a buyer who accepts the common name is accepting whatever the seller meant by it. Names are free; species are commitments. That single distinction is what this page is ultimately teaching, and every table on it is arranged to make the commitment visible.
 
 ## Sources
 
-- 本草纲目 — historical materia-medica record for aromatic materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
-- 周嘉胄《香乘》(Ming) — the classical ingredient palette. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
-- 洪芻《香谱》(Song) — the canonical manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 本草纲目 — the classical materia-medica record for aromatic materials (a historical text, not clinical guidance). [Read it on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- 周嘉胄《香乘》(Ming) — the source of the classical ingredient palette. [Read it on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 洪芻《香谱》(Song) — the canonical manual behind many of these names. [Read it on Wikisource](https://zh.wikisource.org/wiki/香譜).
 - Flora of China (efloras.org) — botanical identity for the named species.
 - Research synthesis: docs/research/ (R-001 / R-002 / R-003).
 

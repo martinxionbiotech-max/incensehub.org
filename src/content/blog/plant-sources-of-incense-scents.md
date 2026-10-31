@@ -11,9 +11,9 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Every classic incense scent traces to a specific plant part — a wood (sandalwood, agarwood), a resin (frankincense, myrrh), a flower (jasmine, rose), a peel (citrus), or a bud/bark (clove, cassia). Knowing the plant source tells you what kind of material — and therefore what kind of scent and burn — you are getting.
+**Direct answer:** Every classic incense scent traces to a single part of a plant — sandalwood comes from heartwood, frankincense from gum-resin, jasmine from a flower, citrus from a peel, clove from a bud, cassia from bark. Name the part and you have named what kind of material — and so what kind of scent and burn — you are holding.
 
-**Key facts:** The source part matters: wood and resin burn slowly and carry depth; flowers are delicate and usually rendered as fragrance accords; peels and buds are bright and spicy.
+**Key facts:** The part is the point: wood and resin hold deep, slow-burning aromas; flowers are fragile and almost always appear as reconstructed fragrance accords; peels and buds read bright and spicy.
 
 ---## The Botanical Map
 
@@ -42,10 +42,10 @@ The map is the whole page compressed: each scent sits at the intersection of a s
 
 **Direct answer:** The plant part is the most reliable predictor of both the aroma and the burn, because the part decides how the material behaves under heat.
 
-- **Heartwood** (sandalwood, agarwood) — dense, slow-burning, deep and persistent. This is the classical backbone.
-- **Resin** (frankincense, myrrh, benzoin) — bright-to-balsamic, burned as tears or chips.
-- **Flower** (jasmine, rose, lotus) — delicate, usually a fragrance accord in sticks (see the [lotus](/blog/lotus-incense/) and [lavender](/blog/lavender-incense/) guides).
-- **Peel / bud / bark** (citrus, clove, cassia) — bright or spicy top notes, usually blend components.
+- **Heartwood** (sandalwood, agarwood) — dense and slow-burning, deep and persistent. The classical backbone of a blend.
+- **Resin** (frankincense, myrrh, benzoin) — bright to balsamic, burned as tears or as chips.
+- **Flower** (jasmine, rose, lotus) — fragile, so almost always a fragrance accord in sticks (see the [lotus](/blog/lotus-incense/) and [lavender](/blog/lavender-incense/) guides).
+- **Peel / bud / bark** (citrus, clove, cassia) — bright or spicy top notes, usually there to lift a blend rather than carry it.
 
 The mechanism behind the split is physical. Heartwood and resin are dense, low-moisture solids → they heat and smolder slowly → their aromatics release over a long, steady window → they anchor a blend. A fresh flower is mostly water and delicate volatile cells → it burns poorly and its scent is destroyed by direct flame → so florals are reconstructed as accords. The part, in other words, is a *burn-behavior label* hiding in plain sight.
 
@@ -90,28 +90,28 @@ Run those three checks and the label stops being a list of nice words and starts
 
 ---## Summary
 
-- Each classic scent maps to a specific plant part — wood, resin, flower, peel, or bud/bark.
-- Woods and resins are the classical backbone (slow, deep).
-- Flowers are usually fragrance accords, because raw flowers burn poorly.
-- Peels, buds, and barks are bright or spicy top notes.
-- Knowing the source = knowing the likely scent character and burn.
+- Each classic scent maps to one plant part — wood, resin, flower, peel, or bud/bark.
+- Woods and resins are the slow, deep classical backbone.
+- Flowers are almost always fragrance accords, because raw flowers burn poorly.
+- Peels, buds, and barks supply the bright or spicy top.
+- Read the source and you have read the likely character and the likely burn.
 
 ---## FAQ
 
 ### Q: Where does the sandalwood scent come from?
-The heartwood of *Santalum album* (and related species), not the flowers, leaves, or bark. The fragrant oil develops in the dense center of the trunk as the tree ages over decades. This is why real sandalwood is expensive: the aromatic heartwood is slow to form and the tree is hemiparasitic, needing host plants to grow. The scent is creamy and sweet-woody, and only the heartwood — ground to powder or distilled to oil — carries it.
+The heartwood of *Santalum album* and its relatives, not the flowers, leaves, or bark. The fragrant oil develops in the dense core of the trunk as the tree matures over decades. That slow buildup is why genuine sandalwood is costly: the aromatic heartwood takes years to form, and the tree is hemiparasitic, needing host plants to grow. The scent reads creamy and sweet-woody, and only the heartwood — milled to powder or distilled to oil — carries it.
 
 ### Q: Are flower scents real in incense?
-Usually not. Raw flowers burn poorly and their delicate scent does not survive direct burning, so most floral incense is built on a fragrance accord that evokes the flower rather than using real flower material. A few florals (rose, jasmine) can be captured as costly absolutes, but in everyday sticks the "flower" note is almost always reconstructed. See the [lotus guide](/blog/lotus-incense/) for how this plays out with lotus specifically.
+Usually not. Usually not. Raw flowers burn poorly and their delicate scent cannot survive a direct flame, so most floral incense is built on a fragrance accord that evokes the flower rather than on real flower material. A couple of florals (rose, jasmine) can be captured as costly absolutes, but in everyday sticks the "flower" note is almost always reconstructed. See the [lotus guide](/blog/lotus-incense/) for how this plays out with lotus specifically.
 
 ### Q: What part of the plant is frankincense?
-A gum-resin tapped from the bark of *Boswellia* trees — not a wood and not a flower. The resin is collected from incisions made in the bark, where it hardens into "tears" that are then hand-sorted by grade. This is why frankincense is classified as a resin: it is an exudate, a plant secretion, rather than a structural part like heartwood or a reproductive part like a flower. Its scent is bright and balsamic.
+A gum-resin tapped from the bark of *Boswellia* trees — neither wood nor flower. The resin is gathered from cuts made in the bark, where it hardens into "tears" that are then hand-sorted by grade. That is why frankincense counts as a resin: it is an exudate, a plant secretion, not a structural part like heartwood or a reproductive part like a flower. Its scent is bright and balsamic.
 
 ### Q: Why does the plant part matter?
-Because the plant part determines the scent character and how it burns. Heartwood and resin burn or heat slowly and carry deep, persistent aroma, so they anchor a blend. Flowers are delicate and usually become fragrance accords. Peels, buds, and barks are bright or spicy and typically serve as top notes or blend components. Knowing the part is a shortcut to predicting both the aroma and the burn behavior.
+Because the part sets both the character and the burn. Heartwood and resin heat slowly and carry a deep, persistent aroma, so they anchor a blend. Flowers are fragile and usually become accords. Peels, buds, and barks are bright or spicy and typically act as top notes or blend components. Naming the part is a shortcut to predicting the aroma and the burn behavior at once.
 
 ### Q: Why is makko listed as a plant source?
-Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance: it holds the fragrant powders together and burns cleanly so the stick keeps its shape and burns evenly. Nearly odorless on its own, it disappears into the blend. Understanding makko explains why "contains a binder" is normal and necessary rather than a red flag. See [makko & natural binders](/blog/makko-natural-binders/).
+Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder, not a scent. It earns a row here because it is the one plant material whose job is structure rather than fragrance: it binds the fragrant powders and burns cleanly so the stick keeps its shape and smolders evenly. Nearly odorless on its own, it vanishes into the blend. Reading makko explains why "contains a binder" is normal and necessary rather than a warning sign. See [makko & natural binders](/blog/makko-natural-binders/).
 
 ### Q: Which plant parts actually burn well in incense?
 Woods and resins burn (or heat) best, because they are dense, low-moisture solids that smolder slowly and carry deep, persistent aroma — heartwood like sandalwood and resin-impregnated agarwood release steadily, and resins like frankincense warm into bright, balsamic notes. Raw flowers burn poorly, which is why florals are usually rendered as accords. Peels, buds, and barks — citrus, clove, cassia — are bright or spicy top notes that add lift but rarely stand on their own. The part is the whole predictor: dense parts anchor, delicate parts vanish, bright parts lift.
@@ -375,11 +375,11 @@ The harvest season is the material's climate. A dry season stresses a resin tree
 
 ## Sources
 
-- Botanical references — Kew Plants of the World Online and Flora of China for species identity and range.
+- Botanical references — Kew Plants of the World Online and Flora of China for species identity and native range.
 - [*Aquilaria sinensis* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506)
 - [*Santalum album* on GBIF](https://www.gbif.org/species/2889785)
 - [*Osmanthus fragrans* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392)
-- 本草纲目 — historical materia-medica record (traditional, not clinical).
+- 本草纲目 — a historical materia-medica record, traditional rather than clinical.
 
 ## Related Resources
 

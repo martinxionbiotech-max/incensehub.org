@@ -73,10 +73,10 @@ It also works as a quick filter. A thick, smoky, immediate product is behaving l
 
 **Direct answer:** 四般闲事, 香道, 合香, and 香谱 shoulder most of the cultural weight, and learning them turns a foreign landscape into one a reader can walk around in.
 
-- **四般闲事 (sì bān xián shì)** — the "Four Leisure Arts": incense (烧香), tea (点茶), hanging scrolls (挂画), flower arranging (插花). Wu Zimu's 梦粱录 (Meng Liang Lu) records the set, with incense counted among the four refined pastimes.
-- **香道 (xiāngdào)** — "the Way of Incense," the practice of preparing and appreciating incense.
-- **合香 (hé xiāng)** — compound incense, composed on a 君臣佐使 (chief–minister–assistant–guide) principle borrowed from herbal formulation.
-- **香谱 (xiāng pǔ)** — the incense manuals (陈氏香谱, 洪芻香谱, 香乘), the earliest and most complete incense literature in the world, still largely untranslated.
+- **四般闲事 (sì bān xián shì)** — the "Four Leisure Arts": burning incense (烧香), whisking tea (点茶), hanging scrolls (挂画), and arranging flowers (插花). The set is recorded in Wu Zimu's 梦粱录 (Meng Liang Lu), with incense named among the four refined pastimes.
+- **香道 (xiāngdào)** — "the Way of Incense," the cultivated discipline of preparing and savoring it.
+- **合香 (hé xiāng)** — compound incense, assembled on a 君臣佐使 (chief–minister–assistant–guide) logic borrowed from herbal formulation.
+- **香谱 (xiāng pǔ)** — the incense manuals (陈氏香谱, 洪芻香谱, 香乘), an unmatched written corpus of incense lore, the earliest anywhere and still only partly rendered into other languages.
 
 The manuals deserve a pause of their own. They are what makes this a tradition with a written canon rather than a folk habit, and they are why the modern vocabulary — the grading terms, the blend roles — arrives already formalized. A reader who wants to go deeper has primary texts to reach for, not just product pages.
 
@@ -86,9 +86,9 @@ The manuals deserve a pause of their own. They are what makes this a tradition w
 
 **Direct answer:** The written record runs from Shang oracle bones through a Song summit to a modern revival, and two dating cautions come attached.
 
-The arc: 香 marks aromatic offerings on Shang oracle bones (c. 1600–1046 BCE). Ritual incense is unambiguous from the Han dynasty (206 BCE–220 CE), when the 博山炉 (bóshān lú, "universal-mountain censer") appears — a lidded bronze burner shaped as a mountain range, its perforated summit letting smoke drift out like mist between peaks. The Wei–Jin and Northern & Southern period (220–589) brought Buddhism and the trade routes, importing 沉香, 檀香, 乳香, 龙脑, and 丁香 as the 合香 system took shape. Sui–Tang (581–907) was a first golden age of court luxury. The Song (960–1279) was the summit: the 四般闲事, 隔火焚香, refined 合香, and the [香谱](/blog/xiangpu-incense-manuals/) manuals. The Ming (1368–1644) codified things and perfected stick incense. Then a long decline — sumptuary laws, Western perfume, mid-20th-century upheaval — followed by a revival from the 2000s.
+The arc: 香 marks aromatic offerings on Shang oracle bones (c. 1600–1046 BCE). By the Han dynasty (206 BCE–220 CE) ritual incense is unambiguous, and the era's 博山炉 (bóshān lú, "universal-mountain censer") marks the turn — a lidded bronze vessel cast as a mountain range, with a perforated peak that lets the smoke thread out like mist drifting between summits. The Wei–Jin and Northern & Southern period (220–589) brought Buddhism and the trade routes, importing 沉香, 檀香, 乳香, 龙脑, and 丁香 as the 合香 system took shape. Sui–Tang (581–907) was a first golden age of court luxury. The Song (960–1279) was the summit: the 四般闲事, 隔火焚香, refined 合香, and the [香谱](/blog/xiangpu-incense-manuals/) manuals. The Ming (1368–1644) codified things and perfected stick incense. Then a long decline — sumptuary laws, Western perfume, mid-20th-century upheaval — followed by a revival from the 2000s.
 
-Two cautions. First, the "5,000 years of incense" line that marketing sometimes repeats is not treated here as established fact; the solid written evidence is the Shang oracle-bone 香, with ritual use clear from the Han. Second, the Song's standing as the peak is a consensus among secondary sources, not a single primary text. Where the record thins, this page flags it instead of smoothing over it.
+Two cautions. First, the "5,000 years of incense" line that marketing sometimes repeats is not treated here as established fact; the solid written evidence is the Shang oracle-bone 香, with ritual use clear from the Han. Second, the Song's reputation as the high point rests on a consensus in secondary scholarship, not on one primary text. Where the record thins, this page flags it instead of smoothing over it.
 
 ---
 
@@ -149,11 +149,11 @@ The table is a disambiguation, and it corrects a quiet assumption: that Chinese 
 
 Five checks cover most of it:
 
-1. **Name the material.** "Sandalwood" or "agarwood" on a label should also say *which* wood and, ideally, the species. A vague prestige name is a prompt to look closer.
-2. **Material vs. fragrance.** A stick scented with essential oil is not the same as one made from the actual wood or resin. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
-3. **Binder.** A natural combustible binder (makko 抹香 or a wood-powder base) points to a material-based stick; a charcoal-and-fragrance base is a different category.
-4. **Price as a signal.** Real agarwood and true sandalwood are costly; a very cheap "agarwood" stick is almost certainly not agarwood.
-5. **Smoke and ventilation.** Every incense produces some particulate; burn in a ventilated space.
+1. **Name the material.** When a label reads "sandalwood" or "agarwood," it should also name *which* wood and, at best, the species — a vague prestige word is your cue to look harder.
+2. **Material vs. fragrance.** A stick perfumed with essential oil is not the same as one built from the actual wood or resin. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+3. **Binder.** A natural combustible binder (makko 抹香 or a wood-powder base) marks a material-based stick; a charcoal-plus-fragrance base is another category.
+4. **Price as a signal.** Genuine agarwood and true sandalwood are costly; a dirt-cheap "agarwood" stick is almost certainly not agarwood.
+5. **Smoke and ventilation.** Every burn puts some particulate in the air; light up in a ventilated space.
 
 One boundary is worth spelling out: a low price does not *prove* fraud, but it moves the burden of proof onto the label. If the price and the claimed material cannot both be true, one of them is lying, and the cheap one usually is. None of this is connoisseurship — it is reading the label and asking two questions.
 
@@ -190,10 +190,10 @@ The rule that ties these rows together: **real botanical material is quiet cold 
 
 ## Common Mistakes
 
-1. **Assuming "incense = sticks."** The stick is one form; classical appreciation was often a single heated piece of agarwood or a pressed seal-pattern (篆香).
-2. **Assuming the culture is Japanese.** It is Chinese in origin; kōdō descends from it.
-3. **Treating incense as medicine.** Fragrance supports a calming routine; it is not a treatment for insomnia, anxiety, or pain.
-4. **Confusing "natural" with "safe."** Natural incense still produces smoke and particulate matter; ventilation matters.
+1. **Assuming "incense = sticks."** The stick is just one format; classical appreciation often meant warming a lone sliver of agarwood or a pressed seal-pattern (篆香).
+2. **Assuming the culture is Japanese.** It began in China; kōdō developed out of it.
+3. **Treating incense as medicine.** A scent can sit inside a calming routine; it does not treat insomnia, anxiety, or pain.
+4. **Confusing "natural" with "safe."** Natural incense still gives off smoke and fine particles; ventilation remains essential.
 5. **Reading a price tag as proof of quality.** A high price is a signal, not a guarantee; judge the material and the burn instead.
 
 ---
@@ -216,16 +216,16 @@ The rule that ties these rows together: **real botanical material is quiet cold 
 The lineage runs from China to Japan, not the reverse. Chinese incense culture is documented centuries before kōdō existed as a named practice, and the low-smoke 隔火焚香 method at kōdō's center is a Song-dynasty Chinese technique that Japan later codified. In temperament they parted ways: Chinese incense today is warm and layered, happy to blend many materials into a 合香 formula, while kōdō is spare and meditative, built around one precious wood — agarwood — prized for purity over composition. The gap is one of temperament, not of origin.
 
 ### Q: Is this the same as essential-oil aromatherapy?
-No, though they share a shelf and a pleasant smell. Aromatherapy disperses volatile oils into the air, usually by diffusion or misting, with no combustion. Classical Chinese incense is a material-and-ritual practice: solid woods, resins, and botanicals are burned or gently heated, releasing aroma (and, when burned, smoke) from the material itself. The tools, vocabularies, and histories are distinct, and merging them flattens what makes each worth knowing.
+No, though they share a shelf and a pleasant smell. Aromatherapy puts volatile oils into the air through diffusion or misting, without any burning. Classical Chinese incense is a material-plus-ritual practice: solid woods, resins, and botanicals get burned or softly warmed, so the aroma — and the smoke, when it is burned — rises from the substance itself. The tools, vocabularies, and histories are distinct, and merging them flattens what makes each worth knowing.
 
 ### Q: What forms does it come in?
-Loose material (chips, resin, powder), sticks 线香, coils 盘香, cones, and seal incense 篆香. Loose material is the classical core — a single heated piece of agarwood or a pinch of blended 合香 powder. Sticks are a Ming-era everyday form, on a bamboo core or coreless. Coils burn for hours and suit temples and long sessions; cones run roughly 10–15 minutes; seal incense is pressed powder lit along a timed pattern. The material, not the shape, is the center of gravity.
+Loose material — chips, tears of resin, and powder — alongside formed sticks 线香, coils 盘香, cones, and seal incense 篆香. Loose material is the classical core: one warmed sliver of agarwood, or a pinch of blended 合香 powder. Sticks are the Ming-era everyday form, wrapped around a bamboo core or coreless. Coils run for hours and suit temples and long sittings; cones last about 10–15 minutes; seal incense is pressed powder lit along a timed track. The material, not the shape, is the center of gravity.
 
 ### Q: Does incense help with sleep or anxiety?
-IncenseHub makes no medical claims. Incense is not a treatment for insomnia, anxiety, or pain, and no fragrance replaces medical care. What many people do is use a calming, familiar scent as part of an unwinding routine — a sensory anchor for an evening wind-down or a quiet moment. That is a wellness and ambiance practice, not a therapeutic effect. A product that claims to cure or clinically treat a condition is making an unverified claim and should be read with skepticism.
+IncenseHub makes no medical claims. Incense does not treat insomnia, anxiety, or pain, and no fragrance can replace medical care. What plenty of people do is fold a calming, familiar scent into an unwinding routine — a sensory cue for an evening wind-down or a quiet moment. That is a wellness-and-ambiance practice rather than a therapeutic one. A product that promises to cure or clinically treat a condition is making an unverified claim, and it deserves a skeptical read.
 
 ### Q: What does it smell like?
-There is no single answer, because the smell belongs to the material. Sandalwood 檀香 is creamy and sweet-woody, often called buttery. Agarwood 沉香 is deep, resinous, and sweet, unfolding in stages as it warms: an opening, a body, a dry-down. Frankincense 乳香 is fresh and citrus-woody; blended 合香 compounds range from floral to herbal to warm and medicinal. The shared signature is warmth and layering rather than one sharp note — which is why "what does it smell like" invites the follow-up "which one?"
+There is no single answer, because the smell belongs to the material. Sandalwood 檀香 is creamy and sweet-woody, often called buttery. Agarwood 沉香 is deep, resinous, and sweet, unfolding in stages as it warms: an opening, a body, a dry-down. Frankincense 乳香 reads fresh and citrus-woody, while blended 合香 compounds span floral, herbal, and warm-medicinal ground. The shared signature is warmth and layering rather than one sharp note — which is why "what does it smell like" invites the follow-up "which one?"
 
 ### Q: Why is some agarwood far more expensive than other agarwood?
 Because agarwood is not one uniform material — it is a wound response whose quality tracks how deeply resin has saturated the wood. A lightly injured tree produces faint, low-resin wood; a heavily and repeatedly injured tree produces dense, resin-rich heartwood that took years to form. That depth of resin is what the price follows, and it is also what separates "sinking" grades (dense enough to sink in water, a traditional belief marker of high resin) from lighter, cheaper grades. Scarcity amplifies the spread: wild resin-rich agarwood is rare, which pushes its price far above plantation or lightly saturated material. The wound → resin → fragrance chain above is the short explanation.
@@ -1415,15 +1415,164 @@ The chain: freshly mixed materials sit as separate particles → over days and w
 ### Q: Why does a blend need to rest after it is mixed?
 Because the materials need time to fuse. Freshly mixed materials sit as separate particles, and over days and weeks their volatile oils migrate between them, so the sharp edges soften and the blend fuses into a single, rounder profile — the same reason a stew tastes better the next day. A blend that has rested reads smoother than the fresh mix, which is why makers age their compounds, and why a formula is a process rather than a finished thing the day it is mixed. Time is the step that turns a mix into a blend.
 
+## Buying by Intent: The Checks That Actually Matter
+
+**Direct answer:** The checks worth running depend entirely on what the purchase is for — a ceremony, a collection, a daily room scent, a gift, or study — and each intent points at a different slice of this page's advice.
+
+| Intent | What you are really buying | Checks that matter most | What you can safely skip |
+|---|---|---|---|
+| Ritual / ceremonial | A steady, repeatable burn | Burn length, smoke level, a stable format | Species pedantry, cold-sniff nuance |
+| Collecting / connoisseurship | Rarity with a documented grade | Species, origin, grade proxy, warm-release layers | Format convenience, burn length |
+| Daily ambiance | A pleasant, affordable room note | Atmosphere family, smoke, room-size match | Rarity, provenance |
+| Gift | Something the recipient accepts | The warm-woody middle, low smoke, a short note | Your own taste, the exotic extremes |
+| Study / education | A reference to learn from | A named species and a documented form | Price, prestige |
+
+The table's rule is that the intent selects the checks. A collector and a daily burner who both ask for "sandalwood" are asking two different questions, and the label that satisfies one does not satisfy the other. Most purchasing mistakes come from running the wrong set of checks for the intent — the collector who skips provenance, or the daily buyer who chases a rarity they will never smell the difference in.
+
+## Authentic and Good Are Two Different Verdicts
+
+**Direct answer:** A material can be exactly what it claims and still be mediocre, because authenticity and quality live on separate scales — identity on one, performance under heat on the other.
+
+Walk the split. Authenticity asks "is this actually the species and form the label names?" → a yes-or-no question of identity → settled by the species name, the form, and the surface checks. Quality asks "how much does this material have to say once it is warmed?" → a graded question of performance → settled by the warm release, the layering, and how long it holds. The two scales cross freely: a genuine but young, faint sandalwood is authentic yet mediocre, while a well-built accord is not authentic yet can be perfectly pleasant. The recurring error is letting one scale stand in for the other — reading "authentic" as "good," or "costly" as "genuine." The honest buyer keeps the two verdicts apart and asks both.
+
+*The author's view, not a verified fact.*
+
+## Why a Reference Sample Is Worth More Than a Checklist
+
+**Direct answer:** Every check on this page is a stand-in for the one thing that settles all of them — a single reference sample you have burned enough to trust — because a reference converts all the abstract checks into direct comparisons.
+
+The chain: a buyer acquires one genuine, well-made sample of a material → they burn it repeatedly and learn its cold smell, its warm release, and its ash → that sample becomes the ruler → every later purchase is measured against the ruler, not against a remembered description → a fake or a flat material fails the comparison instantly → the checks stop being theory and become a match-or-mismatch test. A reference sample is the single most efficient upgrade to any buyer's method, because it turns the whole page of advice into one act: does this new stick measure up to the one I already trust. [need-source for any specific sourcing recommendation]
+
+*The author's view, not a verified fact.*
+
+## The Implements of the Warming Ritual
+
+**Direct answer:** The indirect-fire ceremony is not only coal and ash — it runs on a small, specific set of implements, each with a Chinese name and a single job, and the tool set is what turns a pile of hot coals into a controlled act of appreciation.
+
+| Tool | Chinese | Pinyin | Its one job |
+|---|---|---|---|
+| Censer / burner | 香炉 | xiāng lú | Holds the ash bed and shapes the rising aroma |
+| Incense box | 香盒 | xiāng hé | Stores the fragrant wood or resin between uses |
+| Charcoal | 香炭 | xiāng tàn | The buried heat source |
+| Ash press | 香押 / 灰押 | xiāng yā / huī yā | Shapes and smooths the ash into a bed |
+| Chopsticks | 香筯 | xiāng zhù | Move the coal and the material without touching |
+| Spoon | 香匙 | xiāng chí | Measure and transfer powder or chips |
+| Mica / silver leaf | 云母 / 银叶 | yún mǔ / yín yè | The plate that keeps material from scorching on the coal |
+
+The set's logic is separation of jobs: the chopsticks never handle what the spoon handles, the press only shapes ash, and the plate only insulates — so the practitioner can adjust one variable (heat, position, ash depth) without disturbing the others. That single-responsibility design is why the ritual reads as calm and precise rather than fussy: each small tool removes one thing the hand would otherwise have to fudge.
+
+## The Ash-Bed Loop: Why the Ritual Is a Feedback Cycle
+
+**Direct answer:** The warming ritual is not a sequence but a loop — the practitioner reads the heat through the ash, adjusts, and reads again — and the loop is the whole skill, not a preface to it.
+
+The chain: hot charcoal sits under the ash → the practitioner hovers a palm over the plate to feel the temperature → too cool, and the material stays silent → the press is used to thin the ash and let more heat through → too hot, and the top notes scorch → ash is added back to cool the path → the loop of read, press, read continues until the release is clean. There is no dial and no fixed setting; the temperature is negotiated through the hand and the ash, over and over. That loop is why the method rewards repetition and resists being learned from a description — the skill is not in any single step but in closing the gap between what the hand feels and what the nose receives.
+
+*The author's view, not a verified fact.*
+
+## A Compact Vocabulary Card
+
+**Direct answer:** A handful of Chinese terms carry most of the incense vocabulary a newcomer will meet, and learning them as a set — character, pronunciation, meaning — turns a foreign label into a readable one.
+
+| Term | Chinese | Pinyin | Meaning |
+|---|---|---|---|
+| Incense ash | 香灰 | xiang hui | The bed that insulates the coal in the warming method |
+| Savoring incense | 品香 | pin xiang | The deliberate act of appreciating a scent |
+| Incense gathering | 香会 / 香席 | xiang hui / xiang xi | A seated session for appreciating incense together |
+| Fumigating | 熏香 | xun xiang | Scenting cloth or a room with rising smoke |
+| Incense culture | 香文化 | xiang wenhua | The whole cultural tradition around 香 |
+| Incense affairs | 香事 | xiang shi | The ritual and practice of incense in daily life |
+| Hainan | 海南 | hainan | A storied agarwood-producing island region |
+| Hoi An | 惠安 | hui an | A port name tied to a classic agarwood origin |
+| Nha Trang | 芽庄 | ya zhuang | A Vietnamese origin name in the agarwood trade |
+| Mysore | 迈索尔 | maisuoer | The classic Indian sandalwood origin |
+
+The card's value is that these terms appear on real products and in real writing, and they read as opaque until the character is matched to a meaning. Once matched, "Hainan" stops being a foreign sound and becomes a claim about where a wood grew — a claim, like any origin, that should be verified rather than trusted from the label alone.
+
+## The Origin-Name Chain: Why a Place Becomes a Grade
+
+**Direct answer:** An origin name like Hainan or Mysore is not just geography — it is a compressed reputation, and the chain from region to grade is why such names get counterfeited.
+
+The chain: a region's climate and soil produce a distinctive aroma → buyers learn to prefer that region's character → the region name becomes a shorthand for that character and its price → the shorthand then gets borrowed by sellers of wood from other regions → the name now means more (and less) than the place it names. That double edge is the whole reason origin claims need documentation: the name encodes real information, but it also invites fake claims, and the buyer's defense is the scent and the paperwork, not the word printed on the box. [need-source for specific origin-to-grade equivalences]
+
+*The author's view, not a verified fact.*
+
+## The Supporting Roster: Materials Beyond the Headline Woods
+
+**Direct answer:** The classical repertoire was never only agarwood and sandalwood — the manuals also call for a supporting cast of resins, animal aromatics, and herbs, each with a Chinese name, that did the rounding and fixing work in a 合香 blend.
+
+| Material | Chinese | Pinyin | Role in a blend |
+|---|---|---|---|
+| Benzoin | 安息香 | anxi xiang | Sweet, vanilla-like fixative |
+| Storax | 苏合香 | suhe xiang | Warm balsamic fixative |
+| Ambergris | 龙涎香 | longxian xiang | Rare, animalic fixative |
+| Musk | 麝香 | shexiang | Deep, animalic anchor |
+| Spikenard | 甘松 | gansong | Earthy, herbal middle note |
+| Costus | 木香 | muxiang | Woody, slightly animalic body |
+| Angelica root | 白芷 | baizhi | Herbal, aromatic corrector |
+| Patchouli | 广藿香 | guanghuoxiang | Earthy, dark base note |
+
+The roster matters because it corrects the "all woods and resins" simplification. The headline materials carried the signature, but these supporting materials carried the structure — the fixatives that held the scent, the correctors that rounded the edges, the anchors that grounded the blend. A reader who meets 安息香 or 甘松 in a formula now recognizes a supporting role rather than a mystery ingredient, and that recognition is what separates reading a recipe from reading a list of foreign words.
+
+## The Fixative Chain: Why a Blend Needs Something Heavy at the Bottom
+
+**Direct answer:** A 合香 blend is built on a contrast between its light notes and its fixatives, and the fixatives — benzoin, storax, musk — are the heavy materials that stop the scent from vanishing, which is why they anchor the bottom of the formula.
+
+The chain: a blend's light notes are volatile and flee first → without anything heavy, the scent flashes and dies → a fixative like benzoin or storax evaporates slowly and holds the floor → the light notes ride on top of the fixative's steady presence → the blend reads as a full arc rather than a quick flash. The fixative is the ballast, and a blend without one is top-heavy — all lift and no staying power. That is why the manuals put the heavy, slow materials at the 使 (guide) end of the formula, and why a buyer who smells a blend that fades fast should suspect the fixative share, not the top note.
+
+*The author's view, not a verified fact.*
+
+## The Form-and-Holder Vocabulary
+
+**Direct answer:** The formats and their holders each carry a Chinese name, and matching a name to its object is the last piece of the vocabulary a buyer needs to read a shelf or a manual.
+
+| Object | Chinese | Pinyin | What it is |
+|---|---|---|---|
+| Incense pellets | 香丸 | xiang wan | Rolled balls of blended paste, warmed or burned |
+| Incense cakes | 香饼 | xiang bing | Pressed discs of compound material |
+| Incense powder | 香粉 | xiang fen | Ground material for seal incense or blending |
+| Incense chips | 香片 | xiang pian | Thin slices of wood or resin for warming |
+| Tower (cone) incense | 塔香 | ta xiang | Cone-shaped form that burns in minutes |
+| Backflow incense | 倒流香 | daoliu xiang | A cone built to pour smoke downward |
+| Sachet | 香囊 | xiang nang | A cloth pouch of aromatics for scenting |
+| Stick holder | 香插 | xiang cha | A small stand for a single stick |
+
+The value is the same as the earlier card: once a name is matched to an object, the label stops being a list of foreign syllables and becomes a description you can act on. 香丸 tells you pellets to warm, 香插 tells you a holder, and 倒流香 tells you to expect smoke that falls rather than rises. Read the name, and you have already read the format.
+
+## The Backflow Chain: Why Some Cones Pour Smoke Downward
+
+**Direct answer:** A backflow cone (倒流香) looks like a gimmick but it is a simple piece of physics — the smoke is cooled and made denser than air, so it sinks instead of rising — and the shape of the cone is what directs that cooled smoke into a downward stream.
+
+The chain: the cone burns and produces warm smoke → the smoke passes through a hollow channel bored down the cone's center → the channel cools the smoke as it travels → cooled smoke is denser than the surrounding air → it sinks, pouring out the bottom of the cone like a slow waterfall → the effect is a visible downward stream instead of the usual rising plume. There is no special fuel and no magic — just a hollow channel and the fact that cooled smoke falls. A buyer who understands the mechanism reads 倒流香 as a display object, chosen for the visual effect rather than for any difference in scent, and sets it on a surface where the falling smoke can pool and flow without being disturbed. [traditional belief for any symbolic claims attached to backflow incense]
+
+## The Note Vocabulary: Two Ways to Name the Same Arc
+
+**Direct answer:** The head-body-tail arc this page has been describing has a second, overlapping Chinese vocabulary — 前调, 中调, 后调 — and knowing both lets a reader recognize the same structure under either set of names.
+
+| Stage | Classical incense term | Perfumery term | Pinyin | What it names |
+|---|---|---|---|---|
+| Opening | 头香 | 前调 | qian diao | The first, light, fast-fleeing impression |
+| Heart | 本香 | 中调 | zhong diao | The sustained middle character |
+| Dry-down | 尾香 | 后调 | hou diao | The deep, lingering finish |
+
+The two vocabularies describe the same physical arc — light notes first, heavy notes last — through different names, and they meet at the same fact. A buyer who knows both can read a Chinese description that uses 前调 or 后调 and place it on the arc this page has already walked. The terminology is a reminder that the structure is real, not a convention: whatever you call it, the light fraction arrives before the heavy one, and the scent changes because the material does, not because the label says it will.
+
+## The Staying-Power Chain: Why 留香 Is a Separate Quality
+
+**Direct answer:** How long a scent lingers after the burn (留香, liu xiang) is a separate quality from how strong it smells, because staying power comes from the fixative share, not from the loudness of the top note.
+
+The chain: a material's heavy, slow-evaporating compounds are the ones that stay → a blend with a large fixative share holds its scent in the room long after the burn → a blend that is all bright top note flashes and is gone → so a scent can be loud at first and still vanish fast, or quiet at first and still linger → 留香 is the measure of that staying power, and it tracks the heavy base, not the bright opening. A buyer who wants a room that stays scented should read for the fixative and the base note, not for the loudest first whiff.
+
+*The author's view, not a verified fact.*
+
 ## Sources
 
-- 吴自牧《梦粱录》, "烧香点茶，挂画插花，四般闲事，不宜累家" — primary textual source for the Four Leisure Arts. [Full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄).
-- 洪刍《香谱》 — Song-dynasty incense manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
-- 周嘉胄《香乘》(Ming) — the comprehensive incense compendium. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
-- 李时珍《本草纲目》 — historical materia-medica record for aromatic materials (traditional, not clinical). [Chinese Text Project](https://ctext.org/wiki.pl?if=gb&res=8).
-- American Lung Association — [indoor-air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) (combustion/particulate guidance).
-- 光明日报 (Guangming Daily), Song-dynasty 香文化 features — secondary source on Song incense culture.
-- Oracle-bone inscriptions — earliest written attestation of 香 (Shang dynasty).
+- 吴自牧《梦粱录》, "烧香点茶，挂画插花，四般闲事，不宜累家" — the primary text naming the Four Leisure Arts. [Full text on Wikisource](https://zh.wikisource.org/wiki/夢粱錄).
+- 洪刍《香谱》 — a Song-dynasty incense manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
+- 周嘉胄《香乘》(Ming) — the wide-ranging incense compendium. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 李时珍《本草纲目》 — a historical materia-medica record of aromatic materials, traditional rather than clinical. [Chinese Text Project](https://ctext.org/wiki.pl?if=gb&res=8).
+- American Lung Association — [indoor-air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) (guidance on combustion and particulate).
+- 光明日报 (Guangming Daily), features on Song-dynasty 香文化 — a secondary source on Song incense culture.
+- Oracle-bone inscriptions — the earliest written attestation of 香, from the Shang dynasty.
 - Research synthesis: docs/research/chinese-incense-pillar-notes.md (R-003).
 
 ---
@@ -1434,4 +1583,4 @@ Because the materials need time to fuse. Freshly mixed materials sit as separate
 - [Sandalwood Incense Guide](/blog/sandalwood-incense/)
 - [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/)
 
-**Natural next step:** curious about where it all started? Read the [history of Chinese incense culture](/blog/history-of-chinese-incense/), or explore individual ingredients like [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).
+**Natural next step:** want to know where it began? Read the [history of Chinese incense culture](/blog/history-of-chinese-incense/), or follow individual ingredients such as [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).

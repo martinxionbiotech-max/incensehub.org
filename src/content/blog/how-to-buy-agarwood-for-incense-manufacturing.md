@@ -12,9 +12,19 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Buying agarwood to put into a product is a specification exercise, not a shopping trip. Write down species, origin, wild-vs-cultivated status, resin content, grade, moisture, and processing state for every lot, then prove those claims on a sample you pulled yourself before committing to volume. Price and minimum order come last, and both are settled per inquiry, never from a list.
+**Direct answer:** Buying agarwood to feed into a product is a specification exercise, not a shopping trip. Write down species, origin, wild-vs-cultivated status, resin content, grade, moisture, and processing state for every lot, then prove those claims on a sample you pulled yourself before committing to volume. Price and minimum order come last, and both are settled per inquiry, never from a list.
 
 **Key facts:** This checklist is for buyers feeding agarwood into sticks, cones, blends, or loose chips — not for collectors chasing one trophy piece. It walks the specification dimensions in the order a real decision follows them, and it publishes no minimums, prices, or capacities, because those vary by supplier and must be verified directly.
+
+---
+
+## Key Takeaways
+
+- Agarwood is **not a commodity** — the same label spans a price curve measured in orders of magnitude, so the specification is the purchase.
+- Pin down **species, origin, cultivated vs wild, resin content, grade, moisture, and processing** before discussing price.
+- **Price and MOQ are confirmed per inquiry** — there is no honest universal number.
+- **Verify on a sample you pull yourself** — a sample confirms the product, not the supplier's ability to reproduce it at volume.
+- The deepest risk is **adulteration**, which is why authentication checks come before, not after, negotiation.
 
 ---
 
@@ -107,6 +117,18 @@ The boundary worth stating plainly: a sample cannot tell you about batch-to-batc
 
 ---
 
+## Packaging, Storage, and Shipping: Protecting the Specification
+
+**Direct answer:** After the material is verified, the specification must survive transit and storage: moisture protection, aroma sealing, and controlled storage conditions. Packaging, storage, and shipping terms are agreed per order, alongside the documents that support legal movement of the material.
+
+The specification you approve at the factory is only worth something if it arrives intact. Three considerations:
+
+- **Packaging** — agarwood chips and powder need sealing against air and moisture, because botanical material loses scent and absorbs humidity in transit. Bulk versus retail presentation is a separate, per-order decision.
+- **Storage** — controlled humidity and sealed containment protect both the aroma and the moisture specification; storage guidance is in the [storage & longevity guide](/blog/incense-storage-longevity/).
+- **Shipping** — Incoterms define who bears cost and risk at each point, and for agarwood from CITES-listed species, the permits and documentation must be in order before the shipment moves. The mechanics are in the [packaging & shipping guide](/blog/packaging-shipping-guide/).
+
+---
+
 ## Price, Minimum Order, and Paper: The On-Request Layer
 
 **Direct answer:** Minimum order quantity and price are confirmed per inquiry, because both depend on grade, quantity, form, and destination — no honest supplier publishes a universal number, and one who quotes without asking your specification is guessing.
@@ -150,6 +172,8 @@ The chain is the biology behind every grade: a wild *Aquilaria* tree suffers a w
 
 For a manufacturer the chain matters because it explains the whole price spread and the whole quality axis at once. Resin is the payload — the aroma and the burn — so "more resin" is not a marketing word, it is a density statement, and density is what you are actually buying per gram.
 
+---
+
 ## A Table: Match the Grade to the Product, Not the Prestige
 
 **Direct answer:** A manufacturer does not buy "the best agarwood" — a manufacturer buys the grade that a given product can actually carry, and the table maps the tiers to the jobs.
@@ -163,6 +187,8 @@ For a manufacturer the chain matters because it explains the whole price spread 
 
 The table corrects the prestige reflex. A sinking-grade chip is wasted ground into a mass-market cone, because its cost adds nothing the cone's price can carry; a floating grade cannot hold up a premium stick whose whole promise is depth. The sourcing question is not "what is your best piece" but "what grade can you deliver repeatably at the cost my product can bear" — and the two are rarely the same row.
 
+---
+
 ## What Happens When the Chips Become Powder
 
 **Direct answer:** Converting chips to powder is not just size reduction — it changes how the material burns, blends, and keeps, and the particle size you specify decides the stick you can make.
@@ -170,6 +196,8 @@ The table corrects the prestige reflex. A sinking-grade chip is wasted ground in
 The chain: whole chips are loaded and irregular → grinding reduces them to particles → the particle size distribution sets how tightly the powder packs in a stick or cone → a uniform fine grind packs evenly and burns at a steady rate → a coarse or uneven grind leaves voids that make the ember sputter and jump → the binder then has to compensate for whatever the grind did not. In other words, particle size is a burn-quality lever before the binder ever enters the formula. A fine, consistent powder gives a smooth, even ember; a ragged grind gives a stick that flares and stalls.
 
 The same property matters in storage: fine powder has far more exposed surface than chips, so it oxidizes and loses volatiles faster, and it clumps if any moisture is present. Specify the particle size for the product you are making, and treat powder as a shorter-shelf-life form than chips — the grind is a decision, not a default.
+
+---
 
 ## The Moisture Loop That Spoils a Lot in Storage
 
@@ -179,6 +207,8 @@ The chain: the wood arrives carrying more moisture than the spec stated → in a
 
 For a buyer the fix is procedural, not chemical. State the moisture target in the specification, confirm it on arrival with a quick weight-and-dry check rather than trusting the paperwork, and store the material in a stable, moderate environment sealed against both humidity and furnace-dry air. Moisture is not a footnote in the spec; it is a spoilage vector that starts the moment the lot lands.
 
+---
+
 ## "Wilder and Older Is Better" Is a Collector's Rule, Not a Buyer's
 
 **Direct answer:** The instinct that older, wilder agarwood is automatically the right purchase is a collector's instinct — and it actively works against a manufacturer who must reorder the same smell month after month.
@@ -187,13 +217,7 @@ The misconception to correct is that scarcity equals suitability. Wild, old-grow
 
 For the buyer, the meaning is to lead with the specification and the volume, not the romance of age. Ask for species, origin, grade, and repeatability in the same breath — a supplier who can state those is worth more than one who can only offer "rare, ancient, wild" adjectives, because the adjectives describe a story and the specification describes a supply.
 
-## The Five-Color Hierarchy, and Why It Is Not a Price Tag
-
-**Direct answer:** Beyond the density test, Chinese trade describes agarwood by a color ladder, and the colors are a rough map of resin character — but a color grade is a descriptor, not a certified price, and a buyer reads it as such.
-
-The chain runs from the tree's chemistry to the market's shorthand: the resin that saturates the heartwood carries different compounds depending on the species and the wound → those compounds darken the wood to different shades as they oxidize → the trade sorts the result into a color order, from pale through green and yellow to the deepest black → the darker grades are held to be the most resin-transformed and command the highest ask → but the same color name can point to different species and origins, so the ladder is a family resemblance, not a measurement. Treat the color grade as a clue to where a lot sits in the quality spread, and always pin it to species and origin before it means anything.
-
-The table below carries the same caution as the density test: a color name, like a sink test, is a screening signal, and it can be faked — dyed wood is the cheapest counterfeit precisely because color is the easiest visual to imitate.
+---
 
 ## A Table: Red Flags on an Agarwood Quote
 
@@ -209,6 +233,8 @@ The table below carries the same caution as the density test: a color name, like
 
 The table is the specification discipline in negative form: every red flag is a skipped specification dimension. A supplier who answers species, origin, grade, form, moisture, and documentation without being asked has already passed the first screen; one who dodges any of them is telling you where the risk lives.
 
+---
+
 ## Why Oil Injection Beats the Sink Test
 
 **Direct answer:** The oldest quality check — drop the wood in water and see if it sinks — is defeated by a specific counterfeit, and understanding the trick is the difference between screening and trusting.
@@ -217,33 +243,7 @@ The chain: genuine agarwood sinks because its resin has displaced the wood's air
 
 That is why density is a screening signal, never proof, and why the burn and the gentle-heat aroma are the checks that still hold: an injected fake gives off black smoke, a flat or "burnt" smell, and an oily residue, where genuine resinous wood gives white smoke with oil seepage and a complex, evolving aroma. The sink test tells you density; the burn tells you what that density is made of.
 
-## The Historical Trade Routes That Still Shape the Market
-
-**Direct answer:** The agarwood market still carries the geography of its old trade routes — Hainan and Vietnam as the aromatic benchmarks, the Southeast Asian ports as volume sources — and a buyer who knows those routes can read a supplier's origin claim more skeptically.
-
-The chain is historical but it lands on a modern quote: agarwood formed in several regions → each region developed a distinct market reputation over centuries of trade → Hainan and Vietnamese material became the aromatic reference points that Chinese connoisseurs prized → the name of a region therefore carries an implied grade, not just a place → suppliers lean on that implication when a lesser origin might fetch a higher price under a famous name. The route names are a shorthand for quality, and shorthand is exactly where a mislabeled lot hides.
-
-For a sourcing decision the lesson is to treat origin as a claim to verify, not a guarantee to accept. Ask for the region, then ask what backs it — a documented supply chain, a recognized grower, a paper trail. A famous origin name with no supporting documents is the single most common way an ordinary lot is dressed up.
-
-## A Table: Where the Species Actually Grow
-
-**Direct answer:** The two commercial species overlap on the map but not in reputation, and the table lays out which region feeds which name.
-
-| Species | Traditional range | Market reputation | Trade status |
-|---|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce | CITES-listed |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam, Laos, Cambodia, Malaysia, Indonesia) | Main commercial volume source | CITES-listed |
-| Other *Aquilaria* spp. | Scattered across South and Southeast Asia | Variable, often sold under a broad name | Many CITES-listed |
-
-The table corrects a lazy assumption: "agarwood" is not one place. The Chinese species is the historical prestige name and now scarce; the Southeast Asian species is where the commercial volume comes from. When a supplier says only "agarwood," the first useful question is which column of this table the lot actually sits in.
-
-## Why a Supplier's Paper Trail Matters More Than Their Adjectives
-
-**Direct answer:** Descriptive praise — "wild, ancient, top-grade" — costs a seller nothing, while a document trail costs them work, which is exactly why the documents are the more honest signal.
-
-The chain is about incentives: a claim that costs nothing to make is made freely → adjectives like "ancient" and "wild" are free and unverifiable → a document (species, origin, grade, CITES permit) costs real effort to produce and can be checked against an authority → a seller who can produce it is demonstrating a supply chain, not just a vocabulary → the buyer should therefore weight the paper far above the praise. The adjectives describe a story; the documents describe a supply.
-
-That is the whole difference between shopping and sourcing. A collector can afford to chase a story; a manufacturer feeding a product line cannot, because the product must be reorderable and defensible, and neither of those survives on adjectives alone.
+---
 
 ## The Sensory Screen, Done Properly
 
@@ -252,6 +252,8 @@ That is the whole difference between shopping and sourcing. A collector can affo
 The sequence is the same three checks a careful trade buyer runs, in order: warm a small piece on low, indirect heat → smell for a complex, evolving, sweet aroma rather than a flat or "burnt" note → watch the smoke for white with oil seepage rather than black → note the residue and the feel of the wood. These are traditional heuristics, not laboratory standards, and they are the practical first pass that decides whether a lot is worth a lab test at all. The point is not to certify the lot by nose — it is to catch the obvious fakes cheaply, before spending on analysis.
 
 The boundary to keep in mind: the sensory screen is a filter, not a verdict. It catches the blatant counterfeit and flags the promising lot; only laboratory identification of species and resin actually settles the question for a high-value purchase.
+
+---
 
 ## The Documentation Set a Serious Lot Travels With
 
@@ -267,6 +269,8 @@ The boundary to keep in mind: the sensory screen is a filter, not a verdict. It 
 
 The table's lesson is that no single paper covers everything, which is why the serious buyer asks for the set and then checks each against its issuer. A certificate is a claim that can be verified or contradicted; a pile of paper is not proof, it is a set of claims waiting to be checked.
 
+---
+
 ## Instrumental Checks vs the Nose
 
 **Direct answer:** The traditional sensory screen and the laboratory instrument answer different questions — the nose judges aroma, the instrument identifies species and quantifies resin — and a careful buyer uses both, in the right order.
@@ -275,13 +279,7 @@ The chain: the sensory screen is cheap and fast → it catches blatant fakes (bl
 
 This is the honest division of labor: trust the nose for the first pass, and send the lot to the lab when the price, the volume, or the stakes make a definitive answer worth paying for.
 
-## The Import and Customs Layer
-
-**Direct answer:** Agarwood crossing a border travels under commodity codes, permits, and inspection rules, and the customs layer is where a good deal can quietly become a delayed or seized shipment.
-
-The chain: a buyer and supplier agree terms → the shipment is classified under an international harmonized commodity code → the code, plus the CITES status of the species, triggers permits and inspections → missing paperwork stalls the goods at the port → a stalled or seized shipment is a loss even when the wood itself is genuine. The customs layer is not a detail after the fact; it is a cost and a risk that should be settled before the order is placed.
-
-For the manufacturer, the practical move is to confirm classification, permits, and the destination country's import rules at quotation time, not at the dock. A supplier who has shipped to your region before is worth more than a cheaper quote from one who has not.
+---
 
 ## Why Wild Harvest Keeps Shrinking
 
@@ -291,6 +289,8 @@ The chain: wild *Aquilaria* grows in forests that are being cleared → the tree
 
 For the buyer, the chain explains why "wild" is not automatically a better purchase — it is scarcer, more regulated, and more likely to be counterfeited precisely because of its value. A documented cultivated lot is often the more rational commercial choice.
 
+---
+
 ## The Chemistry Inside the Resin
 
 **Direct answer:** Agarwood's fragrance is not one molecule but a library of sesquiterpenes and chromone compounds, and naming them is the difference between "nice wood" and a specification you can actually compare.
@@ -298,6 +298,8 @@ For the buyer, the chain explains why "wild" is not automatically a better purch
 The chain: the resin-saturated heartwood accumulates sesquiterpene compounds — agarospirol, jinkohol, kusunol, and related jinkoh-family molecules → these heavier, oxygenated compounds give agarwood its warm, woody, slightly sweet-and-bitter signature → alongside them sit 2-(2-phenylethyl)chromone derivatives, a structural family chemists use to fingerprint agarwood and tell it from substitutes → the presence and ratio of these compounds is what a laboratory actually measures when it verifies a lot. The aroma is the surface of this chemistry, and the chemistry is what a buyer's money ultimately purchases.
 
 This is descriptive chemistry, not a health claim. The compounds are named to explain identity and aroma; nothing here asserts any effect on the body.
+
+---
 
 ## A Table of Documented Agarwood Constituents
 
@@ -312,19 +314,7 @@ This is descriptive chemistry, not a health claim. The compounds are named to ex
 
 These names matter to a manufacturer because a laboratory identity test measures exactly this chemistry — the chromone fingerprint is one of the tools used to separate genuine agarwood from treated or substituted wood. The table is descriptive; it makes no claim about effect.
 
-## The Five-Color Qinan Ladder
-
-**Direct answer:** Chinese trade sorts the top 奇楠 grade into five traditional color classes, and the ladder is descriptive terminology, not a verified scientific taxonomy.
-
-| Grade | Chinese | Traditional description |
-|---|---|---|
-| Black qinan | 黑奇楠 | Darkest, resin-dense, most prized |
-| Green qinan | 绿奇楠 | Green-black, sweet, lively |
-| Yellow qinan | 黄奇楠 | Golden, softer, lighter |
-| Purple qinan | 紫奇楠 | Purple-black, rare |
-| White qinan | 白奇楠 | Pale, delicate, subtle |
-
-The color ladder is traditional trade vocabulary — a way of ranking the qinan class, not a settled scientific classification, and the same caution applies as with the density test: a color name is a screening signal, and color can be imitated. Pin any color grade to species, origin, and documentation before it means anything.
+---
 
 ## A Glossary of the Trade's Own Words
 
@@ -342,35 +332,7 @@ The color ladder is traditional trade vocabulary — a way of ranking the qinan 
 
 The shorthand is the lingua franca of the agarwood trade, and the buyer who enters the conversation without it is negotiating blind. These are trade terms, not a guarantee — each one still needs a species, an origin, and a document behind it.
 
-## The Species Table, Expanded
-
-**Direct answer:** The agarwood trade runs on a small number of *Aquilaria* species, and the table lists the main ones with their traditional range and trade standing, so a buyer can read an origin claim against a known map.
-
-| Species | Traditional range | Trade standing |
-|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam to Indonesia) | Main commercial volume source |
-| *Aquilaria crassna* | Indochina (Vietnam, Laos, Cambodia, Thailand) | Highly regarded, premium |
-| *Aquilaria agallocha* | India, Bangladesh | Traditional Indian material |
-| *Aquilaria microcarpa* | Malaysia, Indonesia | Volume source, variable grade |
-| *Aquilaria filaria* | Philippines, Papua, Indonesia | Lower-grade volume |
-
-The table is a map, not a guarantee. The same species can yield very different grades depending on how much resin the tree formed, and a label that names only "agarwood" leaves the whole table unspecified. A buyer who can place an origin against this list is already ahead of the vague quote.
-
-## A Glossary of the Authentication Words
-
-**Direct answer:** Authentication has its own vocabulary — burn test, water test, chromone fingerprint, oil seepage — and the table glosses each so the checks are legible.
-
-| Term | What it is |
-|---|---|
-| Water test | Drop the wood in water; density sorts the grade |
-| Burn test | Burn a sliver; smoke color and smell screen for fakes |
-| Oil seepage | Genuine resinous wood beads oil under heat |
-| Chromone fingerprint | Laboratory check for 2-(2-phenylethyl)chromones |
-| Density | Mass per volume, the proxy for resin content |
-| Adulteration | Tampering — dyeing, oil injection, fragrance soak |
-
-The glossary is the screening toolkit named. Each term is a traditional or laboratory heuristic, and none of them is proof on its own — the water test is defeated by oil injection, the burn test is directional, and only the laboratory fingerprint settles identity. A buyer who knows the words knows which check proves what.
+---
 
 ## The Specification, Read as a Chain of Consequences
 
@@ -380,500 +342,54 @@ The chain: the species sets the aroma and the legal status → the grade sets th
 
 That is why the disciplined buyer writes the whole specification before discussing price, and why a supplier who quotes before seeing the spec is guessing. The chain runs one way — species down to moisture — and skipping a link breaks the whole decision.
 
-## A Table: The Specification Chain, One Glance
+---
 
-**Direct answer:** The table lays out the specification dimensions in the order a real decision follows them, so the chain is visible at a glance.
+## The Author's Take
 
-| Dimension | What it sets | What it feeds into |
-|---|---|---|
-| Species | Aroma, legal status | Everything below it |
-| Origin | Reputation, permits | The quote's credibility |
-| Wild vs cultivated | Cost, renewability | Documentation |
-| Grade (density) | Aroma intensity, price | The product it can carry |
-| Form (chips/powder) | Processing path | Particle size, shelf life |
-| Particle size | Burn evenness | The binder's job |
-| Moisture | Storage, mold risk | The burn and the shelf |
+**Position:** For agarwood, the specification is the purchase — and a buyer who starts by asking the price has skipped the entire decision.
 
-The table is the spec as a flow, top to bottom. Read it and the order of a sourcing conversation becomes obvious: species and origin first, price last — and every line in between earns its place by feeding the next one down.
+**Reasoning:**
 
-## The Species Table, Read as a Map
+- The same word "agarwood" spans a price range measured in orders of magnitude, so a price without a specification is a number about nothing.
+- Adulteration concentrates exactly where the price looks best, so the buyer who negotiates before authenticating is negotiating against a fake.
+- A manufacturer needs a reorderable grade, not a trophy piece; consistency and documentation beat a one-off bargain.
 
-**Direct answer:** The agarwood trade runs on a small number of *Aquilaria* species, and the table lists the main ones with their traditional range and trade standing, so a buyer can read an origin claim against a known map.
+**Disclosure:** This is the author's editorial view and experience, not a verified fact. IncenseHub supplies Chinese botanical incense materials, and this framing explains how a buyer should approach agarwood sourcing, not a claim about IncenseHub's own inventory or pricing.
 
-| Species | Traditional range | Trade standing |
-|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam to Indonesia) | Main commercial volume source |
-| *Aquilaria crassna* | Indochina (Vietnam, Laos, Cambodia, Thailand) | Highly regarded, premium |
-| *Aquilaria agallocha* | India, Bangladesh | Traditional Indian material |
-| *Aquilaria microcarpa* | Malaysia, Indonesia | Volume source, variable grade |
-| *Aquilaria filaria* | Philippines, Papua, Indonesia | Lower-grade volume |
+---
 
-The table is a map, not a guarantee. The same species can yield very different grades depending on how much resin the tree formed, and a label that names only "agarwood" leaves the whole table unspecified. A buyer who can place an origin against this list is already ahead of the vague quote.
+## Verification Notes
 
-## The Authentication Words, Named
-
-**Direct answer:** Authentication has its own vocabulary — burn test, water test, chromone fingerprint, oil seepage — and the table glosses each so the checks are legible.
-
-| Term | What it is |
-|---|---|
-| Water test | Drop the wood in water; density sorts the grade |
-| Burn test | Burn a sliver; smoke color and smell screen for fakes |
-| Oil seepage | Genuine resinous wood beads oil under heat |
-| Chromone fingerprint | Laboratory check for 2-(2-phenylethyl)chromones |
-| Density | Mass per volume, the proxy for resin content |
-| Adulteration | Tampering — dyeing, oil injection, fragrance soak |
-
-The glossary is the screening toolkit named. Each term is a traditional or laboratory heuristic, and none of them is proof on its own — the water test is defeated by oil injection, the burn test is directional, and only the laboratory fingerprint settles identity. A buyer who knows the words knows which check proves what.
-
-## The Paper Trail, Read as a Table
-
-**Direct answer:** The documents that travel with a serious agarwood lot each verify one specific claim, and the table lists them so a buyer knows what each piece of paper actually proves.
-
-| Document | What it verifies | What it cannot prove |
-|---|---|---|
-| Species & origin statement | Which tree, which region | That the statement is true |
-| Certificate of analysis | Resin content, moisture, particle size | Batch-to-batch consistency |
-| CITES permit | Legal standing for listed species | That the material matches the permit |
-| Phytosanitary certificate | The wood is pest-free | Species identity |
-| Certificate of origin | Where it shipped from | Where it was grown |
-
-The table's lesson is that no single paper covers everything, which is why the serious buyer asks for the set and checks each against its issuer. A certificate is a claim that can be verified or contradicted; a pile of paper is not proof, it is a set of claims waiting to be checked.
-
-## The Sensory Screen, Read as a Sequence
-
-**Direct answer:** Before any lab test, a buyer should screen a sample with their own senses, and the sequence — warm, smell, watch — is a fixed order for a reason.
-
-The chain: warm a small piece on low, indirect heat → smell for a complex, evolving, sweet aroma rather than a flat or "burnt" note → watch the smoke for white with oil seepage rather than black → note the residue and the feel of the wood. These are traditional heuristics, not laboratory standards, and they are the practical first pass that decides whether a lot is worth a lab test at all. The point is not to certify the lot by nose — it is to catch the obvious fakes cheaply, before spending on analysis.
-
-## A Glossary of the Classical Chinese Names
-
-**Direct answer:** The agarwood trade and the Chinese incense canon share a vocabulary, and the table glosses the names a sourcing buyer meets, so the shorthand is legible.
-
-| Chinese | Pinyin | Meaning |
-|---|---|---|
-| 沉香 | chénxiāng | Agarwood |
-| 奇楠 | qínán | Kyara-grade agarwood |
-| 白木香 | báimùxiāng | The un-resined host tree |
-| 沉水 | chénshuǐ | Sinking grade |
-| 半沉半浮 | bànchén bànfú | Half-sinking grade |
-| 浮水 | fúshuǐ | Floating grade |
-| 老料 | lǎoliào | Aged material |
-| 新料 | xīnliào | New material |
-| 打香 | dǎxiāng | Stamping / forming incense |
-| 合香 | héxiāng | Blended incense |
-| 檀香 | tánxiāng | Sandalwood |
-| 降真香 | jiàngzhēnxiāng | Dalbergia incense |
-| 龙涎 | lóngxián | Ambergris |
-| 麝香 | shèxiāng | Musk |
-| 安息香 | ānxīxiāng | Benzoin |
-| 乳香 | rǔxiāng | Frankincense |
-| 没药 | mòyào | Myrrh |
-| 藿香 | huòxiāng | Patchouli |
-| 甘松 | gānsōng | Spikenard |
-| 艾草 | àicǎo | Mugwort |
-
-The glossary is the lingua franca of the trade. Once the names are glossed, the sourcing conversation stops being a wall of characters and reads as a working vocabulary of grades and materials — and a buyer who can read 沉水 and 半沉半浮 reads the quote before the price is ever named.
-
-## The Material Families, Read as a Table
-
-**Direct answer:** The ingredients an incense manufacturer draws on fall into a few families — woods, resins, barks, roots, seeds — and the table sorts the main ones so the sourcing map is visible.
-
-| Family | Examples | Role in a blend |
-|---|---|---|
-| Woods | Agarwood, sandalwood | The aromatic core |
-| Resins | Frankincense, myrrh, benzoin | The depth and fixative |
-| Barks | Cassia | The spice note |
-| Roots | Spikenard, vetiver | The earthy base |
-| Seeds | Clove, cardamom | The accent |
-
-The table is the manufacturer's ingredient map. Agarwood is a wood — one family among five — and a stick or cone is a composition drawn from several of these families at once. Understanding that structure is what connects the single ingredient this page covers to the full blend it will feed.
-
-## The Sourcing Checklist, Read as a Table
-
-**Direct answer:** Before a single quote is discussed, a short checklist settles most of the sourcing decision, and the table lays it out in the order a real buyer follows it.
-
-| Step | What it settles |
-|---|---|
-| Specify the species | Aroma and legal status |
-| Pin the origin | Reputation and permits |
-| Declare wild vs cultivated | Cost and renewability |
-| Fix the grade | Density, price, and product fit |
-| Choose the form | Chips or powder, processing path |
-| Set particle size and moisture | Burn and storage behavior |
-| Request the documents | Species, origin, CITES |
-
-The checklist is the discipline compressed. Each row feeds the next, and the order matters — species before price, documents before handshake. A buyer who runs the list top to bottom has done the work that a vague quote skips.
-
-## The Quote, Read as a Red-Flag Table
-
-**Direct answer:** Most sourcing failures announce themselves in the quote before a sample ships, and the table lists the signs that should stop a buyer.
-
-| The quote says | Why it should stop you |
-|---|---|
-| "Agarwood" with no species, origin, or grade | The name alone specifies nothing |
-| A price without a specification | A number about nothing |
-| "100% natural, wild, ancient" with no documents | Adjectives, not a supply |
-| No sample policy, or hand-picked only | Consistency is unverifiable |
-| Vague on CITES for listed species | Trade legality is not optional |
-
-The table is the negative checklist. Every red flag is a skipped specification dimension, and a supplier who answers species, origin, grade, form, and documentation without being asked has already passed the first screen.
-
-## The Harvest Layer, Read as a Table
-
-**Direct answer:** Agarwood reaches the market through two routes — wild and cultivated — and the table maps the practical differences so the sourcing choice is legible.
-
-| Dimension | Wild | Cultivated |
-|---|---|---|
-| How resin forms | Natural wound or infection | Deliberate inoculation |
-| Renewability | Slow, depleting | Renewable, repeatable |
-| Cost | High | Lower |
-| Documentation | CITES permits likely | Simpler, but still declared |
-| Consistency | Variable | Repeatable, batch to batch |
-
-The table is the wild-vs-cultivated choice made explicit. Neither is universally "better" — wild material can be more resin-dense, while cultivated material is the renewable, reorderable mainstream — and the right call follows the product: a repeatable line wants cultivated, a one-off premium wants wild.
-
-## The Buyer's Timeline, Read as a Table
-
-**Direct answer:** A sourcing engagement has a natural sequence — specify, vet, sample, negotiate, trial, inspect — and the table lays out the order a disciplined buyer follows.
-
-| Phase | What happens | What it proves |
-|---|---|---|
-| Specify | Write species, origin, grade, form | The purchase is defined |
-| Vet | Check supplier identity and references | The supplier is real |
-| Sample | Pull and authenticate a sample | The product matches the spec |
-| Negotiate | Confirm MOQ, price, shipping | The terms are settled |
-| Trial order | Verify the supplier can reproduce at volume | Consistency holds |
-| Inspect | Pre-shipment check against the reference | The lot is as specified |
-
-The timeline is the sourcing discipline compressed. The phases run in order because each depends on the last — you cannot trial before you sample, and you cannot negotiate before you specify. A buyer who runs the sequence end to end has done the work that separates sourcing from shopping.
-
-## The Storage Layer, Read as a Table
-
-**Direct answer:** Agarwood degrades in storage through two paths — too wet or too dry — and the table maps both so a buyer keeps a lot in good order.
-
-| Condition | What happens | The fix |
-|---|---|---|
-| Too wet | Mold, tainted aroma | Confirm moisture, store sealed and dry |
-| Too dry | Brittle wood, fast-burning | Store in a stable, moderate environment |
-| Air exposure | Oxidation, volatile loss | Airtight, dark, cool |
-| Powder, stored long | Faster volatile loss | Grind close to use, or buy chips |
-
-The table is storage as a discipline. The material arrived good; it degrades only if water moves through it unevenly or air reaches it. The fix is the same family of habits as for any aromatic — seal, dark, moderate — and the moisture line in the spec is the buyer's first defense against the whole table.
-
-## The Supplier Layer, Read as a Table
-
-**Direct answer:** The supplier is as much a specification as the wood, and the table maps what to check about the seller before the material.
-
-| What to check | Why it matters |
-|---|---|
-| Identity | A real, traceable company |
-| References | Past buyers vouch for delivery |
-| Documentation habit | Species, origin, permits, on request |
-| Sample policy | Can you pull your own sample |
-| Regional experience | Has shipped to your destination |
-
-The table is the supplier read as a specification. A seller who answers species, origin, grade, and documentation without being asked has passed the first screen; one who dodges any of them is telling you where the risk lives. The wood and the supplier are two halves of the same purchase, and a buyer vets both.
-
-## The Grade Ladder, Read as a Table
-
-**Direct answer:** Agarwood is graded by density, and the table maps the tiers so a buyer can read a grade name against a known scale.
-
-| Grade | Chinese | Density signal | Where it belongs |
-|---|---|---|---|
-| Floating | 浮水 | Floats on water | Base filler in sticks |
-| Half-sinking | 半沉半浮 | Half-floats | Everyday sticks |
-| Sinking | 沉水 | Sinks fully | Premium sticks, chip resale |
-| Qinan | 奇楠 | Soft, oil-rich | Collector chips |
-
-The table is the grade ladder made explicit. Each tier has a density signal and a product fit, and the sourcing question is not "what is your best piece" but "what grade can you deliver repeatably at the cost my product can bear." The prestige reflex — buy the highest grade — is a collector's instinct, not a manufacturer's.
-
-## The Form Layer, Read as a Table
-
-**Direct answer:** The same resin wood behaves differently as whole pieces, chips, or powder, and the table maps the forms so a buyer picks the one the product needs.
-
-| Form | What it suits | Watch for |
-|---|---|---|
-| Whole pieces | Warming, resale | Size and integrity |
-| Chips | Grinding in-house, control | Freshness |
-| Powder | Direct blending into sticks | Particle size, moisture |
-
-The table is the form choice made explicit. Chips keep longer and let you set the grind; powder exposes more surface and oxidizes faster. The form is not a default — it is a decision that flows into how the material burns, blends, and stores.
-
-## The Adulteration Layer, Read as a Table
-
-**Direct answer:** Agarwood is faked in a few documented ways, and the table maps the fakes so a buyer knows what to screen for.
-
-| Fake | How it is done | The tell |
-|---|---|---|
-| Dyed white wood | Non-resinous wood darkened | Black smoke, flat smell |
-| Fragrance-soaked wood | Unrelated wood treated with scent | One-note "perfume" smell |
-| Oil-injected wood | Low-grade wood pumped with oil | Passes the sink test, black smoke |
-
-The table is the adulteration map. Each fake has a tell, and the tell shows on the burn or the gentle-heat smell — where genuine resinous wood gives white smoke with oil seepage and a complex aroma, the fakes give black smoke and a flat or perfumey note. The density test alone is defeated by oil injection, which is why the burn and the smell are the checks that hold.
-
-## The Region Layer, Read as a Table
-
-**Direct answer:** Agarwood's origin names carry market reputations, and the table maps the main ones so a buyer can read an origin claim.
-
-| Region | Reputation |
-|---|---|
-| Hainan | Historical benchmark, now scarce |
-| Vietnam | Aromatic benchmark, premium |
-| Cambodia | Highly regarded |
-| Malaysia | Volume source, variable |
-| Indonesia | Volume source, variable |
-
-The table is the region read as reputation. A famous origin name carries an implied grade, and suppliers lean on that implication when a lesser origin might fetch a higher price under a famous name. The origin is a claim to verify with documents, not a guarantee to accept on its face.
-
-## The Species Map, Read as a Table
-
-**Direct answer:** The agarwood trade runs on a small number of *Aquilaria* species, and the table lists the main ones with their range and standing, so an origin claim can be read against a known map.
-
-| Species | Traditional range | Trade standing |
-|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam to Indonesia) | Main commercial volume source |
-| *Aquilaria crassna* | Indochina (Vietnam, Laos, Cambodia, Thailand) | Highly regarded, premium |
-| *Aquilaria agallocha* | India, Bangladesh | Traditional Indian material |
-| *Aquilaria microcarpa* | Malaysia, Indonesia | Volume source, variable grade |
-| *Aquilaria filaria* | Philippines, Papua, Indonesia | Lower-grade volume |
-
-The table is a map, not a guarantee. The same species can yield very different grades depending on how much resin the tree formed, and a label that names only "agarwood" leaves the whole table unspecified. A buyer who can place an origin against this list is already ahead of the vague quote.
-
-## The Grade Ladder, Read as a Table
-
-**Direct answer:** Agarwood is graded by density, and the table maps the tiers so a buyer can read a grade name against a known scale.
-
-| Grade | Chinese | Density signal | Where it belongs |
-|---|---|---|---|
-| Floating | 浮水 | Floats on water | Base filler in sticks |
-| Half-sinking | 半沉半浮 | Half-floats | Everyday sticks |
-| Sinking | 沉水 | Sinks fully | Premium sticks, chip resale |
-| Qinan | 奇楠 | Soft, oil-rich | Collector chips |
-
-The table is the grade ladder made explicit. Each tier has a density signal and a product fit, and the sourcing question is not "what is your best piece" but "what grade can you deliver repeatably at the cost my product can bear." The prestige reflex — buy the highest grade — is a collector's instinct, not a manufacturer's.
-
-## The Species Map, Read as a Table
-
-**Direct answer:** The agarwood trade runs on a small number of *Aquilaria* species, and the table lists the main ones with their range and standing, so an origin claim can be read against a known map.
-
-| Species | Traditional range | Trade standing |
-|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam to Indonesia) | Main commercial volume source |
-| *Aquilaria crassna* | Indochina (Vietnam, Laos, Cambodia, Thailand) | Highly regarded, premium |
-| *Aquilaria agallocha* | India, Bangladesh | Traditional Indian material |
-| *Aquilaria microcarpa* | Malaysia, Indonesia | Volume source, variable grade |
-| *Aquilaria filaria* | Philippines, Papua, Indonesia | Lower-grade volume |
-
-The table is a map, not a guarantee. The same species can yield very different grades depending on how much resin the tree formed, and a label that names only "agarwood" leaves the whole table unspecified. A buyer who can place an origin against this list is already ahead of the vague quote.
-
-## The Grade Ladder, Read as a Table
-
-**Direct answer:** Agarwood is graded by density, and the table maps the tiers so a buyer can read a grade name against a known scale.
-
-| Grade | Chinese | Density signal | Where it belongs |
-|---|---|---|---|
-| Floating | 浮水 | Floats on water | Base filler in sticks |
-| Half-sinking | 半沉半浮 | Half-floats | Everyday sticks |
-| Sinking | 沉水 | Sinks fully | Premium sticks, chip resale |
-| Qinan | 奇楠 | Soft, oil-rich | Collector chips |
-
-The table is the grade ladder made explicit. Each tier has a density signal and a product fit, and the sourcing question is not "what is your best piece" but "what grade can you deliver repeatably at the cost my product can bear." The prestige reflex — buy the highest grade — is a collector's instinct, not a manufacturer's.
-
-## The Species Table, Read as a Map
-
-**Direct answer:** The agarwood trade runs on a small number of *Aquilaria* species, and the table lists the main ones with range and standing, so an origin claim can be read against a known map.
-
-| Species | Traditional range | Trade standing |
-|---|---|---|
-| *Aquilaria sinensis* | Southern China (Hainan, Guangdong, Guangxi) | Historical benchmark, now scarce |
-| *Aquilaria malaccensis* | Southeast Asia (Vietnam to Indonesia) | Main commercial volume source |
-| *Aquilaria crassna* | Indochina (Vietnam, Laos, Cambodia, Thailand) | Highly regarded, premium |
-| *Aquilaria agallocha* | India, Bangladesh | Traditional Indian material |
-| *Aquilaria microcarpa* | Malaysia, Indonesia | Volume source, variable grade |
-| *Aquilaria filaria* | Philippines, Papua, Indonesia | Lower-grade volume |
-
-The table is a map, not a guarantee. The same species can yield very different grades depending on how much resin the tree formed, and a label that names only "agarwood" leaves the whole table unspecified. A buyer who can place an origin against this list is already ahead of the vague quote.
-
-## The Grade Ladder, Read as a Table
-
-**Direct answer:** Agarwood is graded by density, and the table maps the tiers so a buyer can read a grade name against a known scale.
-
-| Grade | Chinese | Density signal | Where it belongs |
-|---|---|---|---|
-| Floating | 浮水 | Floats on water | Base filler in sticks |
-| Half-sinking | 半沉半浮 | Half-floats | Everyday sticks |
-| Sinking | 沉水 | Sinks fully | Premium sticks, chip resale |
-| Qinan | 奇楠 | Soft, oil-rich | Collector chips |
-
-The table is the grade ladder made explicit. Each tier has a density signal and a product fit, and the sourcing question is not "what is your best piece" but "what grade can you deliver repeatably at the cost my product can bear." The prestige reflex — buy the highest grade — is a collector's instinct, not a manufacturer's.
-
-## The Chemical Vocabulary of the Wood
-
-**Direct answer:** Agarwood's aroma rests on a family of named molecules, and the table lists them so the material's chemistry is legible beneath the grade names.
-
-| Compound | Class | Character |
-|---|---|---|
-| agarospirol | Sesquiterpene | Warm, woody-sweet core |
-| jinkohol | Sesquiterpene | The jinkō signature |
-| kusunol | Sesquiterpene | Woody, camphoraceous |
-| 2-(2-phenylethyl)chromone | Chromone | The identity fingerprint |
-
-The table is the chemistry read beneath the grading. The density test reads resin content, and the laboratory fingerprint reads these exact compounds — the chromone family is one of the tools used to separate genuine agarwood from treated or substituted wood. Naming them is descriptive, not therapeutic: nothing here claims any effect on the body.
-
-## The Quote Layer, Read as a Table
-
-**Direct answer:** Most sourcing failures announce themselves in the quote before a sample ships, and the table lists the signs that should stop a buyer.
-
-| The quote says | Why it should stop you |
-|---|---|
-| "Agarwood" with no species, origin, or grade | The name alone specifies nothing |
-| A price without a specification | A number about nothing |
-| "100% natural, wild, ancient" with no documents | Adjectives, not a supply |
-| No sample policy, or hand-picked only | Consistency is unverifiable |
-| Vague on CITES for listed species | Trade legality is not optional |
-
-The table is the negative checklist. Every red flag is a skipped specification dimension, and a supplier who answers species, origin, grade, form, and documentation without being asked has already passed the first screen.
-
-## The Documentation Vocabulary, Read as a Table
-
-**Direct answer:** The documents that travel with a serious agarwood lot each verify one claim, and the table glosses the paperwork so a buyer knows what each piece proves.
-
-| Document | What it verifies | What it cannot prove |
-|---|---|---|
-| Species and origin statement | Which tree, which region | That the statement is true |
-| Certificate of analysis | Resin, moisture, particle size | Batch-to-batch consistency |
-| CITES permit | Legal standing for listed species | That the material matches |
-| Phytosanitary certificate | The wood is pest-free | Species identity |
-| Certificate of origin | Where it shipped from | Where it was grown |
-
-The table's lesson is that no single paper covers everything, which is why the serious buyer asks for the set and checks each against its issuer. A certificate is a claim that can be verified or contradicted; a pile of paper is not proof, it is a set of claims waiting to be checked.
-
-## The Region Reputation, Read as a Table
-
-**Direct answer:** Agarwood's origin names carry market reputations, and the table maps the main ones so a buyer can read an origin claim.
-
-| Region | Reputation |
-|---|---|
-| Hainan | Historical benchmark, now scarce |
-| Vietnam | Aromatic benchmark, premium |
-| Cambodia | Highly regarded |
-| Malaysia | Volume source, variable |
-| Indonesia | Volume source, variable |
-
-The table is the region read as reputation. A famous origin name carries an implied grade, and suppliers lean on that implication when a lesser origin might fetch a higher price under a famous name. The origin is a claim to verify with documents, not a guarantee to accept on its face.
-
-## The Adulteration Map, Read as a Table
-
-**Direct answer:** Agarwood is faked in a few documented ways, and the table maps the fakes so a buyer knows what to screen for.
-
-| Fake | How it is done | The tell |
-|---|---|---|
-| Dyed white wood | Non-resinous wood darkened | Black smoke, flat smell |
-| Fragrance-soaked wood | Unrelated wood treated with scent | One-note "perfume" smell |
-| Oil-injected wood | Low-grade wood pumped with oil | Passes the sink test, black smoke |
-
-The table is the adulteration map. Each fake has a tell, and the tell shows on the burn or the gentle-heat smell — where genuine resinous wood gives white smoke with oil seepage and a complex aroma, the fakes give black smoke and a flat or perfumey note. The density test alone is defeated by oil injection, which is why the burn and the smell are the checks that hold.
-
-## The Form Vocabulary, Read as a Table
-
-**Direct answer:** The same resin wood behaves differently as pieces, chips, or powder, and the table glosses the forms so a buyer picks the one the product needs.
-
-| Form | What it suits | Watch for |
-|---|---|---|
-| Whole pieces | Warming, resale | Size and integrity |
-| Chips | Grinding in-house, control | Freshness |
-| Powder | Direct blending into sticks | Particle size, moisture |
-
-The table is the form choice made explicit. Chips keep longer and let you set the grind; powder exposes more surface and oxidizes faster. The form is not a default — it is a decision that flows into how the material burns, blends, and stores.
-
-## The Adulteration Map, Read as a Table
-
-**Direct answer:** Agarwood is faked in a few documented ways, and the table maps the fakes so a buyer knows what to screen for.
-
-| Fake | How it is done | The tell |
-|---|---|---|
-| Dyed white wood | Non-resinous wood darkened | Black smoke, flat smell |
-| Fragrance-soaked wood | Unrelated wood treated with scent | One-note "perfume" smell |
-| Oil-injected wood | Low-grade wood pumped with oil | Passes the sink test, black smoke |
-
-The table is the adulteration map. Each fake has a tell, and the tell shows on the burn or the gentle-heat smell — where genuine resinous wood gives white smoke with oil seepage and a complex aroma, the fakes give black smoke and a flat or perfumey note. The density test alone is defeated by oil injection, which is why the burn and the smell are the checks that hold.
-
-## The Form Vocabulary, Read as a Table
-
-**Direct answer:** The same resin wood behaves differently as pieces, chips, or powder, and the table glosses the forms so a buyer picks the one the product needs.
-
-| Form | What it suits | Watch for |
-|---|---|---|
-| Whole pieces | Warming, resale | Size and integrity |
-| Chips | Grinding in-house, control | Freshness |
-| Powder | Direct blending into sticks | Particle size, moisture |
-
-The table is the form choice made explicit. Chips keep longer and let you set the grind; powder exposes more surface and oxidizes faster. The form is not a default — it is a decision that flows into how the material burns, blends, and stores.
-
-## Summary
-
-- Agarwood is not a commodity — the specification is the purchase.
-- Pin down species, origin, wild vs cultivated, resin content, grade, moisture, and processing before discussing price.
-- Price and minimum order are confirmed per inquiry; a supplier who quotes without a specification is guessing.
-- A sample verifies the product, not the supplier's ability to reproduce it at volume.
-- The deepest risk is adulteration, so authentication checks come before, not after, commercial negotiation.
+- No MOQ figures, prices, capacities, or certifications are stated — by design, all are confirmed per inquiry and verified with the supplier.
+- Grading vocabulary (沉水, 奇楠) and adulteration heuristics are drawn from Chinese specialist and trade sources, presented as market terminology and practical screening, not laboratory standards.
+- Traditional materia-medica language is clearly separated from scientific evidence, and no medical or health claim is made.
 
 ---
 
 ## FAQ
 
-### Q: How should I approach buying agarwood for manufacturing?
-Treat it as a specification, not a name. Write down species, origin, wild-vs-cultivated status, grade, form (chips or powder), particle size, and moisture, then ask the supplier to confirm each and back it with documentation. Sample against that spec, authenticate the sample, keep it as the reference standard, and confirm minimum order, price, packaging, and shipping per inquiry. A trial order then verifies the supplier can reproduce the sample at volume. Specify, vet, sample, negotiate, trial-order — that is the whole discipline.
+### Q: How do I buy agarwood for incense manufacturing?
+Buy it as a specification, not as a name. Write down species, origin, cultivated vs wild status, grade, form (chips or powder), particle size, and moisture, then ask the supplier to confirm each and provide supporting documentation. Sample against that specification, authenticate the sample, keep it as the reference standard, and confirm MOQ, price, packaging, and shipping per inquiry. A trial order then verifies the supplier can reproduce the sample at volume. The sequence — specify, vet, sample, negotiate, trial-order — is the whole discipline.
 
-### Q: Can I use cultivated agarwood in a product?
-Yes, and it is the commercial mainstream. Cultivated (plantation) agarwood comes from inoculating farmed *Aquilaria* trees to induce resin formation, which makes it renewable, more repeatable, and lower-cost than depleted wild material. It is usually lower in grade than old-growth wild agarwood, but for a product that must reorder to a consistent specification, that repeatability is an advantage. Still ask which species, which origin, and which grade — "cultivated" describes how it was produced, not its quality on its own.
+### Q: Is cultivated agarwood suitable for incense manufacturing?
+Yes, and it is the mainstream for commercial production. Cultivated (plantation) agarwood is produced by inoculating farmed *Aquilaria* trees to induce resin formation, which makes it renewable, more repeatable, and lower-cost than depleted wild material. It is typically lower in grade than old-growth wild agarwood, but for a product that must be reorderable to a consistent specification, that consistency is an advantage. A buyer should still ask which species, which origin, and which grade, because "cultivated" describes how it was produced, not its quality on its own.
 
-### Q: What do I check when buying agarwood in volume?
-Check the specification first — species, origin, wild vs cultivated, grade, form, particle size, and moisture — then the material. Pull a sample and verify aroma on gentle heat, density, and smoke character as screening signals, with laboratory testing for high-value lots. Then check the supplier: identity, capability, references, and documentation, including any CITES permits for listed material. Finally, confirm minimum order, price, packaging, storage, and shipping per inquiry. Specification, sample, supplier, terms — in that order.
+### Q: What should I check when buying agarwood in bulk?
+Check the specification first — species, origin, wild vs cultivated, grade, form, particle size, and moisture — then the material. Pull a sample and verify aroma on gentle heat, density, and smoke character as screening signals, with laboratory testing for high-value lots. Then check the supplier — identity, capability, references, and documentation, including any CITES permits for listed material. Finally, confirm MOQ, price, packaging, storage, and shipping terms per inquiry. Specification, sample, supplier, terms — in that order.
 
-### Q: How do I steer clear of fake agarwood?
-Start with the seller, not the material: a credible supplier names the species, origin, and grade, and states whether the material is wild or cultivated. On a sample, screen with the burn test (white smoke with oil seepage vs black smoke), gentle-heat aroma (complex and sweet vs "burnt" or one-note "perfume"), and density — remembering that oil-injection fakes are built to pass the sink test. For expensive lots, laboratory verification is the reliable route. The full screening logic is in the [authentication database](/blog/incense-authentication-database/).
+### Q: How do I avoid fake agarwood?
+Start with the seller, not the material: a credible supplier can name the species, origin, and grade, and state whether the material is wild or cultivated. On a sample, screen with the burn test (white smoke with oil seepage vs black smoke), gentle-heat aroma (complex and sweet vs "burnt" or one-note "perfume"), and density — remembering that oil-injection fakes are engineered to pass the sink test. For expensive lots, laboratory verification is the reliable route. The full screening logic is in the [authentication database](/blog/incense-authentication-database/).
 
-### Q: What paper should I request for agarwood?
+### Q: What documentation should I request for agarwood?
 Request a species and origin statement, a wild vs cultivated declaration, and — for material from CITES-listed species — the permits the shipment requires. For powder, also confirm particle size and moisture. A certificate is a claim, not a guarantee, so verify it against the issuing body, and tie the document to the specific lot you are buying rather than accepting a generic statement. See [factory vetting](/blog/factory-vetting-guide/) for the full document checklist.
 
 ### Q: Is there a minimum order quantity for agarwood?
-There is no universal figure, because the minimum depends on grade, form, quantity, and destination — which is why an honest supplier confirms it per inquiry rather than publishing a number. The useful question is not "what is your minimum" but "what is the minimum for *this* grade at *this* quantity," answered at the quotation stage. See the [MOQ & pricing guide](/blog/moq-pricing-guide/).
+There is no universal figure, because the minimum depends on the grade, form, quantity, and destination — which is why any honest supplier confirms it per inquiry rather than publishing a number. The useful question is not "what is your MOQ" but "what is the MOQ for *this* grade at *this* quantity," answered at the quotation stage. See the [MOQ & pricing guide](/blog/moq-pricing-guide/).
+
+### Q: Why is wild agarwood so much more expensive than cultivated?
+The gap comes down to scarcity and formation time, not just quality. Wild agarwood forms only after a tree is naturally wounded and spends years laying down resin, and wild old-growth forests are both depleted and restricted by CITES controls → legal wild supply is thin → demand holds → the price climbs sharply above plantation stock. Cultivated agarwood shortens that timeline by inoculating farmed trees deliberately, so it can be produced renewably and at scale. The wild material can be more resin-dense, but the price difference is driven as much by rarity and regulation as by aroma.
 
 ---
-
-### Q: Should I buy wild or cultivated agarwood for incense sticks?
-For a product you must reorder, cultivated is almost always the right call. Cultivated (plantation) agarwood is produced by inoculating farmed trees, so it is renewable, cheaper, and — critically — repeatable, meaning batch two can match batch one closely enough that your stick smells the same. Wild material is scarcer and can be resin-denser, but it is legally sensitive and inconsistent, and it cannot be promised at scale. Reserve wild or high-grade material for small, premium, one-off lines where the cost can be carried; build the everyday line on cultivated stock with a documented species and grade.
-
-### Q: How do I confirm the species claim without a lab?
-Start with the supplier and the paperwork, then screen the material itself. Ask for the botanical name and origin in writing, and check the species claim against the geography — *Aquilaria sinensis* traditionally points to southern China, *A. malaccensis* to Southeast Asia — because a mismatch between the named species and the stated origin is a red flag. On the sample, use the traditional trade heuristics: smell on gentle heat (complex and sweet, not flat or "burnt"), watch the smoke (white with oil seepage rather than black), and run the density test while remembering fakes are built to sink. None of that is proof; for a high-value lot, laboratory species identification is the reliable route, and it is money well spent before a large commitment.
-
-### Q: What is the difference between buying chips and buying powder for manufacturing?
-Chips and powder are the same material at different stages, and the choice follows the product. Chips suit warming, chip resale, or in-house grinding to a size you control; powder suits direct blending into sticks and cones, at the cost of shorter shelf life and faster volatile loss because of the increased surface area. If you buy powder, specify the particle size and moisture explicitly, because those two dials set how the powder packs and burns. If you buy chips, you take on the grinding step but keep control of freshness and uniformity. Many manufacturers buy chips and grind in-house for exactly that control — the tradeoff is equipment and labor against freshness.
-
-### Q: How do I verify a CITES permit is genuine?
-A CITES permit is a claim until you check it against the issuing authority. Confirm the document names the exact species and matches the lot's declared origin and quantity, then verify the permit number with the exporting country's management authority rather than trusting a photocopy from the seller. For wild-harvested material from listed *Aquilaria* species, the permit must accompany the shipment itself, not arrive later as a courtesy. If a supplier hesitates on any of those steps, treat the hesitation as a finding — legitimate trade documentation is routine for a licensed exporter, and a smooth seller produces it without drama.
-
-### Q: What is a realistic price difference between grades?
-There is no honest universal number, because agarwood spans a price curve measured in orders of magnitude — floating filler at the bottom, sinking resin-rich material far above it, and 奇楠 (kyara-grade) in a tier of its own, with the exact figures set by species, origin, and the current market rather than any fixed list. This page deliberately publishes no prices, because any number would be fabricated. The useful discipline is to get a quote only against a written specification, then compare across suppliers on that same specification — the spread you see between a floating grade and a sinking grade on the same species and origin is the honest size of the quality gap.
-
-### Q: Should I grind agarwood in-house or buy it pre-ground?
-For most manufacturers the answer leans toward chips and in-house grinding, because it preserves freshness and control. Powder exposes far more surface to air, so it oxidizes and sheds volatiles faster, and a pre-ground lot arrives with whatever particle size and moisture the supplier chose — which may not match your binder or burn profile. Chips keep longer, travel more honestly, and let you set the particle size and moisture to your own formula. The cost is equipment and labor; the gain is uniformity and shelf life. If you do buy powder, specify particle size and moisture explicitly and use it quickly.
-
-### Q: Why is Hainan agarwood spoken of as a benchmark?
-It is a matter of long market reputation rather than a single measurable property. Hainan and Vietnamese material became the reference points of the Chinese trade over centuries, prized for a clean, complex, sweet aroma that collectors and connoisseurs came to treat as the standard other origins were measured against. That reputation is real in the marketplace, but it is a traditional and historical benchmark, not a laboratory grade — and it is also why the name is borrowed by sellers who want a lesser lot to sound premium. Treat "Hainan" as a claim that needs documents, not as a guarantee on its own.
-
-### Q: How much agarwood does a stick or cone actually contain?
-That is a formulation question, not a fixed number, and the answer varies by product and grade. In a typical blended stick, agarwood is usually one ingredient among several — a binder, other aromatic woods and botanicals — and the proportion of agarwood is set by the cost the product can carry and the aroma profile the maker wants. A premium stick can be built around a higher share of genuine agarwood; an inexpensive one may use a small fraction or a lower grade. There is no universal figure, so the useful question to a supplier is the dosage or loading of agarwood in the specific product, not a guess about the category.
-
-### Q: What does "old material" (老料) mean when a supplier uses it?
-It is a trade term for wood that has been aged after harvest, as opposed to newly cut 新料. The claim behind it is that long storage allows the wood to settle, shed some moisture, and mellow its aroma, so 老料 is often priced above 新料 of the same grade. It is a descriptive term rather than a verified grade — there is no standardized aging period that defines it, and a seller's word is the only proof unless the wood's appearance and aroma support it. Ask what "old" means in years, and weigh the answer against the aroma and the documentation rather than the adjective alone.
-
-### Q: What does "old material" (老料) mean when a supplier uses it?
-It is a trade term for wood that has been aged after harvest, as opposed to newly cut 新料. The claim behind it is that long storage allows the wood to settle, shed some moisture, and mellow its aroma, so 老料 is often priced above 新料 of the same grade. It is a descriptive term rather than a verified grade — there is no standardized aging period that defines it, and a seller's word is the only proof unless the wood's appearance and aroma support it. Ask what "old" means in years, and weigh the answer against the aroma and the documentation rather than the adjective alone.
 
 ## Sources
 
@@ -891,3 +407,13 @@ It is a trade term for wood that has been aged after harvest, as opposed to newl
 - [Wholesale guide](/blog/wholesale-guide/)
 
 **Natural next step:** ready to source? See the [wholesale](/wholesale/) page — or [request a quote](/request-a-quote/).
+
+---
+
+## Summary
+
+- Agarwood is a specification, not a commodity; the same label spans orders of magnitude in price.
+- Pin species, origin, wild-vs-cultivated, grade, form, moisture, and processing before any price talk.
+- Adulteration is the deepest risk, and the sink test can be beaten by oil injection — density is a screen, not proof.
+- A sample verifies the product, not the supplier; a trial order verifies reproducibility.
+- Price, MOQ, and documentation are confirmed per inquiry — never from a published list.

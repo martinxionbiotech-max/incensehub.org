@@ -16,9 +16,9 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** Incense scents stretch along a line from bright and energizing (citrus, frankincense) through uplifting florals (lotus, lavender) to calming woods (sandalwood) and deep, enveloping resins (agarwood). Picking a scent is really picking an *atmosphere* — a fresh, focusing lift versus a warm, grounding calm.
+**Direct answer:** Incense scents run along one continuous line — bright, energizing notes at one end (citrus, frankincense), deep, enveloping resins at the other (agarwood), with florals and warm woods in between. Choosing a scent is choosing where on that line you want the room to sit, because what you are really picking is an *atmosphere*: a fresh, focusing lift on one side, a warm, grounding calm on the other.
 
-**Key facts:** The classical Chinese incense canon rests on woods and resins (agarwood, sandalwood, frankincense); florals and citrus are mostly modern or symbolic additions. Every scent here is a material or a fragrance evocation, and none of them is a medical treatment.
+**Key facts:** The classical Chinese canon is built on wood and resin (agarwood, sandalwood, frankincense), while the florals and citrus that fill today's shelves are largely modern or symbolic arrivals. Every entry below is either a real material or a fragrance evocation of one — and none of it is a medical treatment.
 
 ---
 
@@ -30,10 +30,10 @@ The spectrum at a glance:
 
 | Atmosphere | Reference scents | Character |
 |---|---|---|
-| Energizing / focusing | Citrus, frankincense | Bright, fresh, clean |
-| Uplifting | Lotus, lavender | Light, floral, airy |
-| Calming / warming | Sandalwood | Creamy, sweet, woody |
-| Deep / enveloping | Agarwood | Resinous, sweet, complex |
+| Energizing / focusing | Citrus, frankincense | Brisk, clean, sparkling |
+| Uplifting | Lotus, lavender | Airy, soft, petal-like |
+| Calming / warming | Sandalwood | Smooth, creamy, milky-sweet |
+| Deep / enveloping | Agarwood | Dense, sweet, layered |
 
 The same material can be described two ways: *aroma* (what it objectively smells like) and *atmosphere* (the feeling people attach to it). This guide leans on the atmosphere framing because that is how most people actually choose — but the honest version keeps the two terms separate, so no one mistakes a feeling for a measured effect.
 
@@ -70,17 +70,17 @@ This is a starting point, not a rule. The same scent serves different moods for 
 **Direct answer:** A two-step path from intention to a starting scent — settle "more alert or more settled" first, then narrow within that branch.
 
 ```text
-Do you want to feel more alert or more settled?
-├─ More alert / clear-headed
-│    └─ Bright & focusing → citrus, frankincense
-│         (light, fresh, clean — best on a gentle heater)
-└─ More settled / grounded
-     ├─ Warm & calm → sandalwood
-     │    (creamy, sweet, woody — the classic base)
-     ├─ Deep & quiet → agarwood
-     │    (resinous, sweet, complex — the most precious)
-     └─ Soft & gentle → lotus, lavender
-          (floral, airy — usually a fragrance accord, check the label)
+Ask: do you want to feel more awake, or more still?
+├─ More awake / clear-headed
+│    └─ bright, focusing end → citrus, frankincense
+│         (brisk, clean, sparkling — best warmed gently on a heater)
+└─ More still / grounded
+     ├─ warm, calm middle → sandalwood
+     │    (smooth, creamy, milky-sweet — the classic base)
+     ├─ deep, quiet end → agarwood
+     │    (dense, sweet, layered — the costliest)
+     └─ soft, gentle middle → lotus, lavender
+          (airy, petal-like — usually a fragrance accord, so check the label)
 ```
 
 The tree ends at a scent family, not a product. From there you still confirm the material behind the label — "atmosphere" is a starting point, not a measured effect.
@@ -93,9 +93,9 @@ The tree ends at a scent family, not a product. From there you still confirm the
 
 | Material | Character | Atmosphere | Relative price | Buyer caution |
 |---|---|---|---|---|
-| Agarwood 沉香 | Deep, resinous, sweet, complex | Deep / quiet / enveloping | Highest — 奇楠 is the top of the market | The most-faked material; price is the first check |
-| Sandalwood 檀香 | Creamy, sweet, soft-woody | Warm / calm / grounded | Mid — real *Santalum album* is scarce | Many substitute species share the name |
-| Frankincense 乳香 | Fresh, resinous, citrus-woody | Bright / focusing / clear | Low–mid | Usually real resin; watch for fragrance-oil "frankincense" sticks |
+| Agarwood 沉香 | Dense, sweet, layered, resinous | Deep / quiet / enveloping | Highest — 奇楠 tops the market | The most-faked material; price is your first check |
+| Sandalwood 檀香 | Smooth, creamy, soft-wooded | Warm / calm / grounded | Mid — genuine *Santalum album* is scarce | Several substitute species borrow the name |
+| Frankincense 乳香 | Fresh, resinous, lemon-woody | Bright / focusing / clear | Low–mid | Usually true resin; watch for fragrance-oil "frankincense" sticks |
 
 "Relative price" is a directional signal, not a price list — and none of the three is a medical treatment. The caution column is the practical part: each of the three fails in a different way, and knowing the *mode* of failure is more useful than knowing the price.
 
@@ -105,11 +105,11 @@ The tree ends at a scent family, not a product. From there you still confirm the
 
 **Direct answer:** A good incense does not smell the same from start to finish — it unfolds through three stages the classical vocabulary names 头香, 本香, and 尾香 — and choosing a scent is choosing an arc, not a single snapshot.
 
-- **头香 (tóu xiāng, "head")** — the first impression as the material begins to release. Bright, volatile, short-lived.
-- **本香 (běn xiāng, "body")** — the main, sustained character; the heart of the scent.
-- **尾香 (wěi xiāng, "tail")** — the fading, deeper residue that lingers after the burn.
+- **头香 (tóu xiāng, "head")** — the first burst of aroma, released as the material starts to warm. Bright and volatile, and over fast.
+- **本香 (běn xiāng, "body")** — the central, steady character that carries the middle of the burn.
+- **尾香 (wěi xiāng, "tail")** — the deep, slow residue that clings after the ember is gone.
 
-The mechanism: volatile compounds leave the material at different rates → the light, fast molecules escape first (the head) → the heavier, slower ones persist (the body and tail) → the scent therefore changes character as it burns. A citrus top note fades fast; a woody base lingers. This is why "what does it smell like" is a trickier question than it looks — it depends on *when* you ask.
+The mechanism: volatile compounds leave the material at different rates → the light, fast molecules escape first (the head) → the heavier, slower ones persist (the body and tail) → the scent therefore changes character as it burns. A bright citrus opening is gone in minutes; a woody base stays for hours. That is why "what does it smell like" is a trickier question than it looks — the answer depends on *when* you ask.
 
 ---
 
@@ -119,14 +119,14 @@ The mechanism: volatile compounds leave the material at different rates → the 
 
 | Family | Reference scents | Character | Where it sits |
 |---|---|---|---|
-| Bright / citrus | Citrus, 陈皮 | Fresh, clean, zesty | Top of the spectrum; fades fast |
-| Green / herbal | Mugwort, chrysanthemum | Herbal, slightly bitter | Middle; earthy and calm |
-| Floral | Lotus, jasmine, osmanthus, rose | Sweet, heady, or airy | Middle; usually an accord |
-| Earthy / woody | Cedar, vetiver, patchouli | Dry, deep, grounding | Lower; smoky and solid |
-| Resinous / balsamic | Frankincense, myrrh, benzoin | Bright-balsamic or sweet-warm | Middle-to-base; often a fixative |
-| Deep / enveloping | Agarwood, sandalwood | Resinous, sweet, complex | Base; the classical core |
+| Bright / citrus | Citrus, 陈皮 | Brisk, clean, lemony | Top of the spectrum; gone fast |
+| Green / herbal | Mugwort, chrysanthemum | Herbal, faintly bitter | Middle; earthy, restful |
+| Floral | Lotus, jasmine, osmanthus, rose | Heady, sweet, or airy | Middle; usually an accord |
+| Earthy / woody | Cedar, vetiver, patchouli | Dry, dark, grounding | Lower; smoky, solid |
+| Resinous / balsamic | Frankincense, myrrh, benzoin | Balsamic-bright or warm-sweet | Middle-to-base; often a fixative |
+| Deep / enveloping | Agarwood, sandalwood | Dense, sweet, layered | Base; the classical core |
 
-The middle families — green, floral, earthy, balsamic — are the nuance. Knowing where a scent sits on this map is the fastest way to predict how it will feel in a room.
+The middle families — green, floral, earthy, balsamic — are the nuance. Place a scent on this map and you can predict how it will read in a room before you light it.
 
 ---
 
@@ -134,12 +134,12 @@ The middle families — green, floral, earthy, balsamic — are the nuance. Know
 
 **Direct answer:** The classical tradition attached scents to seasons, but the version that survives for a modern buyer is simpler — match the scent's *weight* to the moment, because weight, not season, is what most people are actually choosing.
 
-- **Spring** — light florals and green notes (a fresh, opening character).
-- **Summer** — cool, clean notes like camphor or borneol against heat.
-- **Autumn** — warm woods and resins (sandalwood, frankincense).
-- **Winter** — deep, enveloping agarwood and rich blends.
+- **Spring** — light florals and leafy green notes, a fresh, opening feel.
+- **Summer** — cool, clean scents such as camphor or borneol, set against the heat.
+- **Autumn** — warm woods and resins, sandalwood and frankincense chief among them.
+- **Winter** — deep agarwood and rich, dense blends.
 
-These are associations, not rules, and they describe atmosphere rather than any measured effect. The useful translation: a light citrus for daytime focus, a warm wood for evening wind-down. And weight is not intensity — a light scent is not necessarily weak, and a deep scent is not necessarily loud. A subtle agarwood can fill a room with quiet presence while a bright citrus stays soft and airy. The axis is weight, not volume.
+Read these as associations, not rules, and as atmosphere rather than any measured effect. The useful translation: a light citrus for daytime focus, a warm wood for the evening wind-down. Weight is not the same as intensity — a light scent is not automatically weak, and a deep scent is not automatically loud. A quiet agarwood can fill a room with presence while a bright citrus stays soft and airy. The axis is weight, not volume.
 
 ---
 
@@ -147,7 +147,7 @@ These are associations, not rules, and they describe atmosphere rather than any 
 
 **Direct answer:** The most valuable thing this guide does is separate aroma from atmosphere — but the separation only protects you if you also check the material behind the name, because a "calm" label and a "calm" effect are two different things.
 
-Two positions, stated plainly. First, most buyers choose by atmosphere, and that is fine — as long as no one pretends the feeling is a measured effect. Second, "sandalwood," "lotus," and "lavender" can each be a real material or a fragrance accord, and the label alone does not tell you which. The condition under which the atmosphere framing fails is when a buyer trusts the name without confirming the material — at that point the honest map becomes a marketing shortcut.
+Two positions, stated plainly. One, most buyers choose by atmosphere, and that is fine — so long as nobody pretends the feeling is a measured effect. Two, "sandalwood," "lotus," and "lavender" can each name a real material or a fragrance accord, and the label on its own will not say which. The atmosphere framing breaks down the moment a buyer trusts the name without checking the material — at that point an honest map turns into a marketing shortcut.
 
 *The author's view, not a verified fact.*
 
@@ -155,9 +155,9 @@ Two positions, stated plainly. First, most buyers choose by atmosphere, and that
 
 ## Common Mistakes
 
-1. **Choosing by name alone.** Confirm the actual material or accord behind the label.
-2. **Expecting a "calm" scent to be weak, or a "bright" scent to be strong.** Atmosphere ≠ intensity; agarwood is subtle but profound.
-3. **Treating scent as medicine.** "Calming" and "focusing" describe aroma character, not a therapeutic effect.
+1. **Picking by name and nothing else.** Always confirm the material or accord behind the label.
+2. **Assuming "calm" means weak and "bright" means strong.** Atmosphere is not intensity; agarwood is quiet but profound.
+3. **Treating a scent as medicine.** "Calming" and "focusing" describe how an aroma reads, not what it does to a body.
 
 ---
 
@@ -944,11 +944,11 @@ No — that is a common confusion. A well-made wood stick releases its resin and
 
 ## Sources
 
-- 周嘉胄《香乘》(Ming) — the classical scent canon (woods and resins). [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- 周嘉胄《香乘》(Ming) — the classical canon of woods and resins. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
 - 洪芻《香谱》(Song) — the canonical manual. [Full text on Wikisource](https://zh.wikisource.org/wiki/香譜).
-- 本草纲目 — historical materia-medica record for the named materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
-- Editorial synthesis of established incense scent-pairing practice; descriptors are qualitative, not physiological-effect claims.
-- Botanical references for the woods/resins/florals named in the guide.
+- 本草纲目 — a historical materia-medica record of the named materials, traditional rather than clinical. [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- Editorial synthesis of established incense scent-pairing practice; every descriptor is qualitative, not a claim about physiological effect.
+- Botanical references for the woods, resins, and florals named above.
 
 ## Related Resources
 
@@ -956,4 +956,4 @@ No — that is a common confusion. A well-made wood stick releases its resin and
 - [History of Chinese Incense Culture](/blog/history-of-chinese-incense/)
 - [Incense vs Essential Oil Diffuser](/blog/incense-vs-essential-oil-diffuser/)
 
-**Natural next step:** picked a scent? Learn how to use it well — see [what Chinese incense is](/blog/what-is-chinese-incense/) for form and technique, or [incense for meditation](/blog/incense-for-meditation/) if you are choosing for a practice.
+**Natural next step:** settled on a scent? Learn to use it well — see [what Chinese incense is](/blog/what-is-chinese-incense/) for form and technique, or [incense for meditation](/blog/incense-for-meditation/) when you are choosing for a practice.
