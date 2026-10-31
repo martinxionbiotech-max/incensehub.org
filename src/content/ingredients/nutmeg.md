@@ -126,43 +126,21 @@ The culinary role is unambiguous and well documented. Medicinal uses are **tradi
 
 Nutmeg sits in the nutmeg family (Myristicaceae), while cardamom and sand ginger sit in the ginger family (Zingiberaceae). The shared 豆蔻 in Chinese names is historical grouping, not botany. See [cardamom](/ingredients/cardamom/) and [sand ginger](/ingredients/sand-ginger/).
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Whole nutmeg should be dense, oily, and strongly aromatic; the seed loses scent once ground, so whole is preferred.
 - Distinguish nutmeg (肉豆蔻) from cardamom (白豆蔻) — different spices with a shared 豆蔻 name.
 - In incense, nutmeg is a warm spice accent, usually blended, not burned alone.
 
-## What buyers should look for
-
-> **Direct answer:** Buy the whole seed, check that it is dense, oily, and strongly aromatic when freshly broken, and confirm the botanical identity — nutmeg (*Myristica fragrans*), not cardamom or another 豆蔻-named spice.
-
-For a cooking or blending buyer:
-
-- **Form** — whole seed over pre-ground, for aroma retention.
-- **Aroma** — strong, warm, spicy-sweet when freshly broken or grated.
-- **Identity** — nutmeg, Myristicaceae (肉豆蔻), not cardamom (白豆蔻) or sand ginger (山柰).
-- **Mace** — if mace (肉豆蔻衣) is wanted, it is a separate, more delicate spice.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, nutmeg is a freshness-sensitive supporting note: its volatile oil fades after grinding, so the working variables are whole-seed quality and dose. The right level depends on formulation — what it is meant to warm — not on a universal figure.
-
-From a manufacturing perspective, nutmeg's commercial logic is **freshness and supporting role**:
-
-- **It is volatile, so form matters more than for most spices.** The seed's essential oil fades quickly once ground, so a repeatable blend needs a consistent, freshly ground whole-seed supply — a pre-ground powder of unknown age will not reproduce the same note.
-- **It is an accent, not a lead.** Nutmeg warms and sweetens a blend but is used at a supporting proportion; the right dose **depends on formulation** — the other spices and the target profile — not on a universal figure.
-
-In our view, the commercial sweet spot is a **consistent, freshly milled whole-seed supply with a stated botanical identity**, used as a warm supporting accent rather than a defining note.
-
 ## Summary
 
-Nutmeg (肉豆蔻, *ròudòukòu*) is the dried seed of *Myristica fragrans* (Myristicaceae), a tree native to the Moluccas that yields two spices — the seed (nutmeg) and the lacy aril (mace, 肉豆蔻衣). It is a warm, spicy, sweet spice, familiar from cooking, and in Chinese incense it is a warm food-adjacent accent in some 合香 blends rather than a classical defining material. Its Chinese name shares the 豆蔻 element with cardamom, but nutmeg is a Myristicaceae seed while cardamom and sand ginger are ginger-family (Zingiberaceae) materials — different plants, different families. Whole-seed quality (dense, oily, freshly aromatic) is the buyer's key check.
+Nutmeg (肉豆蔻, *ròudòukòu*) is the dried seed of *Myristica fragrans* (Myristicaceae), a tree native to the Moluccas that yields two spices — the seed (nutmeg) and the lacy aril (mace, 肉豆蔻衣). It is a warm, spicy, sweet spice, familiar from cooking, and in Chinese incense it is a warm food-adjacent accent in some 合香 blends rather than a classical defining material. Its Chinese name shares the 豆蔻 element with cardamom, but nutmeg is a Myristicaceae seed while cardamom and sand ginger are ginger-family (Zingiberaceae) materials — different plants, different families. Whole-seed quality (dense, oily, freshly aromatic) is the reader's key check.
 
 ## FAQ
 

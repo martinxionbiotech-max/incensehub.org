@@ -62,7 +62,7 @@ Ambergris occupies a category of one in this encyclopedia: it is a **marine, ani
 
 1. **Found, not farmed.** Ambergris is not harvested from a cultivated source; it is expelled by sperm whales and recovered after floating at sea or washing ashore. Supply is therefore *accidental* — a function of ocean currents and beachcombing, not agriculture or wild harvest.
 2. **Aging is the processing.** Unlike a wood that is cut and cured, ambergris's transformation is environmental: months or years of salt water, sun, and oxidation are what convert the raw secretion into the valued amber note.
-3. **The ocean is the provenance.** Where a buyer asks "which region" of an agarwood, for ambergris the meaningful provenance is sea-weathering — how long it floated, how it aged — not a specific farm or forest.
+3. **The ocean is the provenance.** Where a reader asks "which region" of an agarwood, for ambergris the meaningful provenance is sea-weathering — how long it floated, how it aged — not a specific farm or forest.
 
 This marine, found-not-farmed identity is what makes ambergris genuinely distinct: it is the one material whose supply chain is the sea itself.
 
@@ -107,11 +107,11 @@ The two are complements, not substitutes: ambergris contributes marine-amber swe
 | Ambergris absolute | Solvent-extracted concentrate |
 | Synthetic ambroxide / ambreine | The modern laboratory replacements |
 
-The first three are natural marine forms; the last is the modern material that dominates today's market. For a contemporary buyer, "ambergris" almost always means the synthetic, and the distinction between natural and synthetic is the decisive sourcing question.
+The first three are natural marine forms; the last is the modern material that dominates today's market. For the contemporary reader, "ambergris" almost always means the synthetic, and the distinction between natural and synthetic is the decisive sourcing question.
 
-## Conservation and sourcing notes
+## Conservation notes
 
-> **Direct answer:** Ambergris trade is restricted because the sperm whale is CITES-listed, and most "ambergris" on the market is synthetic. For buyers, the practical point is provenance — natural ambergris is rare and legally sensitive, so a credible supplier should state plainly whether a material is natural or synthetic.
+> **Direct answer:** Ambergris trade is restricted because the sperm whale is CITES-listed, and most "ambergris" on the market is synthetic. For readers, the practical point is provenance — natural ambergris is rare and legally sensitive, so a credible supplier should state plainly whether a material is natural or synthetic.
 
 - Natural ambergris is a sperm-whale product from a CITES-listed species; its trade is restricted, and this encyclopedia documents it as **historical and connoisseurship context**, not as a material to source.
 - Most "ambergris" in contemporary fragrance and incense is **synthetic** (ambroxide / ambreine), which reproduces the amber fixative character without the animal.
@@ -122,18 +122,6 @@ The responsible modern framing mirrors musk: because the animal source is protec
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Note that most "ambergris" in incense is synthetic, which is a sourcing matter, not a safety claim. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Ambergris's defining commercial fact is that it is a found, not farmed, material — its supply is accidental, sea-driven, and un-scaleable. That is precisely why the synthetic (ambroxide/ambreine) became the industry standard, and why "ambergris" is now a scent target, not a material, for anyone manufacturing at commercial volume.
-
-From a manufacturing perspective, ambergris is the clearest demonstration in this encyclopedia of **why certain materials get replaced by synthetics — and why that is not a loss but a category shift.** Three points follow:
-
-- **Accidental supply cannot scale.** Ambergris is not cultivated; it is found. You cannot plant it, grow it, or harvest it on a schedule. A manufacturer building a repeatable product on an ingredient whose supply depends on a whale, an ocean current, and a beachcomber is building on sand. This is the structural reason the synthetic won: ambroxide is made to order, batch after batch, at consistent cost and quality.
-- **Aging is the value, and aging is time.** The prized ambergris note is an *oxidation product*, produced by months or years of sea weathering. The synthetic skips the wait by delivering the oxidized character directly. For a production line, "skipping the wait" is not a shortcut; it is the whole point.
-- **The name is now a scent target.** In commercial incense and fragrance, "ambergris" describes a marine-amber, warm, slightly sweet register — a *specification*, not a whale product. The professional framing is to confirm which synthetic (or, rarely, which natural grade) achieves that register, rather than to assume the word means the animal.
-
-In our view, the commercial reality of ambergris is a **synthetic amber fixative with a historical marine name**, and the professional move is to be explicit about that substitution — because the consistency, legality, and ethics all sit on the synthetic side.
 
 ## Summary
 
@@ -165,7 +153,7 @@ See also: [musk](/ingredients/musk/), [sandalwood](/ingredients/sandalwood/), [a
 ### Traditional Chinese use
 **Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record that 龙涎香 appears in classical Chinese incense and materia medica as a rare, precious fixative. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the natural-vs-synthetic market note (ambroxide / ambreine) and the sperm whale's CITES trade listing. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -180,7 +168,7 @@ See also: [musk](/ingredients/musk/), [sandalwood](/ingredients/sandalwood/), [a
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Health claims | Not established |
 

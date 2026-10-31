@@ -91,11 +91,11 @@ The processing of 柚皮 is simple and drying-based:
 2. **Drying** — the peel is dried, used either fresh or dried.
 3. **Cutting / grinding** — for blending, the dried peel is cut or ground.
 
-There is no distillation or extraction — pomelo peel is the whole peel (rind plus pith). The practical point is that the **pith** is an integral part of the material, not a defect to be trimmed away: its thickness is what gives 柚皮 its characteristic mild bitterness. A buyer should know whether the material includes full pith, since a thinly-peeled lot will read brighter and less bitter.
+There is no distillation or extraction — pomelo peel is the whole peel (rind plus pith). The practical point is that the **pith** is an integral part of the material, not a defect to be trimmed away: its thickness is what gives 柚皮 its characteristic mild bitterness. A reader should know whether the material includes full pith, since a thinly-peeled lot will read brighter and less bitter.
 
 ## What determines quality?
 
-> **Direct answer:** Quality turns on freshness, cleanliness, and the intact pith — a clean, fragrant peel with a bittersweet citrus scent and an intact thick pith. The pith's presence is part of the material's identity, so a buyer checks for it rather than against it.
+> **Direct answer:** Quality turns on freshness, cleanliness, and the intact pith — a clean, fragrant peel with a bittersweet citrus scent and an intact thick pith. The pith's presence is part of the material's identity, so a reader checks for it rather than against it.
 
 The quality factors, in rough order:
 
@@ -117,19 +117,6 @@ There is no standardized commercial grading ladder for 柚皮; freshness, pith i
 
 The distinction is functional — the same peel in different physical forms. As a thick-peeled citrus material, it behaves like other peels: low-density, high-surface-area, and quick to release its volatile citrus note.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish 柚皮 (*Citrus maxima*) from 陈皮 (*Citrus reticulata*) — different citrus, different peels — and expect a clean, fragrant peel with an intact thick pith and a bittersweet citrus scent. It is a soft citrus accent, usually blended, not burned alone.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm 柚皮 is *Citrus maxima* (pomelo), not *Citrus reticulata* (mandarin, the source of 陈皮); they are different peels with different characters.
-- **Pith** — confirm whether the material includes the thick white pith, which defines the bittersweet character.
-- **Freshness and condition** — clean, fragrant peel with no mustiness or discoloration.
-- **Form** — whole/cut peel or ground powder, depending on the blending method.
-
-Because pomelo peel is a soft, food-adjacent citrus note, the buyer is specifying a **rounded citrus accent**, and the pith's presence is a key part of that specification.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -146,23 +133,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 The two are the same family's peels with different defining variables: the pomelo is defined by its **pith**, the mandarin by its **aging**. See [orange-peel (陈皮)](/ingredients/orange-peel/), [grapefruit (葡萄柚)](/ingredients/grapefruit/), and [lemon (柠檬)](/ingredients/lemon/) for the wider citrus family.
 
-## Our Industry View
-
-> **Direct answer:** Pomelo peel's lesson is that "citrus peel" is not one material but a spectrum defined by species, pith thickness, and aging. The pomelo's thick pith is the material's identity, not a defect — and a buyer who orders "citrus peel" without naming the species and the pith is ordering a category, not a material.
-
-From a manufacturing and sourcing perspective, pomelo peel sharpens a lesson that runs through the whole citrus-peel family: **"citrus peel" is a category, not a specification.**
-
-Three points follow:
-
-- **Pith is identity, not waste.** Where a perfumer might strip the pith for a pure rind oil, 柚皮 keeps the thick white pith precisely because it is the source of the material's bittersweet-floral character. A buyer who treats the pith as a defect to be trimmed is discarding the very thing that makes pomelo peel pomelo peel rather than generic citrus.
-- **Species and processing carry the value.** The pomelo's thick pith and the mandarin's aging are two different answers to the same question — how to turn a common citrus peel into a distinct 香材. 陈皮 and 柚皮 are both "citrus peel," but they are not interchangeable, and the name alone does not say which material or which variable is in play.
-- **It is a soft accent, not a lead.** Pomelo peel's rounded citrus works as a blender in warm spice-and-wood formulas, and the right dose **depends on formulation**. A buyer specifies it as a supporting note, with the pith's bitterness as a deliberate balancing element.
-
-In our view, the commercial sweet spot is a **correctly identified, freshly dried pomelo peel with intact pith** bought as a soft, rounded citrus accent — where the species and the pith are named explicitly, rather than collapsed into a vague "citrus peel."
-
 ## Summary
 
-Pomelo peel (柚皮) is the peel of the pomelo, *Citrus maxima*, the largest citrus fruit, a rue-family (Rutaceae) tree native to Southeast Asia and long cultivated in southern China. Its bittersweet, floral-woody character comes from the thick white pith balancing the rind's bright citrus oil, and it is used as a soft citrus-peel note in incense and in cooking and tea. It must be kept distinct from 陈皮 (*Citrus reticulata* aged mandarin peel) — the pomelo is defined by its pith, the mandarin by its aging — and both sit alongside 荔枝壳 in a small family of Chinese fruit-peel materials. Commercially its value is correct identification and fresh, pith-intact condition, not a graded standard.
+Pomelo peel (柚皮) is the peel of the pomelo, *Citrus maxima*, the largest citrus fruit, a rue-family (Rutaceae) tree native to Southeast Asia and long cultivated in southern China. Its bittersweet, floral-woody character comes from the thick white pith balancing the rind's bright citrus oil, and it is used as a soft citrus-peel note in incense and in cooking and tea. It must be kept distinct from 陈皮 (*Citrus reticulata* aged mandarin peel) — the pomelo is defined by its pith, the mandarin by its aging — and both sit alongside 荔枝壳 in a small family of Chinese fruit-peel materials. In trade its value is correct identification and fresh, pith-intact condition, not a graded standard.
 
 ## FAQ
 

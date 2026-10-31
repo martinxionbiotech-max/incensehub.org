@@ -77,7 +77,7 @@ The fruit is harvested and dried whole, producing the dried, seed-bearing fruit 
 
 > **Direct answer:** 益智仁 quality turns on the soundness and aromatic freshness of the dried fruit. Good material is whole, dry, and warm-spicy-camphoraceous on crushing, without a musty or hollow note; the seed within the fruit is the aromatic part.
 
-For a buyer, the practical checks are: **soundness** (whole, dry fruit rather than broken or musty material) and **aromatic freshness** (a warm, spicy, camphoraceous character on crushing, not a stale or hollow note). The seed within the fruit is the aromatic part, so the crush test — releasing the seed's scent — is the standard quality check. As with most dried spice fruits, freshness is the primary quality driver.
+The practical checks are: **soundness** (whole, dry fruit rather than broken or musty material) and **aromatic freshness** (a warm, spicy, camphoraceous character on crushing, not a stale or hollow note). The seed within the fruit is the aromatic part, so the crush test — releasing the seed's scent — is the standard quality check. As with most dried spice fruits, freshness is the primary quality driver.
 
 ## Common forms
 
@@ -106,9 +106,9 @@ The whole fruit and the separated seed are the same material at different stages
 
 The traditional-medicine and minor aromatic use is documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the Zingiberaceae placement, and the warm-spice character — plus the *Alpinia* genus disambiguation.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 益智仁 is the dried fruit of *Alpinia oxyphylla*, a ginger-family spice — distinguish it from galangal (*Alpinia officinarum*) and katsumadai (*Alpinia katsumadae*), related *Alpinia* species.
 - Expect a warm, spicy, camphoraceous, slightly sweet character, gentler than galangal's sharp pungency.
@@ -127,18 +127,6 @@ Practical points for buyers:
 | Primary role | Materia medica | Culinary + aromatic | Culinary + aromatic |
 
 The three share the *Alpinia* genus and the ginger-family warmth, but differ by species and plant part. See [galangal](/ingredients/galangal/), [katsumadai](/ingredients/katsumadai/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 益智仁 is a "false-friend family" case — the *Alpinia* genus supplies several warm, camphoraceous aromatics that are easy to conflate, but 益智仁 is the *fruit* of *A. oxyphylla*, distinct from galangal's rhizome and katsumadai's seed. Its incense role is a documented minor sachet ingredient, not a burned 香材.
-
-From a sourcing and editorial perspective, 益智仁 is most interesting for the conflation risk its own family creates. Three points follow:
-
-- **The genus is a false-friend zone.** *Alpinia* supplies galangal, katsumadai, and 益智仁 — all warm, camphoraceous, and ginger-family, but different species and different plant parts (rhizome, seed, and fruit respectively). A buyer or formulator who reads "ginger-family warm spice" and treats them as interchangeable is already making the error the genus invites. The species *and* the plant part must both be pinned down.
-- **A medicine-name is a category signal.** The name 益智仁 ("benefit-the-mind seed") is a materia-medica coinage, not an incense-name. This signals that 益智仁's primary identity is medicinal, and its incense appearance is secondary — a minor sachet ingredient in the 内苑蕊心衣香, not a lead 合香 material. Reading the name correctly is half the disambiguation.
-- **Sachet vs burned is a real distinction in the classical record.** The *Xiangcheng* places 益智仁 in a *wearable sachet* (衣香), not in a burned incense formula. This matters: sachet ingredients scent by proximity and evaporation, and their aromatic requirements differ from materials that must survive combustion. 益智仁's warm, camphoraceous character suits a sachet's gentle, close scenting — which is exactly the minor role it plays.
-
-In our view, 益智仁 is best understood as a **materia-medica fruit in a false-friend genus** — the *fruit* of *Alpinia oxyphylla*, distinct from galangal's rhizome and katsumadai's seed, and a documented minor sachet ingredient rather than a burned 香材.
 
 ## Summary
 

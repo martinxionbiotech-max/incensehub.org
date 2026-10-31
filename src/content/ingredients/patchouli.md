@@ -87,7 +87,7 @@ The main quality factors:
 3. **Distillation and age** — careful distillation and aging mellow the oil from sharp-green to a smoother earthiness.
 4. **Aroma balance** — the oil should read earthy and woody-balsamic, not thin or harshly green.
 
-There is no single standardized grading system; these are trade distinctions. For a buyer, the working checks are cleanliness and aroma rather than a nominal grade label.
+There is no single standardized grading system; these are trade distinctions. For the reader, the working checks are cleanliness and aroma rather than a nominal grade label.
 
 ## Common forms
 
@@ -123,45 +123,15 @@ We describe its aromatic and incense use; we do not make medical claims.
 
 Both are earthy base notes, but patchouli is the leaf (mint family) and vetiver the root (grass). They are often used together to build a deep, earthy foundation under woods and florals. See [vetiver](/ingredients/vetiver/) and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Patchouli is a cultivated tropical herb, not a wild-harvested or endangered material, so its supply is renewable. Sourcing for the oil should confirm origin; for the leaf, confirm cleanliness and drying rather than assuming any single origin is required.
 
-Unlike wild-harvested woods or resins, patchouli is a farmed annual/perennial crop grown across the tropics, so its supply is renewable and not under the same conservation pressure as materials like agarwood. For a buyer, the practical questions are the same as for any botanical: **which form** (oil vs dried leaf), **which origin** for the oil, and **cleanliness and drying** for the leaf. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Patchouli oil is a large-volume perfumery base note and fixative, and it also goes into incense blends, scented products, and some personal-care formulations. The dried leaf serves traditional incense uses; the oil serves fragrance.
-
-- **Perfumery** — patchouli oil is a staple base note and fixative in chypre and oriental fragrance families.
-- **Incense** — the oil (and to a lesser extent the dried leaf) is blended into sticks and cones as an earthy anchor.
-- **Scented products** — the oil appears in soaps, candles, and aromatherapy products.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should specify the form — essential oil versus dried leaf — confirm the oil's origin and age character, and check the leaf for cleanliness and a clean, earthy aroma. Because patchouli is potent, a little goes a long way, so a consistent supply matters more than volume.
-
-For an incense maker or sourcing buyer:
-
-- **Form** — decide oil versus dried leaf; they are not interchangeable in a blend.
-- **Origin** — for oil, ask the source region, since origin shifts the profile.
-- **Aroma** — the oil should be earthy and woody-balsamic, not thin or harshly green; the leaf should smell clean, without mustiness.
-- **Potency and consistency** — patchouli is strong, so a repeatable, consistent lot matters more than buying large quantities of a one-off.
+Unlike wild-harvested woods or resins, patchouli is a farmed annual/perennial crop grown across the tropics, so its supply is renewable and not under the same conservation pressure as materials like agarwood. For the reader, the practical questions are the same as for any botanical: **which form** (oil vs dried leaf), **which origin** for the oil, and **cleanliness and drying** for the leaf. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Patchouli is potent — a little goes a long way. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** From a manufacturing perspective, patchouli's value is as a strong, consistent base note — a little anchors a whole formula. The key variables are form (oil vs leaf), origin consistency for the oil, and dosing, because an overdose of patchouli overpowers rather than supports.
-
-Patchouli is a **functional anchor, not a showcase note**. Its job in a blend is to sit low, extend the dry-down, and give the formula weight, which means two things matter more than the nominal "patchouli" label:
-
-- **Form determines behavior.** The essential oil and the dried leaf behave completely differently — one is a liquid base note, the other a bulk botanical. A formula built on the oil will not reproduce if the source switches to leaf, and vice versa.
-- **Dosing is the real skill.** Because patchouli is so persistent, the useful range is narrow: too little and it does nothing, too much and it dominates the blend. The right amount **depends on formulation** — the other ingredients, the base it is meant to support, and the intended dry-down — so no single percentage transfers between recipes.
-
-In our view, the commercial sweet spot is a **consistent, well-documented oil (or clean dried leaf) from a stable source**, used in a controlled dose, rather than chasing any particular "grade" label.
 
 ## Summary
 

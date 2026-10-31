@@ -120,17 +120,6 @@ There is no standardized commercial grading ladder for 桑叶; freshness and the
 
 The distinction is functional — the same leaf in different physical forms. As a quiet, leafy material, it behaves like other tea-fragrance leaves: light, mild, and quick to release (and lose) its note.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish the leaf (桑叶) from the fruit (桑葚) and the root bark — different parts of the same tree — and expect a clean, green, tea-like, slightly sweet leaf. It is a quiet green accent, best understood in the tea-fragrance context, not a lead incense material.
-
-For a tea, sachet, or sourcing buyer:
-
-- **Part** — confirm 桑叶 is the leaf, not the fruit (桑葚) or the root bark (桑白皮).
-- **Role** — understand it is a tea and materia-medica leaf, a quiet green accent rather than a lead 香材.
-- **Condition** — clean, green, fresh leaf with a mild tea-like scent and no mustiness.
-- **Form** — whole/cut leaf or ground powder, depending on the use.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -146,18 +135,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Arborvitae leaves (侧柏叶) | *Platycladus orientalis* (Cupressaceae) | Green, woody; a materia-medica leaf |
 
 All three are leafy and green, but they are different plants with different roles. See [bamboo leaves (竹叶)](/ingredients/bamboo-leaves/), [arborvitae leaves (侧柏叶)](/ingredients/platycladus-leaves/), and [sophora flower (槐花)](/ingredients/sophora-flower/).
-
-## Our Industry View
-
-> **Direct answer:** Mulberry leaf's lesson is the tea-fragrance register: a whole class of quiet, leafy, food-adjacent materials whose value is mildness, not intensity — and which are easy to overlook or over-rate. The disciplined buyer understands the register, names the part (leaf vs fruit vs root bark), and treats a mild leaf as an accent, not a base.
-
-From a manufacturing and sourcing perspective, mulberry leaf is a reminder that not every aromatic material is bought for intensity:
-
-- **The tea-fragrance register is real and quiet.** Mulberry leaf's value is a mild, green, tea-like note — a *register* (茶香) distinct from woods, resins, and florals. It is easy to overlook because it is quiet, but it is also easy to over-rate if a buyer expects it to carry a blend. It is an accent, not a base.
-- **One tree, many parts, one specification.** 桑叶 (leaf), 桑葚 (fruit), and 桑白皮 (root bark) are three different materials from one culturally central tree. A buyer who orders "mulberry" without naming the part is ordering a tree, not a material — the part-level name is the specification.
-- **Mildness is a feature, not a flaw.** For sachets and light tea-fragrance blends, a mild, clean green note is exactly what is wanted. The right dose and blend context **depend on formulation**, not on a fixed figure.
-
-In our view, the useful takeaway is procedural: **understand the tea-fragrance register, name the part, and value mildness for what it is** — and a quiet leaf like 桑叶 becomes a correctly specified accent instead of a vague "green note."
 
 ## Summary
 

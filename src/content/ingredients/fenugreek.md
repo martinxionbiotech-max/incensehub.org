@@ -76,7 +76,7 @@ The seed is harvested and dried, then used whole or ground. The decisive step is
 
 > **Direct answer:** Fenugreek quality turns on seed soundness and the maple note that develops on roasting. Good seed, when roasted, releases a clean, warm, sweet maple-syrup character without a stale or overly bitter edge; the raw seed's mild bitterness is normal and not a defect.
 
-For a buyer, the practical checks are: **soundness** (clean, dry, hard seed rather than broken or musty material) and **the roast character** (a clean, warm, sweet maple note when roasted, without a stale or harsh-bitter edge). The raw seed's mild bitterness is normal — it is the pre-roast state, and the maple sweetness is the developed character. Because the aroma is largely produced by roasting, quality is judged on the roasted result rather than the raw seed's faint scent.
+The practical checks are: **soundness** (clean, dry, hard seed rather than broken or musty material) and **the roast character** (a clean, warm, sweet maple note when roasted, without a stale or harsh-bitter edge). The raw seed's mild bitterness is normal — it is the pre-roast state, and the maple sweetness is the developed character. Because the aroma is largely produced by roasting, quality is judged on the roasted result rather than the raw seed's faint scent.
 
 ## Common forms
 
@@ -106,9 +106,9 @@ The raw and roasted forms are different in character, not just texture — the m
 
 The materia-medica record is **traditional**, not established clinical fact, and we make **no medical claims**. The documented facts are botanical identity, the Fabaceae placement, and its late arrival in the Chinese record — plus the sotolone chemistry behind its distinctive maple note.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 葫芦巴 is the seed of *Trigonella foenum-graecum*; expect a warm, sweet, maple-like, faintly nutty-bitter aroma once roasted.
 - The raw seed is more bitter than aromatic; the sweet maple note develops on roasting.
@@ -126,18 +126,6 @@ Practical points for buyers:
 | Classical Chinese status | Later arrival (materia medica) | None (Western-Regions loanword) | Culinary + materia medica |
 
 The three are routinely grouped as "seed spices" but are different families and registers: fenugreek is a legume with a sweet maple note, cumin a savory-earthy carrot-family seed, coriander a bright-citrus one. See [cumin](/ingredients/cumin/), [fennel](/ingredients/fennel/), [coriander seed](/ingredients/coriander-seed/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Fenugreek is a "self-dated latecomer" case — the *Bencao Gangmu* itself performs the provenance work, explicitly marking 葫芦巴 as recent ("蓋是近出") and foreign-origin ("種出海南諸番"). This in-source dating, plus the sotolone maple note, defines fenugreek as a later gourmand crossover rather than a classical 香材.
-
-From a sourcing and editorial perspective, fenugreek is most interesting for the rare precision of its own record. Three points follow:
-
-- **The source dates itself.** The *Bencao Gangmu* does not merely list 葫芦巴; it flags it as absent from pre-Tang formulas and the older bencao, calling it "蓋是近出" (recent). Few materials carry such an explicit in-source statement of their own lateness. For a knowledge resource built on the classical-vs-later distinction, this is gold: the "later arrival" classification is not our editorial inference but the source's own claim.
-- **The 胡 prefix is a provenance marker, not decoration.** 葫芦巴 shares the 胡 foreign-origin prefix with coriander (胡荽) and pepper (胡椒). Across the materia-medica vocabulary, 胡 labels a western/foreign import, and the *Bencao Gangmu* confirms it with "種出海南諸番." A reader who learns to read 胡 as "import" gains a portable disambiguation tool for the whole aromatic canon.
-- **The maple note is a modern register, and that is the real tell.** Sotolone's maple-caramel sweetness is a gourmand value that classical Chinese incense did not pursue. This is the same structural gap the [peru balsam](/ingredients/peru-balsam/) entry identifies — the sweet-gourmand register arrived with later imports, not with the classical palette. Fenugreek's maple note marks it as part of that modern crossover.
-
-In our view, fenugreek is best understood as a **self-dated, foreign-origin latercomer whose maple-sweet note belongs to the modern gourmand register** — a legume seed that the *Bencao Gangmu* itself marks as recent, and whose sourcing story is therefore one of honest lateness rather than classical recovery.
 
 ## Summary
 

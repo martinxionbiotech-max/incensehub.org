@@ -1014,7 +1014,6 @@
     "src/content/blog/custom-fragrance-development.md",
     "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
     "src/content/blog/incense-for-business.md",
-    "src/content/blog/incense-manufacturing-quality-control.md",
     "src/content/blog/incense-spec-sheet-coa.md",
     "src/content/blog/packaging-shipping-guide.md",
     "src/content/blog/samples-program.md",
@@ -1040,41 +1039,16 @@
     "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
     "src/content/blog/incense-export-considerations.md",
     "src/content/blog/incense-for-business.md",
-    "src/content/blog/incense-manufacturing-quality-control.md",
-    "src/content/blog/incense-powder-vs-wood-chips.md",
     "src/content/blog/incense-spec-sheet-coa.md",
     "src/content/blog/moq-pricing-guide.md",
     "src/content/blog/packaging-shipping-guide.md",
-    "src/content/blog/samples-program.md",
-    "src/content/ingredients/agarwood.md",
-    "src/content/ingredients/benzoin.md",
-    "src/content/ingredients/borneol.md",
-    "src/content/ingredients/cedar.md",
-    "src/content/ingredients/costus.md",
-    "src/content/ingredients/frankincense.md",
-    "src/content/ingredients/mint.md",
-    "src/content/ingredients/mugwort.md",
-    "src/content/ingredients/musk.md",
-    "src/content/ingredients/myrrh.md",
-    "src/content/ingredients/orange-peel.md",
-    "src/content/ingredients/orris-root.md",
-    "src/content/ingredients/osmanthus.md",
-    "src/content/ingredients/patchouli.md",
-    "src/content/ingredients/pine-resin.md",
-    "src/content/ingredients/plum-blossom.md",
-    "src/content/ingredients/rose.md",
-    "src/content/ingredients/rosemary.md",
-    "src/content/ingredients/sandalwood.md",
-    "src/content/ingredients/spikenard-nardostachys.md",
-    "src/content/ingredients/star-anise.md",
-    "src/content/ingredients/vetiver.md"
+    "src/content/blog/samples-program.md"
   ],
   "/wholesale/": [
     "src/content/blog/bulk-incense-ingredient-sourcing.md",
     "src/content/blog/factory-vetting-guide.md",
     "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
     "src/content/blog/incense-export-considerations.md",
-    "src/content/blog/incense-manufacturing-quality-control.md",
     "src/content/blog/incense-spec-sheet-coa.md",
     "src/content/blog/moq-pricing-guide.md",
     "src/content/blog/packaging-shipping-guide.md",
@@ -1088,7 +1062,6 @@
     "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
     "src/content/blog/incense-export-considerations.md",
     "src/content/blog/incense-for-business.md",
-    "src/content/blog/incense-manufacturing-quality-control.md",
     "src/content/blog/moq-pricing-guide.md",
     "src/content/blog/packaging-shipping-guide.md",
     "src/content/blog/samples-program.md",
@@ -1251,6 +1224,7 @@
     "src/content/blog/hand-rolled-vs-machine-made.md",
     "src/content/blog/how-incense-is-made.md",
     "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
     "src/content/blog/incense-sticks.md",
     "src/content/blog/incense-storage-longevity.md",
     "src/content/blog/incense-vs-essential-oil-diffuser.md",
@@ -1593,6 +1567,12 @@
     "src/content/blog/incense-vs-candles-vs-diffusers.md",
     "src/content/blog/incense-vs-reed-diffuser-wax-melts.md",
     "src/content/blog/what-is-chinese-incense.md"
+  ],
+  "/blog/chinese-vs-indian-incense/": [
+    "src/content/blog/indian-incense-agarbatti.md"
+  ],
+  "/blog/chinese-vs-japanese-incense/": [
+    "src/content/blog/japanese-incense-kodo.md"
   ],
   "/blog/landeng-editorial-methodology/": [
     "src/content/blog/lanDeng-editorial-methodology.md",
@@ -2028,7 +2008,6 @@
   ],
   "/ingredients/peru-balsam/": [
     "src/content/ingredients/copaiba.md",
-    "src/content/ingredients/fenugreek.md",
     "src/content/ingredients/vanilla.md"
   ],
   "/ingredients/labdanum/": [
@@ -2065,8 +2044,7 @@
   ],
   "/ingredients/fenugreek/": [
     "src/content/ingredients/cumin.md",
-    "src/content/ingredients/fennel.md",
-    "src/content/ingredients/quince.md"
+    "src/content/ingredients/fennel.md"
   ],
   "/ingredients/ginkgo/": [
     "src/content/ingredients/cypress-seed.md",
@@ -2234,6 +2212,9 @@
     "src/content/ingredients/plum-blossom.md",
     "src/content/ingredients/wintersweet.md"
   ],
+  "/blog/sandalwood-vs-red-sandalwood/": [
+    "src/content/ingredients/red-sandalwood.md"
+  ],
   "/ingredients/jiangzhenxiang/": [
     "src/content/ingredients/red-sandalwood.md"
   ],
@@ -2267,8 +2248,5 @@
   ],
   "/ingredients/tuberose/": [
     "src/content/ingredients/ylang-ylang.md"
-  ],
-  "/blog/chinese-vs-indian-incense/": [],
-  "/blog/chinese-vs-japanese-incense/": [],
-  "/blog/sandalwood-vs-red-sandalwood/": []
+  ]
 }

@@ -80,7 +80,7 @@ The processing is a two-stage matter:
 - **Tapping** — the bark is cut so the tree exudes its sticky oleoresin, which is collected.
 - **Refining (optional)** — the volatile turpentine fraction is distilled off, leaving the solid rosin/colophony; this is the familiar amber solid of varnish and violin bows.
 
-Whether a buyer wants the raw resin or the refined rosin depends on the use — raw gum for incense aroma, refined rosin for binder and industrial roles.
+Whether a reader wants the raw resin or the refined rosin depends on the use — raw gum for incense aroma, refined rosin for binder and industrial roles.
 
 ## Working with pine resin in practice (traditional practice, not measured data)
 
@@ -148,45 +148,15 @@ The two are easily told apart: the resin is the warm, balsamic base of the tree,
 
 We describe its aromatic and practical roles; we do **not** make medical claims.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Pine resin is tapped from abundant, widely distributed pine trees and is renewable — trees are re-tapped rather than felled. This makes it one of the least conservation-sensitive aromatics, unlike wild-harvested woods and resins.
 
-Unlike wild-harvested agarwood or frankincense, pine resin is tapped from abundant, managed pine forests, and the trees are re-tapped rather than cut down. There is no CITES listing or meaningful conservation pressure on the material. For a buyer, the practical questions are commercial — **raw resin or rosin, which species, and what purity** — rather than legal or sustainability risk. See the [wholesale guide](/blog/wholesale-guide/).
-
-## Modern commercial applications
-
-> **Direct answer:** Pine resin serves two distinct markets: refined rosin is a large-volume industrial material (varnish, adhesives, fluxes, violin bows), while the raw aromatic gum serves incense. The two are stages of the same oleoresin with very different uses.
-
-- **Incense** — the raw aromatic gum as a fresh, woody-resinous note and traditional binder.
-- **Industry** — refined rosin is a workhorse in varnish, adhesives, paper sizing, and soldering fluxes.
-- **Musical use** — rosin is the familiar friction material on violin, viola, and cello bows.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should specify raw resin versus refined rosin, check clarity and purity, and confirm the form. Because the two stages have different uses, the first question is which material is actually wanted.
-
-For an incense maker or sourcing buyer:
-
-- **Refinement stage** — raw resin for aroma, rosin/colophony for binder and industrial roles; they are not interchangeable.
-- **Clarity and purity** — clean, pale resin without bark debris.
-- **Form** — lumps, solid, or powder; each behaves differently.
-- **Aroma** — a fresh, piney, woody-balsamic scent with no stale off-notes.
+Unlike wild-harvested agarwood or frankincense, pine resin is tapped from abundant, managed pine forests, and the trees are re-tapped rather than cut down. There is no CITES listing or meaningful conservation pressure on the material. For the reader, the practical questions are ones of identification — **raw resin or rosin, which species, and what purity** — rather than legal or sustainability risk..
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Pine resin is flammable — store it away from flame and heat. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** From a manufacturing perspective, pine resin's real value is dual — an inexpensive conifer note and a functional binder — so the working variables are the refinement stage (raw resin vs rosin) and consistency. Rosin is heat-sensitive and behaves differently from wood powder.
-
-Pine resin is unusual among aromatics because it sits in two markets at once: a cheap, fresh conifer note, and an industrial binder (as rosin). Two points follow for anyone working with it:
-
-- **Stage matters more than "grade."** Raw resin and refined rosin are the same chemistry but behave completely differently — the gum melts and smokes like a resin, while rosin is a harder, higher-melting solid with strong adhesive properties. A formula that uses one will not behave the same with the other.
-- **Resin burns differently from wood powder.** Resinous material is sticky and heat-sensitive, so particle size, moisture, and how it is combined with a binder all affect burn — and the right settings **depend on formulation**. There is no universal figure; a buyer should sample against their own production.
-
-In our view, the commercial sweet spot is a **clearly specified material — raw resin or rosin, named species, consistent purity** — rather than an ambiguous "pine resin" label.
 
 ## Summary
 
@@ -220,7 +190,7 @@ See also: [pine needles (松针)](/ingredients/pine-needles/), [cedar](/ingredie
 ### Traditional Chinese use
 **Source:** this page records pine resin (松香) as a traditional aromatic in Chinese 合香 and pine (松) as a longevity symbol. **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the raw resin vs rosin/colophony distinction (volatile turpentine fraction removed). **Evidence type:** Trade terminology.
 
 ### Safety
@@ -236,7 +206,7 @@ See also: [pine needles (松针)](/ingredients/pine-needles/), [cedar](/ingredie
 | Botanical identity | Established |
 | Traditional use | Historically documented |
 | Handling practice | Industry practice — traditional, not measured |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Health claims | Not established |
 
 ## Sources

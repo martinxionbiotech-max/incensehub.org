@@ -43,7 +43,7 @@ Red sandalwood's scent is woody and sweet rather than resinous or sharp — a so
 
 > **Direct answer:** The name 紫檀 means "purple/violet sandalwood" — 紫 (deep red-purple) + 檀 (the aromatic wood register) — but the "檀" is honorific, not botanical: 紫檀 and 檀香 are unrelated plants. The shared character is the source of the English confusion.
 
-The Chinese name 紫檀 (zǐtán) is literal: 紫 "deep red-purple" + 檀, the character that names a whole class of prized aromatic woods. The point to hold onto is that **檀 is a category of honor, not a family**: 檀香 (true sandalwood, *Santalum album*) and 紫檀 (red sandalwood, *Pterocarpus santalinus*) and 降真香 (jiangzhenxiang) are all "檀"-class fragrant woods in the classical register, but they are unrelated plants. The English word "sandalwood," which merges 檀香 and 紫檀, is where the confusion lives — and it is a genuine trap for a buyer who assumes "red sandalwood" is a colored form of sandalwood.
+The Chinese name 紫檀 (zǐtán) is literal: 紫 "deep red-purple" + 檀, the character that names a whole class of prized aromatic woods. The point to hold onto is that **檀 is a category of honor, not a family**: 檀香 (true sandalwood, *Santalum album*) and 紫檀 (red sandalwood, *Pterocarpus santalinus*) and 降真香 (jiangzhenxiang) are all "檀"-class fragrant woods in the classical register, but they are unrelated plants. The English word "sandalwood," which merges 檀香 and 紫檀, is where the confusion lives — and it is a genuine trap for the reader who assumes "red sandalwood" is a colored form of sandalwood.
 
 ## red sandalwood (紫檀) as a naming problem (read this)
 
@@ -55,7 +55,7 @@ Here is the deep problem with 紫檀, and it is a naming problem, not a chemistr
 - **The modern substitution.** Because genuine *Pterocarpus santalinus* is scarce and CITES-regulated, commerce substitutes other red or dyed woods — dyed *Dalbergia* rosewoods, bloodwood, and other reddish tropical timbers — under the name 紫檀. The red color is easy to imitate; the density and provenance are not.
 - **The "sandalwood" false friend.** In English, "red sandalwood" sits misleadingly beside "sandalwood," suggesting a relationship that does not exist. The two are different families, different continents, and different materials: one is bought for its fragrant oil, the other largely for its color and hardness.
 
-**This page describes 紫檀 = *Pterocarpus santalinus*.** The practical consequence for a buyer is to treat 紫檀 as a claim that must be verified against species and origin — exactly the discipline the [incense authentication database](/blog/incense-authentication-database/) walks through.
+**This page describes 紫檀 = *Pterocarpus santalinus*.** The practical consequence for the reader is to treat 紫檀 as a claim that must be verified against species and origin — exactly the discipline the [incense authentication database](/blog/incense-authentication-database/) walks through, and the shared-character trap unpacked in [sandalwood vs red sandalwood](/blog/sandalwood-vs-red-sandalwood/).
 
 ## Where does red sandalwood come from?
 
@@ -121,17 +121,6 @@ Note the unusual ordering: for most incense woods, aroma leads; for 紫檀, **co
 - **Historical Record** — the documented, durable uses as carving/furniture timber and as a red dye/pigment for lacquer and textiles; and the classical listing of 紫檀 among precious fragrant woods.
 - **Scientific Evidence** — the botanical identity of *Pterocarpus santalinus* (Fabaceae) and the heartwood pigment (santalin) are documented; the CITES Appendix II (2019) listing is an established regulatory fact. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species and origin first — genuine *Pterocarpus santalinus* is scarce and CITES-listed, and other red woods are commonly substituted — then judge the depth and evenness of the red color and the density of the heartwood. For powder, ask about color, particle size, and provenance rather than accepting a nominal "紫檀" label.
-
-For an incense maker or sourcing buyer:
-
-- **Species and origin** — ask whether the material is genuinely *Pterocarpus santalinus* and where it comes from; a real seller can answer and document it.
-- **Color and density** — a deep, even crimson, heavy heartwood; pale or light wood is a warning.
-- **Legality** — the species is CITES Appendix II; confirm permitted, documented trade.
-- **Form** — for powder, confirm particle size and color consistency against your formula rather than accepting a grade on the label's word.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -145,25 +134,13 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Botanical source | *Pterocarpus santalinus* (Fabaceae) | *Santalum album* (Santalaceae) | a distinct aromatic wood (see its own entry) |
 | What it is valued for | Dense red heartwood — dye, carving, and a soft sweet scent | Creamy, milky-woody fragrant oil | A precious fragrant wood in the classical register |
 | Aroma | Woody, sweet, faintly rosy-spicy | Creamy, sweet, soft, woody | Its own profile |
-| Key buying risk | Substitution with other red woods | Species substitution (non-*album* "sandalwood") | Source ambiguity |
+| Key identification risk | Substitution with other red woods | Species substitution (non-*album* "sandalwood") | Source ambiguity |
 
 The three are complements in the classical precious-wood canon, not substitutes. See [sandalwood](/ingredients/sandalwood/), [jiangzhenxiang](/ingredients/jiangzhenxiang/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** 紫檀 is the incense ingredient where color and density, not scent, are the specification. A manufacturer should treat the red pigment as a functional requirement — it colors the powder — and verify species and legal origin before anything else, because the name "紫檀" is a category claim, not an identity guarantee.
-
-From a manufacturing perspective, red sandalwood is the clearest case in the aromatic canon of a material bought for **appearance and identity over aroma**:
-
-- **Color is a functional specification, not a bonus.** Ground 紫檀 visibly tints a formula, so the redness is part of what the buyer is paying for. A batch whose color is off — pale, brown, or dyed rather than a natural deep crimson — is a failed batch even if it smells roughly right, because the visual function is gone.
-- **The name is a category, not a species.** "紫檀" historically covered several dark rosewoods, and modern commerce adds substitutes. A buyer who accepts "紫檀" as a self-identifying species label is assuming more than the name guarantees. The disciplined move is to demand species (*Pterocarpus santalinus*), origin, and documentation — the same discipline as for agarwood or sandalwood.
-- **Legal origin is a cost and availability question.** With CITES Appendix II listing, permitted 紫檀 is a documented, slower-moving material. A supply of "cheap, abundant 紫檀" is usually a red flag for substitution.
-
-In our view, the commercial sweet spot is a **documented, legally sourced, genuinely deep-red *Pterocarpus santalinus* heartwood**, bought by species and color spec rather than by the ambiguous name — and priced accordingly, since the scarcity and regulation are real.
-
 ## Summary
 
-Red sandalwood (紫檀) is the dense crimson heartwood of *Pterocarpus santalinus*, a legume of southern India, valued for centuries as much for its red santalin dye and hard carving timber as for its soft, sweetly woody scent. It is unrelated to true sandalwood (*Santalum album*), the shared 檀 character being honorific rather than botanical, and the historical looseness of the name — plus modern substitution with other red woods — makes species and origin the buyer's first check. Listed under CITES Appendix II since 2019, it is a documented, color-and-density-driven material whose red pigment is a functional part of its incense value, not an incidental feature.
+Red sandalwood (紫檀) is the dense crimson heartwood of *Pterocarpus santalinus*, a legume of southern India, valued for centuries as much for its red santalin dye and hard carving timber as for its soft, sweetly woody scent. It is unrelated to true sandalwood (*Santalum album*), the shared 檀 character being honorific rather than botanical, and the historical looseness of the name — plus modern substitution with other red woods — makes species and origin the reader's first check. Listed under CITES Appendix II since 2019, it is a documented, color-and-density-driven material whose red pigment is a functional part of its incense value, not an incidental feature.
 
 ## FAQ
 
@@ -171,13 +148,13 @@ Red sandalwood (紫檀) is the dense crimson heartwood of *Pterocarpus santalinu
 
 **What does red sandalwood smell like?** Woody and sweet, with a faintly rosy, gently spicy character that emerges on gentle heating — softer and less resinous than a classic "sandalwood" note. Because the wood is dense and slow-burning, it is usually blended or heated rather than burned alone for fragrance. The color is as central as the scent: the heartwood's red santalin pigment has been traded as a dye for centuries.
 
-**Why is red sandalwood regulated?** *Pterocarpus santalinus* is a slow-growing tree harvested from a restricted natural range in the dry forests of southern India, and over-harvesting for its valuable heartwood led to it being listed under CITES Appendix II in 2019. The listing means international trade in the wood is monitored and permitted. The scarcity also drives substitution — other red woods are sometimes sold as 紫檀 — so species and origin should be confirmed when buying.
+**Why is red sandalwood regulated?** *Pterocarpus santalinus* is a slow-growing tree harvested from a restricted natural range in the dry forests of southern India, and over-harvesting for its valuable heartwood led to it being listed under CITES Appendix II in 2019. The listing means international trade in the wood is monitored and permitted. The scarcity also drives substitution — other red woods are sometimes sold as 紫檀 — so species and origin should be confirmed when sourcing.
 
 **Is red sandalwood (紫檀) a Chinese incense material?** Yes, historically. 紫檀 is recorded among the precious fragrant woods of classical Chinese incense, alongside 檀香 and 降真香, and it was also the classic material of fine furniture, seals, and Buddhist implements. In incense it reads as a dense, sweetly woody supporting wood. The term is also historically loose — 紫檀 could name several dark rosewoods — so a label should be read with that ambiguity in mind.
 
 **What part of red sandalwood is used?** The dark heartwood. It is used whole for carving and beads, cut for furniture and implements, ground to powder for incense and paste, and extracted for its red pigment. The outer sapwood is pale and of little value; the deep crimson heartwood is the material of trade.
 
-**Why is color so important for red sandalwood (紫檀)?** Because the red pigment is a functional part of the material, not a cosmetic extra. The heartwood's santalin colors incense powder, lacquer, and textiles, so a buyer specifies color the way a perfumer specifies an aroma. A batch with off color is a failed batch even if the scent is acceptable — which is why color and density, more than aroma, are the primary grading signals for this wood.
+**Why is color so important for red sandalwood (紫檀)?** Because the red pigment is a functional part of the material, not a cosmetic extra. The heartwood's santalin colors incense powder, lacquer, and textiles, so a reader specifies color the way a perfumer specifies an aroma. A batch with off color is a failed batch even if the scent is acceptable — which is why color and density, more than aroma, are the primary grading signals for this wood.
 
 See also: [sandalwood](/ingredients/sandalwood/), [jiangzhenxiang](/ingredients/jiangzhenxiang/), and the full [scent guide](/blog/scent-guide/).
 
@@ -189,7 +166,7 @@ See also: [sandalwood](/ingredients/sandalwood/), [jiangzhenxiang](/ingredients/
 ### Traditional Chinese use
 **Source:** 紫檀 recorded as a fragrant and carving wood in classical Chinese incense and furniture contexts; medicinal uses in the *Bencao Gangmu* (本草纲目) tradition. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Authenticity / sourcing
+### Authenticity
 **Source:** *Pterocarpus santalinus* scarcity, CITES Appendix II listing (2019), and the common substitution of other red woods. **Evidence type:** Practical screening.
 
 ### Safety

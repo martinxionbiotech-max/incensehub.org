@@ -71,7 +71,7 @@ The ripe fruit husks are harvested and dried, producing the reddish-brown husk t
 
 > **Direct answer:** 蜀椒 quality turns on the freshness and intensity of its citrus-spicy aroma and its numbing character. Good husks are bright, reddish, and strongly citrus-spicy with a clean numbing quality; dull, dark, or stale husks have lost their volatile oil and their bite.
 
-For a buyer, the practical checks are: **aroma intensity** (a bright, fresh, citrus-spicy scent, not a flat or stale note), **numbing character** (a clean, strong tingling quality from hydroxy-α-sanshool), and **color/freshness** (bright, reddish husks rather than dull, dark, or crumbled ones). The volatile oils and the numbing compound both degrade with age, so freshness is the primary quality driver — a stale Sichuan pepper has lost both its citrus lift and its numbing bite.
+The practical checks are: **aroma intensity** (a bright, fresh, citrus-spicy scent, not a flat or stale note), **numbing character** (a clean, strong tingling quality from hydroxy-α-sanshool), and **color/freshness** (bright, reddish husks rather than dull, dark, or crumbled ones). The volatile oils and the numbing compound both degrade with age, so freshness is the primary quality driver — a stale Sichuan pepper has lost both its citrus lift and its numbing bite.
 
 ## Common forms
 
@@ -101,9 +101,9 @@ The whole husk is the reference form; the powder and oil are convenience or extr
 
 The culinary and early-aromatic use is well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the citrus-spicy aromatic use — including the classical 兰蕙椒桂 record and the 椒 disambiguation from black pepper.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 蜀椒 is the prickly ash (*Zanthoxylum bungeanum*), the Sichuan pepper — distinguish it from true pepper (*Piper nigrum*), a different family.
 - Expect a citrusy, woody, spicy aroma with a numbing, tingling quality from hydroxy-α-sanshool.
@@ -123,18 +123,6 @@ Practical points for buyers:
 | Part used | Dried fruit husk | Dried berry |
 
 The distinction is the core of the 椒 disambiguation: the classical 椒 is the native pepper-tree, and black pepper is the later import that borrowed the register. See [pepper](/ingredients/pepper/), [long-pepper](/ingredients/long-pepper/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 蜀椒 is a "椒 disambiguation" case — the single character 椒 in the classical 兰蕙椒桂 record refers to this native pepper-tree (*Zanthoxylum*), not to the imported black pepper (*Piper nigrum*). The numbing quality (a mouth-feel, not a scent) and the native-vs-import name system (椒 vs 胡椒) together define 蜀椒 as the original Chinese pepper.
-
-From a sourcing and editorial perspective, 蜀椒 is most interesting for how it reorganizes the "pepper" category in Chinese aromatics. Three points follow:
-
-- **The earliest Chinese pepper is native, not imported.** The 椒 of 兰蕙椒桂 is *Zanthoxylum*, a rue-family tree native to Sichuan — not *Piper nigrum*, which arrived later under the 胡 prefix as 胡椒. This reverses a common assumption that "pepper" in Chinese always means the black pepper vine. For a knowledge resource, the correction is substantive: the classical aromatic record names a native tree, and the imported vine is the latercomer.
-- **The numbing quality is a mouth-feel, not a scent — and that matters for incense.** Hydroxy-α-sanshool produces a tingling sensation on the tongue, not an aroma in the air. So 蜀椒's value splits cleanly: as an incense material it contributes a warm, citrus-spicy lift, while its numbing signature is a culinary property that does not translate to smoke. A formulator who expects the numbing "bite" in a burned blend will not find it — the numbing is a taste-event, not a fragrance note.
-- **The name system records the distinction for free.** 椒 (native) vs 胡椒 (foreign, 胡 prefix) is a portable disambiguation that runs across the whole Chinese aromatic vocabulary. A buyer or reader who learns to read 胡 as "import" can instantly sort native from foreign materials — the same tool the fenugreek (葫芦巴) and coriander (胡荽) entries use.
-
-In our view, 蜀椒 is best understood as the **original, native Chinese pepper — the 椒 of the 兰蕙椒桂 record** — whose numbing quality is a culinary mouth-feel rather than an incense note, and whose name (椒 vs 胡椒) records the native-vs-import distinction that runs through Chinese aromatics.
 
 ## Summary
 

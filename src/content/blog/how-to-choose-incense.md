@@ -1,6 +1,6 @@
 ---
 slug: "how-to-choose-incense"
-title: "How to Choose Incense: A Honest Buying Guide"
+title: "How to Choose Incense: A Honest Selection Guide"
 primary_keyword: "how to choose incense"
 search_intent: "commercial_investigation"
 pillar: "P5 — Buying & Selection"
@@ -16,7 +16,7 @@ author: "Landeng Tech Team"
 
 <img src="/images/incense-quality-indicators-closeup-1200x675.webp" alt="Macro close-up of a premium incense stick with even coating and pale ash" width="1200" height="675" loading="lazy">
 
-**Key facts:** This is a buying guide, not a product list. It gives you the decision framework — intention → format → material → smoke — and tells you what to check on a label, with no affiliate rankings and no health claims.
+**Key facts:** This is a selection guide, not a product list. It gives you the decision framework — intention → format → material → smoke — and tells you what to check on a label, with no affiliate rankings and no health claims.
 
 ---
 
@@ -139,7 +139,7 @@ Most "how to choose incense" content is an affiliate listicle ranking products. 
 
 ## The Author's Take
 
-**Position:** The honest buying guide is the highest-leverage page a content-first brand can write.
+**Position:** The honest selection guide is the highest-leverage page a content-first brand can write.
 
 **Reasoning:**
 - Teach the four questions (intention → format → material → smoke) rather than publish a ranked list — the framework outlives any product.

@@ -68,7 +68,7 @@ This page records it honestly as a modern fragrance flower — **no classical Ch
 
 > **Direct answer:** 紫罗兰 is a naming collision: in Chinese it most often names the garden stock (*Matthiola incana*, Brassicaceae), while the sweet violet of perfumery is *Viola odorata* (Violaceae). The shared name hides a different-family, different-scent divide — and it is not an orchid, despite the 兰 ("orchid") element.
 
-The name 紫罗兰 is the single most important disambiguation on this page. In everyday Chinese, 紫罗兰 usually means the garden stock, *Matthiola incana* — a Brassicaceae (mustard-family) ornamental with a different scent and a different botanical family from the violet. The sweet violet of perfumery, *Viola odorata*, is a Violaceae herb. Despite the 兰 ("orchid") element in 紫罗兰, neither plant is an orchid — the name is a decorative coinage, not a botanical label. For a buyer, the terminology rule is to specify *which* 紫罗兰 is meant, because the two plants share a name but differ in family, scent, and use.
+The name 紫罗兰 is the single most important disambiguation on this page. In everyday Chinese, 紫罗兰 usually means the garden stock, *Matthiola incana* — a Brassicaceae (mustard-family) ornamental with a different scent and a different botanical family from the violet. The sweet violet of perfumery, *Viola odorata*, is a Violaceae herb. Despite the 兰 ("orchid") element in 紫罗兰, neither plant is an orchid — the name is a decorative coinage, not a botanical label. For the reader, the terminology rule is to specify *which* 紫罗兰 is meant, because the two plants share a name but differ in family, scent, and use.
 
 ## Why is it used in fragrance?
 
@@ -84,9 +84,9 @@ The sweet violet is not a material with a substantial extraction industry: its s
 
 ## What determines quality?
 
-> **Direct answer:** "Violet" quality is a note-level question, not a flower-level one. For orris root, quality turns on curing age and aroma; for ionones, on purity and consistency. A buyer should establish which material — orris or synthetic — is actually meant before any quality discussion.
+> **Direct answer:** "Violet" quality is a note-level question, not a flower-level one. For orris root, quality turns on curing age and aroma; for ionones, on purity and consistency. A reader should establish which material — orris or synthetic — is actually meant before any quality discussion.
 
-For a buyer, "violet" quality is a note-level question. For **orris root**, the checks are curing age (orris improves with years of aging) and the powdery-sweet aroma; for **synthetic ionones**, the checks are purity and consistency. The first question is therefore not "how good is the violet?" but "which violet — orris root or synthetic ionone?" — because the raw flower is rarely the material being traded at all.
+For the reader, "violet" quality is a note-level question. For **orris root**, the checks are curing age (orris improves with years of aging) and the powdery-sweet aroma; for **synthetic ionones**, the checks are purity and consistency. The first question is therefore not "how good is the violet?" but "which violet — orris root or synthetic ionone?" — because the raw flower is rarely the material being traded at all.
 
 ## Common forms
 
@@ -116,25 +116,13 @@ The distinction is functional: the raw flower is an ornamental, while the *note*
 
 There is **no classical Chinese incense record** for violet (紫罗兰); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Violaceae placement, and its modern perfumery role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - violet (紫罗兰) here is *Viola odorata*; expect a soft, sweet, powdery, green floral scent.
 - Distinguish it from the garden stock (*Matthiola incana*), which shares the Chinese name 紫罗兰 — a different plant.
 - In fragrance the violet note is often orris-root or ionone, not the raw flower; specify the material when sourcing.
-
-## Our Industry View
-
-> **Direct answer:** Violet is the clearest "name-meets-substitute" case: the 紫罗兰 name collides with a different-family garden flower, and the violet *note* is almost never the violet *flower* — it is carried by orris root or synthetic ionones. The flower's scent is fleeting, so the market traded the flower for its substitutes while keeping the name.
-
-From a sourcing and editorial perspective, violet is best read as the material where the *name* and the *note* have both detached from the *flower*. Three points follow:
-
-- **The name points in two directions at once.** 紫罗兰 most often names the garden stock (*Matthiola incana*, Brassicaceae) in everyday Chinese, while the perfume violet is *Viola odorata* (Violaceae) — and neither is an orchid despite the 兰. This is a different-family collision, not a species-level one, and it means a buyer must establish which plant family is even under discussion.
-- **The note outlived the flower.** Because the sweet violet's scent is fleeting, commercial perfumery never built a real flower-extraction industry for it; the "violet" note is carried by orris root and by synthetic ionones. This is the same substitution pattern seen with lily-of-the-valley (synthetic muguet) and with the animal fixatives (synthetic civetone) — a note whose signifier has detached from its botanical source.
-- **The sourcing question is therefore a material question, not a flower question.** "Buying violet" really means deciding among orris root (a cured, aged rhizome with its own quality ladder), synthetic ionones (a purity-and-consistency question), or a ready-made violet accord. A buyer who asks for "violet" without specifying which of these is wanted has not yet asked a sourcing question.
-
-In our view, violet is best understood as a **double detachment** — a name that points to a different-family flower, and a note that points away from the flower toward orris and ionones — making it a textbook case of why "violet" in fragrance is a scent family, not a botanical material.
 
 ## Summary
 

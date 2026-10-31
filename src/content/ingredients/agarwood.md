@@ -38,7 +38,7 @@ Agarwood's scent is woody and resinous at its base, with a sweetness that varies
 
 > **Direct answer:** Agarwood is not a species but a *condition* of the wood. It forms inside *Aquilaria* trees — chiefly *Aquilaria sinensis* in southern China and *Aquilaria malaccensis* in Southeast Asia — when the tree is injured and responds by depositing resin in its heartwood.
 
-*Agarwood is not a plant; it is a product of injury.* The genus *Aquilaria* belongs to the family Thymelaeaceae, a group of roughly 15–20 tree species native to South and Southeast Asia. The two names buyers encounter most are *Aquilaria sinensis* (白木香, the species traditionally harvested in southern China) and *Aquilaria malaccensis* (the main commercial species in Southeast Asia, listed in CITES Appendix II). Both are large evergreen trees whose healthy wood is pale, light, and nearly odorless — the fragrance appears only after resin accumulation. See [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063).
+*Agarwood is not a plant; it is a product of injury.* The genus *Aquilaria* belongs to the family Thymelaeaceae, a group of roughly 15–20 tree species native to South and Southeast Asia. The two names readers encounter most are *Aquilaria sinensis* (白木香, the species traditionally harvested in southern China) and *Aquilaria malaccensis* (the main commercial species in Southeast Asia, listed in CITES Appendix II). Both are large evergreen trees whose healthy wood is pale, light, and nearly odorless — the fragrance appears only after resin accumulation. See [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063).
 
 ## Chinese name and terminology
 
@@ -51,7 +51,7 @@ The Chinese name 沉香 (chénxiāng) is literal: 沉 "to sink" + 香 "fragrance
 - **Oud / oudh** — the Arabic name, now the dominant term in Western perfumery.
 - **Jinkō (沈香) / kyara (伽羅)** — the Japanese terms, where *kyara* names the top grade.
 
-Because one material travels under many names, a buyer's first job is to pin down *what species and what grade* the seller means — the name alone does not identify the material.
+Because one material travels under many names, the reader's first task is to pin down *what species and what grade* the seller means — the name alone does not identify the material.
 
 ## How agarwood forms
 
@@ -61,7 +61,7 @@ Healthy *Aquilaria* wood is pale, light, and essentially scentless. Agarwood is 
 
 香乘 also records four classical formation types, matched to how the resin came to be: 「沈香入水即沉，其品凡四。曰熟结，乃膏凝结，自朽出者。曰生结，乃刀斧伐仆，膏结聚者。曰脱落，乃因木朽而结者。曰虫漏，乃因蠹隙而结者。」 — *sinking agarwood has four grades by origin: 熟结 (ripe-formed: resin condenses and the wood rots away by itself), 生结 (live-formed: resin gathers after the tree is felled or wounded by axe), 脱落 (fallen: resin forms as the wood decays), and 虫漏 (insect-bored: resin forms in insect tunnels).* These four map onto the injury narrative above — 生结 and 虫漏 are the wounding pathways, 熟结 and 脱落 the natural-decay pathways.
 
-> **Botanical vs trade identity:** "agarwood" is not a species — it is a *condition* of the wood. This matters for buyers: what is sold as agarwood may come from different *Aquilaria* species, or (fraudulently) from unrelated woods dressed up to resemble it.
+> **Botanical vs trade identity:** "agarwood" is not a species — it is a *condition* of the wood. This matters for readers: what is sold as agarwood may come from different *Aquilaria* species, or (fraudulently) from unrelated woods dressed up to resemble it.
 
 ## Where does agarwood come from?
 
@@ -96,7 +96,7 @@ Beyond density, Chinese trade also distinguishes material by **origin** (Hainan 
 - Ordinary agarwood is **"wood wraps oil" (木包油)** — hard wood with resin veins.
 - 奇楠 is **"oil wraps wood" (油包木)** — the wood fiber is so thoroughly transformed by resin that it becomes soft and pliable. A good piece **shaves into curls and kneads into pellets** (削之成卷、捏之成丸), and is fragrant even at room temperature.
 
-奇楠 is further graded by color into five grades — 白/绿/紫/黄/黑 (white/green/purple/yellow/black). **Note:** the hierarchy of these color grades is disputed across sources (whether some are distinct grades or aging stages), and the etymology of "qínán" itself is uncertain. We present these as *market terminology*, not settled taxonomy. See [qínán / kyara](/blog/qinan-kyara/) and [how to buy qínán without being misled](/blog/qinan-buying-authentication/).
+奇楠 is further graded by color into five grades — 白/绿/紫/黄/黑 (white/green/purple/yellow/black). **Note:** the hierarchy of these color grades is disputed across sources (whether some are distinct grades or aging stages), and the etymology of "qínán" itself is uncertain. We present these as *market terminology*, not settled taxonomy. See [qínán / kyara](/blog/qinan-kyara/) and [authenticating qínán](/blog/qinan-buying-authentication/).
 
 ## Why is agarwood used in incense?
 
@@ -115,7 +115,7 @@ Resin-bearing heartwood is separated from the pale, scentless sapwood, cleaned, 
 - **Whole pieces and carvings** — high-grade material is kept whole for beads, sculptures, and display.
 - **Oud oil** — the essential oil, obtained by (usually steam or water) distillation; a distinct product from the wood itself.
 
-For powder buyers, **particle size and moisture content** are the practical variables — but the exact target depends on the stick formula, binder, and production line, so no single figure applies across the board (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, **particle size and moisture content** are the practical variables — but the exact target depends on the stick formula, binder, and production line, so no single figure applies across the board . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines agarwood quality?
 
@@ -173,36 +173,11 @@ In Chinese materia medica (本草), agarwood is traditionally described as "movi
 
 **This is traditional materia-medica language, not modern clinical evidence.** We do not repeat or imply that burning agarwood treats any medical condition.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Wild agarwood is depleted, and the genus is CITES-listed, so most commercial supply is now cultivated plantation agarwood. Sourcing should verify species, origin, and whether the material is wild, cultivated, or — in the case of oil — responsibly documented.
 
-Because *Aquilaria* is CITES-listed and wild stands are depleted, responsible sourcing turns on two questions: **which species**, and **whether the material is wild or cultivated**. Wild old-growth agarwood is scarce and legally sensitive; plantation agarwood, produced by inoculating farmed trees, is the renewable mainstream. For buyers, the practical implication is documentation: a credible supplier should be able to name the species and origin and state whether the material is wild or cultivated, rather than offering only an unqualified "agarwood" label. For the commercial side of sourcing, see the [wholesale guide](/blog/wholesale-guide/).
-
-## Modern commercial applications
-
-> **Direct answer:** Agarwood is used in premium incense sticks, perfumery (as oud oil), and carved goods such as beads and sculptures. The wood goes to incense and carving, while the distilled oil goes to fragrance; they are different products with different price structures.
-
-Agarwood reaches the market through distinct channels:
-
-- **Incense sticks and cones** — usually a small proportion of agarwood powder in a blend; the premium positioning comes from the material, not the filler.
-- **Perfumery** — "oud" (agarwood oil) is a high-value fragrance ingredient; the oil market is separate from the wood market.
-- **Carving and beads** — high-grade wood is kept whole for beads and sculpture, where the resin pattern itself is the value.
-- **Loose chips and powder** — sold to incense makers and end users for warming or blending.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should pin down species, origin, density, and authenticity before price. Ask whether the material is wild or cultivated, check aroma on gentle heat, and — for powder — ask about particle size and moisture, since these affect how the material behaves in a formula.
-
-For an incense maker or sourcing buyer, the checks are:
-
-- **Species and origin** — ask which *Aquilaria* species and which region; a real seller can answer.
-- **Density** — the sinking test is a rough resin-content guide, not a guarantee.
-- **Aroma on gentle heat** — the decisive test; it should be complex and evolving, not flat or "burnt."
-- **Wild vs cultivated** — a documentation question with legal and price implications.
-- **Form and consistency** — for powder, confirm particle size and moisture, and request a sample against your formula rather than accepting a nominal grade.
-
-None of these should be taken on the label's word alone; the [authentication database](/blog/incense-authentication-database/) walks through the screening logic.
+Because *Aquilaria* is CITES-listed and wild stands are depleted, responsible sourcing turns on two questions: **which species**, and **whether the material is wild or cultivated**. Wild old-growth agarwood is scarce and legally sensitive; plantation agarwood, produced by inoculating farmed trees, is the renewable mainstream. For readers, the practical implication is documentation: a credible supplier should be able to name the species and origin and state whether the material is wild or cultivated, rather than offering only an unqualified "agarwood" label..
 
 ## Safety
 
@@ -219,32 +194,19 @@ Both are premium aromatic woods, but they form differently and smell different:
 | What it is | Resin-impregnated heartwood (forms after injury) | Fragrant heartwood (scent present in the living wood) |
 | Botanical source | *Aquilaria* spp. | *Santalum album* |
 | Aroma | Woody, resinous, sweet, complex | Creamy, sweet, soft, woody |
-| Key buying risk | Heavy adulteration (dyed / injected wood) | Species substitution (non-*album* "sandalwood") |
+| Key identification risk | Heavy adulteration (dyed / injected wood) | Species substitution (non-*album* "sandalwood") |
 
 The two are complements, not substitutes, in Chinese incense: sandalwood is the gentle, creamy staple and base, agarwood the deeper, rarer premium wood. See [sandalwood](/ingredients/sandalwood/) and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** From a manufacturing perspective, the nominal name "agarwood" matters less than consistency — of aroma, particle size, moisture, contamination, and batch-to-batch variation. For a repeatable stick, a steady mid-grade material often beats an irreproducible top grade.
-
-From a manufacturing perspective, the most important issue is not simply the nominal ingredient name, but **consistency of aroma, particle size, moisture, contamination control, and batch-to-batch variation**. A single exceptional piece of agarwood proves little about a production run; what matters is whether the *next* batch smells and behaves like the last.
-
-Two points follow:
-
-- **Particle size and moisture affect behavior, not just aroma.** In powder, particle size changes how the material packs, draws air, and burns; moisture changes how it grinds and how the finished stick dries and stores. The right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory is not transferable to another.
-- **Aroma changes through processing.** Grinding, heating, and aging can shift the scent, so the aroma of the raw wood is not identical to the aroma of the finished stick. A buyer who approves a raw sample should also approve the blended result.
-
-In our view, the commercial sweet spot is a **consistent, well-documented mid-grade material with a known species and origin**, rather than an irreproducible top grade that cannot be reordered to the same specification.
-
 ## Summary
 
-Agarwood (沉香) is resin-impregnated *Aquilaria* heartwood formed by injury, graded in Chinese practice by resin density (the sinking test) with 奇楠 (qínán) as the structurally distinct top grade. Its value rests on resin content, origin, and aroma complexity, and it is among the most heavily adulterated aromatics, so authenticity checks matter as much as grading vocabulary. In incense it is warmed rather than burned, prized for a layered aroma that unfolds in stages; commercially, consistency and documentation outweigh a one-off exceptional piece.
+Agarwood (沉香) is resin-impregnated *Aquilaria* heartwood formed by injury, graded in Chinese practice by resin density (the sinking test) with 奇楠 (qínán) as the structurally distinct top grade. Its value rests on resin content, origin, and aroma complexity, and it is among the most heavily adulterated aromatics, so authenticity checks matter as much as grading vocabulary. In incense it is warmed rather than burned, prized for a layered aroma that unfolds in stages; in trade, consistency and documentation outweigh a one-off exceptional piece.
 
 ## FAQ
 
 **What is the difference between agarwood and qinan (奇楠)?** 奇楠 (qínán) is the highest grade of agarwood, not a separate plant. The difference is structural: ordinary agarwood shows a "wood wraps oil" (木包油) pattern, where hard wood carries resin veins, while 奇楠 shows "oil wraps wood" (油包木) — the fiber is so thoroughly saturated with resin that it turns soft and pliable, aromatic even at room temperature. A good piece shaves into curls and kneads into pellets. 奇楠 is further divided into color grades, though the hierarchy among those is disputed and treated here as market terminology.
 
-**Is agarwood a type of tree?** No — agarwood is not a species; it is a condition of the wood. It forms inside *Aquilaria* trees when the tree responds to wounding or fungal infection by saturating its heartwood with resin. Healthy *Aquilaria* wood is pale, light, and nearly scentless; only after years of injury and resin accumulation does it darken, densify, and become fragrant. Because several *Aquilaria* species can produce it, the material sold as agarwood may come from different species, which is a key point for buyers checking authenticity.
+**Is agarwood a type of tree?** No — agarwood is not a species; it is a condition of the wood. It forms inside *Aquilaria* trees when the tree responds to wounding or fungal infection by saturating its heartwood with resin. Healthy *Aquilaria* wood is pale, light, and nearly scentless; only after years of injury and resin accumulation does it darken, densify, and become fragrant. Because several *Aquilaria* species can produce it, the material sold as agarwood may come from different species, which is a key point for readers checking authenticity.
 
 **Why is agarwood so expensive?** Agarwood is expensive because it forms slowly and unpredictably. Resin accumulates only after a tree is wounded — by insects, broken branches, lightning, or deliberate injury — and mature resin-bearing wood typically takes decades to develop. Wild *Aquilaria* resources are depleted, and high-grade material is scarce, so most commercial supply today is cultivated or low-grade. The top grade, 奇楠, is rarer still, and heavy adulteration in the market further pushes up the price of genuine material.
 
@@ -254,7 +216,7 @@ Agarwood (沉香) is resin-impregnated *Aquilaria* heartwood formed by injury, g
 
 **What does "sinking-grade" (沉水) agarwood mean?** "Sinking-grade" refers to the classic Chinese density test. The most resin-saturated pieces are dense enough to sink in water, which is why the name 沉香 means "sinking fragrance." This water test sorts material into grades: 沉水 (sinks), 半沉半浮 (half-sinks), and floating, with sinking pieces carrying the most resin and the highest value. It is a density guide, not a proof of authenticity — sophisticated fakes can be made to sink, so it should be combined with other checks.
 
-**What is the difference between wild and cultivated agarwood?** Wild agarwood forms naturally in mature trees over decades, and it is now scarce and CITES-regulated. Cultivated (plantation) agarwood is produced by inoculating farmed trees to induce resin formation, yielding legal, renewable material that is typically lower-grade than old-growth wild wood. The two differ in age, resin character, price, and legal status, so a buyer should ask which a seller is offering rather than assuming.
+**What is the difference between wild and cultivated agarwood?** Wild agarwood forms naturally in mature trees over decades, and it is now scarce and CITES-regulated. Cultivated (plantation) agarwood is produced by inoculating farmed trees to induce resin formation, yielding legal, renewable material that is typically lower-grade than old-growth wild wood. The two differ in age, resin character, price, and legal status, so a reader should ask which a seller is offering rather than assuming.
 
 **What is the difference between agarwood chips and powder?** They are the same resin wood in different physical forms. Chips are cut pieces meant to be warmed on charcoal or an electric heater, where whole surfaces release aroma slowly. Powder is ground resin wood for blending into incense sticks and cones, where a uniform particle size helps the material pack and burn consistently. Neither form is inherently higher quality, but for stick-making, particle size and moisture affect how the powder behaves in a formula.
 
@@ -271,7 +233,7 @@ See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood g
 ### Traditional Chinese use
 **Source:** this page records agarwood as traditionally described for "moving qi and relieving pain" (行气止痛) and warming the middle (温中). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the "sinking" water test (沉水 / 半沉半浮 / floating) and the 奇楠 (qínán) five color grades (白/绿/紫/黄/黑) are market terminology. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -286,7 +248,7 @@ See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood g
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |

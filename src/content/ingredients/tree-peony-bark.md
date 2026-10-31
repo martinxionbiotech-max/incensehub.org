@@ -74,11 +74,11 @@ The source is the tree peony itself, grown across China as both an ornamental an
 
 > **Direct answer:** Tree peony bark is processed by harvesting the root, stripping the bark, and drying it — the "肉白皮丹" part (the red bark over white flesh) being the materia-medica material. It is a root-bark harvest, not a flower or whole-root product.
 
-The processing is a part-separation: the root is harvested, and the bark is stripped from the white flesh and dried. This is the "肉白皮丹" structure — white flesh, red bark — and the bark is the material. For a buyer, the processing point is that 牡丹皮 is specifically the *bark*, not the whole root and not the flower; specifying the part is the whole identification task. It is dried whole or in pieces, and in incense use it would be a muted earthy accent, not a powder to build a formula around.
+The processing is a part-separation: the root is harvested, and the bark is stripped from the white flesh and dried. This is the "肉白皮丹" structure — white flesh, red bark — and the bark is the material. For the reader, the processing point is that 牡丹皮 is specifically the *bark*, not the whole root and not the flower; specifying the part is the whole identification task. It is dried whole or in pieces, and in incense use it would be a muted earthy accent, not a powder to build a formula around.
 
 ## What determines quality?
 
-> **Direct answer:** Classical quality in tree peony bark was tied to source — the red single-petaled mountain flower's root bark was preferred — and to the bark being properly stripped and dried. For a modern buyer, the key checks are that it is the bark (not the flower or the whole root), and that it is clean and dry.
+> **Direct answer:** Classical quality in tree peony bark was tied to source — the red single-petaled mountain flower's root bark was preferred — and to the bark being properly stripped and dried. For a modern reader, the key checks are that it is the bark (not the flower or the whole root), and that it is clean and dry.
 
 The quality points are:
 
@@ -115,34 +115,9 @@ The forms are functional states of the same bark. Because its incense role is mi
 
 The documented, non-medical facts are botanical identity, the Paeoniaceae placement, and the root-bark distinction from the flower.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should specify the part — 牡丹皮 is the root bark, not the flower 牡丹 and not the herbaceous peony root 芍药 — and expect a faint, rooty, earthy scent. The part-specification is the entire identification task, because one tree yields three different products.
-
-For a sourcing buyer, the checks are:
-
-- **Part** — 牡丹皮 is the root bark of the tree peony; distinguish it from the flower (牡丹) and from the herbaceous peony root (芍药, *Paeonia lactiflora*).
-- **Source form** — the classical preference was the red single-petaled mountain form's root bark.
-- **Aroma** — faint, rooty, earthy, woody; not a fragrant flower.
-- **Preparation** — clean, dry, properly stripped bark.
-
-The flower has its own entry at [tree-peony (牡丹)](/ingredients/tree-peony/), the herbaceous relative at [peony (芍药)](/ingredients/peony/), and a related rooty fragrance material at [orris-root](/ingredients/orris-root/) — three distinct products that share family or species proximity but are not interchangeable.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Tree peony bark is the cleanest illustration in the encyclopedia of a "part-specification" principle: one plant can yield three distinct commercial products (flower, tree-peony root bark, herbaceous-peony root), and the buyer's job is to name the part, not just the plant. The name 牡丹皮 does this work — it specifies plant *and* part in two characters.
-
-From a sourcing perspective, 牡丹皮 is a compact lesson in part-specification. Three points follow:
-
-- **One tree, three products.** *Paeonia* supplies the ornamental and fragrant flower (牡丹), the medicinal root bark (牡丹皮, from the tree peony), and — in its herbaceous relative *Paeonia lactiflora* — another root (芍药) that is itself a distinct materia-medica material. A buyer who says "peony" has not yet specified anything; a buyer who says 牡丹皮 has specified both the plant and the part.
-- **The name does the disambiguation.** 牡丹皮 is a two-character spec — plant + part — and this is what makes it reliable. The shared species name alone cannot distinguish the fragrant flower from the quiet bark; the part-character (皮, "bark") is what prevents the confusion. This is a naming pattern the encyclopedia returns to: where the identity risk is part-confusion, the Chinese name often encodes the part.
-- **Aromatic presence is not the value.** The bark's value is medicinal, not fragrant, and its faint scent is almost an anti-signal — a buyer expecting "tree peony" fragrance and receiving the bark would be disappointed. The commercial discipline is to know *which* part carries the fragrance (the flower) and which carries the materia-medica standing (the bark), and to specify accordingly.
-
-In our view, 牡丹皮 is best handled as a **part-specific medicinal material** — and its lesson generalizes: when a plant yields multiple products, the reliable spec is the part-name, not the plant-name. Get the part right, and the sourcing, the fragrance expectation, and the documentation all fall into line.
 
 ## Summary
 

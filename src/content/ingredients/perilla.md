@@ -43,7 +43,7 @@ Perilla is herbal and minty, with a sweet, anise-like warmth and a faint basil e
 
 > **Direct answer:** 紫苏 means "purple perilla" and 白苏 "white perilla," naming the two leaf-color forms of one species. Across East Asia the same plant is shiso (紫苏/青紫苏) in Japan and deulkkae/kkaennip in Korea. The color form is a labeling point, not a botanical difference — and neither is true mint (薄荷) or agastache (藿香).
 
-The name 紫苏 ("purple perilla") contrasts with 白苏 ("white/green perilla"), recording the leaf-pigment difference within one species. The same plant travels under regional names across East Asia — **shiso** in Japan and **deulkkae** (with **kkaennip** for the leaf) in Korea — which is why an ingredient list may say "perilla," "shiso," or "beefsteak plant" for the same material. This matters for buying because the name does not tell you which color form you are getting, and neither 紫苏 nor 白苏 is the same as true mint (薄荷, *Mentha haplocalyx*) or agastache (藿香, *Agastache rugosa*), two other mint-family herbs with their own entries.
+The name 紫苏 ("purple perilla") contrasts with 白苏 ("white/green perilla"), recording the leaf-pigment difference within one species. The same plant travels under regional names across East Asia — **shiso** in Japan and **deulkkae** (with **kkaennip** for the leaf) in Korea — which is why an ingredient list may say "perilla," "shiso," or "beefsteak plant" for the same material. This matters for identification because the name does not tell you which color form you are getting, and neither 紫苏 nor 白苏 is the same as true mint (薄荷, *Mentha haplocalyx*) or agastache (藿香, *Agastache rugosa*), two other mint-family herbs with their own entries.
 
 ## Where does perilla come from?
 
@@ -67,7 +67,7 @@ The part used is the aerial herb — leaves and flowering tops — cut and dried
 - **Powder** — ground leaf for blending into sticks and cones; as with any leafy powder, particle size and moisture affect how it packs and burns.
 - **Essential oil** — a separate steam-distilled product with a stronger, more concentrated anise-mint character; not the same as the leaf.
 
-For powder buyers, particle size and moisture are the practical variables, but the exact target depends on the formula and production line — no single figure transfers between recipes. The mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, particle size and moisture are the practical variables, but the exact target depends on the formula and production line — no single figure transfers between recipes. The mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines perilla quality?
 
@@ -78,7 +78,7 @@ The practical quality points, in rough order:
 1. **Freshness and aroma** — a good dried perilla still smells sweet-anise and green; stale or overdried leaf loses this and reads flat or dusty.
 2. **Cleanliness** — freedom from stems, soil, and foreign leaf.
 3. **Leaf integrity** — whole leaf beats heavily shattered or powdered-down material for aromatic retention.
-4. **Color** — purple vs green is a *form* (紫苏 vs 白苏), not a grade; both are legitimate, but a buyer should know which they are receiving because the label often does not say.
+4. **Color** — purple vs green is a *form* (紫苏 vs 白苏), not a grade; both are legitimate, but a reader should know which they are receiving because the label often does not say.
 
 Perilla carries no standardized commercial grading ladder — it is an abundant herb, not a graded resin — so "quality" here means freshness and cleanliness rather than origin or density.
 
@@ -119,28 +119,6 @@ The two are **one species in two color forms**, a labeling point rather than two
 - **Scientific Evidence** — the essential oil's chemistry (notably perillaldehyde) is characterized, but we present no clinical or medical efficacy claims.
 
 The culinary and aromatic use is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm which leaf form they are receiving (紫苏 purple vs 白苏 green) and — more importantly — that the dried herb is clean, whole, and still fragrant rather than stale. For powder, confirm particle size and moisture against the formula rather than accepting a generic "perilla" label.
-
-For an incense maker or sourcing buyer:
-
-- **Form** — purple (紫苏) or green (白苏); ask, because the label often does not say.
-- **Freshness** — the dried leaf should smell sweet-anise and green, not flat or musty.
-- **Cleanliness and integrity** — whole, clean leaf beats shattered or stem-heavy material.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** Perilla's incense value is as a fresh top note, not a rarity — it is an abundant culinary herb crossing into fragrance. The buyer's real question is consistency of leaf quality and scent retention, not origin or grade, since purple and green perilla are one species and neither carries a rarity premium.
-
-From a manufacturing perspective, perilla is instructive because it is a **culinary herb doing secondary duty as a fragrance**. Unlike agarwood or sandalwood, where origin, age, and resin content dominate the buying decision, perilla's value turns on freshness and aroma retention — the same qualities a chef looks for in the kitchen. Two points follow:
-
-- **The color form is not a grade.** 紫苏 and 白苏 are one species, and a supplier switching silently between purple and green leaf has not necessarily changed the material's botanical identity — but the aroma character can shift slightly with variety and harvest, so a buyer who approves a sample of one should confirm the next batch matches.
-- **It is a top note, so it behaves like one.** Leafy green herbs burn fast and release their scent early; they need a base to carry them. Expect perilla to contribute a bright opening rather than a long dry-down, and dose it accordingly.
-
-In our view, perilla is a cheap, reliable green accent — buy it for freshness and consistency, not for prestige, and treat the purple/green question as a labeling detail rather than a quality signal.
 
 ## Summary
 

@@ -74,7 +74,7 @@ Litsea cubeba's fragrance use is entirely modern, built on its essential oil. Th
 
 > **Direct answer:** Litsea cubeba is processed by steam-distilling the small, black, pepper-like fruit to yield the lemony-citrus essential oil (may chang oil). The oil — not the dried fruit — is the commercial product, which distinguishes this supply chain from that of a dried spice.
 
-The processing is a distillation route: the small fruit is steam-distilled to yield the essential oil. This is the key processing fact — litsea cubeba is primarily an *oil* product, not a dried-fruit spice. The oil carries the lemony-citrus character, and it is the oil that enters perfumery and aromatherapy. For a buyer, this means the relevant quality checks are on the oil (clarity, odor, chemotype) rather than on a dried fruit's appearance.
+The processing is a distillation route: the small fruit is steam-distilled to yield the essential oil. This is the key processing fact — litsea cubeba is primarily an *oil* product, not a dried-fruit spice. The oil carries the lemony-citrus character, and it is the oil that enters perfumery and aromatherapy. For the reader, this means the relevant quality checks are on the oil (clarity, odor, chemotype) rather than on a dried fruit's appearance.
 
 ## What determines quality?
 
@@ -98,7 +98,7 @@ These are oil-quality checks, consistent with a material whose value is a distil
 | Essential oil (may chang oil) | Perfumery, home fragrance, aromatherapy |
 | Dried fruit | Raw material for distillation |
 
-The forms reflect the supply chain: the fruit is the raw material, and the oil is the product. For a fragrance buyer, the oil is the operative form.
+The forms reflect the supply chain: the fruit is the raw material, and the oil is the product. For fragrance, the oil is the operative form.
 
 ## In Chinese tradition
 
@@ -116,34 +116,9 @@ The forms reflect the supply chain: the fruit is the raw material, and the oil i
 
 The documented, non-medical facts are botanical identity, the Lauraceae placement, and the lemony-citrus aromatic use — including the documented name overlap with cubeb.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should distinguish 山鸡椒 (*Litsea cubeba*, Lauraceae) from cubeb (*Piper cubeba*, Piperaceae) — different plants sharing a materia-medica name — and, since the product is an oil, evaluate the oil's brightness and citral-forward lemon character rather than a dried fruit.
-
-For a sourcing buyer, the checks are:
-
-- **Identity** — *Litsea cubeba* (Lauraceae), the mountain pepper; distinguish it from cubeb (*Piper cubeba*, Piperaceae), a peppery-camphoraceous spice that shares the name 荜澄茄.
-- **Product form** — it is an essential oil, not a dried-fruit spice; check the oil, not the fruit.
-- **Oil quality** — bright, lemony-citrus, citral-forward, clear, and fresh.
-- **Role** — a modern lemony top note, not a classical 香乘 material.
-
-The related material with its own entry is [cubeb (荜澄茄)](/ingredients/cubeb/), and another lemony botanical note is [citronella](/ingredients/citronella/) — related by lemony character but distinct materials.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Essential oils can be skin-irritating at high concentration; use as directed. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Litsea cubeba is a clean illustration of a "modern crossover with a borrowed name" — a laurel-family fruit that supplies a lemony essential oil, and that has inherited a materia-medica name (荜澄茄) that properly belongs to a different plant (cubeb). The lesson is twofold: verify the plant when the name is shared, and recognize that an oil product has oil-level quality checks, not fruit-level ones.
-
-From a sourcing perspective, litsea cubeba offers two lessons at once. Three points follow:
-
-- **A shared name is a disambiguation trigger.** The fact that Chinese materia medica applied 荜澄茄 to both cubeb (*Piper cubeba*) and 山鸡椒 (*Litsea cubeba*) means a buyer or researcher encountering the name must confirm which plant is meant — a pepper-family spice vine or a laurel-family fruit tree. The two are different families, different aromas (peppery-camphoraceous versus lemony-citrus), and different supply chains. The shared name is a hazard to trace, not a relationship to assume.
-- **Oil product, oil checks.** Litsea cubeba is fundamentally an essential-oil commodity, not a dried spice. That changes the buyer's toolkit: the quality checks are on the oil (brightness, citral-forward lemon character, clarity, freshness), not on a dried fruit's appearance. A buyer who evaluates it as a dried spice is checking the wrong thing.
-- **Modern, not classical.** Its fragrance standing is entirely modern — it is not a 香乘 material, and claiming otherwise would misstate its provenance. The honesty point is the same one the encyclopedia applies to every modern crossover: state that the use is modern, and do not retrofit a classical origin.
-
-In our view, litsea cubeba is best framed as a **modern lemony essential-oil material whose correct specification requires pinning the plant (Litsea cubeba, not Piper cubeba) and evaluating the oil** — a two-part check that the shared name and the oil-form supply chain both demand.
 
 ## Summary
 

@@ -121,30 +121,6 @@ Rosemary carries no standardized grading ladder — it is an abundant culinary h
 
 The aromatic and culinary use is documented in Western sources, and the 香乘 import record is a documented historical note. We make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm they are getting rosemary leaf, then check freshness and oil content — a green, intact, strongly aromatic leaf. For powder, confirm particle size and moisture against the formula. Note the taxonomy shift: *Salvia rosmarinus* and *Rosmarinus officinalis* are the same plant.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — rosemary is *Salvia rosmarinus* (syn. *Rosmarinus officinalis*); both names are one plant.
-- **Freshness and oil content** — the leaf should be green, intact, and strongly camphoraceous-piney when bruised.
-- **Form** — whole leaf, crushed, powder, or oil; each behaves differently in a blend.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Our Industry View
-
-> **Direct answer:** Rosemary's commercial interest is as a clean, widely available herbal top note, but its real lesson is provenance: it is a documented third-century Western import, not a 香道 heritage material. Its dual scientific name is a labeling detail, and the honest framing — modern crossover, not classical canon — should guide both content and buying.
-
-From a manufacturing perspective, rosemary is a cheap, reliable herbal accent whose history is more interesting than its aroma. Two points follow:
-
-- **Provenance is part of the specification.** Rosemary's classical Chinese record is real but narrow — an imported curiosity at the 魏文帝 court, not a recipe-canon ingredient. Treating it as a 香道 heritage material would misstate its history. The honest framing is "documented early import, modern crossover," which also tells a buyer not to expect any classical rarity premium on a 迷迭香 label.
-- **The dual name is a taxonomy shift, not a quality tier.** *Rosmarinus officinalis* and *Salvia rosmarinus* are one plant; a supplier switching between the two names has not changed the material. The buyer's real variables are freshness and oil content, which are the same qualities a chef would check.
-
-In our view, rosemary is a clean, green-woody top note worth having for its fresh lift — buy it by species name, check freshness and oil content, and do not let the import history or the name change be read as more than they are.
-
 ## Summary
 
 Rosemary (迷迭香) is *Salvia rosmarinus* (syn. *Rosmarinus officinalis*), a Mediterranean mint-family shrub, used as a camphoraceous-piney herbal top note in incense and sachets. Its classical Chinese record is narrow but genuine — 香乘 records it as a third-century Western import to the 魏文帝 court — and its modern incense use is a Western-herbal crossover, not a 香道 heritage material. Its value rests on freshness and oil content rather than rarity, and its medicinal uses are not claimed.

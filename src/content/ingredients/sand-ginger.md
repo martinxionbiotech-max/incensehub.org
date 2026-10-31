@@ -45,7 +45,7 @@ The family placement is the identification crux: sand ginger belongs to the ging
 
 > **Direct answer:** 山柰 (shānnài), also written 沙姜 (shājiāng), names the same rhizome — 沙姜 ("sand ginger") recording its cultivation in sandy soils, the Cantonese-context name for the same spice. The two names point to one plant, *Kaempferia galanga*, not to different materials.
 
-The Chinese naming splits into 山柰 (shānnài) and 沙姜 (shājiāng), both for the same *Kaempferia galanga* rhizome. 沙姜 ("sand ginger") is the descriptive name recording its sandy-soil cultivation, and it is the form most familiar in Cantonese and Southeast Asian cooking contexts; 山柰 is the materia-medica and general name. The two-name situation is a naming point, not a species distinction: both point to kencur/sand ginger, and a buyer encountering either should read it as *Kaempferia galanga*.
+The Chinese naming splits into 山柰 (shānnài) and 沙姜 (shājiāng), both for the same *Kaempferia galanga* rhizome. 沙姜 ("sand ginger") is the descriptive name recording its sandy-soil cultivation, and it is the form most familiar in Cantonese and Southeast Asian cooking contexts; 山柰 is the materia-medica and general name. The two-name situation is a naming point, not a species distinction: both point to kencur/sand ginger, and a reader encountering either should read it as *Kaempferia galanga*.
 
 ## The sand ginger / common ginger distinction (read this)
 
@@ -58,7 +58,7 @@ The distinction matters because the English name "ginger" invites the confusion:
 - **sand ginger (山柰)** — *Kaempferia galanga*, camphoraceous, earthy, faintly floral. This entry.
 - **common ginger (生姜)** — *Zingiber officinale*, fresher, hotter, more citrusy-pungent. A different genus.
 
-The two are not substitutes: sand ginger's camphoraceous warmth is a different register from common ginger's hot freshness. A buyer who specifies "ginger" has not specified anything; a buyer who specifies 山柰 (*Kaempferia galanga*) has. The related galangal (*Alpinia* spp.) is a third ginger-family rhizome with yet another character — see below.
+The two are not substitutes: sand ginger's camphoraceous warmth is a different register from common ginger's hot freshness. A reader who specifies "ginger" has not specified anything; a reader who specifies 山柰 (*Kaempferia galanga*) has. The related galangal (*Alpinia* spp.) is a third ginger-family rhizome with yet another character — see below.
 
 ## Where does sand ginger come from?
 
@@ -76,7 +76,7 @@ In incense, sand ginger functions as a *warm spice accent*: its camphoraceous, p
 
 > **Direct answer:** Sand ginger is processed by harvesting the rhizome, cleaning, and drying; it is then used whole, sliced, or ground. The strength of its camphoraceous-spicy aroma when broken is the main quality indicator, so drying that preserves the oils is the processing goal.
 
-The processing is the standard spice-rhizome route: the rhizome is harvested, cleaned, and dried, then used whole, sliced, or ground. Because its value is the volatile camphoraceous-spicy aroma, the drying step is the critical one — it must preserve the oils rather than degrade them. For a buyer, the practical test is to break a piece and smell: a strong, clean camphoraceous-spicy hit is the sign of well-processed material.
+The processing is the standard spice-rhizome route: the rhizome is harvested, cleaned, and dried, then used whole, sliced, or ground. Because its value is the volatile camphoraceous-spicy aroma, the drying step is the critical one — it must preserve the oils rather than degrade them. For the reader, the practical test is to break a piece and smell: a strong, clean camphoraceous-spicy hit is the sign of well-processed material.
 
 ## What determines quality?
 
@@ -119,34 +119,9 @@ The forms are states of the same rhizome. For incense blending, the powder is th
 
 The documented, non-medical facts are botanical identity and the rhizome's long use as a pungent culinary and aromatic spice.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm the species (山柰 = *Kaempferia galanga*, not common ginger), expect a clean, camphoraceous-spicy aroma when broken, and treat it as a warm spice accent for blending rather than a solo material. The aroma is the main quality check.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — 山柰 (*Kaempferia galanga*, sand ginger/kencur), not common ginger 生姜 (*Zingiber officinale*); they are different rhizomes.
-- **Aroma** — clean, dry, and strongly camphoraceous-spicy when broken; the aroma is the grade.
-- **Form and freshness** — for powder, freshness matters most, since ground spice loses its top note faster.
-- **Role** — a warm spice accent, usually blended, not burned alone.
-
-The ginger-family relatives each have their own entry and character: [galangal (高良姜)](/ingredients/galangal/) is sharper and more resinous-piney, and [cardamom (白豆蔻)](/ingredients/cardamom/) is sweeter and more eucalyptus-bright — three distinct rhizomes under the broad "ginger" umbrella.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Sand ginger is a study in the "false friend" problem that runs through the ginger family: the English name "ginger" invites buyers to conflate at least three distinct rhizomes (sand ginger, common ginger, galangal), when the camphoraceous, earthy character of sand ginger is its own thing. The spec is the species, not the word "ginger."
-
-From a sourcing perspective, sand ginger illustrates a recurring spice-market hazard. Three points follow:
-
-- **"Ginger" is not a spec.** The English word "ginger" covers a family of rhizomes — *Kaempferia galanga* (sand ginger), *Zingiber officinale* (common ginger), *Alpinia* spp. (galangal) — with genuinely different aromas. A buyer who says "ginger" has not specified a material; a buyer who says 山柰 / *Kaempferia galanga* has. The camphoraceous, earthy, faintly-floral character of sand ginger is distinct enough that mistaking it for common ginger would change the entire aroma of a formula.
-- **Aroma is the grade.** For a spice rhizome, the volatile camphoraceous-spicy scent is the whole value, so the practical quality test is sensory — break a piece and smell. This is the rare case where the buyer's nose is the most reliable instrument, and it is worth leaning on it over a label.
-- **Culinary and incense share a root.** Sand ginger's dual standing — culinary spice and warming aromatic — is the "香药" logic at work: a warm, pungent spice character that reads as both food and fragrance. A buyer sourcing it for incense is buying the same warm spice note that the kitchen uses, just applied to a different end.
-
-In our view, sand ginger is best framed as a **camphoraceous spice accent whose correct spec is the species, not the word "ginger"** — and its lesson generalizes to the whole ginger family: pin the rhizome, check the aroma, and do not let a shared English name blur distinct materials.
 
 ## Summary
 

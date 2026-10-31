@@ -36,7 +36,7 @@ author: "Landeng Tech Team"
 
 The first step in making incense powder is not grinding but **grading** — confirming the material is what it claims to be and separating the good from the rest. This matters because the mill faithfully preserves whatever it is fed: adulterated or misidentified material becomes adulterated powder.
 
-Grading runs on the same principles a buyer should already know:
+Grading runs on the same principles a reader should already know:
 
 - **Species** — is the wood actually the sandalwood or agarwood it is sold as? See [incense authentication](/blog/incense-authentication-database/).
 - **Part** — heartwood versus sapwood, bark versus leaf, resin versus wood, all behave and smell differently in the mill.
@@ -105,7 +105,7 @@ Incense powder is unusual in being **both an end and a means**:
 - **As a finished product**, it is burned or heated loose — the pure-material format described in [incense powder & resin](/blog/incense-powder-resin/).
 - **As an intermediate**, it is mixed with a combustible binder (makko) and water into a paste, formed, and dried — the process at the heart of [how incense is made](/blog/how-incense-is-made/).
 
-The distinction that follows a buyer through both uses: whether the powder is **real botanical material or a fragrance carrier**. A sandalwood powder can be ground sandalwood heartwood, or a neutral powder scented with sandalwood fragrance oil. The two look similar and behave differently, and the same material-vs-fragrance test applies. See [incense powder vs wood chips](/blog/incense-powder-vs-wood-chips/) and [what makes incense "natural"](/blog/what-makes-incense-natural/).
+The distinction that follows a reader through both uses: whether the powder is **real botanical material or a fragrance carrier**. A sandalwood powder can be ground sandalwood heartwood, or a neutral powder scented with sandalwood fragrance oil. The two look similar and behave differently, and the same material-vs-fragrance test applies. See [incense powder vs wood chips](/blog/incense-powder-vs-wood-chips/) and [what makes incense "natural"](/blog/what-makes-incense-natural/).
 
 ---
 
@@ -121,12 +121,12 @@ The distinction that follows a buyer through both uses: whether the powder is **
 
 ## The Author's Take
 
-**Position:** The powder is where incense quality is actually decided — and it is the stage most buyers never see.
+**Position:** The powder is where incense quality is actually decided — and it is the stage most readers never see.
 
 **Reasoning:**
 - Everything downstream (blend, bind, shape, burn) inherits from the grind; a bad powder cannot become a good stick.
 - The two questions I would ask any maker are not "how fine" but "how uniform" and "how cool."
-- A buyer who understands grinding and sieving reads a stick completely differently — as the tip of a process, not the whole product.
+- A reader who understands grinding and sieving reads a stick completely differently — as the tip of a process, not the whole product.
 
 *This is the author's editorial view and experience — not a verified fact.*
 

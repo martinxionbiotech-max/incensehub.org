@@ -94,7 +94,7 @@ The indirect-fire technique (隔火焚香) is the ancestor of Japanese kōdō, a
 | Low-Smoke Incense | 微烟香 | Prepared reduced-smoke category (details unverified) |
 | Smokeless Incense | 无烟香 | Prepared no-smoke category (details unverified) |
 
-For the buyer-facing decision of which form fits which session, see [which incense format](/blog/which-incense-format/). For the stick-vs-cone specifics, see [incense stick vs cone](/blog/incense-stick-vs-cone/).
+For the reader-facing decision of which form fits which session, see [which incense format](/blog/which-incense-format/). For the stick-vs-cone specifics, see [incense stick vs cone](/blog/incense-stick-vs-cone/).
 
 ## How the Three Layers Connect
 

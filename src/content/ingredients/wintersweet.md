@@ -54,7 +54,7 @@ This is the key disambiguation for the material:
 - **wintersweet (蜡梅)** — *Chimonanthus praecox*, wintersweet family (Calycanthaceae). A honeyed, waxy winter floral. This entry.
 - **plum blossom (梅花)** — *Prunus mume*, rose family (Rosaceae). A delicate, almondy, early-spring floral. See [plum-blossom](/ingredients/plum-blossom/).
 
-They share a cold-season bloom and the "梅" character, but they are unrelated plants with different scent characters — and each has its own entry in this encyclopedia. The confusion is reinforced by the fact that both are celebrated winter/early-spring garden flowers, but a buyer or reader should not let the shared character blur their separate botanical identities.
+They share a cold-season bloom and the "梅" character, but they are unrelated plants with different scent characters — and each has its own entry in this encyclopedia. The confusion is reinforced by the fact that both are celebrated winter/early-spring garden flowers, but a reader or reader should not let the shared character blur their separate botanical identities.
 
 ## Where does wintersweet come from?
 
@@ -81,12 +81,12 @@ This is the key commercial distinction: wintersweet is a *garden* flower, not an
 
 ## What determines wintersweet quality?
 
-> **Direct answer:** For the natural flower, quality means a fresh, sweet, honeyed bloom — but because wintersweet is not a bulk crop, "quality" is mostly a horticultural and fragrance-accord matter rather than a graded-material matter. The commercial question is less about grade than about whether the "wintersweet" note is natural flower or a reproduced accord.
+> **Direct answer:** For the natural flower, quality means a fresh, sweet, honeyed bloom — but because wintersweet is not a bulk crop, "quality" is mostly a horticultural and fragrance-accord matter rather than a graded-material matter. The identification question is less about grade than about whether the "wintersweet" note is natural flower or a reproduced accord.
 
 The practical points differ from a bulk incense material:
 
 1. **Natural flower** — fresh, sweet, honeyed bloom; a garden rather than a commercial crop.
-2. **Accord vs natural** — a "wintersweet" fragrance is often a reproduced accord; whether a buyer wants the natural flower or the accord is a specification question.
+2. **Accord vs natural** — a "wintersweet" fragrance is often a reproduced accord; whether a reader wants the natural flower or the accord is a specification question.
 3. **Disambiguation** — confirm it is 蜡梅 (*Chimonanthus praecox*), not 梅花 (*Prunus mume*), which is a different flower.
 
 Wintersweet carries no standardized incense grading ladder — it is not a bulk material — so "quality" is a horticultural and accord-reproduction matter rather than a graded-material matter.
@@ -117,27 +117,6 @@ Wintersweet carries no standardized incense grading ladder — it is not a bulk 
 
 The garden-cultural and aromatic use is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should first decide whether they want the natural flower or a reproduced accord, since wintersweet is not a bulk crop and its fragrance is usually supplied as an accord. Then confirm the disambiguation — 蜡梅 (*Chimonanthus praecox*) vs 梅花 (*Prunus mume*) — and, for the natural flower, check for a fresh, sweet, honeyed bloom.
-
-For an incense maker or sourcing buyer:
-
-- **Natural flower vs accord** — wintersweet's scent is usually supplied as a reproduced accord, not a massed dried flower; specify which you want.
-- **Disambiguation** — 蜡梅 (*Chimonanthus praecox*) vs 梅花 (*Prunus mume*); unrelated plants despite the shared 梅 name.
-- **Freshness (natural flower)** — a fresh, sweet, honeyed bloom rather than a faded one.
-
-## Our Industry View
-
-> **Direct answer:** Wintersweet's commercial lesson is the garden-versus-crop distinction: it is a celebrated ornamental whose scent reaches incense mostly as a reproduced accord, not as a bulk material. A buyer asking for "wintersweet" should know they are usually buying a honeyed-waxy floral character, not a massed dried flower — and should keep it distinct from the plum blossom.
-
-From a manufacturing perspective, wintersweet is instructive because it is a **garden flower, not an incense crop**. It blooms in deep winter, is beloved as an ornamental, and has a memorable honeyed-waxy scent — but it is not harvested at the scale of jasmine or rose, so its scent reaches blends mainly as a reproduced accord. Two points follow:
-
-- **Know whether you are buying flower or character.** A "wintersweet" note in a formula is usually a sweet, honeyed-waxy floral accord, not a massed dried bloom. A buyer who wants the natural flower should say so explicitly — and accept that it will be a niche, seasonal material, not a bulk commodity.
-- **The 梅 character is a trap.** 蜡梅 and 梅花 are unrelated plants — Calycanthaceae vs Rosaceae — sharing a cold-season bloom and a name character. In sourcing, the only reliable identifier is the species name, because "梅" will not keep a waxy winter flower and an almondy early-spring blossom apart.
-
-In our view, wintersweet is a lovely, evocative winter note best understood as a character to be reproduced or a niche natural material — buy it by species, decide flower-versus-accord up front, and do not let the shared 梅 name blur it into the plum blossom.
-
 ## Summary
 
 Wintersweet (蜡梅) is the flower of *Chimonanthus praecox*, a wintersweet-family (Calycanthaceae) shrub or small tree native to central China, with a sweet, honeyed, waxy bloom that carries well in cold air. It is a garden ornamental first and an incense note second, usually reaching blends as a reproduced accord rather than a bulk material. Despite its name it is not a plum — it is unrelated to 梅花 (*Prunus mume*, Rosaceae) — and its medicinal uses are traditional language, not clinical evidence.
@@ -154,7 +133,7 @@ Wintersweet (蜡梅) is the flower of *Chimonanthus praecox*, a wintersweet-fami
 
 **Where is wintersweet used?** Primarily as a celebrated winter garden ornamental, and as a niche sweet, honeyed winter floral note in incense and fragrance — usually as an accord rather than a bulk material, since it is not harvested at incense-crop scale. Its documented medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-**Is wintersweet a bulk incense material?** No. Unlike jasmine or rose, wintersweet is a garden ornamental rather than a bulk incense crop, so its scent usually reaches blends as a reproduced honeyed-waxy floral accord rather than a massed dried flower. A buyer who wants the natural flower is asking for a niche, seasonal material, not a commodity.
+**Is wintersweet a bulk incense material?** No. Unlike jasmine or rose, wintersweet is a garden ornamental rather than a bulk incense crop, so its scent usually reaches blends as a reproduced honeyed-waxy floral accord rather than a massed dried flower. A reader who wants the natural flower is asking for a niche, seasonal material, not a commodity.
 
 See also: [plum-blossom](/ingredients/plum-blossom/), [osmanthus](/ingredients/osmanthus/), [magnolia-flower](/ingredients/magnolia-flower/), [daphne](/ingredients/daphne/) and the full [scent guide](/blog/scent-guide/).
 

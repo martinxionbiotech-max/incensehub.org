@@ -57,7 +57,7 @@ This page records it honestly: a native species with a real Chinese name, but **
 
 > **Direct answer:** 缬草 (xiécǎo) is the Flora of China Chinese name for *Valeriana officinalis*. The name is modern-botanical rather than classical-materia-medica — it does not carry the classical 香材 or 本草 status of a term like spikenard (甘松), which is part of why the plant's absence from the 本草纲目 canon matters.
 
-The name 缬草 is the Flora of China designation for *V. officinalis*, functioning as a modern botanical label rather than a classical 香材 term. This naming layer matters: unlike spikenard (甘松), which is a genuine classical 香材 with a 本草 record, 缬草's Chinese name is the modern botanical one, and the plant has no comparable classical standing. For a buyer, the terminology signal is that "缬草" points to a modern-botanical entity, not a classical Chinese incense ingredient.
+The name 缬草 is the Flora of China designation for *V. officinalis*, functioning as a modern botanical label rather than a classical 香材 term. This naming layer matters: unlike spikenard (甘松), which is a genuine classical 香材 with a 本草 record, 缬草's Chinese name is the modern botanical one, and the plant has no comparable classical standing. For the reader, the terminology signal is that "缬草" points to a modern-botanical entity, not a classical Chinese incense ingredient.
 
 ## Why is it used in fragrance and herbalism?
 
@@ -75,7 +75,7 @@ The processing is a curing-and-drying step: the root and rhizome are harvested a
 
 > **Direct answer:** Valerian root quality turns on how well it has cured — the dried root should carry the full earthy, musky, woody character rather than a weak or green one — and on cleanliness. Because it is a heavy base note, it is judged by depth and tenacity, not by any floral brightness.
 
-For a buyer, the practical checks are **curing and aroma** (a properly dried root with the full earthy-musky depth, not a weak or green one), **cleanliness** (freedom from soil and mold), and **tenacity** (the fixative depth that makes it useful as a base note). It is a heavy, dark material, best blended rather than burned alone, and the cured root is the reference point — the fresh root does not yet have the character that makes it valuable.
+The practical checks are **curing and aroma** (a properly dried root with the full earthy-musky depth, not a weak or green one), **cleanliness** (freedom from soil and mold), and **tenacity** (the fixative depth that makes it useful as a base note). It is a heavy, dark material, best blended rather than burned alone, and the cured root is the reference point — the fresh root does not yet have the character that makes it valuable.
 
 ## Common forms
 
@@ -105,9 +105,9 @@ The dried root is the material proper; powder and extract are convenience forms 
 
 Valerian has **no classical Chinese incense record**, and its Chinese materia-medica documentation is modern rather than part of the 本草纲目 canon. We make **no medical claims**. The documented facts are botanical identity, the Valerianaceae placement, and its modern perfumery and herbal role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - valerian (缬草) is the dried root of *Valeriana officinalis*; expect a strong, earthy, musky, woody scent.
 - It is a heavy base note, best blended rather than burned alone; the cured root smells earthier than the fresh one.
@@ -124,18 +124,6 @@ Practical points for buyers:
 | Classical Chinese status | None (native, no canon record) | Classical 香材 | None (Indian/SE Asian) |
 
 The three are often grouped as "earthy roots," but they are distinct species with distinct scents and different classical standing. See [spikenard](/ingredients/spikenard-nardostachys/) and [vetiver](/ingredients/vetiver/).
-
-## Our Industry View
-
-> **Direct answer:** Valerian teaches the cleanest lesson in the batch about the difference between "native to China" and "classical 香材." A plant can grow in China and carry a Flora of China name, yet still have no place in the 本草纲目 canon — the classical canon was a curated cultural selection, not a botanical inventory of everything that grew on Chinese soil.
-
-From a sourcing and editorial perspective, 缬草 is valuable precisely because it forces a distinction that most ingredient pages blur. Three points follow:
-
-- **"Native" is not the same as "classical."** *Valeriana officinalis* grows across China and has a Flora of China name, yet it is absent from the 本草纲目 and 拾遗 canons. The classical 香材 system was a *curated cultural selection* — the materials a tradition chose to value — not a botanical census of every species on Chinese soil. Valerian's case makes that distinction explicit, and it is a distinction that applies to many "native but unclassical" plants.
-- **The name layer is the tell.** 缬草 is a modern botanical designation, not a classical 香材 term; contrast spikenard (甘松), which is both a species and a classical name with a 本草 record. A buyer who recognizes that the *name* is modern will correctly not assume classical standing — a quick diagnostic that works across the material families.
-- **The European stronghold is a sourcing fact, not a footnote.** Valerian's established use is Western — European herbalism and perfumery — which means its commercial supply chain and its buyer expectations are European-shaped. For a Chinese-context sourcing conversation, the honest framing is that this is a modern crossover root, evaluated as a base note by depth and tenacity, not as a recovered classical 香材.
-
-In our view, valerian is best understood as the **"native-but-unclassical" case study** — a plant that demonstrates, more clearly than any borrowed-name exotic, that botanical presence in China and membership in the classical incense canon are two different things.
 
 ## Summary
 

@@ -79,29 +79,6 @@ The plant ranges across tropical and subtropical Asia — South and Southeast As
 
 The working material is the leaf, and the process is distillation rather than simple drying or grinding. The aromatic leaves yield a camphoraceous volatile oil rich in borneol and related compounds, and from this oil the l-borneol is isolated and crystallized as 艾片. The practical consequence is that 艾纳香 reaches the market in two distinct forms — the crude leaf and the refined borneol crystal — which are different products with different uses and prices. The crystal is the classical incense material; the crude leaf is more often a regional medicinal and aromatic herb.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should distinguish 艾纳香 (the leaf and its l-borneol, 艾片) from tree-resin borneol (*Dryobalanops aromatica*) and from synthetic borneol — the three differ in isomer, purity, and price. Confirm the source form and the isomer, since "borneol" alone does not identify which material is being offered.
-
-For a sourcing buyer, the checks are:
-
-- **Source form** — confirm whether the material is 艾片 (l-borneol, leaf-distilled from *Blumea balsamifera*), tree-resin d-borneol (*Dryobalanops aromatica*), or synthetic borneol; the three differ in isomer, purity, and price.
-- **Isomer** — l-borneol (艾片) is the leaf form; d-borneol the tree-resin form; synthetic material may be a mix. The isomer matters for both purity and provenance.
-- **Format** — the refined crystal is the incense material; the crude leaf is a different, more regional product.
-- **Purity** — borneol crystals vary in refinement; for incense, a clean, well-crystallized l-borneol is the benchmark rather than a crude mixed extract.
-
-## Our Industry View
-
-> **Direct answer:** 艾纳香's industrial lesson is that "borneol" is a family, not a single product. The leaf-distilled l-borneol (艾片) sits beside tree-resin d-borneol and synthetic borneol as three materials sharing one name but differing in isomer, cost, and provenance — so the buyer's first job is to collapse the name into a specific source before any price or quality is discussed.
-
-艾纳香 is the entry where the borneol family's naming problem is most visible, and it is a genuine sourcing lesson:
-
-- **One name, three materials.** "Borneol" / 冰片 can mean tree-resin d-borneol, leaf-distilled l-borneol (艾片, from this plant), or synthetic borneol. They share a name but differ in isomer, naturalness, cost, and provenance. A buyer who orders "borneol" without a source has not specified a material.
-- **The leaf form is the accessible form.** Because 艾纳香 is a common, renewable shrub, its l-borneol has historically been the more readily produced natural borneol — a supply fact that shaped why the classical tradition developed three distinct sources rather than relying on the scarce tree resin alone.
-- **The classical role was functional, not decorative.** The *Bencao Gangmu* frames 艾纳香 as a blender — 和合诸香, to harmonize the many aromatics, and to gather smoke. That is a *functional* description of a borneol-type material: borneol's cooling, clarifying, smoke-binding character is a technical asset in 合香, not a decorative top note.
-
-In our view, the commercial sweet spot is a **well-crystallized, source-identified l-borneol (艾片)**, bought with the isomer and the plant source stated explicitly — because in the borneol family, the name alone is a category, and only the source makes it a material.
-
 ## Summary
 
 艾纳香 (Blumea balsamifera) is the sambong / Ngai camphor shrub, an Asteraceae leaf aromatic of tropical Asia whose borneol-rich oil yields l-borneol (艾片), one of three classical borneol forms alongside tree-resin d-borneol and synthetic borneol. The *Bencao Gangmu* records it as a blending leaf aromatic — 和合诸香, to harmonize the many aromatics and gather their smoke — a functional rather than decorative role. Its value rests on being a renewable, accessible natural borneol source, and its lesson is that "borneol" is a family that must be collapsed into a specific source before it is a specification.
@@ -116,7 +93,7 @@ In our view, the commercial sweet spot is a **well-crystallized, source-identifi
 
 **Does Blumea Balsamifera (艾纳香) appear in classical Chinese records?** Yes. The *Bencao Gangmu* (本草纲目), herb section (草之三), records 艾纳香 and cites the *Guangzhi* (广志): "艾纳出西国，似细艾" (艾纳 comes from the western regions, resembling fine mugwort), adding that it "可以和合诸香，烧之能聚其烟" — can blend the many aromatics, and burned, gathers the smoke.
 
-**Is 艾片 the same as borneol crystal (冰片)?** Not exactly. 艾片 (ài piàn) is l-borneol distilled from the leaves of *Blumea balsamifera*, one of three borneol forms. 冰片 (bīngpiàn) more often names the refined crystal generally, covering natural tree-resin d-borneol, leaf-distilled l-borneol, and synthetic borneol. The name alone does not specify the source, so buyers should check which form they are getting.
+**Is 艾片 the same as borneol crystal (冰片)?** Not exactly. 艾片 (ài piàn) is l-borneol distilled from the leaves of *Blumea balsamifera*, one of three borneol forms. 冰片 (bīngpiàn) more often names the refined crystal generally, covering natural tree-resin d-borneol, leaf-distilled l-borneol, and synthetic borneol. The name alone does not specify the source, so readers should check which form they are getting.
 
 **How is l-borneol (艾片) made?** By distilling the aromatic leaves of *Blumea balsamifera* to obtain a borneol-rich volatile oil, from which the l-borneol is crystallized. The result is a refined crystalline material — distinct from the crude leaf and from tree-resin or synthetic borneol — and it is the crystal, not the raw leaf, that is the classical incense material.
 

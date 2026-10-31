@@ -126,7 +126,7 @@ We describe its aromatic and culinary use; we do **not** make medical claims.
 
 ## Adulteration & misidentification
 
-> **Direct answer:** The main buying risk is substitution — Ceylon cinnamon (*C. verum*) sold as, or confused with, Chinese cassia, and vice versa. Both are genuine *Cinnamomum* barks, but they differ in aroma, thickness, and price, so the label should name the species.
+> **Direct answer:** The main identification risk is substitution — Ceylon cinnamon (*C. verum*) sold as, or confused with, Chinese cassia, and vice versa. Both are genuine *Cinnamomum* barks, but they differ in aroma, thickness, and price, so the label should name the species.
 
 The practical screening point is the **cassia vs Ceylon** distinction already covered above: both are real cinnamon barks, but a reader who wants the strong, thick cassia of Chinese incense should not receive the milder, finer Ceylon type. The two are told apart by bark thickness (cassia is thicker and harder), aroma strength, and price. This is a species/labeling matter, not a counterfeit-versus-genuine issue in the way agarwood adulteration is.
 

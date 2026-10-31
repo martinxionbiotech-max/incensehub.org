@@ -133,51 +133,19 @@ Both are resins from the same plant family (Burseraceae), but from different gen
 | Character | Bright, clean | Dark, heavy |
 | Traditional pairing | Often paired with myrrh | Often paired with frankincense |
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Frankincense supply depends on wild and semi-wild *Boswellia* trees in arid regions, and over-tapping is a documented concern in parts of the range. Sourcing should confirm species, origin, and ideally the harvest practice.
 
-Frankincense is mostly tapped from wild or semi-managed trees rather than plantations, so long-term supply depends on the health of those stands. Over-tapping and the conversion of dryland forest have been reported as pressures in parts of the range. For a buyer, the practical questions are the same as for other resins: **which species, which origin, and how is it harvested** — with documentation, where available. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Frankincense goes into incense (loose resin and sticks), perfumery (frankincense oil), and personal care. The resin, the powder, and the oil serve different markets.
-
-- **Incense** — loose tears for heating, and resin powder blended into sticks and cones.
-- **Perfumery** — frankincense essential oil as a fresh, resinous note and fixative.
-- **Personal care and cosmetics** — the oil in soaps, creams, and aromatherapy products.
-
-## What buyers should look for
-
-> **Direct answer:** Ask for species and origin, look for whole, pale, clean tears over dust, and confirm the form — tears, powder, or oil — since each behaves differently in a blend.
-
-For an incense maker or sourcing buyer:
-
-- **Species and origin** — *B. sacra*, *B. carterii*, or *B. serrata*; a real seller names them.
-- **Tear quality** — whole, pale, clean tears over dust and mixed fragments.
-- **Form** — tears for heating, powder for blending, oil for fragrance; they are not interchangeable.
-- **Aroma** — clean, bright, citrus-resinous, with no stale or smoky off-notes.
+Frankincense is mostly tapped from wild or semi-managed trees rather than plantations, so long-term supply depends on the health of those stands. Over-tapping and the conversion of dryland forest have been reported as pressures in parts of the range. For the reader, the practical questions are the same as for other resins: **which species, which origin, and how is it harvested** — with documentation, where available..
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, the useful variable is not "frankincense" as a single material but species, grade, and physical form. A steady supply of one named species in a consistent grind or tear grade matters more than a generic label.
-
-From a manufacturing perspective, "frankincense" is a family of materials, not one. What determines whether a formula is repeatable is **species, grade, and form consistency** — the same *Boswellia* species, the same tear grade, and the same particle size in powder, batch after batch.
-
-Two points follow:
-
-- **Species changes the aroma, not just the name.** *B. carterii* and *B. serrata* will read differently in the same blend, so a formula built on one will not smell the same if the source switches without notice.
-- **Powder behavior depends on the formula.** Resin powder is sticky and heat-sensitive compared with wood powder; its grind, moisture, and how it is combined with a binder all affect burn, and the right settings depend on the specific stick. There is no universal figure — the buyer should sample against their own production.
-
-In our view, the commercial value is a **documented, consistent species-and-grade supply**, not a generic "frankincense" label.
-
 ## Summary
 
-Frankincense (乳香) is the aromatic gum-resin of *Boswellia* trees, harvested as tears and graded by size, color, and clarity. Its fresh, citrus-bright, resinous aroma makes it a classic heated incense and a top note in blends, and it is habitually paired with myrrh. Species (*B. sacra* / *B. carterii* / *B. serrata*) set the aroma profile, boswellic acids are the subject of preliminary research (not clinical proof), and for a buyer the working questions are species, tear grade, and form.
+Frankincense (乳香) is the aromatic gum-resin of *Boswellia* trees, harvested as tears and graded by size, color, and clarity. Its fresh, citrus-bright, resinous aroma makes it a classic heated incense and a top note in blends, and it is habitually paired with myrrh. Species (*B. sacra* / *B. carterii* / *B. serrata*) set the aroma profile, boswellic acids are the subject of preliminary research (not clinical proof), and for the reader the working questions are species, tear grade, and form.
 
 ## FAQ
 
@@ -205,7 +173,7 @@ See also: the [frankincense incense guide](/blog/frankincense-incense/), the [ma
 ### Traditional Chinese use
 **Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record that 乳香 is classically paired with myrrh (没药) and described for "activating blood" (活血) and relieving pain. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** species/origin profiles (*B. sacra*, *B. carterii*, *B. serrata*) and tear grading by size, color, and clarity. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -220,7 +188,7 @@ See also: the [frankincense incense guide](/blog/frankincense-incense/), the [ma
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |

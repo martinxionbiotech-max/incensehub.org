@@ -75,7 +75,7 @@ The operculum was processed by a treatment step — the classical term 法制 ("
 
 ## What determines quality?
 
-> **Direct answer:** In the classical record, onycha quality was tied to the soundness of the operculum and the completeness of its 法制 treatment before use — a clean, well-treated disc rather than a raw, odorous one. The material is no longer commercially graded today, being a historical ingredient.
+> **Direct answer:** In the classical record, onycha quality was tied to the soundness of the operculum and the completeness of its 法制 treatment before use — a clean, well-treated disc rather than a raw, odorous one. The material is no longer in trade graded today, being a historical ingredient.
 
 In the classical record, onycha quality was tied to the soundness of the operculum and the completeness of its 法制 treatment — a clean, well-treated disc rather than a raw, odorous one. The raw operculum's marine odor had to be removed by treatment before it could serve as a neutral fixative. There is no modern commercial grading of onycha, because the material is largely obsolete — so any "quality" discussion is historical, describing what the classical formulator looked for rather than what a contemporary market grades.
 
@@ -104,7 +104,7 @@ There is no modern traded form: onycha is a historical ingredient, and the treat
 
 The classical references document onycha's fixative role in incense and a traditional medicinal reputation. We treat the medicinal descriptions as **traditional**, not established clinical fact, and make **no medical claims**. The documented, non-medical facts are the animal source, the functional fixative role, and the fact that it is now largely a historical ingredient.
 
-## Sourcing and modern-status notes
+## Modern-status notes
 
 Practical points:
 
@@ -124,18 +124,6 @@ Practical points:
 | Modern status | Largely obsolete | Regulated/restricted | Rare, protected |
 
 The three are grouped as animal fixatives, but onycha is the functional one — least fragrant, most purely a fixative, and now the least used. See [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), the [Huarui Furen court incense recipe](/blog/huarui-furen-yamen-recipe/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Onycha is a "functional-fixative obsolescence" case — a material valued not for a scent it carries but for what it did to a blend, and now largely obsolete. Its animal origin, its 法制 treatment step, and its dosing as a functional ingredient together define it as the classical canon's shellfish fixative, documented as history rather than as a contemporary material.
-
-From a sourcing and editorial perspective, onycha is most interesting for the clean separation it enacts between *function* and *fragrance*, and for its obsolescence. Three points follow:
-
-- **The fixative role is the opposite of a lead fragrance.** Onycha was valued for what it did to a blend — binding and stabilizing the volatile aromatics of frankincense, borneol, sandalwood, and musk — not for a scent it contributed. This is a genuine category distinction: a fixative is a *functional* ingredient, and the classical formulas record it as such, dosed at 一两 and specified to be 法制 before use. A reader who expects onycha to "smell like" something has already misunderstood its role.
-- **The 法制 treatment is the documented tell of a functional material.** The "treated before use" specification records that the raw operculum was not usable as-is — its raw marine odor had to be removed before it could serve as a neutral fixative. This treatment step is the classical evidence that onycha was a *prepared* functional ingredient, not a raw aromatic, and it is a portable lesson: when a classical formula says 法制, it is flagging a processing-required material.
-- **Obsolescence is itself a finding, not a gap.** Onycha is largely no longer used, and modern reproductions substitute or omit it — a fact this page states rather than papers over. For a knowledge resource, documenting a material's obsolescence is as valuable as documenting its use: it tells the researcher that 甲香 in an old formula is a historical fixative, not something to source. This honesty is the difference between a connoisseurship record and a shopping list.
-
-In our view, onycha is best understood as the **functional, now-obsolete shellfish fixative of the classical canon** — an animal-derived material valued for what it did to a blend rather than for a scent, documented here as history and connoisseurship rather than as a contemporary ingredient.
 
 ## Summary
 
@@ -165,7 +153,7 @@ See also: [musk](/ingredients/musk/), [ambergris](/ingredients/ambergris/), the 
 ### Traditional Chinese use
 **Source:** 甲香 recorded in the 香乘 (Xiang Cheng) and 香譜 (Xiangpu) as a 合香 fixative, including the 花蕊夫人衙香 formula at 一两 with 法制 treatment; 甲香 in the 本草綱目 介部. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Modern status / sourcing
+### Modern status
 **Source:** 甲香 is modernly largely unused — a historical formula ingredient, substituted or omitted in modern reproductions; animal origin limits suitability. **Evidence type:** Industry practice.
 
 ### Safety

@@ -131,37 +131,13 @@ Two distinct issues:
 - **Accord vs real flower:** most "lotus" incense is a floral accord with no lotus in it — legitimate as a *note*, misleading if presented as *real lotus material*. Buyers should ask which is meant.
 - **Lotus vs water lily:** "blue lotus" is a water lily (*Nymphaea caerulea*), not a lotus. Specifying *Nelumbo nucifera* resolves the botanical identity.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should ask whether a "lotus" product is a real-flower material or a floral accord — most are the accord. For real lotus, confirm *Nelumbo nucifera* (not a water lily) and clean, fresh petals; for an accord, judge the freshness and balance of the blend.
-
-For an incense maker or sourcing buyer:
-
-- **Accord vs real flower** — ask which is meant; most "lotus" is an accord.
-- **Species** — for real material, confirm *Nelumbo nucifera* (lotus), not *Nymphaea* (water lily).
-- **Physical condition** — for real petals, clean, fresh, lightly sweet, no browning.
-- **Blend quality** — for an accord, judge the freshness and lift of the finished blend against your brief.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, "lotus" is usually an accord, not a material — a fresh-floral impression assembled from other ingredients. The real flower is a delicate, rare top accent whose scent does not survive drying and combustion well; the commercial question is whether the buyer wants the note or the material.
-
-From a manufacturing perspective, lotus's defining trait is that **the note and the material have come apart**. What the market calls "lotus" is almost always a floral accord — a fresh, clean impression built from other ingredients over a sandalwood base — because the real flower's scent cannot survive drying and combustion.
-
-Two points follow:
-
-- **The accord is the product, not a fallback.** A well-built "lotus" accord is a legitimate, repeatable fragrance product; a buyer who demands "real lotus" is usually asking for something the flower cannot deliver — a note that survives burning.
-- **Real lotus is a delicate top accent.** Where real petals are used, they are a rare, delicate top note whose dose and blend context **depend on formulation**, so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clearly labeled, well-balanced "lotus" accord** that delivers the fresh-floral lift the market wants, with real lotus reserved for cases where the actual material — and its cost and delicacy — is explicitly what the buyer is paying for.
-
 ## Summary
 
-Lotus flower (莲花, *Nelumbo nucifera*) is the blossom of the sacred lotus, an aquatic Nelumbonaceae perennial Flora of China records with 1–2 m petioles, orbicular 25–90 cm leaves, and 10–23 cm pink or white flowers. In Chinese incense it is a symbol of purity first and a material second: because the flower's scent is too delicate to survive burning, classical incense built a "lotus" accord from woods and herbs (香乘 芙药衣香, "like a freshly opened lotus"), and only later manuals used the real flower (燕居香语). True lotus must be kept distinct from the water lily (*Nymphaea*). Commercially, "lotus" is usually an accord, not a material, and the buyer's real question is whether they want the note or the flower.
+Lotus flower (莲花, *Nelumbo nucifera*) is the blossom of the sacred lotus, an aquatic Nelumbonaceae perennial Flora of China records with 1–2 m petioles, orbicular 25–90 cm leaves, and 10–23 cm pink or white flowers. In Chinese incense it is a symbol of purity first and a material second: because the flower's scent is too delicate to survive burning, classical incense built a "lotus" accord from woods and herbs (香乘 芙药衣香, "like a freshly opened lotus"), and only later manuals used the real flower (燕居香语). True lotus must be kept distinct from the water lily (*Nymphaea*). In trade, "lotus" is usually an accord, not a material, and the reader's real question is whether they want the note or the flower.
 
 ## FAQ
 

@@ -43,7 +43,7 @@ Most people assume a "binder" must be glue-like. In incense, the binder is **woo
 2. **Low-odor** — it does not fight the fragrance.
 3. **Stable** — it forms a workable paste with water and dries to a firm, self-supporting stick.
 
-This is a genuinely useful insight for a buyer: a stick made with a proper natural binder burns cleanly and smells like its ingredients, while a stick held together with a synthetic adhesive can smell of the glue or burn unevenly.
+This is a genuinely useful insight for a reader: a stick made with a proper natural binder burns cleanly and smells like its ingredients, while a stick held together with a synthetic adhesive can smell of the glue or burn unevenly.
 
 ---
 
@@ -68,7 +68,7 @@ The binder is not a passive glue; it is the variable that lets a loose powder be
 | **Drying** | Water leaves; the wood-powder matrix shrinks slightly and locks the form | Drying speed and evenness — too fast and the form cracks or bows |
 | **Burning** | The binder itself smolders, carrying the burn through the stick | Binder ratio and particle size — a coarse or uneven binder makes an uneven burn |
 
-The practical implication: **a binder problem usually shows up as a drying or burning problem.** A stick that cracks while drying, bows as it cures, or burns unevenly is often telling you about the binder — its fineness, its ratio in the blend, or how the dough was hydrated — not about the fragrance materials. This is why "what is the binder?" is one of the most informative questions a buyer can ask, and why a maker who cannot name their binder cannot explain their process.
+The practical implication: **a binder problem usually shows up as a drying or burning problem.** A stick that cracks while drying, bows as it cures, or burns unevenly is often telling you about the binder — its fineness, its ratio in the blend, or how the dough was hydrated — not about the fragrance materials. This is why "what is the binder?" is one of the most informative questions a reader can ask, and why a maker who cannot name their binder cannot explain their process.
 
 **Particle size and moisture work together.** A finer wood-powder binder mixes more uniformly and burns more evenly; a coarser one can leave uneven smolder paths. Moisture is the other half of the same control: too much water and the form sags or molds before it dries; too little and the paste crumbles rather than forming. The targets are formulation-specific — no universal "correct" percentage exists — so the honest check is *evidence of control* (sieving, moisture measurement, consistent batches), not a magic number.
 
@@ -86,7 +86,7 @@ The practical implication: **a binder problem usually shows up as a drying or bu
 
 ## The Author's Take
 
-**Position:** Makko is the unsung hero of natural incense — the insight that it is a combustible wood powder, not glue, is what most buyers are missing.
+**Position:** Makko is the unsung hero of natural incense — the insight that it is a combustible wood powder, not glue, is what most readers are missing.
 
 **Reasoning:**
 - Once you learn the binder should burn cleanly and quietly, “contains a binder” stops being a red flag and becomes the normal, necessary ingredient it is.

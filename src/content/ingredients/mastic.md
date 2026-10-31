@@ -68,7 +68,7 @@ Mastic (玛蹄脂, *Pistacia lentiscus*) and frankincense (乳香, *Boswellia* s
 
 Mastic's most instructive feature for a sourcing reader is **provenance as specification**. The most famous source is the Greek island of Chios, whose mastic — the resin tapped from *Pistacia lentiscus* shrubs grown only there under a specific traditional method — carries **protected designation-of-origin (PDO) status** under European law. This is a rare thing for an aromatic resin: a material whose quality is legally tied to a place name and a production method.
 
-The lesson transfers to Chinese incense sourcing even though mastic is not a Chinese material: a resin is not fully specified by its species alone. Where it was grown, how it was tapped, and how it was handled all enter the quality, and the Chios designation is the clearest modern example of a resin defined by its origin. A buyer who treats origin as a specification — for mastic, "Chios" — is applying the same logic that separates a fine resin from a generic one.
+The lesson transfers to Chinese incense sourcing even though mastic is not a Chinese material: a resin is not fully specified by its species alone. Where it was grown, how it was tapped, and how it was handled all enter the quality, and the Chios designation is the clearest modern example of a resin defined by its origin. A reader who treats origin as a specification — for mastic, "Chios" — is applying the same logic that separates a fine resin from a generic one.
 
 ## Where does mastic come from?
 
@@ -125,28 +125,6 @@ There is no single standardized grading ladder, but "pale, clean, fresh, and cor
 - **Scientific Evidence** — the botanical identity of *Pistacia lentiscus* (Anacardiaceae) and the resin's aromatic chemistry are documented; we present no clinical or medical efficacy claims.
 
 The incense and perfumery use is well documented. Medicinal uses are traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm identity first — 玛蹄脂 (*Pistacia lentiscus*), not 乳香 (*Boswellia* frankincense) — then check color and freshness: pale, clean, translucent tears with a fresh, piney-lemon scent. Provenance (Chios) is the strongest quality signal. Mastic's freshness makes it a bright top note, not a deep base resin.
-
-For an incense maker or sourcing buyer:
-
-- **Identity** — 玛蹄脂 (*Pistacia lentiscus*) vs 乳香 (*Boswellia* frankincense); different resins, different families, overlapping Chinese names.
-- **Color and clarity** — pale, clean, translucent tears are the good grade; dark or stale resin is lower.
-- **Aroma** — fresh, piney, with a hint of lemon and cedar.
-- **Provenance** — Chios mastic carries PDO status; origin is a specification, not a detail.
-
-## Our Industry View
-
-> **Direct answer:** Mastic's commercial lesson is that provenance and freshness define a bright resin more than any grade name. It is a top-note resin bought for freshness — pale, clean tears, ideally with a place-of-origin attached — and its name overlap with frankincense means the species name is the only reliable identifier.
-
-From a manufacturing perspective, mastic teaches two transferable lessons:
-
-- **A bright resin is bought for freshness.** Mastic's value is its clean, piney, astringent top note, which is a freshness-sensitive quality: pale, clean tears with a fresh piney-lemon scent are the good grade, and dark, stale, or musty resin has lost the very thing it is bought for. Unlike a deep base resin that can be more forgiving, a top-note resin must be fresh to do its job.
-- **Provenance is a specification, not decoration.** The Chios PDO is a reminder that a resin is not fully specified by species alone — origin and production method enter the quality. In Chinese sourcing the same logic applies across resins and herbs: where and how a material was produced is part of what is being bought. The mastic/frankincense name overlap (乳香脂, 洋乳香) then makes the species name the only reliable identifier.
-
-In our view, mastic is a fine bright top-note resin — buy it by species name, prefer pale fresh tears, treat origin (Chios) as a quality signal, and keep it clearly separated from frankincense in both terminology and the blend.
 
 ## Summary
 

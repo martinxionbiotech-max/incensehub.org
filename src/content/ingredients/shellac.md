@@ -58,7 +58,7 @@ The identity point parallels beeswax: both are animal-process materials produced
 
 > **Direct answer:** 紫草茸 (zǐcǎoróng) is one of several classical names for lac resin, alongside 紫鉚 and 紫矿 (the *Bencao Gangmu* and *Xiangcheng* terms), plus 赤胶 and 紫梗. The shared 紫 ("purple/red") records the material's historical value as a red dye. The modern English "shellac" names the purified varnish form.
 
-In classical Chinese usage, lac was known under several names: 紫鉚 and 紫矿 (the terms in the *Bencao Gangmu* and *Xiangcheng*), plus 紫草茸, 赤胶, and 紫梗. The shared 紫 ("purple/red") element records the material's chief classical value — as a red dye and colorant — before its incense-formula role. The modern "shellac" names the purified, melted form used as a varnish, which is the same material. For a buyer, the terminology point is that 紫草茸 / 紫鉚 / 紫矿 / shellac all name one insect resin, and none of them is a plant.
+In classical Chinese usage, lac was known under several names: 紫鉚 and 紫矿 (the terms in the *Bencao Gangmu* and *Xiangcheng*), plus 紫草茸, 赤胶, and 紫梗. The shared 紫 ("purple/red") element records the material's chief classical value — as a red dye and colorant — before its incense-formula role. The modern "shellac" names the purified, melted form used as a varnish, which is the same material. For the reader, the terminology point is that 紫草茸 / 紫鉚 / 紫矿 / shellac all name one insect resin, and none of them is a plant.
 
 ## Why is it used in incense formulas?
 
@@ -76,7 +76,7 @@ The processing chain is: harvest the resin-encrusted twigs → crush and wash th
 
 > **Direct answer:** Lac quality turns on purity — freedom from twig debris, insect parts, and adulterants — and on the color grade, since lac's classical value was as a red dye. Modern shellac is also graded by wax content and clarity for varnish use.
 
-For a buyer, the practical checks are **purity** (freedom from twig fragments, insect matter, and added resins) and **color** (the red dye value that made lac historically prized). Modern shellac is additionally graded by **wax content and clarity** for varnish applications. In incense, lac is a minor supporting material, so the buyer's concern is a clean, correctly identified insect resin rather than a strong fragrance.
+The practical checks are **purity** (freedom from twig fragments, insect matter, and added resins) and **color** (the red dye value that made lac historically prized). Modern shellac is additionally graded by **wax content and clarity** for varnish applications. In incense, lac is a minor supporting material, so the reader's concern is a clean, correctly identified insect resin rather than a strong fragrance.
 
 ## Common forms
 
@@ -106,9 +106,9 @@ The forms are stages of purification of one insect resin; the classical Chinese 
 
 The dye and incense-formula use is documented. We make **no medical claims**. The documented, non-medical facts are the insect-derived identity, the classical 紫鉚/紫矿 records, and the dye/formula use.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 紫草茸 is lac resin (shellac), the secretion of the lac insect *Kerria lacca* — an insect-derived resin, not a plant material.
 - It is a dye and a minor incense-formula ingredient, not a lead fragrance; expect a subtle resinous-waxy character rather than a strong scent.
@@ -125,18 +125,6 @@ Practical points for buyers:
 | Aroma | Resinous, waxy, subtle | Resinous, deeper |
 
 The confusion between the two red resins is an old one, and the *Bencao Gangmu* (本草纲目) itself records that they were distinguished over time. See [dragon's blood](/ingredients/dragons-blood/).
-
-## Our Industry View
-
-> **Direct answer:** Lac is the clearest proof that classical Chinese incense formulas were *engineered*, not just perfumed. Its appearance in 宝金香 as a minor dose — for color, binding, and fixative support rather than scent — shows that 合香 was a functional system with a non-aromatic structural layer, alongside the binders and process materials.
-
-From a manufacturing and sourcing perspective, 紫草茸 is most valuable as evidence for how classical incense formulas were actually built. Three points follow:
-
-- **A non-aromatic structural layer existed in classical 合香.** The 宝金香 formula mixes an aromatic core (agarwood, sandalwood, frankincense, benzoin) with a minor dose of 紫矿 — a material whose contribution was color, binding, and fixative support, not fragrance. This is the same functional logic as 白及 the binder and beeswax the process material: classical formulas were engineered systems, not simple scent mixes. See [beeswax](/ingredients/beeswax/).
-- **The insect-origin insight was already classical.** The *Bencao Gangmu*'s "正如蜂造蜜也" (just as bees make honey) shows that the animal origin of lac was understood, not a modern discovery. For a modern buyer, the honest framing is therefore the classical one: this is an insect resin, filed with the animal-process materials, not with the botanical resins.
-- **The red-resin confusion is a recurring sourcing trap.** Lac and dragon's blood are both red and were historically confused; the *Bencao Gangmu* records their separation. For a buyer, "red resin" is not an identity — the origin question (insect versus palm fruit) must be settled before any transaction, because the two materials have different uses, prices, and documentation.
-
-In our view, lac is best understood as the **functional, insect-derived member of the classical incense material system** — a dye and fixative-binder that proves the classical formulas had a non-aromatic engineering layer, and whose "red resin" identity must always be disambiguated from the plant-derived dragon's blood.
 
 ## Summary
 

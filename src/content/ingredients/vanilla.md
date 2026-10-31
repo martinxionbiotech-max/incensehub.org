@@ -67,7 +67,7 @@ Vanilla's defining fact is that **its aroma is produced, not harvested**:
 - **Curing** — a sequence of scalding (to stop the pod's growth), sweating (to trigger enzymatic breakdown of the precursor glucovanillin), and slow drying — releases vanillin and develops the sweet, creamy scent over weeks.
 - The result is that vanilla's aroma is a **curing product**, closer in spirit to aged chenpi (陈皮) than to a raw flower or leaf.
 
-This matters commercially: the difference between a good and a poor vanilla bean is largely a matter of **curing quality**, not just origin — the same principle that governs 陈皮's aging.
+This matters in trade: the difference between a good and a poor vanilla bean is largely a matter of **curing quality**, not just origin — the same principle that governs 陈皮's aging.
 
 ## In modern use
 
@@ -130,17 +130,6 @@ Because the aroma is a curing product, **curing quality rivals origin** as the d
 
 The whole bean is the reference form, and the distinction between **natural vanillin (from the pod)** and **synthetic vanillin** is a key sourcing and cost question.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish whole bean, extract, absolute, and vanillin (natural vs synthetic), and expect a sweet, creamy, warm character whose quality depends on curing as much as origin. It is a modern flavor and fragrance material, not a classical 香材, and in incense it is typically a vanilla extract, absolute, or synthetic vanillin note.
-
-For a flavor, fragrance, or sourcing buyer:
-
-- **Form** — bean, extract, absolute, or vanillin; each is a different commercial object.
-- **Natural vs synthetic vanillin** — a key cost and labeling question; confirm which is meant.
-- **Origin and curing** — both drive the character; a well-cured bean rivals a famous origin.
-- **Provenance** — understand it is a modern crossover, not a classical 香材.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -155,18 +144,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Sweet note | Vanillin | Balsamic, sweet-resinous | Rich balsam | Coumarin, hay-like |
 
 They all function as sweet, warm fixatives, but their sweet notes differ — vanillin for vanilla, coumarin for linglingxiang — so the "sweet" role is shared, not the chemistry. See [benzoin](/ingredients/benzoin/), [peru balsam](/ingredients/peru-balsam/), and [linglingxiang (零陵香)](/ingredients/linglingxiang/).
-
-## Our Industry View
-
-> **Direct answer:** Vanilla's lesson is that a scent can be a manufactured product, not a harvested one — the pod's aroma is created by curing, and its "sweet" character is a molecule (vanillin) that can be synthesized. For a buyer, this means origin is only half the spec: curing quality and the natural-versus-synthetic vanillin split are the real variables, and a modern crossover should be labeled a modern crossover.
-
-From a sourcing perspective, vanilla carries two lessons that matter for any aromatic:
-
-- **The aroma is manufactured, not harvested.** The green pod is nearly scentless; vanillin is released by curing. This makes vanilla closer in spirit to an *aged* product (like 陈皮) than to a raw flower — and it means curing quality is a first-order variable, not an afterthought.
-- **The note is a molecule.** Vanilla's "sweet, creamy" character is vanillin, and vanillin can be synthesized cheaply. The natural-versus-synthetic split is therefore a real commercial question — the same pattern as camphor and borneol — and "vanilla" on a label does not say which one is meant.
-- **The sweet fixative is a role, not an identity.** Vanilla shares the "sweet base note" function with benzoin, peru balsam, and the coumarin-sweet linglingxiang, but the sweet notes differ (vanillin vs coumarin vs balsam). A formulator chooses among them for a role, not for a single chemistry.
-
-In our view, the useful takeaway is procedural: **specify the form and the natural-versus-synthetic vanillin, treat curing as a quality variable alongside origin, and label a modern crossover as modern** — and vanilla becomes fully specifiable instead of a vague "sweet note."
 
 ## Summary
 

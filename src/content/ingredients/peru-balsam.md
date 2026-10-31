@@ -53,13 +53,13 @@ This page records it honestly as a modern resin — **no classical Chinese origi
 
 *Myroxylon balsamum* is a leguminous tree (Fabaceae) native to Central America, whose aromatic resin — Peru balsam — is collected by tapping and is prized for its sweet, vanilla-like warmth. Despite the name, the resin is not from Peru in its native origin (it was long shipped via Peruvian ports, giving the trade name). It has no Flora of China entry, being a New World species grown in China only as an exotic.
 
-Two points of botanical precision matter for buyers. First, the modern name *Myroxylon balsamum* has absorbed an older, narrower name — *Myroxylon balsamum* var. *pereirae* — under which Peru balsam was long listed; the distinction between "Peru balsam" and the closely related "Tolu balsam" (*Myroxylon balsamum* var. *balsamum*) is one of the standing traps in the balsam trade, since both come from the same species complex but differ in consistency and aroma. Second, "balsam" here means a true oleoresin tapped from the trunk, not a gum or a distilled oil — a category fact that places it alongside benzoin and storax rather than alongside frankincense.
+Two points of botanical precision matter for readers. First, the modern name *Myroxylon balsamum* has absorbed an older, narrower name — *Myroxylon balsamum* var. *pereirae* — under which Peru balsam was long listed; the distinction between "Peru balsam" and the closely related "Tolu balsam" (*Myroxylon balsamum* var. *balsamum*) is one of the standing traps in the balsam trade, since both come from the same species complex but differ in consistency and aroma. Second, "balsam" here means a true oleoresin tapped from the trunk, not a gum or a distilled oil — a category fact that places it alongside benzoin and storax rather than alongside frankincense.
 
 ## Chinese name and terminology
 
 > **Direct answer:** The name 秘鲁香脂 is a modern, literal geographic label — "Peru balsam" — not a classical term. It belongs to the modern Chinese vocabulary for imported perfumery resins, a different naming layer from the classical 香材 terms like benzoin (安息香) and storax (苏合香).
 
-The name 秘鲁香脂 (bìlǔ xiāngzhī) is transparent and modern: 秘鲁 "Peru" + 香脂 "fragrant resin / balsam." It is a trade-and-translation coinage of the modern era, not a classical term. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for balsamic resins — benzoin (安息香), storax (苏合香), frankincense (乳香) — and 秘鲁香脂 sits *outside* that canon as an imported modern label. A buyer who hears "香脂" should not assume a classical 香材; the specific name must be pinned to the specific tree.
+The name 秘鲁香脂 (bìlǔ xiāngzhī) is transparent and modern: 秘鲁 "Peru" + 香脂 "fragrant resin / balsam." It is a trade-and-translation coinage of the modern era, not a classical term. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for balsamic resins — benzoin (安息香), storax (苏合香), frankincense (乳香) — and 秘鲁香脂 sits *outside* that canon as an imported modern label. A reader who hears "香脂" should not assume a classical 香材; the specific name must be pinned to the specific tree.
 
 ## Why is it used in fragrance?
 
@@ -77,7 +77,7 @@ The resin is tapped like a tree sap: the bark is cut, the oleoresin exudes and i
 
 > **Direct answer:** Peru balsam quality turns on purity, viscosity, and aroma character. A good balsam is clean, free of solvent residue, and reads as a rich vanilla-cinnamon sweetness without a smoky or chemical off-note. Because the material can be a skin sensitizer, purity and documentation matter as much as aroma.
 
-For a buyer, the practical checks are: **purity** (freedom from adulterants and solvent residue), **consistency/viscosity** (a stable, viscous balsam rather than a watery or over-thickened one), and **aroma** (a clean vanilla-cinnamon sweetness, not a chemical or "burnt" edge). The contact-sensitizer note is a documented perfumery safety fact — *Myroxylon balsamum* balsam is a recognized allergen under fragrance-labeling rules — which is why specification sheets and IFRA-style usage limits, rather than aroma alone, govern how much is used in a formula.
+The practical checks are: **purity** (freedom from adulterants and solvent residue), **consistency/viscosity** (a stable, viscous balsam rather than a watery or over-thickened one), and **aroma** (a clean vanilla-cinnamon sweetness, not a chemical or "burnt" edge). The contact-sensitizer note is a documented perfumery safety fact — *Myroxylon balsamum* balsam is a recognized allergen under fragrance-labeling rules — which is why specification sheets and IFRA-style usage limits, rather than aroma alone, govern how much is used in a formula.
 
 ## Common forms
 
@@ -99,9 +99,9 @@ The distinction between raw balsam and resinoid is functional, not a quality sta
 
 There is **no classical Chinese incense record** for 秘鲁香脂; its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Fabaceae placement, and the resin's modern perfumery role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 秘鲁香脂 is Peru balsam, the resin of *Myroxylon balsamiferum* — now treated as *Myroxylon balsamum*; expect a sweet, vanilla-like, balsamic warmth.
 - It is a modern perfumery resin, not a classical 香材, and not a burned incense ingredient in the Chinese tradition.
@@ -116,25 +116,13 @@ Practical points for buyers:
 | Botanical source | *Myroxylon balsamum* (Fabaceae) | *Styrax* spp. | *Liquidambar orientalis* |
 | Character | Sweet, vanilla-cinnamon, warm | Sweet, vanilla-like, softer | Balsamic, smoky-sweet |
 | Classical Chinese status | None (modern crossover) | Classical 香材 | Classical 香材 |
-| Key buying note | Contact sensitizer; modern fixative | Species and resin quality | Smoky-balsamic profile |
+| Key identification note | Contact sensitizer; modern fixative | Species and resin quality | Smoky-balsamic profile |
 
 The distinction matters because the three are often grouped as "sweet balsamic resins" yet only two of them — benzoin and storax — belong to the classical Chinese canon. See [benzoin](/ingredients/benzoin/), [storax](/ingredients/styrax-resin/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** Peru balsam reveals a structural gap in the classical Chinese incense palette: the "gourmand" sweet-fixative register. Classical Chinese sweet-anchoring ran through dry, resinous benzoin and storax, not vanilla-cinnamon warmth — so Peru balsam's crossover into Chinese fragrance is a modern import of a Western perfumery value, not a recovery of a lost Chinese material.
-
-From a manufacturing and sourcing perspective, Peru balsam is most interesting for what its absence from the classical canon tells us about the *shape* of the Chinese incense palette. Three points follow:
-
-- **The "gourmand" register was not a classical Chinese value.** Classical Chinese incense sweetened with dry, resinous, or gently floral materials — benzoin, storax, osmanthus, sandalwood. The deeply edible vanilla-cinnamon sweetness that Peru balsam supplies belongs to the modern Western perfumery language. Its presence in modern Chinese fragrance is therefore an *import of a Western aesthetic*, not a continuation of a Chinese tradition. This is a category distinction, not a value judgment.
-- **The "Peru" name is a trade-route artifact, and that is itself a sourcing lesson.** The resin's name records the port it was shipped from, not the forest it grew in — a reminder that in the balsam trade, a geographic name may describe logistics, not provenance. A buyer who treats "Peru balsam" as a botanical-origin claim rather than a trade label is already making the classic mistake the name invites.
-- **Sensitization changes the sourcing question from "how sweet?" to "how clean and how documented?"** Because Peru balsam is a recognized contact allergen, its commercial handling is governed less by aroma than by specification, purity, and usage limits. For a manufacturer, the material is a *regulated fixative*, not a free aromatic — the kind of ingredient where documentation, not fragrance, is the real deliverable.
-
-In our view, Peru balsam is best understood as a **modern sweet-fixative import** — a Western gourmand resin that entered Chinese fragrance sideways through perfumery, carrying a geographic misnomer and a sensitization constraint that both push the buyer toward specification and documentation rather than aroma alone.
-
 ## Summary
 
-Peru balsam (秘鲁香脂) is the sweet, vanilla-cinnamon oleoresin of *Myroxylon balsamum* (Fabaceae), a Central American tree whose trade name reflects Peruvian shipping ports rather than botanical origin. It is a modern Western perfumery fixative with no classical Chinese incense record, entering Chinese fragrance as a crossover sweet resin alongside benzoin and storax. Its key buyer points are the geographic-misnomer caution and the documented contact-sensitizer status, which makes specification and usage limits more important than aroma alone.
+Peru balsam (秘鲁香脂) is the sweet, vanilla-cinnamon oleoresin of *Myroxylon balsamum* (Fabaceae), a Central American tree whose trade name reflects Peruvian shipping ports rather than botanical origin. It is a modern Western perfumery fixative with no classical Chinese incense record, entering Chinese fragrance as a crossover sweet resin alongside benzoin and storax. Its key identification points are the geographic-misnomer caution and the documented contact-sensitizer status, which makes specification and usage limits more important than aroma alone.
 
 ## FAQ
 

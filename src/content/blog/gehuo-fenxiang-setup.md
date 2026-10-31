@@ -66,7 +66,7 @@ See [incense smoke & air quality](/blog/incense-smoke-air-quality-evidence/) for
 
 ## Modern Equivalent
 
-An **electric incense heater** achieves the same result — gentle, controlled heat below combustion — without charcoal or ash. It is the accessible modern version of the same principle. See the [burner buying guide](/blog/incense-holder-burner-guide/) for both routes.
+An **electric incense heater** achieves the same result — gentle, controlled heat below combustion — without charcoal or ash. It is the accessible modern version of the same principle. See the [burner selection guide](/blog/incense-holder-burner-guide/) for both routes.
 
 ---
 

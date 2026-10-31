@@ -43,7 +43,7 @@ Modern evidence — peer-reviewed research, botanical databases, government chec
 
 ### Step 6 — Label trade terminology
 
-Grading vocabulary, market names, and buyer heuristics (沉水 "sinking", 奇楠 qínán, grade names, adulteration signals) are labeled as trade terminology. These are the practical language of the Chinese incense market, and they are useful — but they are industry convention, not laboratory measurement. We keep the two apart.
+Grading vocabulary, market names, and trade heuristics (沉水 "sinking", 奇楠 qínán, grade names, adulteration signals) are labeled as trade terminology. These are the practical language of the Chinese incense market, and they are useful — but they are industry convention, not laboratory measurement. We keep the two apart.
 
 ### Step 7 — Mark uncertain claims
 

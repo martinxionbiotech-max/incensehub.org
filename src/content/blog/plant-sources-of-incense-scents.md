@@ -59,7 +59,7 @@ author: "Landeng Tech Team"
 
 ## Why This Matters
 
-The plant source is the single most reliable predictor of what you are buying:
+The plant source is the single most reliable predictor of what you are getting:
 
 - "Sandalwood" or "agarwood" points at a **material tradition**.
 - "Jasmine," "rose," or "lotus" usually points at a **fragrance accord**.
@@ -71,7 +71,7 @@ Read the label with this map in mind, and a lot of the mystery in incense buying
 
 ## The Author's Take
 
-**Position:** The plant source is the most reliable predictor of what you are buying — this map is the mental shortcut I would teach first.
+**Position:** The plant source is the most reliable predictor of what you are getting — this map is the mental shortcut I would teach first.
 
 **Reasoning:**
 - The wood/resin versus flower distinction explains most label confusion.
@@ -109,7 +109,7 @@ A: Because the plant part determines the scent character and how it burns. Heart
 Woods and resins burn (or heat) slowly and carry deep, persistent scent, so they are the classical backbone of incense. Heartwood such as sandalwood and resin-impregnated agarwood release their aroma steadily, while resins like frankincense and myrrh warm into bright, balsamic notes. Raw flowers burn poorly, which is why florals are usually rendered as fragrance accords. Peels, buds, and barks — citrus, clove, cassia — are bright or spicy top notes that add lift but rarely stand alone.
 
 ### Q: Is the lotus in lotus incense a real flower?
-Usually not. The lotus has a subtle, aquatic scent that does not survive burning or heating well, and true lotus absolute is rare and expensive. As a result, most "lotus" incense is a fragrance accord — a blended or synthetic construction that evokes the lotus note rather than real flower material. This is not automatically a defect, but it is worth knowing what you are buying. See the [lotus guide](/blog/lotus-incense/).
+Usually not. The lotus has a subtle, aquatic scent that does not survive burning or heating well, and true lotus absolute is rare and expensive. As a result, most "lotus" incense is a fragrance accord — a blended or synthetic construction that evokes the lotus note rather than real flower material. This is not automatically a defect, but it is worth knowing what you are getting. See the [lotus guide](/blog/lotus-incense/).
 
 ### Q: Why is makko listed as a plant source?
 Makko (*Machilus thunbergii* bark) is a functional ingredient — the combustible binder — not a scent. It is listed because it is the one plant material in incense whose job is structure, not fragrance: it holds the fragrant powders together and burns cleanly so the stick keeps its shape and burns evenly. Nearly odorless on its own, it disappears into the blend. Understanding makko explains why "contains a binder" is normal and necessary rather than a red flag. See [makko & natural binders](/blog/makko-natural-binders/).

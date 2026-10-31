@@ -75,11 +75,11 @@ Because its scent is light, eupatorium is almost always **blended**, not burned 
 
 > **Direct answer:** Eupatorium is processed by harvesting the aerial herb and drying it — whole or cut. There is no extraction or distillation step in the herb form; for incense blending it is then ground to powder, with particle size and moisture depending on the formula.
 
-The essential step is simple: the above-ground herb (leaves and stems) is harvested and **dried** to a stable, storable form. From there it branches by end use — whole or cut herb for sachets and traditional use, or ground powder for incense blending. For powder buyers, the same practical variables as any leafy herb apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and leafy-herb powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
+The essential step is simple: the above-ground herb (leaves and stems) is harvested and **dried** to a stable, storable form. From there it branches by end use — whole or cut herb for sachets and traditional use, or ground powder for incense blending. For powder, the same practical variables as any leafy herb apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and leafy-herb powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
 
 ## What determines eupatorium quality?
 
-> **Direct answer:** Quality turns on cleanliness, colour, and aroma — dried eupatorium should be clean and green with a fresh, herbaceous scent when rubbed. There is no standardized numerical grading; the buyer evaluates the physical condition of the lot.
+> **Direct answer:** Quality turns on cleanliness, colour, and aroma — dried eupatorium should be clean and green with a fresh, herbaceous scent when rubbed. There is no standardized numerical grading; the reader evaluates the physical condition of the lot.
 
 The practical quality factors, in rough order:
 
@@ -126,37 +126,13 @@ The two are the same genus and both read as green, fresh herbs, but they are dis
 
 Eupatorium is not an expensive, heavily faked material. Its risks are a **naming and identification matter**: 佩兰 (*Eupatorium fortunei*) must be distinguished from 泽兰 (*Eupatorium japonicum*), and both must be kept apart from the classical materia-medica 泽兰, which modern botanists identify as *Lycopus lucidus*, a mint-family herb. Specifying the scientific name — *Eupatorium fortunei* — is the practical fix.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Eupatorium fortunei*), the form, and the physical condition — clean, green, fresh-smelling herb with no mustiness or foreign material. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Eupatorium fortunei*; a real seller can name it and distinguish 佩兰 from 泽兰.
-- **Form** — whole/cut herb or powder; each behaves differently in a blend or sachet.
-- **Physical condition** — clean, green, fresh-smelling herb with no mustiness or debris.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, eupatorium is a light, fresh "green" accent, not a base. Its value is a clean herbal lift that brightens heavier blends — but because its scent is faint and easily lost, the dose and the blend context matter more than the nominal ingredient name.
-
-From a manufacturing perspective, eupatorium's defining trait is **lightness**. It supplies a clean, fresh green note that heavier woods and resins cannot, but it will not carry a formula the way sandalwood or agarwood can.
-
-Two points follow:
-
-- **It is an accent, not a base.** Eupatorium brightens a blend but cannot anchor it. A buyer who expects it to lead a fragrance will be disappointed, while one who doses it as a fresh top accent gets real value.
-- **Its faintness is the formulation variable.** Because the scent is light, the practical questions are dose and blend context — which itself **depends on formulation**, so a figure that works in one factory does not transfer to another.
-
-In our view, eupatorium's commercial value lies in its role as a **correctly identified, clean, fresh "green" accent** used to lift heavier blends — a supporting herb whose real value is character, not intensity.
-
 ## Summary
 
-Eupatorium (佩兰, "worn orchid") is the dried aerial herb of *Eupatorium fortunei*, an Asteraceae perennial Flora of China records at 40–100 cm with divided stem leaves and corymbs of small heads, valued in Chinese tradition primarily as a sachet and clothing fragrance and secondarily as a fresh "green" incense accent. Its main identification risk is naming — it must be kept distinct from the same-genus 泽兰 (*Eupatorium japonicum*) and from the mint-family 泽兰 (*Lycopus lucidus*). In incense it is a light, fresh supporting note, not a base; commercially, correct identification and clean, fresh condition outweigh intensity.
+Eupatorium (佩兰, "worn orchid") is the dried aerial herb of *Eupatorium fortunei*, an Asteraceae perennial Flora of China records at 40–100 cm with divided stem leaves and corymbs of small heads, valued in Chinese tradition primarily as a sachet and clothing fragrance and secondarily as a fresh "green" incense accent. Its main identification risk is naming — it must be kept distinct from the same-genus 泽兰 (*Eupatorium japonicum*) and from the mint-family 泽兰 (*Lycopus lucidus*). In incense it is a light, fresh supporting note, not a base; in trade, correct identification and clean, fresh condition outweigh intensity.
 
 ## FAQ
 

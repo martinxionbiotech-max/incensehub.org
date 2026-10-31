@@ -31,7 +31,7 @@ related: ["mugwort", "artemisia-annua"]
 
 > **Direct answer:** Tarragon is fresh, green, and herbaceous with a distinctive anise-like (licorice) sweetness over a faint bitter-green *Artemisia* base. Its defining aroma compound is estragole, which is why it reads as sweet-anise rather than camphoraceous or bitter — a character that separates it sharply from its mugwort and sweet-wormwood relatives.
 
-tarragon (龙蒿) has a fresh, green, herbaceous scent with a distinctive **anise-like** sweetness — the licorice-tarragon character of the culinary herb — over a faint bitter-green *Artemisia* base. It is lighter and sweeter than mugwort (艾草), and more anise-sweet than the camphoraceous 青蒿. The anise character comes chiefly from the compound **estragole** (methyl chavicol), which dominates the essential oil of the aromatic French form. This chemistry is what makes tarragon read as a *sweet culinary herb* rather than a medicinal or bitter aromatic, and it is the first thing a buyer should taste-test against, since the two cultivated forms differ sharply on exactly this point.
+tarragon (龙蒿) has a fresh, green, herbaceous scent with a distinctive **anise-like** sweetness — the licorice-tarragon character of the culinary herb — over a faint bitter-green *Artemisia* base. It is lighter and sweeter than mugwort (艾草), and more anise-sweet than the camphoraceous 青蒿. The anise character comes chiefly from the compound **estragole** (methyl chavicol), which dominates the essential oil of the aromatic French form. This chemistry is what makes tarragon read as a *sweet culinary herb* rather than a medicinal or bitter aromatic, and it is the first thing a reader should taste-test against, since the two cultivated forms differ sharply on exactly this point.
 
 ## A provenance note (read this)
 
@@ -55,7 +55,7 @@ The *Artemisia* genus supplies three distinct herbs in this encyclopedia, and th
 - **sweet wormwood (青蒿)** — *Artemisia annua*, an annual with a camphoraceous scent, a classical materia-medica herb. Its own entry.
 - **tarragon (龙蒿)** — *Artemisia dracunculus*, a perennial with an anise-like scent, a modern culinary and fragrance herb. This entry.
 
-All three are *Artemisia* herbs sharing a green-herbal family character, but they are different species with different aromas and roles. The distinction matters commercially because "Artemisia herb" alone is an under-specified order: it does not tell a buyer which species, which aroma, or which chemistry they are being offered.
+All three are *Artemisia* herbs sharing a green-herbal family character, but they are different species with different aromas and roles. The distinction matters in trade because "Artemisia herb" alone is an under-specified order: it does not tell a reader which species, which aroma, or which chemistry they are being offered.
 
 ## Botanical source and origin
 
@@ -63,13 +63,13 @@ All three are *Artemisia* herbs sharing a green-herbal family character, but the
 
 *Artemisia dracunculus* is a perennial herb in the Asteraceae (daisy) family, native across the northern temperate zone and recorded by Flora of China within China. The fragrant part is the aerial herb — the narrow, linear leaves. Two culinary forms are distinguished: **French tarragon** (sterile, anise-sweet, propagated by cuttings) and **Russian tarragon** (seeded, coarser, less aromatic). The fragrance material is the French form.
 
-The two-form distinction is not a botanical nicety but a sourcing fact: because French tarragon is sterile, it can only be propagated vegetatively, which is why its commercial supply is more constrained than the freely seeding Russian form. A buyer who does not specify the form can receive a herb that looks like tarragon but carries only a fraction of the estragole-sweet aroma that defines the material.
+The two-form distinction is not a botanical nicety but a sourcing fact: because French tarragon is sterile, it can only be propagated vegetatively, which is why its commercial supply is more constrained than the freely seeding Russian form. A reader who does not specify the form can receive a herb that looks like tarragon but carries only a fraction of the estragole-sweet aroma that defines the material.
 
 ## Where does tarragon come from?
 
 > **Direct answer:** *Artemisia dracunculus* ranges widely across northern-temperate Eurasia and North America; Flora of China records it within China, largely in northern and western regions. Commercial culinary tarragon, however, is overwhelmingly the French form grown in Europe and elsewhere as a garden and market herb rather than a wild harvest.
 
-The species is one of the wider-ranging *Artemisia* herbs, spread across the cool-temperate zone of Eurasia and North America. Flora of China records *Artemisia dracunculus* within China, so the plant is not exotic to Chinese soil even though its *named culinary use* is European. Commercially, the material that matters — French tarragon — is a cultivated garden and market herb rather than a wild crop, and its supply is tied to vegetative propagation rather than seed. This is a herb grown close to the kitchen and the perfumer's organ, not a commodity wild-harvested at scale.
+The species is one of the wider-ranging *Artemisia* herbs, spread across the cool-temperate zone of Eurasia and North America. Flora of China records *Artemisia dracunculus* within China, so the plant is not exotic to Chinese soil even though its *named culinary use* is European. In trade, the material that matters — French tarragon — is a cultivated garden and market herb rather than a wild crop, and its supply is tied to vegetative propagation rather than seed. This is a herb grown close to the kitchen and the perfumer's organ, not a commodity wild-harvested at scale.
 
 ## In modern use
 
@@ -95,34 +95,9 @@ There is **no classical Chinese incense record** for tarragon (龙蒿) as a dist
 
 Because tarragon has no classical Chinese incense role, its incense use is entirely modern and borrowed from perfumery. Where it does appear, it is as a **green, anise-herbal top or accent note**, typically delivered as an essential oil or a fragrance accord rather than as dried herb to be burned. Its estragole-sweet character lifts fresher, greener blends — a role closer to anise or fennel than to its bitter *Artemisia* cousins. The practical point for a formulator is that tarragon's charm is volatile and top-note in nature: it brightens a blend but does not anchor it, and it is easily lost under heat or buried by heavier materials.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should specify the form — French, not Russian, tarragon — because the two differ sharply in estragole content and therefore aroma. Confirm the material is *Artemisia dracunculus* and not mugwort or sweet wormwood, and for fragrance use expect an essential oil or accord rather than a burned herb.
-
-For a formulator or sourcing buyer, the checks are:
-
-- **Form** — ask for French tarragon specifically; Russian tarragon is coarser and far less aromatic, and the two are not interchangeable for fragrance work.
-- **Species** — confirm *Artemisia dracunculus* and distinguish it from mugwort (*Artemisia argyi*) and sweet wormwood (*Artemisia annua*), which are different herbs with different aromas.
-- **Format** — for fragrance, expect an essential oil (estragole-rich) or a synthetic accord; the dried culinary herb is not an incense material.
-- **Aroma** — the tell is a sweet, anise-licorice character over a faint green base; a bitter or camphoraceous note suggests the wrong *Artemisia* or the wrong form.
-
-## Our Industry View
-
-> **Direct answer:** The real lesson of tarragon for the incense industry is about specification, not the herb itself: a genus as broad as *Artemisia* produces radically different aromas from species to species, so "Artemisia herb" is a meaningless order. The disciplined buyer names the species and the form — here, French *A. dracunculus* — because that, not the genus label, is what determines the aroma.
-
-Tarragon is a small herb, but it carries a larger lesson for anyone sourcing botanical materials. The *Artemisia* genus is enormous and chemically diverse: one species reads bitter and medicinal, another camphoraceous, another sweet and anise-like. If a buyer orders "Artemisia herb" without a species, they are ordering a *category*, not a material — and the result could be mugwort when they wanted tarragon, or vice versa.
-
-Three points follow:
-
-- **The genus is not a spec.** In incense, plants are bought for their *aroma chemistry*, and that chemistry varies at the species and even the cultivar level (French vs Russian tarragon). The name of the genus is a starting point, never a finish line.
-- **Cultivar matters as much as species here.** French and Russian tarragon are the same species but different aromatic realities, separated by estragole content and the sterility that forces vegetative propagation. This is a reminder that botanical name and commercial value are not always in lockstep.
-- **Modern crossover herbs fill a modern niche.** Tarragon earns its place in this encyclopedia honestly — as a modern fragrance note — not by borrowing a classical pedigree. That honesty is itself the editorial position: a modern herb should be labeled a modern herb, with its provenance stated plainly rather than invented.
-
-In our view, the useful takeaway is procedural rather than aromatic: **name the species, name the form, and state the provenance**, and a "minor" herb like tarragon becomes fully specifiable instead of a source of confusion.
-
 ## Summary
 
-Tarragon (龙蒿) is the perennial *Artemisia* herb *Artemisia dracunculus*, valued for a sweet, anise-like (estragole) aroma that sets it apart from mugwort (艾草) and sweet wormwood (青蒿) — its two *Artemisia* relatives in this encyclopedia. It is a modern culinary and fragrance crossover with no classical Chinese incense record, a provenance this page states plainly rather than fabricating. Commercially, the French and Russian forms differ sharply in aroma, so species and form — not the genus label — are the buyer's real specification.
+Tarragon (龙蒿) is the perennial *Artemisia* herb *Artemisia dracunculus*, valued for a sweet, anise-like (estragole) aroma that sets it apart from mugwort (艾草) and sweet wormwood (青蒿) — its two *Artemisia* relatives in this encyclopedia. It is a modern culinary and fragrance crossover with no classical Chinese incense record, a provenance this page states plainly rather than fabricating. In trade, the French and Russian forms differ sharply in aroma, so species and form — not the genus label — are the reader's real specification.
 
 ## FAQ
 
@@ -136,7 +111,7 @@ Tarragon (龙蒿) is the perennial *Artemisia* herb *Artemisia dracunculus*, val
 
 **How is tarragon used?** Primarily as a classic French culinary herb, and in modern perfumery as a green, anise-herbal note. It is a modern, European-influenced use, not a classical Chinese incense material, and it is usually blended rather than burned alone.
 
-**What is the difference between French and Russian tarragon?** They are the same species but different cultivated forms. French tarragon is sterile, anise-sweet, and propagated by cuttings; Russian tarragon is seeded, coarser, and far less aromatic. Because the French form is the fragrant one and is sterile, its supply is more constrained — and a buyer should specify the form to avoid receiving the weak Russian herb.
+**What is the difference between French and Russian tarragon?** They are the same species but different cultivated forms. French tarragon is sterile, anise-sweet, and propagated by cuttings; Russian tarragon is seeded, coarser, and far less aromatic. Because the French form is the fragrant one and is sterile, its supply is more constrained — and a reader should specify the form to avoid receiving the weak Russian herb.
 
 See also: [mugwort (艾草)](/ingredients/mugwort/), [sweet wormwood (青蒿)](/ingredients/artemisia-annua/), [anise](/ingredients/anise/), [fennel](/ingredients/fennel/), and the full [scent guide](/blog/scent-guide/).
 

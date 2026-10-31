@@ -52,7 +52,7 @@ Because one English word covers several *Santalum* species, the Chinese and scie
 
 ## Species: what "sandalwood" means
 
-> **Direct answer:** "Sandalwood" is not one tree — it can mean several *Santalum* species. *Santalum album* (Indian/white sandalwood) is the reference standard; *S. spicatum* (Australian), *S. austrocaledonicum* (New Caledonian), and *S. paniculatum* (Hawaiian) are legitimate but aromatically and commercially different.
+> **Direct answer:** "Sandalwood" is not one tree — it can mean several *Santalum* species. *Santalum album* (Indian/white sandalwood) is the reference standard; *S. spicatum* (Australian), *S. austrocaledonicum* (New Caledonian), and *S. paniculatum* (Hawaiian) are legitimate but aromatically and in trade different.
 
 "Sandalwood" is not one tree. In trade it can refer to several *Santalum* species:
 
@@ -113,7 +113,7 @@ The quality factors:
 3. **Oil content and age** — older, slower-grown heartwood carries more oil and a richer aroma.
 4. **Aroma character** — the "buttery" creaminess of good material is the marker to seek.
 
-These factors, not the price tag, are what a buyer is actually paying for — and cheap "sandalwood" is usually a fragrance-oil imitation of exactly this character.
+These factors, not the price tag, are what a reader is actually paying for — and cheap "sandalwood" is usually a fragrance-oil imitation of exactly this character.
 
 ## Common forms
 
@@ -129,7 +129,7 @@ These factors, not the price tag, are what a buyer is actually paying for — an
 
 The powder-vs-oil distinction matters because they smell different: oil gives bright, immediate notes, while the wood gives the slower, deeper "cooked" aroma. See [incense powder & resin](/blog/incense-powder-resin/).
 
-## Quality & authenticity (buyer intelligence)
+## Quality & authenticity (identification note)
 
 > **Direct answer:** Real sandalwood powder is expensive, but price alone proves nothing. Very cheap "sandalwood" sticks are almost always synthetic fragrance oil, not wood. Check the species and whether the label names real wood powder versus oil.
 
@@ -139,55 +139,19 @@ The powder-vs-oil distinction matters because they smell different: oil gives br
 
 The same "one name, several materials" problem runs through the whole incense trade — see the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general pattern.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Wild *Santalum album* is depleted and CITES-listed, so the legal market runs on plantation *S. album* and Australian *S. spicatum*. Sourcing should confirm species and whether the material is plantation-grown or sustainably harvested.
 
-Indian sandalwood's wild decline, and its CITES listing, pushed the market toward two sustainable routes: **plantation *S. album*** (grown with managed host trees) and **Australian *S. spicatum***, which is harvested under regulated management and is now a large share of the legal sandalwood trade. In China, *Santalum album* is additionally listed as a Grade II state-protected wild plant (国家重点保护野生植物二级), the same conservation concern reflected in national law. For a buyer, the documentation question is the same as with agarwood: can the supplier name the species, the origin, and the harvest basis? A label that says only "sandalwood" answers none of these. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Sandalwood goes into incense sticks, perfumery (sandalwood oil is a long-standing fragrance ingredient), carving, and cosmetics. The oil and the wood serve different markets with different price structures.
-
-Sandalwood reaches buyers through distinct channels:
-
-- **Incense sticks and cones** — sandalwood powder as a base or feature note in blended sticks.
-- **Perfumery** — sandalwood oil is a classic base note and fixative.
-- **Carving and beads** — dense heartwood for sculpture and beads.
-- **Cosmetics and personal care** — the oil appears in soaps and creams.
-
-## What buyers should look for
-
-> **Direct answer:** Ask which *Santalum* species, whether the label means wood or oil, and the origin and harvest basis. Verify the "buttery" aroma and, for powder, confirm particle size and moisture against your own formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *S. album* is the reference; other species are legitimate but different. A real seller names the species.
-- **Wood vs oil** — the label should say which; they are different materials with different scents.
-- **Origin and harvest basis** — plantation vs wild, and which region, with documentation.
-- **Aroma** — the creamy "buttery" note marks good material; sharp or soapy usually marks synthetic.
-- **Form and consistency** — for powder, particle size and moisture affect blending and burn; confirm against your formula.
+Indian sandalwood's wild decline, and its CITES listing, pushed the market toward two sustainable routes: **plantation *S. album*** (grown with managed host trees) and **Australian *S. spicatum***, which is harvested under regulated management and is now a large share of the legal sandalwood trade. In China, *Santalum album* is additionally listed as a Grade II state-protected wild plant (国家重点保护野生植物二级), the same conservation concern reflected in national law. For the reader, the documentation question is the same as with agarwood: can the supplier name the species, the origin, and the harvest basis? A label that says only "sandalwood" answers none of these..
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, consistency matters more than the species name on the label. A steady, well-documented supply of one *Santalum* species with known particle size and moisture beats an unverifiable "S. album" claim that cannot be reordered to the same specification.
-
-From a manufacturing perspective, the species name is only the first question. What actually determines whether a stick is repeatable is **consistency**: the same species, the same heartwood grade, the same particle size, and the same moisture, batch after batch.
-
-Two points follow:
-
-- **"Sandalwood" on the label is a claim, not a material.** Species substitution and oil-for-wood substitution mean the name alone does not tell you what will actually burn in your formula. The [substitution cross-reference](/blog/incense-substitution-cross-reference/) is the general map of this problem.
-- **Particle size and moisture depend on formulation.** The correct grind and moisture for one stick formula — with a particular binder and burn target — will not transfer to another. Rather than a nominal "sandalwood powder" grade, a buyer should specify how the powder must behave in their own production, and sample against that.
-
-In our view, the commercial sweet spot is a **documented, consistent supply of a named species**, not an unverifiable premium label.
-
 ## Summary
 
-Sandalwood (檀香) is the fragrant heartwood of *Santalum* trees, with *Santalum album* as the classic reference species and Australian *S. spicatum* as the main legal commercial substitute. Its creamy, sweet, "buttery" aroma makes it a base and blending staple in Chinese incense. The key buyer risks are species substitution and oil-for-wood substitution, and its health-benefit claims are traditional belief, not established evidence — so the name, the species, and the form (wood vs oil) all need to be verified.
+Sandalwood (檀香) is the fragrant heartwood of *Santalum* trees, with *Santalum album* as the classic reference species and Australian *S. spicatum* as the main legal commercial substitute. Its creamy, sweet, "buttery" aroma makes it a base and blending staple in Chinese incense. The key reader risks are species substitution and oil-for-wood substitution, and its health-benefit claims are traditional belief, not established evidence — so the name, the species, and the form (wood vs oil) all need to be verified.
 
 ## FAQ
 
@@ -215,11 +179,11 @@ See also: the [sandalwood incense guide](/blog/sandalwood-incense/), the [materi
 ### Traditional Chinese use
 **Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record of sandalwood's long traditional and ritual use (incense, Buddhist and Taoist practice, materia medica). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the species distinction among *Santalum album* / *S. spicatum* / *S. austrocaledonicum* / *S. paniculatum* is market-relevant terminology. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
-**Source:** species substitution and "oil vs wood" (synthetic fragrance oil vs real wood) are the page's buyer-intelligence points. **Evidence type:** Practical screening.
+**Source:** species substitution and "oil vs wood" (synthetic fragrance oil vs real wood) are the page's identification points. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
@@ -230,7 +194,7 @@ See also: the [sandalwood incense guide](/blog/sandalwood-incense/), the [materi
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Health claims | Not established |
 

@@ -128,32 +128,9 @@ The quality factors:
 - **Historical Record** — the five-flavor naming explanation (皮、肉甘、酸，核中辛、苦，都有鹹味), the classical aliases (荎蕏, 玄及, 會及), the origin record (生齊山山谷及代郡), and the north–south grading (南產者色紅，北產者色黑).
 - **Scientific Evidence** — the botanical identity of *Schisandra chinensis* (Schisandraceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species — 五味子 is *Schisandra chinensis*, the dried ripe berry, distinct from other *Schisandra* species — and note the classical north–south color distinction when sourcing. In incense it is a quiet fruity accent at most, not a lead note; its standing is in materia medica.
-
-For a buyer or formulator:
-
-- **Species** — 五味子 (*Schisandra chinensis*), not another *Schisandra* species.
-- **Berry condition** — clean, well-dried ripe berries.
-- **Color form** — the classical north–south distinction (red southern vs black northern) when it matters for the intended use.
-- **Role clarity** — a quiet fruity accent at most in incense; its classical standing is materia medica.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** 五味子's commercial lesson is the taste-versus-scent boundary: it is a famous materia-medica berry named for five tastes, which is exactly why it is a weak incense material. A buyer should value it by its medicinal provenance, not as a fragrance — and never let the medicinal fame bleed into an incense or health claim.
-
-From a manufacturing perspective, 五味子 is a clean illustration of **why fame and fragrance are different assets**:
-
-- **A taste-name is not a fragrance.** The berry is named for five tastes and is famous in materia medica for them. But incense engages smell, not taste, and the berry's scent is quiet. A buyer who imports the berry's medicinal renown into an incense formula is paying for a property the format cannot use.
-- **The north–south grading is a sourcing, not a fragrance, distinction.** The red-versus-black division matters for materia-medica provenance, not for aroma. For incense, that grading is largely irrelevant — which is a useful thing to know when a supplier leans on it.
-- **Keep the registers apart.** The disciplined approach is the same as for other famous medicine materials (当归, 莪术): record the materia-medica standing accurately, use the modest aromatic value honestly, and make no medicinal claims.
-
-In our view, 五味子 is a materia-medica berry whose incense value is marginal and quiet: buy it by species if a subtle sour-berry accent is genuinely wanted, but do not let its five-taste fame be mistaken for fragrance value — and keep the medicine and the incense strictly separate.
 
 ## Summary
 

@@ -128,45 +128,15 @@ Mugwort is also the material for **moxibustion (灸, jiǔ)** — a traditional C
 
 We make no medical claims about mugwort or moxibustion.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Mugwort is an abundant, fast-growing herb, easily collected and dried, so it carries no conservation or legal concern. Sourcing should simply confirm the species (argyi vs vulgaris) and the form.
 
-Because mugwort is a common, fast-growing herb rather than a wild-harvested wood or resin, there is no meaningful sustainability risk. For a buyer, the practical questions are commercial: **which species** (*A. argyi* vs *A. vulgaris*), **which form** (dried leaf, bundle, or powder), and **cleanliness**. See the [wholesale guide](/blog/wholesale-guide/).
-
-## Modern commercial applications
-
-> **Direct answer:** Mugwort goes into incense and herbal blends, seasonal and traditional goods, and — separately — moxa for moxibustion. The incense use is aromatic; the moxa use is a medical practice this page does not evaluate.
-
-- **Incense** — dried leaf and powder blended into 合香 or burned as a single herb.
-- **Seasonal and traditional goods** — tied bundles for Dragon Boat Festival and sachets.
-- **Moxa (separate)** — the processed floss for moxibustion, a medical application kept distinct from incense use.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (Chinese mugwort *A. argyi* vs common mugwort *A. vulgaris*), check for clean, well-dried leaf, and specify the form. Because "mugwort" can mean several *Artemisia* herbs, the species is the first thing to pin down.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *Artemisia argyi* (Chinese mugwort) vs *Artemisia vulgaris* (common mugwort); a real seller names which.
-- **Drying and cleanliness** — mature, well-dried leaf without mustiness or mold.
-- **Form** — dried leaf, bundle, or powder; each suits a different use.
-- **Aroma** — a clean, herbal, bitter-green scent.
+Because mugwort is a common, fast-growing herb rather than a wild-harvested wood or resin, there is no meaningful sustainability risk. For the reader, the practical questions are ones of identification: **which species** (*A. argyi* vs *A. vulgaris*), **which form** (dried leaf, bundle, or powder), and **cleanliness**..
 
 ## Safety
 
 Like all burning plant material, mugwort smoke contains particulate matter. Burn in a well-ventilated space and avoid inhaling concentrated smoke. Keep away from children and pets. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** From a manufacturing perspective, mugwort is a strong, economical herbal accent whose value is its cleansing, bitter-green character — not a lead fragrance. The key variables are species and dosing, because a strong herbal note is easy to overuse.
-
-Mugwort's manufacturing role is a **supporting herbal accent** with a strong, recognizable character. Two points follow:
-
-- **Species changes the scent, not just the name.** *A. argyi*, *A. vulgaris*, and the other *Artemisia* herbs read differently in the same blend, so a formula built on one will not smell the same if the source switches silently.
-- **Dosing is the constraint.** Mugwort's bitter-green, camphoraceous note is potent and easy to overuse; the useful range is a small proportion in a compound. The right amount **depends on formulation** — what it is meant to cleanse or accent — so no single figure transfers between recipes.
-
-In our view, the commercial sweet spot is a **named species in a consistent, well-dried form**, used as a controlled accent rather than a lead note.
 
 ## Summary
 

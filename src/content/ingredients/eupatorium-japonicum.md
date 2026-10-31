@@ -87,7 +87,7 @@ The materia-medica record is **traditional**, not established clinical fact, and
 - Its name is contested — classical 泽兰 (square stem, purple nodes) is the mint-family *Lycopus lucidus*, while *Eupatorium japonicum* is also called 泽兰 in some usage.
 - The *Bencao Gangmu* itself records the 泽兰/兰草 (佩兰) confusion.
 
-This makes 泽兰 a clean, documented example of a broader problem: **classical Chinese plant names often named a role or a description, not a single species**, and a modern buyer or researcher must pin the name to a scientific species rather than trusting the label.
+This makes 泽兰 a clean, documented example of a broader problem: **classical Chinese plant names often named a role or a description, not a single species**, and a modern reader or researcher must pin the name to a scientific species rather than trusting the label.
 
 ## How is it processed?
 
@@ -114,17 +114,6 @@ The quality factors:
 
 There is no standardized grading ladder; identity is the decisive check, followed by physical condition.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species — *Eupatorium japonicum* — and be alert that "泽兰" in classical texts often means the mint-family *Lycopus lucidus* instead. Then judge condition: clean, green, fresh-smelling herb. Specify the scientific name when sourcing.
-
-For a sourcing buyer:
-
-- **Species** — specify *Eupatorium japonicum*; distinguish it from 佩兰 (*Eupatorium fortunei*) and from the mint-family *Lycopus lucidus*.
-- **Naming awareness** — "泽兰" is contested; the scientific name, not the label, must carry the specification.
-- **Condition** — clean, green, fresh-smelling herb with no mustiness.
-- **Form** — whole/cut herb or powder, depending on the use.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -140,20 +129,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Classical 泽兰 | *Lycopus lucidus* (Lamiaceae) | The 本草纲目 "square stem, purple nodes" plant |
 
 The same name 泽兰 has pointed at different plants across history, and the *Bencao Gangmu* itself records the confusion. See [eupatorium (佩兰)](/ingredients/eupatorium/) for the same-genus herb and the full disambiguation.
-
-## Our Industry View
-
-> **Direct answer:** 泽兰 is a template for how to handle a contested classical name: pin the scientific species, state the conflict plainly, and treat the name as a role-description rather than a one-to-one species label. For sourcing, a drifting name is a supply-chain risk — "泽兰" without a species is a role, not a material.
-
-From an editorial and sourcing perspective, 泽兰 is the clearest worked example of a recurring problem in Chinese botanical sourcing: **the name and the plant do not map one-to-one.**
-
-Three points follow:
-
-- **A classical name often names a description, not a species.** The *Bencao Gangmu*'s 泽兰 is described by morphology — square stem, purple nodes, growing by water — and modern botanists read that description as *Lycopus lucidus*, a mint-family herb. Meanwhile *Eupatorium japonicum* is also called 泽兰. The name named a *character*, and two different plants fit it across different eras.
-- **The conflict is documented, not invented.** The *Bencao Gangmu* itself notes the 泽兰/兰草 (佩兰) confusion — "其與蘭草為一物二種" — so this is not a modern over-interpretation but an ancient, acknowledged ambiguity. Stating it plainly is the honest editorial position.
-- **For sourcing, the species carries the specification.** A buyer who orders "泽兰" without a scientific name is ordering a *role*, not a material, and will receive whatever the seller's region calls 泽兰. The fix is procedural: pin *Eupatorium japonicum* (or *E. fortunei*, or *Lycopus lucidus*) and confirm it against the description.
-
-In our view, 泽兰's value is its **naming discipline** — a documented, contested name handled by pinning the species and stating the conflict — which is exactly the kind of transparency that builds a credible botanical-incense knowledge base.
 
 ## Summary
 

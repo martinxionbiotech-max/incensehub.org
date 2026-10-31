@@ -31,7 +31,7 @@ author: "Landeng Tech Team"
 | [Indirect-Fire Setup (隔火焚香)](/blog/gehuo-fenxiang-setup/) | How to heat incense without smoke |
 | [Seal Incense (香篆)](/blog/incense-seal-zhuanxiang/) | Powder pressed into patterns, used as a timer |
 | [香具 (The Tool Set)](/blog/incense-tools-utensils/) | Chopsticks, spoons, spatulas, and the 炉瓶三事 |
-| [Burner Buying Guide](/blog/incense-holder-burner-guide/) | How to choose a burner for each format |
+| [Burner Selection Guide](/blog/incense-holder-burner-guide/) | How to choose a burner for each format |
 
 ---
 
@@ -87,7 +87,7 @@ For sticks and cones, no — a simple holder and an ash catcher are enough, and 
 The least smoky option is the 隔火焚香 setup, which warms the material below its combustion point instead of burning it. In the traditional version, a hot charcoal is buried in ash beneath a thin plate — silver leaf or mica — and the incense sits on the plate, releasing aroma without catching fire. A modern electric incense heater achieves the same result with no charcoal or ash, and is the simplest low-smoke route. Because nothing combusts, both produce far less smoke and particulate than a burning stick or cone, which is why this method appears throughout this site's air-quality guidance as the cleanest way to enjoy incense.
 
 ### Q: Where do I start?
-Start with a simple stick holder — something stable, heatproof, and non-flammable, with a tray to catch the ash. That single piece covers sticks, cones, and coils and costs very little, which makes it the right entry point before spending on anything more. Once you know which format you actually use, you can explore further: a covered censer for the historical forms, or a 隔火焚香 setup if you want the low-smoke resin and powder route. The common mistake is buying a full 香具 toolkit as a beginner when a basic holder is all you need. See the [burner buying guide](/blog/incense-holder-burner-guide/) for the decision path.
+Start with a simple stick holder — something stable, heatproof, and non-flammable, with a tray to catch the ash. That single piece covers sticks, cones, and coils and costs very little, which makes it the right entry point before spending on anything more. Once you know which format you actually use, you can explore further: a covered censer for the historical forms, or a 隔火焚香 setup if you want the low-smoke resin and powder route. The common mistake is buying a full 香具 toolkit as a beginner when a basic holder is all you need. See the [burner selection guide](/blog/incense-holder-burner-guide/) for the decision path.
 
 ---
 
@@ -104,4 +104,4 @@ Start with a simple stick holder — something stable, heatproof, and non-flamma
 - [Incense Holder & Burner Guide](/blog/incense-holder-burner-guide/)
 - [Which Incense Format Is Right for You?](/blog/which-incense-format/)
 
-**Natural next step:** start with the buying guide in [incense holder & burner guide](/blog/incense-holder-burner-guide/).
+**Natural next step:** start with the selection guide in [incense holder & burner guide](/blog/incense-holder-burner-guide/).

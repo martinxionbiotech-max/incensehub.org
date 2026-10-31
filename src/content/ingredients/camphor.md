@@ -48,7 +48,7 @@ The Chinese terminology splits what English calls "camphor" into two distinct ma
 - **樟木 (zhāngmù)** — the aromatic wood of the camphor laurel, used in incense, carving, and furniture.
 - **樟脑 (zhāngnǎo)** — the white crystalline camphor distilled from the wood; the concentrated, purified form, used in insect repellents, external preparations, and as a potent aromatic.
 
-This split matters for a buyer: "camphor" on a label can mean the wood, the natural crystal, or a synthetic substitute — three different commercial objects, one English word.
+This split matters for the reader: "camphor" on a label can mean the wood, the natural crystal, or a synthetic substitute — three different commercial objects, one English word.
 
 ## Same tree, different products — and the borneol trap (read this)
 
@@ -56,7 +56,7 @@ This split matters for a buyer: "camphor" on a label can mean the wood, the natu
 
 Two confusions sit inside the word "camphor," and both matter for sourcing:
 
-- **Wood vs crystal.** The same tree yields 樟木 (wood) and 樟脑 (crystal). The wood is a usable incense material in its own right; the crystal is its concentrated, purified essence. A buyer who wants the wood's soft minty-woody note and is handed a crystal has been given a different, far more intense material.
+- **Wood vs crystal.** The same tree yields 樟木 (wood) and 樟脑 (crystal). The wood is a usable incense material in its own right; the crystal is its concentrated, purified essence. A reader who wants the wood's soft minty-woody note and is handed a crystal has been given a different, far more intense material.
 - **Camphor vs borneol.** camphor (樟脑) and borneol (龙脑) are different crystals from different plants — *Cinnamomum camphora* versus *Dryobalanops aromatica* and *Blumea balsamifera* — yet both are called "camphoraceous" in English. This is a genuine false-friend: the shared adjective makes two unrelated materials sound like one.
 
 **This page describes 樟木/樟脑 = camphor, from *Cinnamomum camphora*.** When a source means 龙脑, it is describing borneol. See [borneol](/ingredients/borneol/).
@@ -94,7 +94,7 @@ The quality factors:
 1. **Wood condition** — clean, dense, strongly aromatic wood; the scent should be cool and penetrating.
 2. **Crystal purity** — white, strongly scented crystals; discolored or weak crystals are inferior.
 3. **Source** — natural camphor (distilled from *Cinnamomum camphora*) versus synthetic; confirm source if natural origin matters.
-4. **Intensity discipline** — camphor is potent, so the buyer is often specifying a *small* amount of a *strong* material, not a large amount of a weak one.
+4. **Intensity discipline** — camphor is potent, so the reader is often specifying a *small* amount of a *strong* material, not a large amount of a weak one.
 
 ## Common forms
 
@@ -122,17 +122,6 @@ The quality factors:
 - **Historical Record** — the durable, documented insect-repelling use of camphor wood and crystals with clothing, books, and stored goods.
 - **Scientific Evidence** — the botanical identity of *Cinnamomum camphora* (Lauraceae) and camphor's chemistry are documented. We present no clinical or medical efficacy claims, and note that concentrated camphor is not for internal use.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish the wood from the crystal, and natural camphor from synthetic. The wood should be clean, dense, and strongly aromatic; the crystal should be white and penetrating; and — because camphor is intense — it should be treated as a small accent, not a base. Confirm source if natural origin matters.
-
-For an incense maker or sourcing buyer:
-
-- **Form** — know whether you want the wood (樟木) or the crystal (樟脑); they are different materials with different intensities.
-- **Source** — natural camphor is often replaced by synthetic; confirm source if natural origin matters.
-- **Condition** — clean, dense, strongly aromatic wood; white, penetrating crystals.
-- **Dosing** — camphor is intense; specify it as a small accent, not a base.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Camphor is a strong aromatic; concentrated camphor products are not for ingestion and should be kept away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -150,21 +139,9 @@ Incense combustion produces smoke and particulate matter; burn in a well-ventila
 
 See [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), the [borneol vs camphor](/blog/borneol-vs-camphor/) comparison, and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** Camphor's commercial lesson is that intensity is a specification, not a flaw. A manufacturer buys camphor for a small, strong, cooling lift — so purity and source (natural versus synthetic) matter more than aromatic subtlety, and the dose is the formula's real variable. The wood and the crystal are two different purchase decisions, even though they come from one tree.
-
-From a manufacturing perspective, camphor is a material where **intensity, not pleasantness, is the specification**:
-
-- **The dose is the formula.** Camphor is bought for a small, bright, cooling lift. The practical consequence is that the *quantity* in a formula — usually tiny — is what determines success, not the subtle grading of the material itself. A little lifts; a lot ruins. This is the opposite of a base wood, where you buy volume and want gentle consistency.
-- **Wood and crystal are two purchase decisions.** 樟木 and 樟脑 come from one tree but are different commercial objects with different uses, prices, and safety profiles. A buyer who conflates them buys the wrong intensity.
-- **Natural versus synthetic is a real, if often hidden, split.** Synthetic camphor is cheaper and chemically similar, and labels do not always distinguish it. If natural origin matters — for incense or traditional use — the source must be confirmed, because "camphor" alone does not say.
-
-In our view, camphor is a potent top-note accent whose real procurement questions are form (wood or crystal), source (natural or synthetic), and dose — and whose value lies in a sharp, clean cooling character used in disciplined small amounts.
-
 ## Summary
 
-Camphor (樟木/樟脑) is the aromatic wood and distilled crystal of *Cinnamomum camphora*, the camphor laurel, a Lauraceae tree of southern China, Japan, Taiwan, and Vietnam. It is a sharp, cool, penetrating "camphoraceous" note used in incense as a sparing top note and, more durably, as an insect repellent. The Chinese terminology splits wood (樟木) from crystal (樟脑), and the English word further collapses camphor with the unrelated borneol (龙脑) and with synthetic substitutes — so a buyer's first job is to fix form, source, and dose. Its medicinal uses are traditional language, not clinical evidence, and concentrated camphor is not for internal use.
+Camphor (樟木/樟脑) is the aromatic wood and distilled crystal of *Cinnamomum camphora*, the camphor laurel, a Lauraceae tree of southern China, Japan, Taiwan, and Vietnam. It is a sharp, cool, penetrating "camphoraceous" note used in incense as a sparing top note and, more durably, as an insect repellent. The Chinese terminology splits wood (樟木) from crystal (樟脑), and the English word further collapses camphor with the unrelated borneol (龙脑) and with synthetic substitutes — so the reader's first task is to fix form, source, and dose. Its medicinal uses are traditional language, not clinical evidence, and concentrated camphor is not for internal use.
 
 ## FAQ
 
@@ -178,7 +155,7 @@ Camphor (樟木/樟脑) is the aromatic wood and distilled crystal of *Cinnamomu
 
 **Is natural camphor different from synthetic camphor?** Yes. Natural camphor is distilled from *Cinnamomum camphora* wood, while synthetic camphor is manufactured and widely used as a cheaper replacement in commerce. Both are strongly aromatic, but if natural origin matters for incense or traditional use, the source should be confirmed, since the two are not always distinguished on labels.
 
-**What is the difference between camphor wood (樟木) and camphor (樟脑)?** They are the same tree, different materials. 樟木 is the aromatic camphor wood itself, used in incense, carving, and furniture. 樟脑 is the white crystalline camphor distilled from that wood — the concentrated, purified, far more intense form. A buyer should know which one they want, because they are different commercial objects with different uses and potencies.
+**What is the difference between camphor wood (樟木) and camphor (樟脑)?** They are the same tree, different materials. 樟木 is the aromatic camphor wood itself, used in incense, carving, and furniture. 樟脑 is the white crystalline camphor distilled from that wood — the concentrated, purified, far more intense form. A reader should know which one they want, because they are different commercial objects with different uses and potencies.
 
 See also: [borneol](/ingredients/borneol/), [cinnamon](/ingredients/cinnamon/), [eucalyptus](/ingredients/eucalyptus/) and the full [scent guide](/blog/scent-guide/).
 

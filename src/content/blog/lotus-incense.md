@@ -39,7 +39,7 @@ A surprisingly common mix-up — even among enthusiasts — is treating "lotus" 
 | Leaves | Held **above** the water | Float **on** the water surface |
 | "Blue lotus" | — | *Nymphaea caerulea* is a **water lily**, not a lotus |
 
-The name *Nelumbo nucifera* comes from a Sinhalese name for the plant plus the Latin *nucifera* ("nut-bearing"). Sanskrit names include *Padma* and *Kamala*. The point that matters for buyers: **"blue lotus" is a different plant**, and its marketing history is its own thing — which is why this article sticks to the true lotus, *Nelumbo nucifera*.
+The name *Nelumbo nucifera* comes from a Sinhalese name for the plant plus the Latin *nucifera* ("nut-bearing"). Sanskrit names include *Padma* and *Kamala*. The point that matters for readers: **"blue lotus" is a different plant**, and its marketing history is its own thing — which is why this article sticks to the true lotus, *Nelumbo nucifera*.
 
 ---
 
@@ -67,7 +67,7 @@ The lotus is also central to **Buddhist** iconography (the lotus throne 莲座/�
 
 The classical Chinese incense canon (香谱) is built on woods and resins — agarwood, sandalwood, frankincense, myrrh. The lotus flower, despite its symbolism, is **not** a traditional incense material in that sense; its fresh scent does not survive burning or heating well, and true lotus absolute is rare and expensive.
 
-The consequence for buyers: **most "lotus" sticks, cones, and blends use a synthetic or blended floral accord** to evoke the lotus note, not real lotus. This is not automatically bad — a well-made accord can be pleasant — but it is worth knowing what you are actually buying. The same material-vs-fragrance distinction that applies to sandalwood and lavender applies here.
+The consequence for readers: **most "lotus" sticks, cones, and blends use a synthetic or blended floral accord** to evoke the lotus note, not real lotus. This is not automatically bad — a well-made accord can be pleasant — but it is worth knowing what you are actually getting. The same material-vs-fragrance distinction that applies to sandalwood and lavender applies here.
 
 ---
 
@@ -91,8 +91,8 @@ The consequence for buyers: **most "lotus" sticks, cones, and blends use a synth
 **Position:** “Lotus” in incense is almost always a story, not a material.
 
 **Reasoning:**
-- The real flower barely survives burning and true lotus absolute is rare, so you are usually buying a floral accord wrapped in symbolism.
-- The symbol is real; the “lotus” in the stick usually is not — buyers deserve to know it.
+- The real flower barely survives burning and true lotus absolute is rare, so you are usually getting a floral accord wrapped in symbolism.
+- The symbol is real; the “lotus” in the stick usually is not — readers deserve to know it.
 
 *This is the author's editorial view and experience — not a verified fact.*
 ---

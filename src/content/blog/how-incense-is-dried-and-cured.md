@@ -39,7 +39,7 @@ Most accounts of incense-making stop at "dry it." That understates the stage. Th
 - It is **structurally weak** — wet paste will not hold its form or burn.
 - It is **aromatically raw** — the individual ingredients have not yet merged.
 
-Drying and curing are the two stages that fix both problems, and they reward patience in a way that a factory schedule often resists. A stick can be rushed through this stage and still *look* fine, which is why the distinction is so useful to a buyer: it explains why two sticks with the same listed ingredients can smell and burn differently.
+Drying and curing are the two stages that fix both problems, and they reward patience in a way that a factory schedule often resists. A stick can be rushed through this stage and still *look* fine, which is why the distinction is so useful to a reader: it explains why two sticks with the same listed ingredients can smell and burn differently.
 
 ---
 
@@ -80,7 +80,7 @@ What actually happens during curing, stated without over-claiming:
 - **The ingredients merge** — individual characters soften into a single, integrated scent.
 - **The burn stabilizes** — a settled stick smolders more predictably than a freshly dried one.
 
-Curing is the stage that rewards a maker's patience and punishes a buyer's impatience in equal measure. The distinction is practical, not philosophical: a blend composed of resin, wood, and floral reads as three separate smells when fresh, and as one smell when it has rested. Neither is "better" in the abstract — some makers prefer the bright edge of a fresh blend — but they are different products, and a buyer should know which they are getting.
+Curing is the stage that rewards a maker's patience and punishes a reader's impatience in equal measure. The distinction is practical, not philosophical: a blend composed of resin, wood, and floral reads as three separate smells when fresh, and as one smell when it has rested. Neither is "better" in the abstract — some makers prefer the bright edge of a fresh blend — but they are different products, and a reader should know which they are getting.
 
 The **duration of curing is not a fixed number** — it depends on the material and the formulation. Some blends are designed to be used soon; others are traditionally rested for a long period. The honest statement is that curing *changes* the blend, and that the maker chooses a rest matched to the recipe — no universal "X days" is asserted here.
 
@@ -96,7 +96,7 @@ This page describes the *principles* of drying and curing — why they matter, w
 - **No specific curing duration** is claimed as universal; it depends on material and formulation.
 - **No measured scent-profile or burn data** is asserted.
 
-The value to a buyer is the *concept*: drying and curing are real, consequential stages that separate a settled product from a rushed one, even when the two look identical on the shelf.
+The value to a reader is the *concept*: drying and curing are real, consequential stages that separate a settled product from a rushed one, even when the two look identical on the shelf.
 
 ---
 
@@ -116,7 +116,7 @@ The value to a buyer is the *concept*: drying and curing are real, consequential
 
 **Reasoning:**
 - Anyone can grind and blend; the maker is revealed by how they handle the waiting.
-- A buyer who has learned to smell the difference between "dry" and "cured" can tell a settled product from a rushed one without seeing the factory.
+- A reader who has learned to smell the difference between "dry" and "cured" can tell a settled product from a rushed one without seeing the factory.
 - The Chinese habit of naming aging (窨) as a step in the formula is the single best clue that the tradition treats time as an ingredient.
 
 *This is the author's editorial view and experience — not a verified fact.*

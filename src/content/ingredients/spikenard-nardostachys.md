@@ -63,7 +63,7 @@ Spikenard's role follows directly from its aroma: an earthy, sweet, musky body n
 
 > **Direct answer:** Spikenard root is harvested, cleaned, and dried, then used whole, sliced, or powdered. No extraction step is involved in the root form; only a distilled oil or extract would require a further step.
 
-The root and rhizome are **harvested, cleaned, and dried**, then used whole, sliced, or ground to powder for blending. No extraction step is involved in the dried-root form. For powder buyers, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The root and rhizome are **harvested, cleaned, and dried**, then used whole, sliced, or ground to powder for blending. No extraction step is involved in the dried-root form. For powder, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines spikenard quality?
 
@@ -76,7 +76,7 @@ The quality factors, in rough order:
 3. **Species and origin** — because genuine wild *Nardostachys* is scarce and substitutes appear in commerce, confirming the species matters.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized grading system**; the buyer evaluates the physical condition, aroma, and provenance of the lot.
+There is **no standardized grading system**; the reader evaluates the physical condition, aroma, and provenance of the lot.
 
 ## Common forms
 
@@ -124,68 +124,31 @@ Spikenard's scarcity creates its authenticity problem. Two risks recur:
 
 The botanical name and the form (root vs oil) resolve the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Genuine wild spikenard is increasingly scarce because *Nardostachys jatamansi* is harvested from sensitive Himalayan habitats and is listed under CITES Appendix II. Sourcing should confirm species, origin, and whether the material is wild or cultivated.
 
-Wild *Nardostachys* is harvested from sensitive high-Himalayan habitats, and the trade is monitored under **CITES Appendix II**. For a buyer, the practical implication is documentation: a credible supplier should be able to name the species and origin and state whether the material is wild or cultivated, rather than offering only an unqualified "spikenard" label. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Spikenard is used in classical-style blended incense, in traditional materia medica, and — as a distilled oil — in Western aromatherapy. The root and the oil are separate products with different price structures.
-
-Spikenard reaches the market through distinct channels:
-
-- **Classical-style blended incense** — the dried root is a grounding body note in *huxiang* formulas.
-- **Materia medica** — 甘松 is a standard dried root of the Chinese herbal trade.
-- **Aromatherapy oil** — "spikenard" oil is a steam-distilled product of the same genus, a separate market from the dried root.
-
-The root and oil channels are distinct; a sourcing buyer should be clear which one they are buying.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species and form (dried root vs oil), then judge the root's aroma, soundness, and cleanliness — and ask whether the material is wild or cultivated, since that affects both legality and price.
-
-For an incense maker or sourcing buyer:
-
-- **Species and form** — confirm *Nardostachys jatamansi* and whether you are buying dried root or distilled oil; a real seller names both.
-- **Aroma** — the root should give an earthy-sweet, musky scent when gently warmed.
-- **Soundness and cleanliness** — freedom from rot, mold, and foreign matter.
-- **Wild vs cultivated** — a documentation question with legal and price implications (CITES Appendix II).
-- **Powder consistency** — for powder, confirm particle size and moisture, and test a sample against your formula.
+Wild *Nardostachys* is harvested from sensitive high-Himalayan habitats, and the trade is monitored under **CITES Appendix II**. For the reader, the practical implication is documentation: a credible supplier should be able to name the species and origin and state whether the material is wild or cultivated, rather than offering only an unqualified "spikenard" label. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, spikenard's scarcity makes documentation the real specification — species, origin, and wild-vs-cultivated status — because a "spikenard" that quietly switches species or form will change a blend's grounding without announcing itself. Consistency matters more than any grade name.
-
-From a manufacturing perspective, spikenard is a **scarcity-driven documentation problem more than a material problem**. Because genuine wild material is restricted and substitutes circulate, the nominal name "spikenard" carries less information than the species, origin, and harvest status behind it — and a formula built on one will not reproduce if the source shifts silently.
-
-Two points follow:
-
-- **Documentation is the specification.** A credible lot of 甘松 should come with species, origin, and wild-vs-cultivated status. The alternative — an unqualified "spikenard" — is exactly the situation where a substitute can enter without being noticed.
-- **Consistency, not grade.** As a grounding body note, spikenard's value is that the *next* batch smells and behaves like the last. A single fragrant lot proves little; what matters is reproducible earthy-musky character across batches.
-
-In our view, the commercial sweet spot is a **documented, consistent 甘松 with a confirmed species and origin** — not a rare wild top grade that cannot be reordered to the same specification.
-
 ## Summary
 
-Spikenard (甘松, *gānsōng*) is the dried, fragrant root of *Nardostachys jatamansi*, a high-Himalayan herb. It is a classical grounding body note in Chinese 合香, valued for an earthy, sweet, musky root character, and documented in the Song-dynasty *Xiangpu* (香譜) and *Bencao Shiyi* (本草拾遗). Because wild sourcing is restricted and CITES-monitored, its risks are substitution and species/form confusion. In incense it is a supporting note, not a lead; commercially, documentation and consistency outweigh rarity.
+Spikenard (甘松, *gānsōng*) is the dried, fragrant root of *Nardostachys jatamansi*, a high-Himalayan herb. It is a classical grounding body note in Chinese 合香, valued for an earthy, sweet, musky root character, and documented in the Song-dynasty *Xiangpu* (香譜) and *Bencao Shiyi* (本草拾遗). Because wild sourcing is restricted and CITES-monitored, its risks are substitution and species/form confusion. In incense it is a supporting note, not a lead; in trade, documentation and consistency outweigh rarity.
 
 ## FAQ
 
 **What does spikenard smell like?** Spikenard root is earthy and woody with a sweet, slightly musky, faintly animalic undertone. It is a supporting, grounding note rather than a bright or floral one — in Chinese *huxiang* (blended incense) it deepens a formula from below, alongside woods and resins. The aroma is "rooty" and develops with gentle heat, which is why it is blended rather than burned alone for fragrance.
 
-**Is Chinese spikenard (甘松) the same as Western spikenard essential oil?** They trace to the same plant family — *Nardostachys* — but the materials are not automatically identical. Chinese 甘松 is the dried root used in incense and materia medica, while "spikenard" in Western aromatherapy is usually a steam-distilled essential oil of the same genus. A label that says only "spikenard" does not specify species or form, so buyers should check what they are getting.
+**Is Chinese spikenard (甘松) the same as Western spikenard essential oil?** They trace to the same plant family — *Nardostachys* — but the materials are not automatically identical. Chinese 甘松 is the dried root used in incense and materia medica, while "spikenard" in Western aromatherapy is usually a steam-distilled essential oil of the same genus. A label that says only "spikenard" does not specify species or form, so readers should check what they are getting.
 
 **What part of the spikenard plant is used?** The dried root and rhizome of *Nardostachys jatamansi* are the parts used. The plant is a small Himalayan herb; its root is harvested, cleaned, and dried, then used whole, sliced, or powdered in incense and traditional practice. The name 甘松 refers to the root's sweet taste rather than its scent — an older, taste-based naming convention.
 
 **Why is spikenard so associated with blended incense?** Because its aroma is a grounding, earthy body note rather than a self-sufficient fragrance, spikenard works best in combination. The Song-dynasty manual *Xiangpu* (香譜) lists 甘松香 among the standard incense materials, and classical *huxiang* formulas pair it with woods (sandalwood, agarwood), resins, and other roots. It contributes depth and warmth that other ingredients do not supply on their own.
 
-**Is spikenard rare?** Genuine wild spikenard has become scarce because *Nardostachys jatamansi* is harvested from sensitive high-Himalayan habitats and its trade is monitored under CITES Appendix II. This has led to cultivated material and substitutes appearing in commerce — including the traditional *huxiang* root *Cyperus* (香附子), sometimes used in spikenard's place. Rarity and sourcing pressure are worth checking when buying.
+**Is spikenard rare?** Genuine wild spikenard has become scarce because *Nardostachys jatamansi* is harvested from sensitive high-Himalayan habitats and its trade is monitored under CITES Appendix II. This has led to cultivated material and substitutes appearing in commerce — including the traditional *huxiang* root *Cyperus* (香附子), sometimes used in spikenard's place. Rarity and sourcing pressure are worth checking when sourcing.
 
 **Is spikenard the same as vetiver?** No — both are earthy root notes, but they are different plants. Spikenard is *Nardostachys jatamansi*, with an earthy, sweet, musky character; vetiver is *Chrysopogon zizanioides*, a grass whose roots give a dry, smoky, cleaner earthy note. They both ground a blend from below, but spikenard reads sweeter and more musky, while vetiver reads drier and smokier.
 
@@ -199,7 +162,7 @@ See also: [sandalwood](/ingredients/sandalwood/), [vetiver](/ingredients/vetiver
 ### Traditional Chinese use
 **Source:** the Song-dynasty *Xiangpu* (香譜, "Incense Manual," 洪芻) records 甘松香 among standard incense materials, citing 《本草拾遺》 ("bathing makes the body fragrant," 浴人身令香) and 《廣志》 (origin in 涼州). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Authenticity / sourcing
+### Authenticity
 **Source:** *Nardostachys jatamansi* wild-harvest scarcity and CITES Appendix II monitoring; the *Cyperus* (香附子) substitution note. **Evidence type:** Practical screening.
 
 ### Safety

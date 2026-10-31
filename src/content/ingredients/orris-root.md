@@ -130,46 +130,21 @@ They are complements in a modern blend — orris's powdery violet smoothing the 
 
 "Iris" in a Chinese context usually means **鸢尾 (*Iris tectorum*)**, the native Chinese iris, grown ornamentally and not the source of orris. Orris root comes from **European species** — *Iris germanica*, *I. pallida*, and *I. florentina* — cultivated for their rhizomes in the Mediterranean region. A label that says only "iris" or "鸢尾" does not tell you which you are getting, and the Chinese iris is **not** an orris substitute.
 
-## Quality and sourcing notes
+## Quality notes
 
-Because the scent depends on aging, "orris root" varies widely with age and species. Practical points for buyers:
+Because the scent depends on aging, "orris root" varies widely with age and species. Practical points:
 
 - The material should smell powdery and violet-like; fresh or poorly aged orris is nearly scentless.
 - *Iris germanica*, *I. pallida*, and *I. florentina* are the standard species; Chinese 鸢尾 (*Iris tectorum*) is not an orris source.
 - Orris is typically sold as ground root, orris butter (concrete), or orris absolute; these are not interchangeable in use.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species — *Iris germanica / I. pallida / I. florentina*, not Chinese 鸢尾 — and the form (root, butter, or absolute), and check for a powdery, violet-like aroma that indicates proper aging. Fresh or poorly aged orris is nearly scentless.
-
-For a perfumery or incense buyer:
-
-- **Species** — European orris species, not the Chinese ornamental 鸢尾 (*Iris tectorum*).
-- **Age** — proper multi-year aging is what produces the scent; poorly aged material is nearly odorless.
-- **Aroma** — powdery, dry, violet-like.
-- **Form** — ground root, butter (concrete), or absolute; they are not interchangeable.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Orris root is a fragrance material, not a food or medicine. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, orris is a time-and-species product: its value rests on years of aging and on using the right European iris, not the Chinese 鸢尾. A repeatable powder-violet note needs a consistent, properly aged, species-confirmed supply.
-
-From a manufacturing perspective, orris's commercial logic is **time-and-species**:
-
-- **Age is the material.** The irone note exists only after years of aging, so a poorly aged "orris root" is, in effect, a different material — nearly odorless. The buyer's question is how well aged the material is, not just whether it is orris.
-- **Species is the identity.** The Chinese 鸢尾 (*Iris tectorum*) is the wrong plant for the job; the powdery-violet note comes from the European species. A label that says only "iris" is a supply risk.
-- **It is a fixative, not a lead.** Orris smooths and holds a blend at a supporting proportion; the right dose **depends on formulation** — what it is meant to fix — not on a universal figure.
-
-In our view, the commercial sweet spot is a **species-confirmed, properly aged supply with a stated form (root, butter, or absolute)**, used as a supporting fixative rather than a showcase note.
-
 ## Summary
 
-Orris root (鸢尾根, *yuānwěi gēn*) is the dried, aged rhizome of European irises — chiefly *Iris germanica*, *Iris pallida*, and *Iris florentina* (Iridaceae) — whose powdery, violet-like "iris" note develops only after several years of aging (iridals → irones). It is a foundational fixative in Western perfumery and a modern crossover into Chinese incense, absent from the classical 香乘 / 香譜 as a 合香 material. It is easily confused with the native Chinese iris 鸢尾 (*Iris tectorum*), which is ornamental and not an orris source. Age, species, and form (root, butter, or absolute) are the buyer's key checks.
+Orris root (鸢尾根, *yuānwěi gēn*) is the dried, aged rhizome of European irises — chiefly *Iris germanica*, *Iris pallida*, and *Iris florentina* (Iridaceae) — whose powdery, violet-like "iris" note develops only after several years of aging (iridals → irones). It is a foundational fixative in Western perfumery and a modern crossover into Chinese incense, absent from the classical 香乘 / 香譜 as a 合香 material. It is easily confused with the native Chinese iris 鸢尾 (*Iris tectorum*), which is ornamental and not an orris source. Age, species, and form (root, butter, or absolute) are the reader's key checks.
 
 ## FAQ
 
@@ -179,7 +154,7 @@ Orris root (鸢尾根, *yuānwěi gēn*) is the dried, aged rhizome of European 
 
 **What is the difference between orris root and Chinese 鸢尾?** Orris root comes from European irises — *Iris germanica*, *Iris pallida*, and *Iris florentina* — grown for their rhizomes in the Mediterranean. Chinese 鸢尾 is *Iris tectorum*, a native ornamental species that is **not** a source of orris. The shared word "iris" hides the difference, so a label that says only "iris" or "鸢尾" is underspecified, and the Chinese iris is not an orris substitute.
 
-**Why does orris root need to be aged?** Because the scent is a product of time. Fresh iris rhizomes are nearly odorless; during three to five years of drying and aging, their compounds (iridals) degrade into *irones*, which are responsible for the violet-powdery aroma. Without the aging step, "orris root" is just dried iris with little fragrance. This is why age and species matter so much when buying orris.
+**Why does orris root need to be aged?** Because the scent is a product of time. Fresh iris rhizomes are nearly odorless; during three to five years of drying and aging, their compounds (iridals) degrade into *irones*, which are responsible for the violet-powdery aroma. Without the aging step, "orris root" is just dried iris with little fragrance. This is why age and species matter so much when sourcing orris.
 
 **How is orris root used?** In perfumery, orris root is used as a fixative and for its powdery violet note, typically as ground root, orris butter (a concrete), or orris absolute. In modern incense it appears as a fixative and softening note in contemporary blends. Because the scent is subtle and developed by aging, it is usually blended to support and smooth a composition rather than burned alone.
 

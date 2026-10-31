@@ -109,7 +109,7 @@ Practical points:
 | Botanical source | *Copaifera* spp. (Fabaceae) | *Myroxylon balsamum* (Fabaceae) |
 | Character | Light, woody, creamy, slightly sweet | Dense, vanilla-cinnamon sweet |
 | Typical form | Oleoresin or distilled oil | Viscous balsam or resinoid |
-| Key buying note | Genus identity; balsam vs oil | Contact sensitizer; geographic misnomer |
+| Key identification note | Genus identity; balsam vs oil | Contact sensitizer; geographic misnomer |
 
 The two are often grouped as "South American balsams," but they sit at opposite ends of the register — copaiba light and woody, Peru balsam dense and gourmand-sweet. See [peru-balsam](/ingredients/peru-balsam/) and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 

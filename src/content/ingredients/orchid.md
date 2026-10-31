@@ -80,29 +80,6 @@ The *Cymbidium* orchids range across East and Southeast Asia, and *Cymbidium ens
 
 The orchid's incense role is a *reference*, not a material. Its delicate, understated scent does not suit heavy burning, and its classical appearances are pairings — the *Xiangcheng* recording that orchid suits certain refined incenses (兰宜四絶) — rather than a role as a burned ingredient in its own right. The aesthetic is one of restraint: the orchid's value is the idea and the up-close fragrance of a refined flower, curated as a 清供 offering and matched to incense conceptually, not combusted. A formulator should understand orchid as a *cultural and olfactory reference* rather than a botanical material to dose into a stick.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should distinguish 兰花 (the *Cymbidium* orchid, Orchidaceae) from champaca (白兰花) and yulan magnolia (玉兰), which share the 兰 character but are magnolias. The orchid's scent is subtle and up-close; in incense it is a delicate floral reference, not a heavy burned material, and it is a cultural symbol first, a fragrance ingredient second.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — confirm *Cymbidium ensifolium* (Orchidaceae), the true orchid; distinguish it from champaca (白兰花) and yulan magnolia (玉兰), which are magnolias despite the shared 兰 character.
-- **Aroma** — expect a delicate, refined, sweet-green floral, subtle and up-close rather than room-filling.
-- **Role** — it is a 清供 flower and a cultural symbol first, a fragrance ingredient second; in incense it is a reference, not a burned material.
-- **Format** — for modern fragrance, "orchid" usually names a synthetic accord; the living flower's scent is a garden and cultural matter.
-
-## Our Industry View
-
-> **Direct answer:** Orchid's lesson is that incense culture is partly an aesthetic of restraint, not just a catalog of materials. The orchid is prized for being understated — a refined, up-close scent matched conceptually to incense (兰宜四絶) rather than burned — so its value is cultural and olfactory-reference, not extractive. This is the opposite of a commodity material, and it is a reminder that some entries in the fragrance canon are ideas, not ingredients.
-
-Orchid is the entry where the *aesthetic* dimension of incense culture is most visible, and it is worth stating plainly:
-
-- **Restraint is a value, not a defect.** The orchid's subtle, up-close fragrance is prized precisely because it does not fill a room. In classical incense aesthetics, understatement is a virtue — the refined floral that rewards proximity — which is why the orchid is matched to incense conceptually (兰宜四绝) rather than burned.
-- **Some canon entries are references, not materials.** Like 含笑花's 含笑宜麝, the orchid's 兰宜四絶 is a pairing judgment, not a "use as a 香材." Recognizing that the classical record contains *aesthetic pairings* as well as *material uses* is part of reading it accurately — and it protects against inflating a cultural reference into an ingredient.
-- **The 兰 character reaches its limit here.** 兰花 is the one *true* orchid in the 兰-named set, which is why the disambiguation matters: the character points to a refined fragrance ideal, not to a botanical family, and only the species tells you which plant you actually have.
-
-In our view, orchid is best understood as a **cultural and olfactory reference** — the refined floral of the scholar's table — whose incense value is aesthetic rather than extractive, and whose lesson is that restraint and conceptual pairing are genuine parts of the fragrance canon.
-
 ## Summary
 
 兰花 (*Cymbidium ensifolium*) is the true orchid of Chinese fragrance culture — an Orchidaceae flower prized for a delicate, refined, understated scent that is the classical model of the cultivated floral. It is one of the Four Gentlemen (四君子) and a 清供 offering flower, and the Ming *Xiangcheng* (香乘) records its pairing with refined incenses (兰宜四絶) — a conceptual reference rather than a burned material. Its lesson is that incense culture includes an aesthetic of restraint: the orchid's value is in its quiet, up-close fragrance and its cultural symbolism, not in extraction or combustion.

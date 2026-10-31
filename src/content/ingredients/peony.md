@@ -48,7 +48,7 @@ related: ["rose", "plum-blossom"]
 - **herbaceous peony (芍药)** — *Paeonia lactiflora*, a soft-stemmed perennial that dies back each winter; the root (白芍/赤芍) is the materia-medica part. This entry.
 - **tree peony (牡丹)** — *Paeonia × suffruticosa* (and its bark, 牡丹皮/树牡丹皮), a woody shrub that persists above ground; the bark is the materia-medica part. Its own entries ([tree-peony](/ingredients/tree-peony/) and [tree-peony-bark](/ingredients/tree-peony-bark/)).
 
-The two are the ancient pair of Chinese peonies, but "peony" in English covers both, which is a recurring source of confusion for buyers. The herbaceous 芍药 is the softer garden flower; the tree 牡丹 is the woody "king of flowers."
+The two are the ancient pair of Chinese peonies, but "peony" in English covers both, which is a recurring source of confusion for readers. The herbaceous 芍药 is the softer garden flower; the tree 牡丹 is the woody "king of flowers."
 
 ## Botanical source and origin
 
@@ -82,30 +82,7 @@ The herbaceous peony ranges across central and eastern Asia, from northern China
 
 > **Direct answer:** 芍药 is a living garden fragrance, not a burned incense material. Its sweet, rosy, green scent is enjoyed on the plant or as a cut flower, and some cultivars are nearly scentless. It is not a classical 香材, and its aromatic value is the garden bloom rather than the burner.
 
-芍药's fragrance role is the garden and the vase, not the incense burner. Its sweet, rosy, green scent — present in the more fragrant cultivars, absent in others — is a living-plant and cut-flower pleasure. It is not a classical 香材, and it is not extracted or burned in any established tradition. The practical point is that "peony" in a fragrance context usually means a modern synthetic accord (a peony-style floral note) rather than a natural extract or a burned material, and the living flower's scent is a garden matter, not an incense one.
-
-## What buyers should look for
-
-> **Direct answer:** A buyer should distinguish 芍药 (the herbaceous peony, *Paeonia lactiflora*) from 牡丹 (the tree peony, *Paeonia × suffruticosa*), which is a different peony species. Expect a floral, rosy, sweet, green scent in the fragrant cultivars — some are nearly scentless — and treat it as a garden/cultural flower, not a classical 香材 or a burned material.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — confirm *Paeonia lactiflora* (herbaceous peony) and distinguish it from 牡丹 (*Paeonia × suffruticosa*, tree peony); the two are different peonies with different forms and materia-medica parts.
-- **Aroma** — expect a floral, rosy, sweet, green scent in the fragrant cultivars, but note that some cultivars are nearly scentless, so "peony" does not guarantee fragrance.
-- **Role** — it is a garden and cultural flower; its classical name 将离 records a parting custom, not an incense role.
-- **Format** — for fragrance, expect a modern peony-style accord rather than a natural extract or a burned flower.
-
-## Our Industry View
-
-> **Direct answer:** 芍药's lesson is about the gap between a flower's cultural weight and its aromatic utility. It is one of China's oldest ornamentals, with a documented classical name (将离) and a materia-medica root — yet as an incense material it is nearly nothing: a garden fragrance, often scentless, with no classical 香材 role. The disciplined buyer separates the cultural flower from the (largely absent) aromatic material.
-
-芍药 is a striking case of cultural richness meeting aromatic thinness, and the contrast is the lesson:
-
-- **Cultural weight is not aromatic value.** 芍药 carries a millennium of cultivation, a classical parting-flower name (将离), and a materia-medica root — real, documented cultural substance. But none of that translates into an incense material: it is a garden flower, sometimes scentless, with no classical 香材 role. Confusing the two is the central risk.
-- **"Peony" is a synthetic-accord term in practice.** In modern fragrance, "peony" almost always names a synthetic floral accord, not a natural peony extract. A buyer who orders "peony" should know which they are getting — a modern note, not a botanical product.
-- **The herbaceous/tree split is the useful distinction.** 芍药 (herbaceous, root medicine) and 牡丹 (tree, bark medicine) are both "peony" in English, but they are different plants with different parts used. Naming the species and the form is the discipline that resolves the confusion.
-
-In our view, 芍药 is a **cultural flower, not an incense material**: its value is ornamental, symbolic, and materia-medica, and its honest characterization is a garden and parting-flower record — not a 香材 claim it has never supported. The same gap between fame and fragrance appears with [schisandra (五味子)](/ingredients/schisandra/) — a five-flavor materia-medica berry famous for taste rather than scent.
+芍药's fragrance role is the garden and the vase, not the incense burner. Its sweet, rosy, green scent — present in the more fragrant cultivars, absent in others — is a living-plant and cut-flower pleasure. It is not a classical 香材, and it is not extracted or burned in any established tradition. The practical point is that "peony" in a fragrance context usually means a modern synthetic accord (a peony-style floral note) rather than a natural extract or a burned material, and the living flower's scent is a garden matter, not an incense one. The same gap between fame and fragrance appears with [schisandra (五味子)](/ingredients/schisandra/) — a five-flavor materia-medica berry famous for taste rather than scent.
 
 ## Summary
 

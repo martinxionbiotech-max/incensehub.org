@@ -48,7 +48,7 @@ The name 草果 (cǎoguǒ) is plain — "grass fruit" — and that plainness is 
 - **tsaoko (草果)** — *Amomum tsao-ko*, the smoky "black cardamom." This entry.
 - **katsumadai (草豆蔻)** — *Alpinia katsumadae*, a seed of the ginger family. Its own entry.
 
-A buyer who conflates 草果 and 草豆蔻 — two "grass"-named ginger-family fruits — has made a genuine sourcing error, because they are different species with different characters.
+A reader who conflates 草果 and 草豆蔻 — two "grass"-named ginger-family fruits — has made a genuine sourcing error, because they are different species with different characters.
 
 ## The "black cardamom" false friend (read this)
 
@@ -83,7 +83,7 @@ The fruit is harvested and dried whole, becoming the ribbed red-brown pod. Befor
 
 ## What determines tsaoko quality?
 
-> **Direct answer:** Quality turns on species identity and fruit condition. The buyer's first job is to distinguish 草果 (*Amomum tsao-ko*) from white cardamom, Indian black cardamom, and 草豆蔻; then to judge well-filled, intact fruits with dark, aromatic seeds. Expect a dark, smoky, camphoraceous character.
+> **Direct answer:** Quality turns on species identity and fruit condition. The reader's first job is to distinguish 草果 (*Amomum tsao-ko*) from white cardamom, Indian black cardamom, and 草豆蔻; then to judge well-filled, intact fruits with dark, aromatic seeds. Expect a dark, smoky, camphoraceous character.
 
 The quality factors:
 
@@ -116,17 +116,6 @@ The quality factors:
 - **Historical Record** — its role as a signature culinary spice of southwestern Chinese cooking, and its absence from the classical 香乘 incense canon.
 - **Scientific Evidence** — the botanical identity of *Amomum tsao-ko* (*Lanxangia tsao-ko*, Zingiberaceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish 草果 (*Amomum tsao-ko*) from white cardamom, Indian black cardamom, and 草豆蔻, then judge well-filled, intact fruits with dark, aromatic seeds. Expect a dark, smoky, camphoraceous spice — distinct from sweeter cardamoms — and note it is a modern incense accent, not a classical 香乘 ingredient.
-
-For a buyer or formulator:
-
-- **Species** — 草果 (*Amomum tsao-ko* / *Lanxangia tsao-ko*), not 白豆蔻, Indian black cardamom, or 草豆蔻.
-- **Fruit condition** — well-filled, intact fruits; the aroma is in the dark seeds.
-- **Aroma** — a dark, smoky, camphoraceous character, distinct from sweeter cardamoms.
-- **Role** — a dark warming accent, usually blended, not burned alone.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -142,18 +131,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | English gloss | "Black cardamom" (false friend) | White/round cardamom | "Grass cardamom" |
 
 See [cardamom](/ingredients/cardamom/), [katsumadai](/ingredients/katsumadai/), [amomum-villosum](/ingredients/amomum-villosum/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 草果's commercial lesson is that the English "black cardamom" label is a false friend that merges several distinct ginger-family fruits. A buyer should fix the species — 草果 (*Amomum tsao-ko*), not *Amomum subulatum* or a sweet cardamom — and value the smoky, dark, warming character that is its actual specification.
-
-From a manufacturing perspective, 草果 is a case where **the English name is the hazard**:
-
-- **"Black cardamom" is a category, not a species.** In English the name collapses 草果, Indian black cardamom, and — by association — the sweet cardamoms into one label. A buyer who orders "black cardamom" without pinning the species may receive a different fruit with a different character. The disciplined move is to name *Amomum tsao-ko* (*Lanxangia tsao-ko*).
-- **The smoky note is the specification.** 草果's value is its dark, smoky, camphoraceous warmth — the character that makes it the "black cardamom" of braises. A buyer wanting that smouldering depth should confirm it is present, not assume the name guarantees it.
-- **It is a modern incense accent, not a classical material.** 草果 has no 香乘 canon role; its incense use is a modern borrowing of its culinary character. That is fine — but it should be framed honestly, not dressed up as a classical 香材.
-
-In our view, 草果 is a dark, smoky, warming spice whose real procurement question is *which* "black cardamom" — fix the species, check for the smoky depth, and treat it as a modern culinary-crossover accent, not a classical incense ingredient.
 
 ## Summary
 

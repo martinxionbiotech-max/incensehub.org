@@ -47,7 +47,7 @@ The white-vs-brown distinction is practical, not pedantic: white mustard (*Sinap
 
 > **Direct answer:** 芥子 (jièzǐ) means "mustard seed" — 芥 for the mustard plant, 子 for "seed." The white seed is distinguished as 白芥子 ("white mustard seed"). The term is classical, appearing in the *Bencao Gangmu* vegetable section, and belongs to the culinary and materia-medica vocabulary rather than the incense 香材 canon.
 
-The name 芥子 is transparent: 芥 (mustard) + 子 (seed). The white variety is distinguished as 白芥子 ("white mustard seed"), the form the *Bencao Gangmu* specifically calls out as "甚辛美" (very pungent and fine). The term is genuinely classical — it sits in the materia medica (本草) vegetable section, not in the incense compendium 香乘 — which is an important placement: 芥子 belongs to the food-and-medicine layer of the Chinese record, not to the burned-incense 香材 canon. A buyer or reader should read 芥子 as a culinary aromatic seasoning (香药), not as a 合香 incense ingredient.
+The name 芥子 is transparent: 芥 (mustard) + 子 (seed). The white variety is distinguished as 白芥子 ("white mustard seed"), the form the *Bencao Gangmu* specifically calls out as "甚辛美" (very pungent and fine). The term is genuinely classical — it sits in the materia medica (本草) vegetable section, not in the incense compendium 香乘 — which is an important placement: 芥子 belongs to the food-and-medicine layer of the Chinese record, not to the burned-incense 香材 canon. A reader or reader should read 芥子 as a culinary aromatic seasoning (香药), not as a 合香 incense ingredient.
 
 ## Why is it used in seasoning and aromatics?
 
@@ -65,7 +65,7 @@ The seed is harvested and dried, then ground (sometimes after roasting, which me
 
 > **Direct answer:** Mustard quality turns on the seed's pungency potential and freshness. Good seed, when freshly ground and moistened, releases a strong, sharp, clean heat — not a stale or musty note. Because the heat is wet-activated, the "quality test" is really a fresh-grind-and-wet test.
 
-For a buyer, the practical checks are: **pungency potential** (a strong, sharp, clean heat when freshly ground and moistened — not a stale or weak bite) and **freshness** (dry, sound seed rather than old or musty material). Because the heat is wet-activated, the quality test is inherently a *fresh-grind-and-wet* test: you cannot judge a mustard seed by sniffing it dry, because the seed is almost scentless until ground and moistened. This is a distinctive quality-checking quirk among the spice seeds.
+The practical checks are: **pungency potential** (a strong, sharp, clean heat when freshly ground and moistened — not a stale or weak bite) and **freshness** (dry, sound seed rather than old or musty material). Because the heat is wet-activated, the quality test is inherently a *fresh-grind-and-wet* test: you cannot judge a mustard seed by sniffing it dry, because the seed is almost scentless until ground and moistened. This is a distinctive quality-checking quirk among the spice seeds.
 
 ## Common forms
 
@@ -94,9 +94,9 @@ The whole seed, powder, and paste are stages of the same material — the seed n
 
 The culinary use is unambiguous and well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the Brassicaceae placement, and the culinary-spice record — plus the distinctive wet-activated chemistry that separates mustard from every other spice seed.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 芥子 is mustard seed — white mustard (*Sinapis alba*) or brown/leaf mustard (*Brassica juncea*); expect a sharp, hot, green bite released only when the ground seed is moistened.
 - Dry mustard seed is nearly scentless; the pungency develops on wetting or grinding with liquid.
@@ -115,18 +115,6 @@ Practical points for buyers:
 | Character | Sharp, green, horseradish-like | Hot, pungent, woody |
 
 The contrast is instructive: pepper's heat is stored and released by crushing; mustard's heat is a reaction that water must trigger. See [pepper](/ingredients/pepper/), [cinnamon](/ingredients/cinnamon/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Mustard is a "latent-pungency" case — its heat does not exist until water triggers the myrosinase–glucosinolate reaction, which makes it the one spice seed you cannot judge by sniffing dry. This chemical quirk, combined with the *Bencao Gangmu* placement in the vegetable section rather than the incense canon, defines mustard as a culinary 香药, not a burned material.
-
-From a sourcing and editorial perspective, mustard is most interesting for the mismatch between its reputation ("hot") and its dry reality ("nearly scentless"). Three points follow:
-
-- **The heat is a reaction, not a stored aroma.** Mustard's pungency is produced on demand — myrosinase acting on glucosinolates in the presence of water. This is a genuinely different model from pepper, cinnamon, or clove, whose aromas are pre-formed. For a buyer, the practical consequence is that the standard "crush-and-sniff" quality check fails on mustard: the seed must be ground *and* wetted to reveal its character, which is why mustard is uniquely judged by a wet test.
-- **The *Bencao Gangmu* placement is itself the category signal.** 芥 sits in the vegetable section (菜之一) — the food-and-cultivation layer — not in the incense or aromatic-wood layers. This placement is not incidental: mustard was understood as a cultivated food plant and seasoning 香药, not as a 香材. An honest knowledge resource should preserve that placement rather than promote mustard into a burned-incense role it never had.
-- **"Sharp" and "hot" are not interchangeable across the spice table.** Mustard's green, horseradish-like bite is a different register from pepper's woody pungency or cinnamon's sweet warmth. The three are routinely grouped as "spices," but they operate by different chemistry and serve different culinary functions. Collapsing them into one "hot spice" category discards exactly the information a formulator or buyer needs.
-
-In our view, mustard is best understood as a **wet-activated culinary 香药 whose heat is a triggered chemical reaction** — a cabbage-family seed that is nearly inert dry, sharp when ground and moistened, and correctly placed in the 本草 vegetable record rather than in the incense canon.
 
 ## Summary
 

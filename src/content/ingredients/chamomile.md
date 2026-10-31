@@ -130,34 +130,9 @@ The species distinction (German vs Roman) is the key botanical point; condition 
 
 The dried flower is the milder, simpler form; the oil is the concentrated fragrance material. Both are modern uses, not classical 香材 forms.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species — German chamomile (*Matricaria chamomilla*) rather than Roman (*Chamaemelum nobile*) — and distinguish it from the native chrysanthemum (菊花). Expect a soft, mellow, apple-like note, a modern addition rather than a classical 香材.
-
-For a buyer or sourcing reader:
-
-- **Species** — German chamomile (*Matricaria chamomilla*) vs Roman (*Chamaemelum nobile*); different genera.
-- **Identity** — distinguish chamomile (洋甘菊) from native chrysanthemum (菊花) — the 洋 prefix marks the foreign origin.
-- **Form** — dried flowers vs essential oil, depending on use.
-- **Role** — expect a soft, mellow, apple-like note, a modern addition.
-
-Because chamomile is a modern crossover and a commodity tea/oil flower, the buyer is specifying **species, form, and the 洋甘菊-vs-菊花 distinction**.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Chamomile completes the three foreign-naming patterns in this encyclopedia — descriptive (薰衣草), phonetic (依兰), and prefixed (洋甘菊, "foreign X") — and its 洋 prefix is the cleanest, most honest provenance marker of the three. Its commercial reality is a soft, mellow commodity flower whose species (German vs Roman) is the key distinction.
-
-From a manufacturing and sourcing perspective, chamomile completes a small but useful taxonomy of **how foreign plants are named in Chinese, and what that tells a buyer.** Three points follow:
-
-- **The three foreign-name patterns.** Across this encyclopedia, foreign fragrance plants are named three ways: descriptively (薰衣草, "clothes-scenting herb" — names the use), phonetically (依兰, "ylang-ylang" — borrows the sound), and with a prefix (洋甘菊, "foreign sweet-chrysanthemum" — borrows a native flower's name and flags it foreign). The 洋 prefix is arguably the most *useful* marker: it simultaneously links the plant to a known native flower (菊花) and tells you, in one character, that it is not native. For a buyer, the prefix is an instant provenance signal.
-- **The native chrysanthemum is the anchor.** The whole point of 洋甘菊 is the contrast with 菊花 — the native chrysanthemum, a classical Chinese flower. Chamomile borrows the chrysanthemum's flower to be recognizable, then flags itself as foreign. This is the key disambiguation: 洋甘菊 and 菊花 are both daisy-family flowers, but only one is classical, and the prefix is the marker.
-- **A quiet flower, not a showpiece.** Chamomile's scent is soft, apple-like, and hay-warm — a mellow note, not a heady bloom. Its commercial value is that mellowness, and its species distinction (German vs Roman) is the practical quality question. It is a commodity tea/oil flower, not a premium rare material.
-
-In our view, the professional framing for chamomile is a **correctly species-identified (German) modern aromatherapy flower, read through its 洋 prefix** — a material whose provenance is marked in a single character and whose value is a soft, mellow, apple-like note.
 
 ## Summary
 

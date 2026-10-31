@@ -77,7 +77,7 @@ Storax balsam comes from the wounded inner bark of *Liquidambar orientalis*, the
 
 Storax's role in incense is as a prized, sweet-balsamic *softening resin*. Classical sources describe it as dense ("heavy as stone") and aromatic, with the best grade burning to white ash (烧之灰白者好). It rounds and sweetens a blend rather than adding a sharp or smoky edge, which made it a valued imported material in classical incense. Its sweetness and warmth made it a complementary resin alongside the sharper frankincense and myrrh.
 
-## The "oily grade" buyer-intelligence note
+## The "oily grade" note
 
 > **Direct answer:** Classical texts specify that only the oily, resinous storax is genuinely aromatic — 药中只用有膏油者极芳烈 — and record that producers extracted the fragrant balsam first, leaving a woody residue of little scent (大秦国人采得苏合香先煎其汁以为香膏乃卖其滓). This is a 1,000-year-old supply-chain warning that still applies: a dry, low-resin "storax" is not the aromatic grade.
 
@@ -86,7 +86,7 @@ This is one of the most useful classical observations about storax, and it reads
 - **Only the oily fraction is aromatic.** Classical texts specify that only the *oily, resinous* storax is genuinely aromatic — 药中只用有膏油者极芳烈.
 - **The residue was sold separately.** Producers extracted the fragrant balsam first and sold the spent woody residue — 大秦国人采得苏合香先煎其汁以为香膏乃卖其滓 — leaving a material of little scent.
 
-The same principle applies today: the aromatic value is in the resinous, oily fraction, and a dry, woody, low-resin "storax" is not the aromatic grade. This is buyer-intelligence that has not aged in a millennium.
+The same principle applies today: the aromatic value is in the resinous, oily fraction, and a dry, woody, low-resin "storax" is not the aromatic grade. This is identification guidance that has not aged in a millennium.
 
 ## How is it processed?
 
@@ -137,28 +137,6 @@ Storax carries no standardized commercial grading ladder, but the classical "oil
 
 The classical descriptions are historical and observational. The medicinal uses (苏合香丸) are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species first — *Liquidambar orientalis* (storax), not 枫香 or benzoin — then check resin content: the aromatic value is in the oily fraction, so a resin-rich, fragrant balsam is the good grade and a dry, woody material is not. The storax/benzoin "styrax" naming trap should be resolved to a species.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — storax is *Liquidambar orientalis*; distinguish it from benzoin (*Styrax* spp.) and the native 枫香 (*L. formosana*).
-- **Resin content** — the oily, resinous fraction carries the aroma; a dry, woody "storax" has little scent.
-- **Aroma** — sweet, balsamic, faintly cinnamon-like.
-- **Naming** — resolve the "storax" vs "styrax" trap to a botanical species before buying.
-
-## Our Industry View
-
-> **Direct answer:** Storax's commercial lesson is that the "oily grade is the aromatic grade" warning from classical texts is still the buyer's core check today. A dry, low-resin storax is the spent residue, not the aromatic material — and the storax/benzoin "styrax" naming trap means the species name is the only reliable identifier.
-
-From a manufacturing perspective, storax is a material where a thousand-year-old observation remains the most useful buyer-intelligence. Two points follow:
-
-- **The oily fraction is the value, and that has not changed.** Classical sources recorded that producers extracted the fragrant balsam first and sold the spent woody residue — a dry, low-resin material with little scent. The same split exists today: a buyer who receives dry, woody "storax" is receiving the residue, not the aromatic grade. Resin content is the core quality check.
-- **The "styrax/storax" trap is a species question.** Because the English words resemble each other, storax (*Liquidambar orientalis*, sweetgum family) and benzoin (*Styrax* species, Styracaceae) are routinely conflated. They are different resins with different scents, and only the botanical name resolves them.
-
-In our view, storax is a fine sweet-balsamic softening resin — buy it by species name, check the oily resin fraction, and treat the classical "oily grade" warning as the quality gate it has always been.
-
 ## Summary
 
 Storax (苏合香) is the balsam of *Liquidambar orientalis*, the Oriental sweetgum of Asia Minor — a classical Chinese *imported* resin, distinct from the native 枫香 (*L. formosana*) and from benzoin (*Styrax* spp.), whose English name "styrax" causes a classic confusion. It is a sweet, balsamic, cinnamon-like softening resin, and classical sources record that only the oily, resinous fraction is aromatic — a quality principle that still holds. Its medicinal uses are traditional language, not clinical evidence.
@@ -169,7 +147,7 @@ Storax (苏合香) is the balsam of *Liquidambar orientalis*, the Oriental sweet
 
 **What is the difference between storax (苏合香) and sweetgum (枫香)?** Both are sweetgum resins, but from different trees. storax (苏合香) is *Liquidambar orientalis*, the imported balsam of classical Chinese texts; Chinese sweetgum (枫香) is *Liquidambar formosana*, the native tree. The classical 苏合香 was specifically the imported storax, which is why the two are treated as separate materials on this site.
 
-**What does storax smell like?** Storax is sweet, balsamic, and resinous, with a warm, faintly cinnamon-vanilla character. It is a softening resin that rounds and sweetens a blend. Classical sources emphasize that only the oily, resinous grade is genuinely aromatic — the woody, low-resin material has little scent — a distinction that still matters for buyers.
+**What does storax smell like?** Storax is sweet, balsamic, and resinous, with a warm, faintly cinnamon-vanilla character. It is a softening resin that rounds and sweetens a blend. Classical sources emphasize that only the oily, resinous grade is genuinely aromatic — the woody, low-resin material has little scent — a distinction that still matters for readers.
 
 **Where does storax come from?** Storax balsam comes from the wounded inner bark of *Liquidambar orientalis*, the Oriental sweetgum native to southwestern Asia Minor. In classical Chinese texts it was an *imported* resin, traced to 苏合国 (Sogdiana) with the Sanskrit name 咄鲁瑟剑 (*duruṣka*). Its import status is part of its identity — it was a prized foreign aromatic, distinct from native Chinese resins.
 

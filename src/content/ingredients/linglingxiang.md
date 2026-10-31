@@ -118,30 +118,6 @@ There is no standardized commercial grading ladder; identity and aroma are the p
 
 The classical record is rich but botanical identity is genuinely uncertain across sources, and the medicinal descriptions are traditional, not established clinical fact.
 
-## What buyers should look for
-
-> **Direct answer:** Because the name has drifted, buyers should expect ambiguity and confirm species first: modern 零陵香 is *Lysimachia foenum-graecum* (灵香草), but the same name historically covered 佩兰 (*Eupatorium fortunei*) and the 都梁香 group. Then judge aroma — sweet, hay-like, coumarin — and condition, since the note is volatile.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Lysimachia foenum-graecum*; the name 零陵香 (and 熏草) has historically covered *Eupatorium fortunei* (佩兰) and others.
-- **Aroma** — sweet, hay-like, with a coumarin note, on gentle warming.
-- **Condition** — clean, well-dried herb; the classical standard was yellow-dried.
-- **Freshness** — the sweet note is volatile and fades with age.
-
-A label that says only "零陵香" or "熏草" may not specify the species, so the material's actual identity is worth confirming.
-
-## Our Industry View
-
-> **Direct answer:** 零陵香 is a case where the name is the supply-chain risk. A sweet-hay blender whose historical name has covered multiple plants cannot be bought safely by label alone — the species must be confirmed, because "零陵香" names a historical role (a sweet blender in 合香) as much as it names a single plant.
-
-From a manufacturing perspective, 零陵香 illustrates how a drifting name becomes a sourcing risk. Two points follow:
-
-- **The name names a role, not a plant.** Classical sources used 零陵香 (and 熏草/蕙草) for a sweet, hay-like blending note, and applied the name across several herbs over the centuries — a drift the Song *Xiangpu* itself recorded ("古今采用，自殊其类"). A buyer who specifies only "零陵香" is specifying a role, not a species, and will receive whatever material the seller's region happens to call by that name.
-- **Sweet-hay is a blending note, not an anchor.** The value of 零陵香 is its coumarin-like sweetness and its smoothness in a blend, not its standalone strength. It should be specified and bought as a blender — confirming identity, then aroma and freshness — rather than as a lead 香材 with a fixed grade.
-
-In our view, 零陵香 is a useful sweet-herb blender whose commercial risk lives entirely in the name — buy it by species name, confirm the sweet-hay aroma, and treat the historical alias drift as the reason the species, not the label, must carry the specification.
-
 ## Summary
 
 零陵香 (línglíngxiāng) is a sweet, hay-like, coumarin-noted aromatic herb identified today as *Lysimachia foenum-graecum*, a Primulaceae plant of southern China's wet mountain forests. It is a classical 合香 blender recorded in the Song *Xiangpu* (香譜) and Ming *Xiangcheng* (香乘), but its name has drifted across plants — the *Xiangpu* itself notes that ancient and modern usage "differ in kind" — and the historical aliases (熏草, 蕙草, 燕草) have covered *Eupatorium fortunei* (佩兰) as well. Its medicinal uses are traditional language, not clinical evidence.

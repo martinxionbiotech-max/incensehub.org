@@ -12,7 +12,7 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Incense powder is aromatic material ground to a fine, blendable particle; wood chips are solid cut pieces of aromatic wood — most often sandalwood or agarwood. This page covers the form difference for aromatic woods in general; for the agarwood-specific buying guide (inspection, adulteration, qinan), see [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/). The physical form decides the method: **powder** is blended into sticks and cones, pressed into seal patterns (篆香), or sprinkled over a heat source; **chips** are warmed whole on charcoal or an electric heater (隔火焚香). Neither form is better in general — each fits a different use.
+**Direct answer:** Incense powder is aromatic material ground to a fine, blendable particle; wood chips are solid cut pieces of aromatic wood — most often sandalwood or agarwood. This page covers the form difference for aromatic woods in general; for the agarwood-specific selection guide (inspection, adulteration, qinan), see [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/). The physical form decides the method: **powder** is blended into sticks and cones, pressed into seal patterns (篆香), or sprinkled over a heat source; **chips** are warmed whole on charcoal or an electric heater (隔火焚香). Neither form is better in general — each fits a different use.
 
 **Key facts:** Powder maximizes surface area so it blends and burns predictably inside made incense; chips expose far less surface, releasing aroma slowly and staying closer to the raw material. The practical quality variables are **particle size and moisture** for powder, and **piece size and resin content** for chips — but the exact targets depend on the material and the formulation.
 
@@ -100,8 +100,8 @@ There is a middle case worth noting: coarse powder and fine chips overlap in som
 
 Quality control differs because the failure modes differ:
 
-- **Powder.** An inconsistent grind means the material packs and burns unevenly; too much moisture means it clogs during processing and dulls the scent; contamination (fillers, foreign powder) is easy to hide because the material is uniform to the eye. A buyer should confirm **particle size, moisture, and purity** against their own formula rather than accepting a nominal grade.
-- **Chips.** A mixed batch of chip sizes warms unevenly; sapwood and rot dilute the resin; but resin content is at least partly **visible** in the veins of a good chip. A buyer can inspect chips by eye in a way they cannot inspect a powder.
+- **Powder.** An inconsistent grind means the material packs and burns unevenly; too much moisture means it clogs during processing and dulls the scent; contamination (fillers, foreign powder) is easy to hide because the material is uniform to the eye. A reader should confirm **particle size, moisture, and purity** against their own formula rather than accepting a nominal grade.
+- **Chips.** A mixed batch of chip sizes warms unevenly; sapwood and rot dilute the resin; but resin content is at least partly **visible** in the veins of a good chip. A reader can inspect chips by eye in a way they cannot inspect a powder.
 
 Neither form is self-evidently "cleaner" or "more honest" — but chips are the form where visual inspection still tells you something, and powder is the form where you must trust the particle-size and moisture specification.
 
@@ -109,11 +109,11 @@ Neither form is self-evidently "cleaner" or "more honest" — but chips are the 
 
 ## Sourcing and Purchasing Considerations
 
-> **Direct answer:** Powder is the form to buy when you need a working ingredient for production; chips are the form to buy when you want to inspect the material or appreciate it whole. The adulteration risk shifts with the form, so the buying checks should too.
+> **Direct answer:** Powder is the form to buy when you need a working ingredient for production; chips are the form to buy when you want to inspect the material or appreciate it whole. The adulteration risk shifts with the form, so the identification checks should too.
 
-The buying decision turns on two questions: **what will you do with it**, and **how much can you verify**.
+The decision turns on two questions: **what will you do with it**, and **how much can you verify**.
 
-- **Buy powder for production.** If you are blending sticks or cones, you need powder — and you should ask for a sample to test against your formula, since particle size and moisture are what determine whether the material works in your line. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
+- **Buy powder for production.** If you are blending sticks or cones, you need powder — and you should ask for a sample to test against your formula, since particle size and moisture are what determine whether the material works in your line. 
 - **Buy chips for inspection or appreciation.** If you want to judge resin content or warm a single material, chips are the practical choice — you can see what you are getting. This is especially relevant for [agarwood](/ingredients/agarwood/), where adulteration is severe and a chip is harder to fake convincingly than a powder.
 
 A recurring point in this trade is that the **cheap form is the risky form**: fine powder is easy to cut with cheaper fillers, while a visible, resin-veined chip is harder to disguise. This is a screening observation, not a guarantee — a well-made fake exists in either form, and price alone proves nothing.

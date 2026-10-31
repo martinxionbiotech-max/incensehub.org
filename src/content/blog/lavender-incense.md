@@ -78,7 +78,7 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 1. **Believing the sleep/anxiety blogs.** Lavender incense is not a treatment for insomnia or anxiety.
 2. **Assuming lavender is a classical Chinese ingredient.** It is a Western-origin, modern addition.
 3. **Ignoring smoke.** A "calming" scent still produces smoke and particulate matter; ventilation matters, especially in a bedroom.
-4. **Treating all lavender incense as botanical.** Many sticks are fragrance oil on a base; check what you are actually buying.
+4. **Treating all lavender incense as botanical.** Many sticks are fragrance oil on a base; check what you are actually getting.
 
 ---
 
@@ -98,7 +98,7 @@ It is often the "unwind" note in a modern brand's scent range, complementary to 
 - Botanical identity (*Lavandula angustifolia*, Lamiaceae) and the key compounds (linalool, linalyl acetate) are standard botanical/chemistry facts.
 - Lavender's "relaxation" association is described as a **cultural/routine association**, not a verified physiological effect.
 - No therapeutic claims are made. Where competitors make such claims, they are not repeated here.
-- The distinction between fragrance-oil sticks and botanical incense is a material distinction; confirm with the seller which you are buying.
+- The distinction between fragrance-oil sticks and botanical incense is a material distinction; confirm with the seller which you are getting.
 
 ---
 See [The Complete Incense Scent Guide: Choosing a Scent by Atmosphere](/blog/scent-guide/) for the full guide.

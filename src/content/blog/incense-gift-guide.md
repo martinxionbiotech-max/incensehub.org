@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **Data summary:** A good incense gift matches the **recipient's taste and setting**, not the price tag. The safest gifts are a **real-material starter** (a sandalwood or frankincense stick set with a holder), a **gift that fits a no-smoke space** (aromatherapy beads or an electric heater), or a **curated sample set** so they can find their own scent. This guide is about choosing well — it does not rank or sell products.
 
-**Key facts:** This is an honest buying guide, not an affiliate listicle. It explains how to pick a gift by the recipient's situation, what to check (material, format, smoke), and how to avoid the two most common gift mistakes: giving a bold scent to a subtle taste, and giving something that needs a holder they don't have.
+**Key facts:** This is an honest selection guide, not an affiliate listicle. It explains how to pick a gift by the recipient's situation, what to check (material, format, smoke), and how to avoid the two most common gift mistakes: giving a bold scent to a subtle taste, and giving something that needs a holder they don't have.
 
 ---
 

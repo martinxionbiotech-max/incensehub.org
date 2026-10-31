@@ -39,7 +39,7 @@ The family system is a *sensory* grouping, which is why it does not map cleanly 
 - **Vetiver** is earthy, woody, and smoky — a grass root, not a wood, yet it reads as woody.
 - **Frankincense** is resinous, citrus, and earthy — a resin that also carries a bright citrus edge.
 
-This is a feature, not a bug: the families describe how a material *smells and behaves in a blend*, which is what a blender or a buyer actually works with. The canonical membership is in [aroma.json](https://data.incensehub.org/datasets/aroma.json).
+This is a feature, not a bug: the families describe how a material *smells and behaves in a blend*, which is what a blender or a reader actually works with. The canonical membership is in [aroma.json](https://data.incensehub.org/datasets/aroma.json).
 
 ## The Ten Families at a Glance
 

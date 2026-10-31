@@ -159,7 +159,7 @@ The classical tradition attached scents to seasons and occasions, and the logic 
 - **Autumn** — warm woods and resins (sandalwood, frankincense).
 - **Winter** — deep, enveloping agarwood and rich blends.
 
-These are associations, not rules, and they describe atmosphere rather than any measured effect. The useful version for a modern buyer is simpler: match the scent's *weight* to the moment — a light citrus for daytime focus, a warm wood for evening wind-down. Weight, not season, is what most people are actually choosing. And weight is not intensity: a light scent is not necessarily weak, and a deep scent is not necessarily loud. A subtle agarwood can fill a room with quiet presence, while a bright citrus can be soft and airy. The axis is weight, not volume.
+These are associations, not rules, and they describe atmosphere rather than any measured effect. The useful version for a modern reader is simpler: match the scent's *weight* to the moment — a light citrus for daytime focus, a warm wood for evening wind-down. Weight, not season, is what most people are actually choosing. And weight is not intensity: a light scent is not necessarily weak, and a deep scent is not necessarily loud. A subtle agarwood can fill a room with quiet presence, while a bright citrus can be soft and airy. The axis is weight, not volume.
 
 ## Common Mistakes
 
@@ -174,7 +174,7 @@ These are associations, not rules, and they describe atmosphere rather than any 
 **Position:** The most valuable thing this guide does is separate aroma from atmosphere — what a scent objectively smells like versus the feeling people attach to it.
 
 **Reasoning:**
-- Most buyers choose by atmosphere, and that is fine — as long as no one pretends the feeling is a measured effect.
+- Most readers choose by atmosphere, and that is fine — as long as no one pretends the feeling is a measured effect.
 - Check the material behind the name: “sandalwood,” “lotus,” and “lavender” can each be a real material or a fragrance accord.
 
 *This is the author's editorial view and experience — not a verified fact.*

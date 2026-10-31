@@ -53,7 +53,7 @@ Here is the chemical fact that changes how a formulator uses pepper:
 
 - **The heat is piperine.** Pepper's hot, biting pungency comes chiefly from piperine, an alkaloid. Piperine is what stings the tongue — and it is nearly **odorless**. Its heat persists even when the fragrance has gone.
 - **The fragrance is a separate volatile oil.** The warm, woody, citrus-tinged aroma of pepper comes from its volatile essential oil, which is highly fugitive — it evaporates and oxidizes quickly once the fruit is ground. This is why freshly ground pepper smells dramatically stronger than pre-ground pepper: the oil is gone, but the piperine heat remains.
-- **The consequence for incense.** A pepper that has lost its volatile oil contributes heat and irritation with little fragrance — an acrid, sneeze-inducing smoke — while a freshly processed pepper contributes a bright, pungent top note. The formulator is therefore buying *freshness of the volatile fraction*, not just "pepper."
+- **The consequence for incense.** A pepper that has lost its volatile oil contributes heat and irritation with little fragrance — an acrid, sneeze-inducing smoke — while a freshly processed pepper contributes a bright, pungent top note. The formulator is therefore after *freshness of the volatile fraction*, not just "pepper."
 
 This split — heat versus fragrance, alkaloid versus oil — is the useful, non-obvious fact about pepper as an incense material. See [incense powder & resin](/blog/incense-powder-resin/) for how volatile spices behave in practice.
 
@@ -117,17 +117,6 @@ The quality factors:
 - **Historical Record** — pepper's long role as a staple of the maritime spice trade into China, entering cooking and materia medica alongside incense.
 - **Scientific Evidence** — the botanical identity of *Piper nigrum* (Piperaceae) and its chemistry (piperine and the volatile oil) are documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should prioritize freshness — freshly ground pepper is markedly more fragrant than pre-ground, because the volatile oil fades quickly. Distinguish 胡椒 (*Piper nigrum*) from long pepper and cubeb, and remember pepper is a sparing accent: too much produces an acrid, sneeze-inducing smoke.
-
-For an incense maker or formulator:
-
-- **Freshness** — freshly processed or freshly ground pepper is markedly more aromatic; the volatile oil fades once ground.
-- **Species** — 胡椒 (*Piper nigrum*) versus long pepper (荜茇) and cubeb (荜澄茄), distinct *Piper* spices.
-- **Color form** — black, white, or green, depending on the note wanted.
-- **Dosing** — a sparing accent; too much produces acrid smoke.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Pepper's pungency can irritate the nose and eyes if burned heavily; use sparingly. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -143,18 +132,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Historical note | The modern staple pepper | Historically the more important pepper in Asia | Java/Sumatra origin |
 
 See [long-pepper](/ingredients/long-pepper/), [cubeb](/ingredients/cubeb/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Pepper's commercial lesson is that its two attributes — heat and fragrance — are chemically separate and decay at different rates. A manufacturer buys pepper for a fresh, bright, pungent top note, so the volatile-oil freshness is the real specification, and the dose is small. Stale pepper delivers heat without fragrance, which is a different, worse material.
-
-From a manufacturing perspective, pepper is a material whose **two famous attributes must be bought separately**:
-
-- **Freshness is the specification, not "spiciness."** Because the heat (piperine) persists while the fragrance (volatile oil) fades, a batch of pepper can be fully "hot" yet aromatically dead. For incense, where you want the bright pungent top note, the volatile-oil freshness is the thing to specify and check — which is why the material should be freshly processed or freshly ground, not bought as long-stored powder.
-- **Small dose, big effect.** Pepper is a lift ingredient: a little brightens a blend, a lot makes it acrid. The formulator's skill is the dose, and the material's role is contrast against heavier woods and resins.
-- **The *Piper* fork matters less than freshness.** Long pepper and cubeb are distinct species with their own characters, but the more common sourcing failure is stale pepper — heat without fragrance — rather than species substitution.
-
-In our view, pepper is a bright, fresh, pungent top-note accent whose real procurement question is the freshness of its volatile oil: buy it fresh, dose it small, and do not mistake lingering heat for living fragrance.
 
 ## Summary
 

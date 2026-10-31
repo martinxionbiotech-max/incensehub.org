@@ -149,48 +149,15 @@ Osmanthus's risks are modest but real:
 - **Absolute substitution** — genuine osmanthus absolute is costly, so synthetic osmanthus notes (built on ionones and related molecules) are common. This is legitimate when labeled, a problem only when sold as natural absolute.
 - **Color-variant accuracy** — a label claiming 金桂 (gold) should not deliver a lower-fragrance 丹桂 (red).
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Osmanthus is a widely cultivated ornamental and fragrance crop, not an endangered material, so its supply is stable. Sourcing should confirm the color variant (金桂 preferred) and the form, since the costly absolute is the main substitution risk.
 
-Osmanthus is farmed and garden-grown across East Asia, so it carries no conservation concern. The sourcing questions are commercial: **which color variant**, **which form** (dried flower, sugar, or absolute), and — for the absolute — **how pure**. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Osmanthus serves tea (桂花茶), desserts and confections (桂花糕, 桂花酒), incense as a sweet floral accent, and — as an absolute — perfumery. The dried flower serves tea and incense; the absolute serves fine fragrance.
-
-- **Tea** — osmanthus tea (桂花茶) and osmanthus-blended teas are classics.
-- **Food** — osmanthus sugar and syrup flavor desserts and confections.
-- **Incense** — the dried flower is blended as a sweet floral accent, often with woods.
-- **Perfumery** — osmanthus absolute is a prized, costly natural floral extract.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the color variant (金桂 preferred), the form (dried flower, sugar, or absolute), and freshness. For the absolute, price should match the claimed purity; for the dried flower, the apricot-honey scent is the test.
-
-For an incense maker or sourcing buyer:
-
-- **Color variant** — 金桂 (gold) is the fragrance reference; confirm the label matches the material.
-- **Form** — dried flowers, sugar/syrup, or absolute; each has a different use.
-- **Freshness** — fragrant, whole flowers beat faded or stem-heavy material.
-- **Purity** — for the absolute, price should match the claimed purity; genuine osmanthus absolute is never cheap.
+Osmanthus is farmed and garden-grown across East Asia, so it carries no conservation concern. The sourcing questions are ones of identification: **which color variant**, **which form** (dried flower, sugar, or absolute), and — for the absolute — **how pure**. 
 
 ## Safety
 
 Osmanthus is a gentle floral note and is commonly used in tea and food; however, incense combustion still produces smoke and particulate matter. Burn in a well-ventilated space. (Do not assume a food-safe flower implies its smoke is harmless to inhale.) See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, osmanthus's value is its distinctive fruity-sweet character — an accent that lifts and sweetens a blend. The key variables are color variant, form, and whether the note is natural or synthetic, because genuine osmanthus absolute is too costly to be an economical incense ingredient.
-
-From a manufacturing perspective, osmanthus earns its place through a specific, hard-to-substitute character: its **fruity, apricot-honey sweetness** that lightens heavier woods without covering them. It is an accent, not a base.
-
-Two points follow:
-
-- **The variant is a specification.** 金桂 (gold) is the most fragrant and the reference, while 丹桂 (red) is noticeably weaker. A formula built on gold osmanthus will not reproduce if the source silently delivers a less fragrant variant.
-- **Natural vs synthetic is the honesty question.** Genuine osmanthus absolute is expensive, so most "osmanthus" in commercial incense is a reconstructed note built on ionones and related molecules. A well-built accord is often more consistent than the natural extract — but it must be labeled, and the buyer should not pay absolute prices for an accord.
-
-In our view, the commercial sweet spot is a **clearly labeled osmanthus note — dried flower or accord — bought in a consistent variant**, used as a sweet floral accent. The exact dosing **depends on formulation**.
 
 ## Summary
 
@@ -220,7 +187,7 @@ See also: [jasmine](/ingredients/jasmine/), [rose](/ingredients/rose/), [bay-lea
 ### Traditional Chinese use
 **Source:** this page records osmanthus as a classic Chinese fragrance dating back at least to the Tang dynasty, tied to mid-autumn (中秋). **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the color variants (金桂 / 银桂 / 丹桂 / 四季桂), with the golden (金桂) type as the fragrance reference. **Evidence type:** Trade terminology.
 
 ### Safety
@@ -232,7 +199,7 @@ See also: [jasmine](/ingredients/jasmine/), [rose](/ingredients/rose/), [bay-lea
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Health claims | Not established |
 
 ## Sources

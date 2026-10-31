@@ -125,7 +125,7 @@ Clove's principal compound, **eugenol**, is the subject of laboratory research o
 
 ## Adulteration & misidentification
 
-> **Direct answer:** The two buying risks are naming (丁香 means clove or lilac) and material quality — "exhausted" cloves from which the oil has already been distilled, which look intact but smell weak. A strong, oily aroma is the practical screen.
+> **Direct answer:** The two identification risks are naming (丁香 means clove or lilac) and material quality — "exhausted" cloves from which the oil has already been distilled, which look intact but smell weak. A strong, oily aroma is the practical screen.
 
 Beyond the 丁香 clove/lilac naming trap, the practical quality risk is **exhausted cloves**: buds from which the essential oil has already been distilled, then sold as if whole. They look nearly identical to fresh buds but carry little of the pungency, so a reader who judges only by appearance can be misled. The scent — sharp, warm, and penetrating — is the reliable check; a weak or flat-smelling lot is a warning sign.
 

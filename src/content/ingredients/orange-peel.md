@@ -52,7 +52,7 @@ The name 陈皮 is a definition: 陈 means "aged, matured," and it is precisely 
 
 ## Where does chenpi come from?
 
-> **Direct answer:** Chenpi is made across southern China from mandarin/tangerine peel, but the benchmark origin is Xinhui (新会), Guangdong, which holds geographical-indication status for its peel. Origin is usually the first thing a buyer checks.
+> **Direct answer:** Chenpi is made across southern China from mandarin/tangerine peel, but the benchmark origin is Xinhui (新会), Guangdong, which holds geographical-indication status for its peel. Origin is usually the first thing a reader checks.
 
 *Citrus reticulata* is extensively cultivated in southern China, and chenpi is produced wherever mandarins are grown. The benchmark, however, is **Xinhui (新会)** in Guangdong, whose peel carries geographical-indication status and is credited with a deep, complex bittersweet-citrus character from the region's soil, climate, and local mandarin variety. Peel from elsewhere is generally considered lower grade. In practice, a chenpi label leads with two facts — **origin** and **stated age** — because those two drive almost all of the value.
 
@@ -104,7 +104,7 @@ Chenpi's "grading" is really an **age ladder**, not a quality standard in the re
 - **Younger peel (a few years)** — brighter, lighter, less expensive.
 - **Older peel (10+ years)** — darker, more mellow and tea-like, more expensive.
 
-Because aging practices vary by producer, the stated age is a rough guide — a buyer verifies the peel by aroma and appearance rather than trusting the label alone.
+Because aging practices vary by producer, the stated age is a rough guide — a reader verifies the peel by aroma and appearance rather than trusting the label alone.
 
 ## Common forms
 
@@ -115,7 +115,7 @@ Because aging practices vary by producer, the stated age is a rough guide — a 
 | Whole dried peel | Cooking, tea, and display; the standard form |
 | Broken pieces / powder | Blends and convenience use |
 
-The whole piece is the reference form — its appearance (darkness, intactness) is part of what a buyer inspects — and chenpi is used whole or in pieces, not as an essential oil.
+The whole piece is the reference form — its appearance (darkness, intactness) is part of what a reader inspects — and chenpi is used whole or in pieces, not as an essential oil.
 
 ## In Chinese tradition
 
@@ -152,7 +152,7 @@ Chenpi and pomelo peel are different peels from different citrus species; litchi
 
 These are commercial-integrity risks, verified by aroma, appearance, and a trustworthy supplier rather than by a label.
 
-## The aging story (buyer intelligence)
+## The aging story (identification note)
 
 Chenpi is aged — commonly 1–30+ years — and older peel commands higher prices (in TCM framing, older is considered better). The key regional marker is **Xinhui** in Guangdong, which has geographical-indication status for its peel.
 
@@ -162,33 +162,9 @@ A few practical points:
 - **Age is the value driver:** peel is often labeled by year or age bracket (e.g. "three-year," "ten-year"); older peel is darker, thinner-skinned in aroma, and more expensive.
 - **Not the same as fresh zest:** the "chenpi" you buy for cooking or tea is a distinct, aged product, not dried-out supermarket orange peel.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm origin (Xinhui vs elsewhere) and stated age, then verify by appearance and aroma — darker, intact pieces with a warm, complex bittersweet-citrus character. A trustworthy supplier matters more than the label, because age and origin are easy to mislabel.
-
-For a cooking, tea, or blending buyer:
-
-- **Origin** — Xinhui (新会) peel is the benchmark; ask where the peel is from.
-- **Age** — stated age is a rough guide; verify by darkness, aroma depth, and supplier reputation.
-- **Aroma** — a warm, mellow, bittersweet-citrus character with no mustiness.
-- **Form and condition** — clean, intact whole pieces for cooking and tea.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Chenpi is food-grade and widely used in cooking/tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** From a manufacturing and sourcing perspective, chenpi is an origin-and-age product, not a fungible commodity. A repeatable supply of a stated origin and age matters more than the word "chenpi," because those two variables drive almost all of the value and are also the easiest to mislabel.
-
-From a manufacturing and sourcing perspective, chenpi's commercial logic is **origin-and-age, not commodity**:
-
-- **Origin and age are the value, and also the risk.** The entire price spread comes from where the peel grew and how long it aged — and both are the variables most often mislabeled. A buyer's real job is verifying them, not accepting a nominal "chenpi" label.
-- **It is a supporting note, not a lead.** In incense, chenpi is a softened, dried-fruit-and-spice citrus accent; the right dose **depends on formulation** — what it is meant to round out — not on a universal figure.
-
-In our view, the commercial sweet spot is a **documented origin with a verifiable age bracket**, bought from a supplier who can name both, rather than a vague "aged peel" whose provenance cannot be confirmed.
 
 ## Summary
 
@@ -198,13 +174,13 @@ Chenpi (陈皮, "aged peel") is the sun-dried, deliberately aged peel of the man
 
 **What is the difference between orange peel and chenpi?** Chenpi is *aged* mandarin peel (陈皮 = "aged peel"), traditionally from the Xinhui region of Guangdong; "orange peel" is the fresh or generic form. Aging changes the aroma and value. Fresh peel is bright and zesty, while aged chenpi darkens, softens, and develops a warm, mellow-woody, almost tea-like depth over the years. The two are not interchangeable in cooking or tea: chenpi is a distinct, deliberately aged product that is often labeled by year or age bracket, whereas fresh orange peel is just the zest you would grate from a fruit.
 
-**Is chenpi used in incense?** It can appear as a citrus-woody note in blends, though it is far better known for cooking and tea. Its aged, mellow character suits warm spice-and-wood blends, where it reads as a softened, dried-fruit-and-spice citrus rather than a sharp fresh zest. The practice is relatively niche compared with its staple role in Cantonese soups, braises, and tisanes, so it shows up less often than wood, resin, and floral materials, and buyers are more likely to encounter it in a blend than as a named single note.
+**Is chenpi used in incense?** It can appear as a citrus-woody note in blends, though it is far better known for cooking and tea. Its aged, mellow character suits warm spice-and-wood blends, where it reads as a softened, dried-fruit-and-spice citrus rather than a sharp fresh zest. The practice is relatively niche compared with its staple role in Cantonese soups, braises, and tisanes, so it shows up less often than wood, resin, and floral materials, and readers are more likely to encounter it in a blend than as a named single note.
 
 **What does chenpi smell like?** Fresh orange peel is bright and citrus; aged chenpi becomes darker, softer, and more mellow-woody over years, with a deep bittersweet-citrus character. The transformation is the key point: the sharp, zesty top note of fresh peel gives way to a warm, sweet-spicy, almost tea-like depth as the peel ages. This shift from bright zest to rounded, dried-fruit-and-spice is why aged chenpi is prized for cooking and tea, and why it reads as a mellow citrus rather than a fresh one.
 
 **How long is chenpi aged?** Commonly 1 to 30+ years, and older peel commands higher prices — in traditional framing, older is considered better. The age is often stated by year or bracket, such as "three-year" or "ten-year" chenpi, and it is a primary driver of value. Over those years the peel darkens and its aroma moves from bright citrus to a deeper, woodier, more tea-like sweetness. Exact aging practices vary by producer, so the stated age is a rough guide rather than a fixed standard.
 
-**Where does the best chenpi come from?** The Xinhui (新会) district of Guangdong is the prized origin, with geographical-indication status for its mandarin peel. Xinhui chenpi is the benchmark against which other peel is judged, and peel from elsewhere is generally considered lower grade. The region's soil, climate, and local mandarin variety are credited for the peel's deep, complex bittersweet-citrus character, so origin is usually the first thing a buyer checks on a label before looking at the stated age.
+**Where does the best chenpi come from?** The Xinhui (新会) district of Guangdong is the prized origin, with geographical-indication status for its mandarin peel. Xinhui chenpi is the benchmark against which other peel is judged, and peel from elsewhere is generally considered lower grade. The region's soil, climate, and local mandarin variety are credited for the peel's deep, complex bittersweet-citrus character, so origin is usually the first thing a reader checks on a label before looking at the stated age.
 
 **What is chenpi used for in cooking?** In Cantonese cuisine, chenpi is added to soups, braises, and congee for a warm, mellow citrus note — quite different from the sharpness of fresh orange zest. It lends a deep, bittersweet-citrus warmth that rounds out savory dishes, and it is usually added in small pieces because its flavor is concentrated and can dominate if overused. A small piece is enough to perfume a whole pot, so cooks add it sparingly and often remove it before serving.
 
@@ -218,7 +194,7 @@ See also: [pomelo peel](/ingredients/pomelo-peel/), [litchi husk](/ingredients/l
 ### Traditional Chinese use
 **Source:** this page records chenpi (陈皮) described for digestive support and "regulating qi" (理气) in traditional Chinese medicine. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the aging story (commonly 1–30+ years; older commands higher prices) and the Xinhui (新会) geographical-indication benchmark. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -233,7 +209,7 @@ See also: [pomelo peel](/ingredients/pomelo-peel/), [litchi husk](/ingredients/l
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |

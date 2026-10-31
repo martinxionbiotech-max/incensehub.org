@@ -74,7 +74,7 @@ Bakhoor recipes vary by maker, but a typical blend combines agarwood chips or po
 
 ## Reading a Bakhoor / Oud Label Honestly
 
-- **Oud vs bakhoor** — confirm which you are buying: raw agarwood chips, or prepared (infused) bakhoor.
+- **Oud vs bakhoor** — confirm which you are getting: raw agarwood chips, or prepared (infused) bakhoor.
 - **Synthetic "oud"** — much "oud" in cheap products is a synthetic fragrance, not agarwood. See the [agarwood guide](/blog/agarwood-incense/) for how to spot fakes.
 - **Burn method** — bakhoor is burned on charcoal or an electric burner, not lit as a stick.
 

@@ -65,7 +65,7 @@ The living root and lower stem of the mature plant are cut, and the milky resin 
 
 > **Direct answer:** Asafoetida quality turns on purity and the freshness of the resin — a clean, well-collected gum without adulterants — and on its characteristic pungent transformation on heating. Because it is dosed in tiny amounts, potency per unit matters more than bulk appearance.
 
-For a buyer, the practical checks are **purity** (freedom from adulterants and foreign matter) and **freshness** (a resin that still carries its characteristic pungency and transforms on heating). The material is a *trace* accent, so its potency per unit matters more than its bulk appearance — a little strong, clean resin goes a long way. The pervasive odor is itself a handling concern: it must be stored sealed, and contamination of other materials in storage is a real risk.
+The practical checks are **purity** (freedom from adulterants and foreign matter) and **freshness** (a resin that still carries its characteristic pungency and transforms on heating). The material is a *trace* accent, so its potency per unit matters more than its bulk appearance — a little strong, clean resin goes a long way. The pervasive odor is itself a handling concern: it must be stored sealed, and contamination of other materials in storage is a real risk.
 
 ## Common forms
 
@@ -76,7 +76,7 @@ For a buyer, the practical checks are **purity** (freedom from adulterants and f
 | Resin tears / lump | The classical resin; incense and materia medica |
 | Compounded powder | Culinary use, cut with a carrier for dosing |
 
-The resin form is the material proper; the compounded powder is a culinary convenience that dilutes the resin with a carrier, which matters if a buyer needs to know actual resin content.
+The resin form is the material proper; the compounded powder is a culinary convenience that dilutes the resin with a carrier, which matters if a reader needs to know actual resin content.
 
 ## In Chinese tradition
 
@@ -94,25 +94,13 @@ The resin form is the material proper; the compounded powder is a culinary conve
 
 The aromatic use is documented in classical records. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the *Ferula* genus placement, and the pungent aromatic use.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Asafoetida is extremely pungent; store sealed and handle with care, as the smell is pervasive.
 - Distinguish 阿魏 (*Ferula assa-foetida*) from the native 新疆阿魏 (*Ferula sinkiangensis*) — related *Ferula* resins.
 - In incense, asafoetida is a *trace* pungent accent; too much is overpowering.
-
-## Our Industry View
-
-> **Direct answer:** Asafoetida is the "anti-perfume" aromatic — a material whose raw odor is a defect and whose value appears only on heating, inverting the usual rule. Its presence in the classical 香药 canon shows that Chinese incense included genuinely difficult, savory, allium-like materials, not just sweet woods and florals.
-
-From a manufacturing and sourcing perspective, 阿魏 is the most instructive of the pungent resins because it inverts the normal logic of aromatics. Three points follow:
-
-- **The raw-versus-cooked inversion is the material's entire commercial meaning.** Most aromatics are pleasant raw and degraded by heat; 阿魏 is the opposite — its sharp, sulfurous raw state is a liability, and its savory, allium-like depth appears only on heating. For a formulator, this means the material's value is inseparable from *how it is processed and dosed*, and a buyer who judges it by its raw smell has already misread it.
-- **It proves the classical 香药 palette was wider than "pleasant scent."** The classical Chinese incense canon is often imagined as sweet woods, resins, and florals, but 阿魏's place among the Silk Road "foreign aromatics" shows that the palette also included genuinely difficult, pungent, savory materials used in trace doses for fixative and penetrating character. The register matters: this is an "anti-perfume" note whose job is depth, not beauty.
-- **The loanword name is a provenance marker, not a quirk.** 阿魏 is a transliteration, which flags it as an import. Combined with the 新疆阿魏 native relative, the name layer is a reminder that "阿魏" spans at least two *Ferula* species — the imported classical resin and the Xinjiang native — and a sourcing conversation must pin the species, not just the name.
-
-In our view, asafoetida is best understood as the **pungent, transformative outlier of the classical 香药** — a savory allium-register resin whose whole value is a heat-driven transformation, and whose loanword name and native relative both demand species-level disambiguation.
 
 ## Summary
 

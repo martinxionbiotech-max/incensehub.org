@@ -101,17 +101,6 @@ The quality factors are culinary:
 
 Because torreya is a food seed, it is graded as a nut, not as an aromatic — a point that reinforces its honest positioning in this encyclopedia.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should understand that 香榧 is a culinary nut (*Torreya grandis*), not a burned incense material, and distinguish it from cypress seed (柏子, *Platycladus orientalis*) — a different conifer seed, different family, used in incense. Expect a nutty, woody, resinous, roasted character, and buy it as a food seed.
-
-For a sourcing or culinary buyer:
-
-- **Identity** — confirm *Torreya grandis* (香榧, Taxaceae), the Chinese torreya nut.
-- **Role** — understand it is a culinary and materia-medica seed, not a burned incense material.
-- **Disambiguation** — distinguish it from cypress seed (柏子, *Platycladus orientalis*), another conifer seed used in incense — different family (Cupressaceae vs Taxaceae), different use.
-- **Condition** — large, sound, well-filled kernels with a rich, oily aroma and no rancidity.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -127,20 +116,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Role | Culinary nut; 榧实 in materia medica | The incense material of 柏子香 |
 
 Both are conifer seeds with a nutty, roasted character, but they belong to different conifer families and serve opposite roles — food versus incense. See [cypress seed (柏子)](/ingredients/cypress-seed/) and [ginkgo nut (银杏)](/ingredients/ginkgo/) for the wider seed context.
-
-## Our Industry View
-
-> **Direct answer:** Torreya's lesson is about honesty in cataloguing, not about aroma: a seed with a famous classical name (玉山果) and a genuine literary record is still a food, not an incense material — and a credible knowledge base records that distinction rather than inflating the material into something it is not. That honesty is what protects the encyclopedia's authority.
-
-From an editorial and sourcing perspective, torreya illustrates a discipline that matters more than any single ingredient: **a famous name does not make a material an incense ingredient.**
-
-Three points follow:
-
-- **The record is real; the incense role is not.** Torreya has a genuine classical record — 榧实/玉山果 in the *Bencao Gangmu*, Su Dongpo's poem, Li Shizhen's etymology. But that record is culinary and materia-medica, not aromatic. A credible knowledge base records the real role and states plainly that there is no classical burned-incense use, rather than inventing one to fill a template.
-- **Conifer seeds are a useful category, even when they are not incense.** Cataloguing torreya alongside cypress seed (柏子, a genuine incense seed) and ginkgo (a food seed) lets the reader see the boundary clearly: same morphological category (seed), different families, different uses. That contrast is itself information.
-- **For buyers, the value is disambiguation.** A buyer who encounters "香榧" or "榧实" should know they are looking at a food nut, not a 香材 — and should not confuse it with the incense seed 柏子. The honest label prevents a category error.
-
-In our view, torreya's commercial and editorial value is precisely its honesty — a named, sourced, correctly positioned culinary seed whose inclusion strengthens the encyclopedia's credibility rather than diluting it.
 
 ## Summary
 

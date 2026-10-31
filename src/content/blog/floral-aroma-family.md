@@ -14,7 +14,7 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The floral aroma family is the **blossom scent of rose, jasmine, osmanthus, and chrysanthemum** — sweet, honeyed, and in jasmine's case heady. Its four canonical members are chrysanthemum (菊花), jasmine (茉莉), osmanthus (桂花), and rose (玫瑰). Floral is largely a **modern or symbolic addition** to a classical canon built on woods and resins, and its materials are usually consumed as dried flowers or expensive absolutes rather than burned wood.
 
-**Key facts:** The floral family has **four canonical members** in `aroma.json`: chrysanthemum, jasmine, osmanthus, and rose. Three of them — jasmine, osmanthus, and rose — share a sweet, honeyed core; chrysanthemum adds a bittersweet, herbal edge. Because genuine floral absolutes are costly, "rose" or "jasmine" in commercial incense is often a reconstructed accord — a buyer-facing honesty point the entity pages state plainly.
+**Key facts:** The floral family has **four canonical members** in `aroma.json`: chrysanthemum, jasmine, osmanthus, and rose. Three of them — jasmine, osmanthus, and rose — share a sweet, honeyed core; chrysanthemum adds a bittersweet, herbal edge. Because genuine floral absolutes are costly, "rose" or "jasmine" in commercial incense is often a reconstructed accord — a reader-facing honesty point the entity pages state plainly.
 
 ---
 
@@ -83,13 +83,13 @@ Chrysanthemum reads less "sweet floral" and more "bittersweet herbal-floral," wh
 
 > **Direct answer:** Genuine floral absolutes are expensive, so much "rose," "jasmine," or "osmanthus" in commercial incense is a reconstructed note built on synthetic molecules. This is legitimate when labeled; it is a problem only when sold as the natural absolute.
 
-This is the floral family's defining buyer-facing fact:
+This is the floral family's defining reader-facing fact:
 
 - **Rose** — genuine rose oil is costly and frequently extended; the price should match the claimed purity.
 - **Jasmine** — genuine jasmine absolute is costly; synthetic jasmine (benzyl acetate and related molecules) is common.
 - **Osmanthus** — genuine osmanthus absolute is costly; synthetic osmanthus (ionones and related molecules) is common.
 
-A well-built accord is often more consistent than the natural extract — but it must be labeled, and the buyer should not pay absolute prices for an accord. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+A well-built accord is often more consistent than the natural extract — but it must be labeled, and the reader should not pay absolute prices for an accord. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
 
 ## Floral in the Classical Canon
 

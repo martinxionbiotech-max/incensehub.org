@@ -117,28 +117,6 @@ Cyperus carries no standardized grading ladder — it is an abundant weed tuber,
 
 The aromatic role is well documented. The medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should check for small, dense, clean tubers with a woody-spicy, earthy scent, and understand that cyperus is an abundant, ungraded tuber — in contrast to the scarce wild spikenard it sometimes substitutes for. For powder, confirm particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Tuber condition and aroma** — small, dense tubers with a woody-spicy, earthy scent; musty or hollow tubers are poor.
-- **Cleanliness** — freedom from soil and foreign material.
-- **Substitution awareness** — cyperus is a spikenard *substitute*, not spikenard; know which you are buying.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** Cyperus's commercial lesson is the economic inversion behind substitution: an abundant weed tuber stands in for a scarce high-Himalayan root. That is why cyperus matters commercially — it is cheap and everywhere — and why a buyer should know explicitly whether they are paying for cyperus or for the spikenard it imitates.
-
-From a manufacturing perspective, cyperus is instructive because its value is **inversely related to its abundance**. It is one of the world's most widespread weeds, cheap and everywhere, yet it holds a named place in classical incense formulas because its earthy-sweet root note can stand in for the scarce, costly spikenard. Two points follow:
-
-- **Substitution is the material's real function.** Cyperus's historical role is as a spikenard stand-in, and that substitution logic is economic, not botanical. A buyer who wants spikenard's character but accepts cyperus is making a cost decision — which is legitimate, but should be a *conscious* one. The two are different plants with related, not identical, earthy notes.
-- **Abundance means consistency, not grading.** Unlike a graded resin or a scarce root, cyperus has no rarity premium and no standardized ladder. The buyer's variables are freshness and cleanliness — a steady, well-dried tuber — which makes it a forgiving, low-risk blender.
-
-In our view, cyperus is a cheap, reliable earthy blender whose chief commercial value is as a *declared* substitute for spikenard — buy it for body and warmth, specify whether you want it or the real spikenard, and treat its abundance as a cost advantage rather than a prestige signal.
-
 ## Summary
 
 Cyperus (香附子) is the aromatic tuber of *Cyperus rotundus*, the purple nutsedge — one of the world's most widespread weeds — whose small tubers carry a woody, spicy, earthy scent. It is a classical 合香 blending ingredient, recorded in the Han-dynasty 建宁宫中香 formula, and a traditional substitute for the scarcer spikenard (甘松). Its value rests on abundance, freshness, and correct use as a declared substitute, and its medicinal uses are traditional language, not clinical evidence.

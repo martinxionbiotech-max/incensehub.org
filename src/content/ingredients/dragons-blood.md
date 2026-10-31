@@ -59,7 +59,7 @@ They share a name and a red color but are different materials from different pla
 - **rattan-palm resin (血竭)** — *Daemonorops draco* (syn. *Calamus draco*), the classical incense and pigment material of the Chinese trade. This entry.
 - **Dragon-tree resin** — *Dracaena* species (such as *Dracaena cinnabari*), a different plant group whose red resin is also called "dragon's blood."
 
-The two are told apart by botanical source — one is a palm fruit resin, the other a tree resin — not by the shared name or the shared red color. A buyer should confirm the source species when the name appears.
+The two are told apart by botanical source — one is a palm fruit resin, the other a tree resin — not by the shared name or the shared red color. A reader should confirm the source species when the name appears.
 
 ## Where does dragon's blood come from?
 
@@ -86,7 +86,7 @@ The result is a brittle red resin sold as lumps or vivid-red powder. The wider r
 
 ## What determines dragon's blood quality?
 
-> **Direct answer:** Quality is signaled by color and aroma: a good dragon's blood is deep red, brittle, and fragrant with a sweet, balsamic scent, and its powder is vivid red, not brown. The decisive commercial question is source species — the rattan-palm resin (*Daemonorops draco*, 血竭), not the dragon-tree (*Dracaena*) resin that shares the name.
+> **Direct answer:** Quality is signaled by color and aroma: a good dragon's blood is deep red, brittle, and fragrant with a sweet, balsamic scent, and its powder is vivid red, not brown. The decisive identification question is source species — the rattan-palm resin (*Daemonorops draco*, 血竭), not the dragon-tree (*Dracaena*) resin that shares the name.
 
 The practical quality points, in rough order:
 
@@ -121,28 +121,6 @@ Dragon's blood carries no standardized commercial grading ladder — but color i
 - **Scientific Evidence** — the resin's chemistry (including dracorubin-type red pigments) is characterized, but we present no clinical or medical efficacy claims.
 
 The incense and pigment uses are well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the source species first — *Daemonorops draco* (血竭), not the dragon-tree (*Dracaena*) resin — then check color (deep, vivid red, not brown) and aroma (sweet, balsamic). For powder, confirm particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Source species** — *Daemonorops draco* (rattan-palm resin, 血竭) vs *Dracaena* dragon-tree resin; different materials sharing a name.
-- **Color** — deep, vivid red resin and powder; brown or faded is lower grade.
-- **Aroma** — sweet, woody, balsamic.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** Dragon's blood's commercial lesson is that a red resin is not identified by its color alone — "dragon's blood" covers unrelated resins, and color is both the value and the risk. A buyer should resolve the name to a species (*Daemonorops draco*), because a vivid red color is also the easiest property to fake or substitute.
-
-From a manufacturing perspective, dragon's blood is a material where **color is both the value and the vulnerability**. Two points follow:
-
-- **A red resin is not identified by its redness.** "Dragon's blood" covers the rattan-palm resin (*Daemonorops draco*) and dragon-tree resins (*Dracaena* species) — different plants, different resins, one shared name. A buyer who accepts "dragon's blood" without a species has not specified the material. The red color they are buying is also the property most open to substitution or adulteration with cheaper red colorants.
-- **Color and scent are a single specification.** Unlike frankincense or myrrh, whose value is almost purely aromatic, dragon's blood's value is split between its sweet-balsamic resin note and its vivid red pigment. A buyer should specify both — the resin's scent and its color — because a material that is red but scentless, or fragrant but faded, is only half the product.
-
-In our view, dragon's blood is a distinctive red resin worth having for both its balsamic warmth and its color — but it should only ever be bought as a named species (*Daemonorops draco*), with color and aroma checked together, and never accepted on the strength of the shared name "dragon's blood" alone.
 
 ## Summary
 

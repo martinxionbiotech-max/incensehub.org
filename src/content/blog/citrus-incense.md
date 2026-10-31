@@ -84,7 +84,7 @@ Citrus and frankincense occupy the "bright, focusing" end together; the differen
 - **Citrus essential oil** (e.g., sweet orange, bergamot, yuzu) — a concentrated plant extract, bright but volatile.
 - **Citrus fragrance oil** — a manufactured scent, often synthetic, built to *smell* like citrus.
 
-The volatile nature of citrus means a "pure citrus" stick that actually lasts is almost always a fragrance-oil construction; a real citrus-oil stick will be bright but brief. Neither is automatically "wrong" — but the label should tell you which you are buying. See [essential oils in incense](/blog/essential-oils-in-incense/) for the oil-vs-fragrance distinction.
+The volatile nature of citrus means a "pure citrus" stick that actually lasts is almost always a fragrance-oil construction; a real citrus-oil stick will be bright but brief. Neither is automatically "wrong" — but the label should tell you which you are getting. See [essential oils in incense](/blog/essential-oils-in-incense/) for the oil-vs-fragrance distinction.
 
 ## Why Honesty Matters Here (vs. the "Detox" Claims)
 

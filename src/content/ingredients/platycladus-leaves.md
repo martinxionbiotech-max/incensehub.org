@@ -58,7 +58,7 @@ The *Bencao Gangmu* (本草纲目), tree section (木之一), records the tree u
 
 ## The leaf-versus-seed boundary in practice
 
-> **Direct answer:** The practical meaning of "same tree, different parts" is a sourcing rule: the leaf and the seed are bought and used differently. The leaf is a fresh, green, materia-medica part; the seed is a roasted, nutty incense material. A buyer who conflates them buys the wrong part of the tree.
+> **Direct answer:** The practical meaning of "same tree, different parts" is a sourcing rule: the leaf and the seed are bought and used differently. The leaf is a fresh, green, materia-medica part; the seed is a roasted, nutty incense material. A reader who conflates them buys the wrong part of the tree.
 
 The leaf-versus-seed split is not a technicality; it is a sourcing rule:
 
@@ -120,17 +120,6 @@ The quality factors:
 - **Historical Record** — the *Bencao Gangmu* (本草纲目) 木之一 record of 柏, with the naming explanation ("入药惟取叶扁而侧生者，故曰侧柏") and the seed (柏实/柏子仁) treated as a separate part.
 - **Scientific Evidence** — the botanical identity of *Platycladus orientalis* (Cupressaceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the part — 侧柏叶 is the leafy branchlet of *Platycladus orientalis*, distinct from the seed (柏子) — then judge freshness of the green, conifer note. The leaf is a materia-medica part; the seed is the classical incense material, so the part must be pinned down before buying.
-
-For a buyer or formulator:
-
-- **Part** — the leafy branchlet (侧柏叶), not the seed (柏子); same tree, different material and use.
-- **Freshness** — a fresh, woody, green, slightly resinous note.
-- **Species** — *Platycladus orientalis*, distinct from 崖柏 (*Thuja sutchuenensis*) and other 柏-named conifers.
-- **Role clarity** — the leaf is chiefly a materia-medica part; the seed is the classical incense material.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -147,18 +136,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Preparation | Dried leaf | Scalded, wine-and-honey soaked, dried |
 
 See [cypress-seed (柏子)](/ingredients/cypress-seed/), [cedar](/ingredients/cedar/), [thuja](/ingredients/thuja/), and the [baizi incense recipe](/blog/baizi-incense-recipe/).
-
-## Our Industry View
-
-> **Direct answer:** 侧柏叶's commercial lesson is that "the plant" is not a sufficient specification — the part is the material. A buyer who asks for "arborvitae" without naming leaf or seed has not specified anything, because the leaf (a fresh green materia-medica part) and the seed (a roasted incense material) are different purchases with different uses.
-
-From a manufacturing perspective, 侧柏叶 is a textbook case of **part-level specification**:
-
-- **The part is the material.** One tree, *Platycladus orientalis*, yields a leaf and a seed with different characters, preparations, and uses. "Arborvitae" alone is not a specification; the leaf and the seed are different purchases. A buyer who does not pin the part has not begun the purchase.
-- **The knowledge graph is the disambiguation.** This site keeps the leaf and the seed as two entries not for botanical reasons but for sourcing reasons: a material record that distinguishes *parts* is what lets a buyer and an AI crawler alike resolve "arborvitae" into the right material.
-- **A modest supporting part, priced as one.** The leaf is a fresh green conifer accent and a materia-medica part, not a precious material. Its commercial value is modest, and its role is supporting — the tree's real incense fame sits with the seed.
-
-In our view, 侧柏叶 is a fresh, green, supporting leaf whose real lesson is specification discipline: name the part, distinguish it from the seed, and price it as the modest materia-medica material it is.
 
 ## Summary
 

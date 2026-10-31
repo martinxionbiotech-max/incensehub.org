@@ -149,7 +149,7 @@ The two traditions share a name (香道) and an origin, but they developed in di
 | Vocabulary | 隔火焚香, 合香, 香谱 | monkō, kumikō, rikkoku gomi |
 | Character | Warm, layered, compositional | Minimalist, meditative, codified |
 
-China is the historical source; Japan systematized and conserved a specific, refined slice of it. Neither "invented" the art in a vacuum. See the [history of Chinese incense](/blog/history-of-chinese-incense/) for the fuller timeline.
+China is the historical source; Japan systematized and conserved a specific, refined slice of it. Neither "invented" the art in a vacuum. See the [history of Chinese incense](/blog/history-of-chinese-incense/) for the fuller timeline, or the side-by-side [Chinese vs Japanese comparison](/blog/chinese-vs-japanese-incense/).
 
 ## Common Mistakes
 

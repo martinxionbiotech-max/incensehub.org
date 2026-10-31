@@ -53,7 +53,7 @@ A label saying only "木香" is underspecified — the classical incense root, t
 
 ## costus (木香) vs costus root (川木香) vs 青木香 (read this)
 
-> **Direct answer:** Three different roots share the "木香" name, and one carries a real safety risk. 木香 (*Saussurea costus*) is the classical incense root; 川木香 (*Vladimiria souliei*) is a different Sichuan root; 青木香 (*Aristolochia* spp.) contains aristolochic acids, a documented toxicity concern. Species identity is not a detail here — it is the buying decision.
+> **Direct answer:** Three different roots share the "木香" name, and one carries a real safety risk. 木香 (*Saussurea costus*) is the classical incense root; 川木香 (*Vladimiria souliei*) is a different Sichuan root; 青木香 (*Aristolochia* spp.) contains aristolochic acids, a documented toxicity concern. Species identity is not a detail here — it is the identification decision.
 
 This is the key disambiguation, and it is more than a naming curiosity:
 
@@ -61,7 +61,7 @@ This is the key disambiguation, and it is more than a naming curiosity:
 - **川木香 (*Vladimiria souliei*)** — a distinct Sichuan-region root sharing the 木香 name.
 - **青木香 (*Aristolochia* spp.)** — a different plant whose root contains aristolochic acids, compounds associated with kidney toxicity; it is not the incense 木香 and is not interchangeable with it.
 
-The practical consequence is that "木香" alone is not a safe or reliable identifier. A buyer — or a reader of an old formula — must determine *which* 木香 is meant, because the three are different plants and one carries a documented safety concern.
+The practical consequence is that "木香" alone is not a safe or reliable identifier. A reader — or a reader of an old formula — must determine *which* 木香 is meant, because the three are different plants and one carries a documented safety concern.
 
 ## Where does costus come from?
 
@@ -85,11 +85,11 @@ The part used is the dried root. Processing is straightforward:
 - **Powder** — ground root for blending into sticks and cones; particle size and moisture affect how the powder packs and burns.
 - **Costus oil** — a separate distilled product with a stronger, more concentrated musky-earthy character.
 
-For powder buyers, particle size and moisture are the practical variables, but the exact target depends on the formula and production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, particle size and moisture are the practical variables, but the exact target depends on the formula and production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines costus quality?
 
-> **Direct answer:** Quality turns on root density and aroma: a good costus root is clean, dense, and deeply earthy-musky when gently warmed. Beyond quality, the decisive commercial question is species and legal origin — confirming it is *Saussurea costus* (not 川木香 or 青木香) and that wild material is legally sourced.
+> **Direct answer:** Quality turns on root density and aroma: a good costus root is clean, dense, and deeply earthy-musky when gently warmed. Beyond quality, the decisive identification question is species and legal origin — confirming it is *Saussurea costus* (not 川木香 or 青木香) and that wild material is legally sourced.
 
 The quality factors, in rough order:
 
@@ -126,33 +126,11 @@ Costus carries no standardized commercial grading ladder — it is a restricted 
 
 The fixative and aromatic roles are documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** *Saussurea costus* is listed under CITES Appendix I, reflecting over-harvesting of a slow-growing Himalayan plant and heavily restricting international trade in wild-collected material. Responsible sourcing therefore confirms species, legal origin, and wild-vs-cultivated status.
 
-Costus root is genuinely restricted: *Saussurea costus* is listed under CITES Appendix I, with wild trade heavily restricted, reflecting over-harvesting of a slow-growing Himalayan plant. For buyers, the practical implication is documentation: a credible supplier should name the species and state whether the material is wild or cultivated, rather than offering an unqualified "木香" label. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species first — *Saussurea costus* (木香), not 川木香 or 青木香, the latter carrying a safety concern — then check legal origin (wild vs cultivated) and root density and aroma. For powder, confirm particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *Saussurea costus* vs 川木香 vs 青木香; different plants, and 青木香 carries a safety concern. Confirm which.
-- **Legal origin** — wild material is CITES Appendix I; confirm wild-vs-cultivated and legal sourcing.
-- **Root density and aroma** — clean, dense root with a deep earthy-musky scent when warmed.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** Costus's commercial lesson is that a shared name can hide both a different material and a safety risk. The 木香 name covers three roots, one of which (青木香) is a toxicity concern, and the classical incense root is CITES-restricted. The first requirement is therefore a named species and a legal origin — not an aroma description.
-
-From a manufacturing perspective, costus is a material where **naming is a safety and compliance question, not a style question**. Two points follow:
-
-- **The 木香 name is a hazard, not just an ambiguity.** It covers *Saussurea costus* (the incense root), 川木香 (a different root), and 青木香 (*Aristolochia* spp., an aristolochic-acid toxicity concern). A buyer or formulator who accepts "木香" without a species is not just risking the wrong aroma — they are risking the wrong plant. This is the rare case where the disambiguation is a safety matter.
-- **Conservation is part of the specification.** The classical root is CITES Appendix I, so wild material is legally sensitive and cultivated material is the compliant mainstream. A buyer should treat "species + legal origin" as a single mandatory field, not an optional detail.
-
-In our view, costus is a superb grounding, musk-like fixative — but it should only ever be bought as a named species (*Saussurea costus*, ideally cultivated and documented), never as an unqualified "木香."
+Costus root is genuinely restricted: *Saussurea costus* is listed under CITES Appendix I, with wild trade heavily restricted, reflecting over-harvesting of a slow-growing Himalayan plant. For readers, the practical implication is documentation: a credible supplier should name the species and state whether the material is wild or cultivated, rather than offering an unqualified "木香" label. 
 
 ## Summary
 
@@ -168,7 +146,7 @@ Costus (木香) is the dried root of *Saussurea costus* (syn. *Dolomiaea costus*
 
 **Is costus (木香) a single plant?** No — the name is used for several different aromatic roots. The classical incense and materia-medica 木香 is *Saussurea costus* (广木香 / 云木香). Other "muxiang" include 川木香 (*Vladimiria souliei*) and 青木香 (*Aristolochia* species), which are distinct plants — and 青木香 carries a specific safety concern (aristolochic acids). A label saying only 木香 does not identify the species.
 
-**Is costus root endangered?** Yes, it is a conservation concern. *Saussurea costus* is a slow-growing Himalayan plant that has been over-harvested, and it is listed under CITES Appendix I, which heavily restricts international trade in wild-collected material. This drives cultivated material and substitutes into commerce, so species and legal origin should be confirmed when buying.
+**Is costus root endangered?** Yes, it is a conservation concern. *Saussurea costus* is a slow-growing Himalayan plant that has been over-harvested, and it is listed under CITES Appendix I, which heavily restricts international trade in wild-collected material. This drives cultivated material and substitutes into commerce, so species and legal origin should be confirmed when sourcing.
 
 **Why does 青木香 matter for safety?** 青木香 is the root of *Aristolochia* species, a different plant from the incense 木香. Aristolochia plants contain aristolochic acids, compounds associated with kidney toxicity, which is why 青木香 is not interchangeable with *Saussurea costus* and why the 木香 name must be resolved to a species before use.
 
@@ -182,7 +160,7 @@ See also: [spikenard-nardostachys](/ingredients/spikenard-nardostachys/), [orris
 ### Traditional Chinese use
 **Source:** 木香 as a fixative, musk-like aromatic, and materia-medica root. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Authenticity / sourcing
+### Authenticity
 **Source:** *Saussurea costus* CITES Appendix I listing and the 木香 vs 川木香 vs 青木香 disambiguation. **Evidence type:** Practical screening.
 
 ### Safety

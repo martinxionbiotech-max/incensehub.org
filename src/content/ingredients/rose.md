@@ -39,7 +39,7 @@ The damask rose reads as the "classic rose" of Western perfume — rich, dewy, s
 
 > **Direct answer:** Rose is the flower of *Rosa* species in the rose family (Rosaceae). The Chinese material is *Rosa rugosa*, a coastal East Asian species; the Western perfume standard is the hybrid *Rosa damascena* (damask rose). Both are shrubs grown for the flower, not the wood.
 
-"Rose" is a genus, not a single plant. The two species a Chinese-incense buyer meets most often:
+"Rose" is a genus, not a single plant. The two species a Chinese-incense reader meets most often:
 
 - ***Rosa rugosa*** — the Chinese/Japanese/Korean "rugosa rose," a shrub native to coastal East Asia, whose buds (玫瑰花) are the tea and materia-medica material.
 - ***Rosa damascena*** — the damask rose, an ancient hybrid grown chiefly for its oil, the "classic rose" of Western perfumery.
@@ -145,48 +145,15 @@ Rose's risks are substitution and extension:
 - **Oil extension** — rose oil and absolute are among the most expensive natural extracts, so they are frequently extended with geraniol, geranium, or palmarosa oil; a cheap "rose oil" is rarely pure rose.
 - **Accord vs natural** — in incense, "rose" is usually a reconstructed accord. This is legitimate, but a label should not imply natural rose absolute when it is a synthetic or blended note.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Rose is a cultivated crop, not an endangered material, but genuine rose oil is resource-intensive — its very low petal-to-oil yield makes it expensive. Sourcing should confirm species, form, and — for the oil — purity, since extension is the main risk.
 
-Rose carries no conservation concern, but the oil is economically "scarce" by virtue of its low yield: producing a small amount of oil requires a very large quantity of hand-picked petals. For a buyer the practical questions are commercial — **which species**, **which form**, and (for the oil) **how pure**. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Rose serves tea, perfume, and incense — the dried buds go to tea, the oil and absolute to fine fragrance, and "rose" in incense is usually an accord. Rose water spans fragrance and culinary use.
-
-- **Tea** — dried rose buds (玫瑰花茶) are a classic floral tea.
-- **Perfumery** — rose oil and absolute are among the most prized natural fragrance materials.
-- **Incense** — "rose" appears as a floral accord over a wood or resin base.
-- **Rose water** — a fragrance and culinary ingredient in Chinese, Middle Eastern, and South Asian traditions.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (R. rugosa vs R. damascena), the form (buds, petals, oil, or water), and — for the oil — purity. In incense, confirm whether "rose" is natural or an accord, and request a sample against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *R. rugosa* (tea rose) vs *R. damascena* (perfume rose); a real seller names which.
-- **Form** — buds, petals, oil/absolute, or rose water; each has a different use.
-- **Purity** — for the oil, price should match the claimed purity; genuine rose oil is never cheap.
-- **Accord vs natural** — in incense, confirm whether "rose" is natural extract or a reconstructed accord.
+Rose carries no conservation concern, but the oil is economically "scarce" by virtue of its low yield: producing a small amount of oil requires a very large quantity of hand-picked petals. For a reader the practical questions are ones of identification — **which species**, **which form**, and (for the oil) **how pure**. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, "rose" usually means a floral accord, not raw flower — and that is the honest way to treat it. The key variables are species, form, and whether the note is natural or reconstructed, because genuine rose oil is too costly to be an economical incense ingredient.
-
-From a manufacturing perspective, rose is the clearest example of a floral whose **market form diverges from its natural form**. The flower is real, but in incense the note is almost always rebuilt, because true rose oil and absolute are too expensive and too delicate to be a practical stick ingredient.
-
-Two points follow:
-
-- **"Rose" is a specification question, not a single material.** It can mean *R. rugosa* buds, *R. damascena* oil, or a synthetic accord — three different things with different costs and behaviors. A formula built on an accord will not reproduce with raw buds, and vice versa.
-- **The accord is not a defect.** A well-built rose accord is often more stable and consistent than the natural extract, which varies by harvest. The requirement is honesty: the label should say whether the rose note is natural or reconstructed, and the buyer should not pay natural-absolute prices for an accord.
-
-In our view, the commercial sweet spot is a **clearly labeled rose note — natural or accord — bought in a consistent form**, used as a sweet floral accent rather than a lead that would overwhelm a blend. The exact dosing **depends on formulation**.
 
 ## Summary
 

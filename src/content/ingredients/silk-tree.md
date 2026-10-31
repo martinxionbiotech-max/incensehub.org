@@ -72,7 +72,7 @@ This page records 合欢花 honestly as a cultural and materia-medica flower, **
 
 > **Direct answer:** 合欢花's classical fame is cultural and materia-medica, not incense — it is not a staple of the 香乘 canon. Its delicate, sweet, powdery floral can lend a quiet garden note, but it is not a lead 香材, and this page records that honestly rather than assigning it an incense role it does not documentedly hold.
 
-合欢花's position is subtle and worth stating precisely. The tree is famous — but for meaning, not fragrance. The flower is not a staple of the 香乘 (Xiang Cheng) canon, and its documented classical role is cultural (the "collective joy" symbol, the "合欢蠲忿" line) and materia-medica, not burned incense. Its delicate, sweet, slightly powdery floral *can* lend a quiet garden note in a blend, but it is not a lead 香材, and this page records that honestly. A buyer should position it as a gentle floral and a cultural plant, not as a canonical incense ingredient.
+合欢花's position is subtle and worth stating precisely. The tree is famous — but for meaning, not fragrance. The flower is not a staple of the 香乘 (Xiang Cheng) canon, and its documented classical role is cultural (the "collective joy" symbol, the "合欢蠲忿" line) and materia-medica, not burned incense. Its delicate, sweet, slightly powdery floral *can* lend a quiet garden note in a blend, but it is not a lead 香材, and this page records that honestly. A reader should position it as a gentle floral and a cultural plant, not as a canonical incense ingredient.
 
 ## How is it processed?
 
@@ -117,27 +117,6 @@ There is no standardized commercial grading ladder for 合欢花; aroma and cond
 - **Scientific Evidence** — the botanical identity of *Albizia julibrissin* (Fabaceae) and its chemistry are documented; we present no clinical or medical efficacy claims.
 
 The cultural symbolism is well documented; the materia-medica record is traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should expect a delicate, sweet, slightly powdery floral from a clean, well-dried flower, and position it as a gentle floral and cultural plant, not a lead 香材. Its classical fame is cultural and materia-medica, not incense — it is not a staple of the 香乘 canon — so it should not be bought as a strong or canonical incense ingredient.
-
-For an incense maker or sourcing buyer:
-
-- **Expectation** — a delicate, sweet, slightly powdery floral; not a strong or deep note.
-- **Condition** — clean, well-dried flower.
-- **Positioning** — a gentle floral and cultural plant, not a lead 香材 or a 香乘 staple.
-
-## Our Industry View
-
-> **Direct answer:** 合欢花's commercial lesson is honesty about what a plant is famous for. The silk tree is celebrated for meaning — "collective joy," "dispels anger" — not for fragrance, and its flower is not a 香乘 incense material. A buyer should value it for its quiet floral and its cultural story, not market it as a strong 香材 it is not.
-
-From a manufacturing perspective, 合欢花 teaches a discipline this encyclopedia values: **don't inflate a plant's fame into an incense claim.** Two points follow:
-
-- **Cultural fame is not fragrance strength.** The silk tree is one of the most meaning-laden plants in the classical record — "collective joy," "合欢蠲忿" — but that meaning is cultural and materia-medica, not aromatic. Its flower's scent is delicate and diffuse. A buyer who reads the tree's fame as a promise of a strong incense note is reading the wrong signal; the material is a quiet floral, and it should be bought and sold as that.
-- **Honest positioning protects the catalog.** This encyclopedia's value is that it does not assign incense roles to plants that do not documentedly hold them. 合欢花 is a gentle floral and a cultural plant, not a 香乘 staple; recording that plainly is what keeps the entity map trustworthy, and it is the same honesty that lets the genuinely canonical materials stand out.
-
-In our view, 合欢花 is a delicate, culturally resonant floral — buy it for its quiet sweet-powdery note and its story, judge it by freshness, and do not position it as a lead incense material.
 
 ## Summary
 

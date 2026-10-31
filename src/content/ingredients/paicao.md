@@ -60,7 +60,7 @@ Two *Lysimachia* aromatic herbs share the same sweet, hay-like register, and the
 - **排草 (paicao)** — *Lysimachia capillipes*; the classical 排草香 was described as a root from 交址. This entry.
 - **零陵香 (linglingxiang)** — *Lysimachia foenum-graecum*; a sweet-hay blender with a longer, more drifted classical name history (see [linglingxiang](/ingredients/linglingxiang/)).
 
-Both are Primulaceae *Lysimachia* herbs that Flora of China describes as curry-scented when dry, so a buyer should not treat the shared profile as identity — the species (and for 排草, the part of the plant) must be specified.
+Both are Primulaceae *Lysimachia* herbs that Flora of China describes as curry-scented when dry, so a reader should not treat the shared profile as identity — the species (and for 排草, the part of the plant) must be specified.
 
 ## Where does paicao come from?
 
@@ -95,7 +95,7 @@ There is no standardized commercial grading ladder; identity, aroma, and purity 
 
 ## Common forms
 
-> **Direct answer:** 排草 is sold as the dried herb — whole or cut — for blending into 合香 and for scenting. The classical 排草香 was described as a root, so buyers may encounter root material labeled 排草 alongside the modern whole herb.
+> **Direct answer:** 排草 is sold as the dried herb — whole or cut — for blending into 合香 and for scenting. The classical 排草香 was described as a root, so readers may encounter root material labeled 排草 alongside the modern whole herb.
 
 | Form | Typical use |
 |---|---|
@@ -119,30 +119,6 @@ There is no standardized commercial grading ladder; identity, aroma, and purity 
 
 The aromatic use is documented in classical records. Medicinal uses are traditional, not established clinical fact, and we make no medical claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species and part — *Lysimachia capillipes*, and whether the material is the modern whole herb or the classical root — then judge aroma (sweet, hay-like) and purity. The *Xiangcheng*'s "人多伪杂之" warning makes identity and adulteration the first checks.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *Lysimachia capillipes*, distinct from 零陵香 (*L. foenum-graecum*).
-- **Part and origin** — the classical 排草香 was a root from 交址; the modern identification is the whole herb. Confirm which is being offered.
-- **Aroma** — sweet, hay-like, faintly woody, on gentle warming.
-- **Purity** — the *Xiangcheng* records that 排草 was often adulterated ("人多伪杂之"), so cleanliness and freedom from foreign matter matter.
-
-In incense, paicao is a supporting herb, usually blended, not burned alone.
-
-## Our Industry View
-
-> **Direct answer:** 排草 is a supporting herb whose commercial risk is twofold: it shares its sweet-hay profile with a close relative (零陵香), and the classical record describes a root while the modern identification is a whole herb. A buyer should treat "排草" as requiring both a species name and a part-of-plant statement.
-
-From a manufacturing perspective, 排草 illustrates two overlapping sourcing risks. Two points follow:
-
-- **Shared profile is not shared identity.** 排草 (*Lysimachia capillipes*) and 零陵香 (*Lysimachia foenum-graecum*) are the same genus, both curry-scented when dry, both sweet-hay blenders — but they are distinct materials with distinct entries. In a repeatable blend, "a *Lysimachia* sweet herb" is not a specification; the species must carry it. The two should not be substituted on the strength of a similar aroma.
-- **Part-of-plant has drifted too.** The classical 排草香 was a root from 交址 ("草根也，白色，状如细柳根"); the modern botanical identification is the whole herb. Neither is "wrong," but they are not necessarily the same commodity, and a buyer who assumes the label resolves the part is assuming more than the name guarantees. The *Xiangcheng*'s "人多伪杂之" is a standing warning that 排草 was adulterated even classically.
-
-In our view, 排草 is a useful sweet-herb supporting note — buy it by species name, state the part (whole herb vs root), check purity against a documented history of adulteration, and treat it as a blender rather than a lead 香材.
-
 ## Summary
 
 排草 (páicǎo) is the dried herb of *Lysimachia capillipes*, a Primulaceae perennial of southern and eastern China whose sweet, hay-like, faintly woody scent makes it a supporting 合香 herb. It is a close relative of 零陵香 (*L. foenum-graecum*), sharing the same genus and the same curry-scented-when-dry profile. The Ming *Xiangcheng* (香乘) records the classical 排草香 as a root from 交址, often adulterated, used in formulas — a provenance note worth holding against the modern whole-herb identification. Its medicinal uses are traditional language, not clinical evidence.
@@ -157,7 +133,7 @@ In our view, 排草 is a useful sweet-herb supporting note — buy it by species
 
 **What does paicao smell like?** Herbal and sweet, with a hay-like, faintly woody character — a fresh, green-sweet scent that recalls coumarin-tonka notes without being heavy. Flora of China describes the plant as strongly curry-scented when dry. It is a supporting herb that fills the herbal register of a blend, softening brighter or spicier ingredients rather than leading with its own strong note.
 
-**What part of the plant is used?** The modern identification uses the dried whole herb — the aerial parts of *Lysimachia capillipes*. However, the classical *Xiangcheng* (香乘) describes 排草香 as a root ("草根也"). The discrepancy is a provenance note: buyers may encounter either the modern whole herb or the classical root, and the part of the plant is worth confirming.
+**What part of the plant is used?** The modern identification uses the dried whole herb — the aerial parts of *Lysimachia capillipes*. The classical *Xiangcheng* (香乘), by contrast, describes 排草香 as a root ("草根也"). The discrepancy is a provenance note: readers may encounter either the modern whole herb or the classical root, and the part of the plant is worth confirming.
 
 **Where does paicao come from?** From *Lysimachia capillipes*, a small perennial herb of the primrose family native to southern and eastern China (Fujian, Guangdong, Guangxi, Guizhou, Hunan, Jiangxi, Sichuan, Taiwan, Yunnan, Zhejiang, and the Philippines). The classical record places 排草 in 交址 (northern Vietnam) with later cultivation in 岭南 (Lingnan), a little south of the modern species' core range.
 

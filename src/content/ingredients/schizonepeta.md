@@ -78,29 +78,6 @@ This page records it as 荆芥 = *Schizonepeta tenuifolia* (syn. *Nepeta tenuifo
 
 荆芥's place is in the sachet tradition rather than the burner. Its fresh, green, faintly peppery-minty character makes it a brightening herb in fragrant sachets (香囊) and in herbal blends, where it contributes a light top note rather than a deep base. It is not a lead incense material in the classical sense — it is a supporting, freshening herb, closer in role to a culinary aromatic than to a precious wood or resin. This distinction matters for formulators: 荆芥 is an accent herb, dosed to lift and freshen, not a material to build a composition around.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should note the classical name 假苏 — the same herb as 荆芥 — and confirm the material is *Schizonepeta tenuifolia* (syn. *Nepeta tenuifolia*). Expect a fresh, minty, faintly spicy aromatic herb, best used as a green sachet top note rather than a lead incense material.
-
-For a sourcing buyer, the checks are:
-
-- **Name** — 荆芥 and 假苏 are the same herb; be aware of both names, since classical or regional sources may use either.
-- **Species** — confirm *Schizonepeta tenuifolia* (syn. *Nepeta tenuifolia*); it is a mint-family relative, not a true mint (*Mentha*), despite its minty aroma.
-- **Form** — the dried aerial herb is the material; expect a fresh, green, faintly spicy-minty character.
-- **Role** — it is a sachet and materia-medica herb, best as a green top note in a blend rather than a lead 香材.
-
-## Our Industry View
-
-> **Direct answer:** 荆芥's lesson is about the gap between a herb's classical record and its commercial identity. It carries a contested classical name (假苏 vs 荆芥) that the *Bencao Gangmu* itself flagged, yet today it is a minor, freshening sachet herb. The disciplined buyer treats the name as a disambiguation task, not a fixed label — the same discipline that applies to any herb with a layered textual history.
-
-荆芥 is a small herb that teaches a textual lesson, and it is worth spelling out:
-
-- **A contested name is a signal, not a defect.** The *Bencao Gangmu* itself records the uncertainty over whether 假苏 and 荆芥 were one plant or two. For a modern buyer, that is not a reason to dismiss the herb but a prompt to confirm the species (*Schizonepeta tenuifolia*) rather than trust a name alone.
-- **Materia-medica herbs need clean separation.** Like other aromatic herbs with a medical record, 荆芥 must be handled so that traditional materia-medica language is never presented as clinical fact. This page keeps that separation explicit — a small but real editorial discipline that protects the site's trust.
-- **A sachet herb is a legitimate, if minor, material.** 荆芥's value is modest and honest: a fresh, green top note for 香囊 and herbal blends. It does not need to be inflated into a lead 香材, and stating its minor role plainly is itself the accurate, useful characterization.
-
-In our view, 荆芥 is best understood as a **well-documented minor aromatic** — its interest lying in the classical naming record and the honest, sachet-scale use, rather than in any claim it does not support.
-
 ## Summary
 
 荆芥 (Schizonepeta tenuifolia, syn. Nepeta tenuifolia) is an East Asian mint-family herb recorded in the *Bencao Gangmu* under the classical name 假苏 (jiǎsū), with a documented historical debate over whether the two names were one plant or two. Its fresh, minty, faintly spicy character places it among the 香囊 sachet herbs rather than the lead incense materials, and its materia-medica record is traditional, not clinical. The lesson is textual as much as aromatic: a layered classical name is a prompt to confirm species, not a fixed label.
@@ -117,7 +94,7 @@ In our view, 荆芥 is best understood as a **well-documented minor aromatic** �
 
 **Is schizonepeta (荆芥) the same as mint?** Related but distinct. 荆芥 is *Schizonepeta tenuifolia* (syn. *Nepeta tenuifolia*), a mint-family (Lamiaceae) relative of the true mints (*Mentha*), but a different genus with its own classical name (假苏) and use.
 
-**Why is the botanical name shifting?** Modern taxonomy has moved *Schizonepeta tenuifolia* into the genus *Nepeta* (as *Nepeta tenuifolia*), the catmint genus, and Flora of China records it under *Nepeta*. The classical Chinese herb 荆芥/假苏 is the same plant under either name, but buyers may encounter both scientific names.
+**Why is the botanical name shifting?** Modern taxonomy has moved *Schizonepeta tenuifolia* into the genus *Nepeta* (as *Nepeta tenuifolia*), the catmint genus, and Flora of China records it under *Nepeta*. The classical Chinese herb 荆芥/假苏 is the same plant under either name, but readers may encounter both scientific names.
 
 See also: [artemisia-annua (青蒿)](/ingredients/artemisia-annua/), [agastache-rugosa (藿香)](/ingredients/agastache-rugosa/), [perilla (紫苏)](/ingredients/perilla/), [mint (薄荷)](/ingredients/mint/), and the full [scent guide](/blog/scent-guide/).
 

@@ -63,7 +63,7 @@ Peppermint is a hybrid of spearmint and watermint; 薄荷 is a separate East Asi
 
 *Mentha × piperita* is a sterile hybrid of the mint family (Lamiaceae), a cross of watermint (*Mentha aquatica*) and spearmint (*Mentha spicata*). Because it is sterile, it is propagated by runners, not seed. It is not recorded by Flora of China as a native species. The fragrant part is the aerial herb — leaves and flowering tops — used fresh, dried, or distilled for essential oil.
 
-The sterility is a commercially meaningful detail. Every commercial peppermint plant is effectively a clone of the original hybrid, propagated vegetatively, which means peppermint's aroma chemistry is unusually *stable* across crops — a fixed, reproducible menthol-dominant profile rather than the variable chemistry of a freely seeding species.
+The sterility is a in trade meaningful detail. Every commercial peppermint plant is effectively a clone of the original hybrid, propagated vegetatively, which means peppermint's aroma chemistry is unusually *stable* across crops — a fixed, reproducible menthol-dominant profile rather than the variable chemistry of a freely seeding species.
 
 ## Where does peppermint come from?
 
@@ -95,32 +95,9 @@ There is **no classical Chinese incense record** for peppermint (胡椒薄荷); 
 
 Because peppermint has no classical Chinese incense role, its incense use is entirely modern and borrowed from perfumery and aromatherapy. Where it appears, it is as a **sharp, piercing cooling note**, delivered as a menthol-rich essential oil or an accord rather than as a burned herb. The practical discipline for a formulator is restraint: peppermint's intensity — and its physical cooling effect from menthol — makes it an accent used in small proportion to cut through and lift a blend, not a material to build around. Overuse reads as medicinal or "toothpaste," a failure mode any experienced blender recognizes.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should specify the material as *Mentha × piperita*, a menthol-dominant hybrid, and distinguish it from 薄荷 and spearmint. Expect a sharp, camphoraceous, cooling note; for fragrance use expect a menthol-rich essential oil or accord, and dose it sparingly because of its intensity.
-
-For a formulator or sourcing buyer, the checks are:
-
-- **Identity** — confirm *Mentha × piperita* (a sterile hybrid) and distinguish it from 薄荷 (*Mentha haplocalyx*) and spearmint (*Mentha spicata*); the three are different mints with different chemistry.
-- **Chemistry** — expect a menthol-dominant, camphoraceous, sharply cooling profile; a sweet, soft carvone note indicates spearmint instead.
-- **Format** — for fragrance, expect a menthol-rich essential oil or a synthetic accord; the dried culinary herb is not an incense material.
-- **Dose** — peppermint is intense and physically cooling; plan to use it as a small-proportion accent, not a primary note.
-
-## Our Industry View
-
-> **Direct answer:** Peppermint's industrial lesson is about intensity and reproducibility. Its sterile hybrid origin makes it one of the most chemically consistent aromatic crops — a fixed, clone-propagated menthol profile — yet that very consistency, combined with menthol's physical cooling and medicinal edge, makes it a material of restraint: powerful, standardized, and easy to overuse.
-
-Peppermint is a study in contrasts, and both halves are useful to an incense professional:
-
-- **A fixed chemistry is an asset.** Because peppermint is sterile and clone-propagated, its menthol-dominant aroma is unusually reproducible from batch to batch — closer to a standardized commodity than to a variable wild herb. For a formulator who needs a predictable cooling accent, that consistency is precisely what makes peppermint dependable where a seeding herb might drift.
-- **Intensity is a double-edged property.** Menthol does not just smell; it physically cools, and it reads as medicinal if overdone. The same molecule that makes peppermint a powerful accent is the one that turns a blend harsh. Peppermint therefore rewards restraint — a fact that separates experienced blenders from novices.
-- **A modern material should be labeled modern.** Like tarragon and spearmint, peppermint has no classical Chinese incense pedigree, and this page states that plainly rather than inventing one. Provenance honesty is part of the editorial discipline, not an afterthought.
-
-In our view, peppermint's teaching point is that **consistency and intensity are separate virtues**: it offers an unusually stable cooling note that must be used in small, deliberate proportion. The buyer's job is to recognize both facts at once.
-
 ## Summary
 
-Peppermint (胡椒薄荷) is the sterile hybrid mint *Mentha × piperita*, a cross of watermint and spearmint whose menthol-dominant oil gives it a sharp, physically cooling, camphoraceous character — the "hot-mint" contrast to spearmint's sweet "cool-mint." It is a modern culinary and fragrance crossover with no classical Chinese incense record, stated plainly. Its sterile, clone-propagated nature makes its chemistry unusually consistent, while its intensity makes it a material of restraint; both facts matter to a buyer.
+Peppermint (胡椒薄荷) is the sterile hybrid mint *Mentha × piperita*, a cross of watermint and spearmint whose menthol-dominant oil gives it a sharp, physically cooling, camphoraceous character — the "hot-mint" contrast to spearmint's sweet "cool-mint." It is a modern culinary and fragrance crossover with no classical Chinese incense record, stated plainly. Its sterile, clone-propagated nature makes its chemistry unusually consistent, while its intensity makes it a material of restraint; both facts matter to a reader.
 
 ## FAQ
 

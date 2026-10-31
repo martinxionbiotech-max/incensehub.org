@@ -79,32 +79,9 @@ related: ["champaca", "yulan-magnolia"]
 
 含笑花's role is fragrance-in-the-garden, not fragrance-in-the-burner. Its sweet, fruity scent is experienced on the living shrub or as a cut flower, and its classical appearances are as a *reference* — the *Xiangcheng* pairing it with musk (含笑宜麝) as a flower suited to accompany certain incenses — rather than as a material burned on its own. The practical point for a formulator is that 含笑花 is a delicate, heat-fragile floral: its banana-sweet charm belongs to the garden and the cut-flower vase, not to the combustion of a stick or cone.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should distinguish 含笑花 (*Michelia figo*, the banana-scented shrub flower) from 白兰花 (*Michelia alba*, champaca) and 玉兰 (*Magnolia denudata*) — different magnolia-family flowers. Expect a sweet, fruity, faintly banana scent, smaller and more delicate than champaca's heady white-floral, and treat it as a garden/cut-flower material rather than a burned 香材.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — confirm *Michelia figo* (syn. *Magnolia figo*), the banana shrub; distinguish it from 白兰花 (*Michelia alba*, champaca) and 玉兰 (*Magnolia denudata*), which are different magnolia-family flowers.
-- **Aroma** — the tell is a sweet, fruity, banana-like character, smaller and more delicate than champaca's heady white-floral.
-- **Role** — it is a garden and cut-flower fragrance and a classical flower-to-incense reference (含笑宜麝), not a burned incense material.
-- **Name** — the species may be listed under *Michelia* or *Magnolia*; both names refer to the same plant.
-
-## Our Industry View
-
-> **Direct answer:** 含笑花's lesson is about the 兰-character trap: several unrelated-to-orchid flowers share the 兰 honorific in Chinese fragrance — 含笑花, 白兰花, 玉兰, and others — so the character is a fragrance honorific, not a botanical or classical-incense claim. The disciplined buyer reads past the shared character to the species, and treats delicate heat-fragile florals as garden or pairing references, not burned materials.
-
-含笑花 is where the 兰-character naming trap is most instructive, and it carries two real lessons:
-
-- **The 兰 character is an honorific, not a taxonomy.** 含笑花, 白兰花, and 玉兰 all carry 兰, yet none is an orchid — they are magnolia-family flowers, and 兰 here means "fragrant, refined" rather than "Orchidaceae." A buyer who reads the character as a botanical claim is reading it wrong; the species is the only reliable identifier.
-- **Delicate florals are reference materials, not burner materials.** Like tuberose, 含笑花's sweet, fruity scent is heat-fragile. Its classical role is the garden, the cut-flower vase, and the flower-to-incense *pairing* (含笑宜麝) — a curated reference in 合香 aesthetics — not a material to burn. Recognizing which florals are for the burner and which are for the reference is basic competence.
-- **Classical pairing records are a distinct kind of evidence.** The 含笑宜麝 note is not a "use as a 香材" but a *pairing judgment* — a classical observation of which flower suits which incense. It is a small but genuine piece of the southern fragrance canon, and it should be cited for what it is, not inflated.
-
-In our view, 含笑花 is best understood as a **southern garden aromatic with a documented classical pairing**, valuable for its banana-sweet scent and its place in the 香乘 record, but not — and never claimed to be — a burned incense material.
-
 ## Summary
 
-含笑花 (Michelia figo, syn. Magnolia figo) is the "banana shrub," a magnolia-family shrub of southern China whose small, partway-opening, cream-yellow flowers carry a sweet, fruity, banana-like scent. It is a garden and cut-flower aromatic, recorded in the Ming *Xiangcheng* (香乘) among the fragrant southern blossoms and paired with musk (含笑宜麝) — a flower-to-incense reference, not a burned material. Its lesson is the 兰-character honorific: several magnolia-family flowers share the character without being orchids, so species, not the shared name, is the buyer's identifier.
+含笑花 (Michelia figo, syn. Magnolia figo) is the "banana shrub," a magnolia-family shrub of southern China whose small, partway-opening, cream-yellow flowers carry a sweet, fruity, banana-like scent. It is a garden and cut-flower aromatic, recorded in the Ming *Xiangcheng* (香乘) among the fragrant southern blossoms and paired with musk (含笑宜麝) — a flower-to-incense reference, not a burned material. Its lesson is the 兰-character honorific: several magnolia-family flowers share the character without being orchids, so species, not the shared name, is the reader's identifier.
 
 ## FAQ
 

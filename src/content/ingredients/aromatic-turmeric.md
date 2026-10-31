@@ -95,7 +95,7 @@ As a rhizome aromatic, 郁金 is handled by drying: the rhizome is harvested, cl
 
 ## What determines aromatic turmeric quality?
 
-> **Direct answer:** Quality turns on species identity and rhizome condition. The buyer's first job is to distinguish 郁金 (*Curcuma aromatica*) from turmeric (姜黄) and zedoary (莪术); then to judge a clean, well-dried rhizome with the warm, earthy, camphoraceous character — more medicinal than culinary turmeric.
+> **Direct answer:** Quality turns on species identity and rhizome condition. The reader's first job is to distinguish 郁金 (*Curcuma aromatica*) from turmeric (姜黄) and zedoary (莪术); then to judge a clean, well-dried rhizome with the warm, earthy, camphoraceous character — more medicinal than culinary turmeric.
 
 The quality factors:
 
@@ -128,17 +128,6 @@ The quality factors:
 - **Historical Record** — the Ming-dynasty *Xiangcheng* (香乘) record of 郁金油 and 郁金香, and the "sandalwood and 郁金" body-anointing note, placing 郁金 in the aromatic-oil register.
 - **Scientific Evidence** — the botanical identity of *Curcuma aromatica* (Zingiberaceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should first distinguish 郁金 (*Curcuma aromatica*) from turmeric (姜黄) and zedoary (莪术), then confirm a clean, well-dried rhizome with an earthy, camphoraceous, warm character — more medicinal than culinary turmeric. In incense it is a grounded, warm base accent, not a dominant scent.
-
-For a buyer or formulator:
-
-- **Species** — 郁金 (*Curcuma aromatica*) versus 姜黄 (*Curcuma longa*) and 莪术 (*Curcuma zedoaria* / *C. phaeocaulis*).
-- **Condition** — clean, well-dried rhizome.
-- **Aroma** — earthy, camphoraceous, warm; more medicinal than culinary turmeric.
-- **Role** — a grounded, warm base accent in the ginger-family register, not a dominant scent.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -155,18 +144,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Classical note | aromatic oil (郁金油), body-anointing | Coloring rhizome | Prepared (vinegar + salt) |
 
 See [turmeric](/ingredients/turmeric/), [zedoary](/ingredients/zedoary/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 郁金's commercial lesson is a naming hazard: the same characters name a rhizome and a tulip, and the rhizome is one of three easily-confused *Curcuma* species. A buyer should fix the species first, then value 郁金 for its aromatic-oil register — a warm, earthy base accent — rather than confuse it with culinary turmeric.
-
-From a manufacturing perspective, 郁金 is a case where **naming is the hazard, not quality**:
-
-- **The name does two jobs at once.** 郁金 names a rhizome and, with 香, a tulip. A buyer who does not resolve which 郁金 is meant — rhizome, oil, or flower — has not yet begun the purchase. This is a naming-discipline problem before it is a botanical one.
-- **The *Curcuma* fork is real.** 郁金, 姜黄, and 莪术 are warm, earthy rhizomes that look alike and are confused in both trade and older texts. The species must be pinned down, because culinary turmeric, aromatic turmeric, and medicinal zedoary are different purchases with different prices and uses.
-- **Value the aromatic register, not the color.** 郁金's classical identity is an aromatic oil and a body-anointing material — a fragrance, not a coloring spice. A buyer who prices it like culinary turmeric (for its color) is valuing the wrong attribute.
-
-In our view, 郁金 is a warm, earthy, camphoraceous base accent whose real procurement question is *which* 郁金 — species and form — and whose value sits in the aromatic-oil register, not the culinary one.
 
 ## Summary
 

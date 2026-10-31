@@ -126,7 +126,7 @@ The documented, non-medical facts are the animal source, the conservation status
 
 > **Direct answer:** Genuine natural civet is an animal product from civets with CITES (Appendix III) and welfare implications. This encyclopedia documents it as historical and connoisseurship context only — not as a material to source. What is sold as "civet" today is almost always synthetic civetone or a musky substitute.
 
-Practical points for anyone researching or buying:
+Practical points for anyone researching:
 
 - Genuine natural civet is an animal product from wild civets with CITES and welfare implications — the small Indian civet is CITES Appendix III–listed (India) and the African civet is CITES Appendix III–listed (Botswana). This encyclopedia documents it as **historical and connoisseurship context only** — not as a material to source.
 - What is sold as "civet" in contemporary fragrance is almost always **synthetic civetone** (the principal odor compound of natural civet) or a musky substitute, rather than the animal secretion.

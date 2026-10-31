@@ -99,7 +99,7 @@ This multi-step preparation is what marks 莪术 as a *prepared, minor* ingredie
 
 ## What determines zedoary quality?
 
-> **Direct answer:** Quality turns on species identity and rhizome condition. The buyer's first job is to distinguish the zedoary group (莪术) from 姜黄 and 郁金; then to judge a clean, well-dried rhizome with the warm, camphoraceous, slightly bitter character expected of the material.
+> **Direct answer:** Quality turns on species identity and rhizome condition. The reader's first job is to distinguish the zedoary group (莪术) from 姜黄 and 郁金; then to judge a clean, well-dried rhizome with the warm, camphoraceous, slightly bitter character expected of the material.
 
 The quality factors:
 
@@ -132,17 +132,6 @@ The quality factors:
 - **Historical Record** — the Ming-dynasty *Xiangcheng* (香乘) processing note (莪术醋煮過用鹽水浸出…為末蜜和同甘草膏為餅), recording 莪术 as a prepared, minor incense addition.
 - **Scientific Evidence** — the botanical identity of the zedoary group (*Curcuma zedoaria* / *C. phaeocaulis*, Zingiberaceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should first distinguish 莪术 (the zedoary group) from 姜黄 and 郁金, then confirm a clean, well-dried rhizome with the warm, camphoraceous, slightly bitter medicinal character. In incense it is a minor, usually processed supporting note, not a lead scent.
-
-For a buyer or formulator:
-
-- **Species** — 莪术 (zedoary group) versus 姜黄 (*Curcuma longa*) and 郁金 (*Curcuma aromatica*); three distinct rhizomes routinely confused.
-- **Condition** — clean, well-dried rhizome.
-- **Aroma** — warm, camphoraceous, slightly bitter; the most medicinal of the three.
-- **Role** — a minor, usually processed supporting note in incense, not burned alone.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -160,21 +149,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 See [turmeric](/ingredients/turmeric/), [aromatic-turmeric](/ingredients/aromatic-turmeric/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** 莪术's commercial lesson is that a material's *processing* reveals its rank. It is a medicinal rhizome whose classical incense role is minor and prepared — vinegar-boiled, salt-soaked, bound with honey and licorice. A manufacturer should treat it as a small, corrective background note, and distinguish it from 姜黄 and 郁金 before anything else.
-
-From a manufacturing perspective, 莪术 is a case where **the processing is the specification**:
-
-- **Prepared, not raw, is the point.** The classical record shows 莪术 being tamed — boiled in vinegar, soaked in salt water, bound with honey and licorice — before it enters a formula. This is not a material you showcase; it is a material you correct. A manufacturer treating 莪术 as a lead note has misread the recipe.
-- **Identity is a three-way fork.** The *Curcuma* name confusion (姜黄 / 郁金 / 莪术) is a real sourcing hazard, because all three are warm, earthy rhizomes that look superficially alike. Pinning the species is the entry ticket.
-- **Minor ingredients still need to be right.** A minor, corrective note is easy to overlook, but a wrong or badly prepared 莪术 will throw the whole formula's balance off — the same logic that makes a small dose of a bitter or medicinal material the hardest thing to get right.
-
-In our view, 莪术 is a minor, medicinal-flavored *Curcuma* rhizome whose value is corrective and background: buy it by species, respect the classical preparation, and dose it as the small, balancing note the recipe intended it to be.
-
 ## Summary
 
-莪术 (*Curcuma zedoaria*, cf. *Curcuma phaeocaulis*) is the dried rhizome of the zedoary group, a ginger-family perennial whose warm, camphoraceous, slightly bitter character makes it the most strongly medicinal of the three common *Curcuma* rhizomes. It is recorded in classical incense only as a prepared, minor addition — the *Xiangcheng* processing note (醋煮, 盐水浸, 蜜和甘草膏为饼) is itself the evidence of its background rank — and it is a distinct species from turmeric (姜黄) and aromatic turmeric (郁金), a three-way name confusion that is the buyer's first check. Its medicinal uses are traditional language, not clinical evidence.
+莪术 (*Curcuma zedoaria*, cf. *Curcuma phaeocaulis*) is the dried rhizome of the zedoary group, a ginger-family perennial whose warm, camphoraceous, slightly bitter character makes it the most strongly medicinal of the three common *Curcuma* rhizomes. It is recorded in classical incense only as a prepared, minor addition — the *Xiangcheng* processing note (醋煮, 盐水浸, 蜜和甘草膏为饼) is itself the evidence of its background rank — and it is a distinct species from turmeric (姜黄) and aromatic turmeric (郁金), a three-way name confusion that is the reader's first check. Its medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 

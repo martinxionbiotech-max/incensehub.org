@@ -149,4 +149,4 @@ Because the ingredients cost more. Real aromatic woods and resins — agarwood, 
 - [Sandalwood Incense Guide](/blog/sandalwood-incense/)
 - [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/)
 
-**Natural next step:** "natural" and "how to tell when buying" overlap but aren't the same — for the buyer's checklist, see [natural vs synthetic: how to tell](/blog/natural-vs-synthetic-incense/), or meet the two materials that make natural incense worth it, [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).
+**Natural next step:** "natural" and "how to tell when choosing" overlap but aren't the same — for the identification checklist, see [natural vs synthetic: how to tell](/blog/natural-vs-synthetic-incense/), or meet the two materials that make natural incense worth it, [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).

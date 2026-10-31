@@ -121,7 +121,7 @@ Practical points:
 | Botanical source | *Cuminum cyminum* | *Foeniculum vulgare* | *Coriandrum sativum* |
 | Character | Warm, earthy, savory-bitter | Sweet, licorice, anise-like | Bright, citrus, woody |
 | Classical Chinese status | None (loanword, Western Regions) | Classical 茴香 | Culinary + materia medica |
-| Key buying note | Savory-penetrating; roast to deepen | Sweet anethole note | Seed ≠ leaf; linalool note |
+| Key identification note | Savory-penetrating; roast to deepen | Sweet anethole note | Seed ≠ leaf; linalool note |
 
 The three share the carrot family but not the register: fennel and coriander seed lean aromatic-sweet, while cumin sits alone on the savory-earthy side. See [fennel](/ingredients/fennel/), [coriander-seed](/ingredients/coriander-seed/), [dill](/ingredients/dill/), [fenugreek](/ingredients/fenugreek/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 

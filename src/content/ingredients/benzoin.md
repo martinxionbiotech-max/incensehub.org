@@ -56,14 +56,14 @@ The Chinese name 安息香 (ānxīxiāng) is often glossed as "the fragrance of 
 
 Siam benzoin is tapped from *Styrax tonkinensis* in Laos, northern Thailand, and Vietnam — the classic source of the smooth, vanilla "Siam" grade. Sumatra benzoin is tapped from *Styrax benzoin* and related species on the Indonesian island of Sumatra, and is the spicier, more resinous type. Both are collected from wild and semi-cultivated trees by incising the bark, and both arrived in China historically as imported resins.
 
-## The two kinds (buyer intelligence)
+## The two kinds (identification note)
 
-> **Direct answer:** Siam benzoin is the reference vanilla-balsamic resin (sweet, smooth, powdery), while Sumatra benzoin is spicier and more resinous and contains cinnamic acid in addition to benzoic acid. The distinction matters mainly to perfumers and profile-specific buyers.
+> **Direct answer:** Siam benzoin is the reference vanilla-balsamic resin (sweet, smooth, powdery), while Sumatra benzoin is spicier and more resinous and contains cinnamic acid in addition to benzoic acid. The distinction matters mainly to perfumers and profile-specific readers.
 
 - **Siam benzoin** (*Styrax tonkinensis*): sweet, vanilla, balsamic, woody, powdery; used in fragrance and flavoring.
 - **Sumatra benzoin** (*Styrax benzoin* / *S. paralleloneurus*): sweet, spicy, vanilla, balsamic; contains cinnamic acid in addition to benzoic acid.
 
-The distinction matters mainly to perfumers and to buyers who want a specific profile: Siam is the reference "vanilla" resin, Sumatra the "spicier" one. For incense use, either works; the label should tell you which you are getting.
+The distinction matters mainly to perfumers and to readers who want a specific profile: Siam is the reference "vanilla" resin, Sumatra the "spicier" one. For incense use, either works; the label should tell you which you are getting.
 
 ## A naming disambiguation
 
@@ -129,51 +129,19 @@ These are trade distinctions, not a single standardized grading system.
 | Powder | Blended into incense sticks and cones |
 | Resinoid / tincture | Perfumery and fragrance work |
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Benzoin is tapped from wild and semi-cultivated *Styrax* trees, so supply depends on the health of those stands. Sourcing should confirm type (Siam vs Sumatra) and origin, since the two are different products.
 
-Benzoin is collected largely from wild or semi-cultivated trees rather than large plantations, so long-term supply depends on continued access to those stands. For a buyer, the practical questions are **which type (Siam or Sumatra), which origin, and which form** — the label should distinguish Siam from Sumatra rather than offering an unqualified "benzoin." See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Benzoin goes into incense, perfumery (as a fixative), and — in the case of benzoic acid — industrial and preservative uses. The resin and the derived acid serve different markets.
-
-- **Incense** — sweet base and fixative in church, Chinese, Japanese, and Indian incense.
-- **Perfumery** — a classic vanilla-balsamic base note and fixative.
-- **Industrial** — benzoic acid, derived from the resin or synthesized, is used as a preservative in unrelated industrial applications.
-
-## What buyers should look for
-
-> **Direct answer:** Confirm the type (Siam vs Sumatra), check for clean, pale tears or blocks, and specify the form — tears, powder, or extract — since each behaves differently in a blend.
-
-For an incense maker or sourcing buyer:
-
-- **Type** — Siam (vanilla reference) vs Sumatra (spicier); a real seller names which.
-- **Color and cleanliness** — pale, clean material over dark, dusty, or mixed lots.
-- **Form** — tears/blocks for incense, powder for blending, extract for perfumery.
-- **Aroma** — the smooth vanilla-balsamic note of good Siam material.
+Benzoin is collected largely from wild or semi-cultivated trees rather than large plantations, so long-term supply depends on continued access to those stands. For the reader, the practical questions are **which type (Siam or Sumatra), which origin, and which form** — the label should distinguish Siam from Sumatra rather than offering an unqualified "benzoin.".
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke; keep away from children and pets. Benzoin resin itself is a fragrance/fixative material, not a food or medicine. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, the useful question is which benzoin and in what form — Siam vs Sumatra, tears vs powder — because the type changes the aroma and the form changes how the resin behaves in a stick. Consistency of type and grade matters more than a generic label.
-
-From a manufacturing perspective, "benzoin" is two products sharing one name, and the form adds a third variable. What makes a formula repeatable is **type consistency, grade consistency, and form** — the same Siam or Sumatra source, the same color and cleanliness, and the same particle size in powder.
-
-Two points follow:
-
-- **The type changes the blend.** Siam and Sumatra benzoin read differently — smooth vanilla against spicy resin — and Sumatra's cinnamic acid content is a real chemical difference, not just a marketing distinction. A formula built on one will drift if the source switches.
-- **Resin powder is sticky and heat-sensitive.** Benzoin powder behaves differently from wood powder in grinding and blending; its grind and how it is combined with a binder affect burn, and the right settings depend on the specific formula. There is no universal figure — sample against your own production.
-
-In our view, the commercial value is a **documented, consistent type-and-grade supply**, not an unqualified "benzoin" label.
-
 ## Summary
 
-Benzoin (安息香) is a balsamic resin from *Styrax* trees, prized for a sweet, vanilla-balsamic aroma and its role as a perfumery and incense fixative. It comes in two types — Siam (*S. tonkinensis*), the smooth vanilla reference, and Sumatra (*S. benzoin* / *S. paralleloneurus*), the spicier, cinnamic-acid-bearing type. It is a staple sweet base across church, Chinese, Japanese, and Indian incense, and its name records an ancient import trade. For a buyer, the working questions are type, form, and consistency.
+Benzoin (安息香) is a balsamic resin from *Styrax* trees, prized for a sweet, vanilla-balsamic aroma and its role as a perfumery and incense fixative. It comes in two types — Siam (*S. tonkinensis*), the smooth vanilla reference, and Sumatra (*S. benzoin* / *S. paralleloneurus*), the spicier, cinnamic-acid-bearing type. It is a staple sweet base across church, Chinese, Japanese, and Indian incense, and its name records an ancient import trade. For the reader, the working questions are type, form, and consistency.
 
 ## FAQ
 
@@ -183,7 +151,7 @@ Benzoin (安息香) is a balsamic resin from *Styrax* trees, prized for a sweet,
 
 **What is benzoin used for in incense?** Benzoin is used mainly as a sweet base and a fixative in incense. Its warm, vanilla-like, balsamic scent rounds out a blend, softening sharper notes, while its fixative properties help lighter, more volatile aromas persist longer. It is a staple of church incense, where it is often blended with frankincense and myrrh, and it appears in Chinese 合香 as a sweet base, in Japanese and Indian incense as a sweetener, and in the Arabic bakhoor tradition.
 
-**Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is the classic, reference vanilla-balsamic resin: sweet, smooth, and powdery, used widely in fragrance and flavoring. Sumatra benzoin (*Styrax benzoin* or *S. paralleloneurus*) is a touch spicier and more resinous, and it contains cinnamic acid in addition to benzoic acid. The difference matters mainly to perfumers and buyers who want a specific profile — Siam for the classic vanilla note, Sumatra for the spicier edge. For general incense use either works; the label should say which you are getting.
+**Is Siam benzoin different from Sumatra benzoin?** Yes. Siam benzoin (*Styrax tonkinensis*) is the classic, reference vanilla-balsamic resin: sweet, smooth, and powdery, used widely in fragrance and flavoring. Sumatra benzoin (*Styrax benzoin* or *S. paralleloneurus*) is a touch spicier and more resinous, and it contains cinnamic acid in addition to benzoic acid. The difference matters mainly to perfumers and readers who want a specific profile — Siam for the classic vanilla note, Sumatra for the spicier edge. For general incense use either works; the label should say which you are getting.
 
 **How do you burn benzoin resin?** Benzoin is burned like other resins, either on a lit charcoal disc or, more gently, on an electric incense heater. For the charcoal method, place the disc on a heatproof surface in sand or ash, light it, and add a small amount of resin once it glows. An electric heater avoids charcoal smoke and lets the resin warm slowly, releasing its vanilla-sweet aroma more cleanly. Benzoin is usually blended with frankincense or myrrh rather than burned alone, and only a small amount is needed.
 
@@ -199,7 +167,7 @@ See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/my
 ### Traditional Chinese use
 **Source:** this page records 安息香 as a sweet base in blended incense (合香), with the name glossed as "the fragrance of Parthia (安息)." **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the Siam (*Styrax tonkinensis*) vs Sumatra (*S. benzoin* / *S. paralleloneurus*) distinction and their benzoic/cinnamic acid profiles. **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -214,7 +182,7 @@ See also: [frankincense](/ingredients/frankincense/) and [myrrh](/ingredients/my
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |

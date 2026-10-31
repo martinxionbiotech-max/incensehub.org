@@ -52,7 +52,7 @@ This is a sourcing, conservation, and category fact — not a health claim.
 
 The name 麝香 (shèxiāng) is precise: 麝 (shè) is the musk deer, and 香 (xiāng) is fragrance — so the term names the *animal source* directly. That precision is exactly what modern usage has dissolved. In contemporary fragrance and incense, "musk" names a *scent family* (warm, skin-like, powdery, sweet) that is now carried almost entirely by synthetic compounds — musk ketone, galaxolide, tonalide, ethylene brassylate — and by botanical musky substitutes such as ambrette seed (*Abelmoschus moschatus*). The word outlived the animal: a modern "musk" incense stick contains no musk deer, and a modern "musk" perfume is, in the overwhelming majority of cases, a synthetic accord.
 
-For a buyer, the terminology point is practical: **"musk" on a label is a scent descriptor, not a provenance claim.** The animal material is a historical category; the scent category is modern and synthetic.
+For the reader, the terminology point is practical: **"musk" on a label is a scent descriptor, not a provenance claim.** The animal material is a historical category; the scent category is modern and synthetic.
 
 ## In Chinese tradition
 
@@ -82,11 +82,11 @@ Musk sits in a small family of classical animal fixatives, and the family itself
 
 The three share an animalic fixative register — warm, tenacious, "rounded" — but are different animals, different secretions, and different characters. Musk is the sweetest and most skin-like; civet is the sharpest and most fecal; castoreum is the smokiest and most leathery. In the classical canon, musk was the Chinese court's animal accent of choice, while civet and castoreum are more prominent in other perfumery traditions — a reminder that "animal fixative" is a family, not a single material.
 
-## Conservation and sourcing notes
+## Conservation notes
 
 > **Direct answer:** Genuine natural musk is an animal product from CITES-listed musk deer, and its trade is heavily restricted — this encyclopedia documents it as historical context, not as a material to source. What is sold as "musk" today is almost always synthetic or a botanical musky substitute.
 
-Practical points for anyone researching or buying:
+Practical points for anyone researching:
 
 - Genuine natural musk is an animal product from CITES-listed musk deer, and its trade is heavily restricted. This encyclopedia documents it as **historical and connoisseurship context only** — not as a material to source.
 - What is sold as "musk" in contemporary incense and fragrance is almost always a **synthetic musk** (musk ketone, galaxolide, and related compounds) or a botanical musky substitute such as ambrette seed, rather than the animal secretion.
@@ -106,7 +106,7 @@ The ethical-sourcing point is inseparable from the conservation point: because t
 | Synthetic musk | Musk ketone, galaxolide, etc. — the modern default |
 | Botanical substitute | Ambrette seed and other musky plant materials |
 
-The first three are historical animal forms; the last two are the modern materials that replaced them. For a contemporary buyer, "musk" means the last two, and the distinction between them — synthetic vs botanical — is the only sourcing decision that remains.
+The first three are historical animal forms; the last two are the modern materials that replaced them. For the contemporary reader, "musk" means the last two, and the distinction between them — synthetic vs botanical — is the only sourcing decision that remains.
 
 ## Musk vs ambergris (both animal fixatives)
 
@@ -126,30 +126,6 @@ The two are complements in the historical fixative palette, not substitutes — 
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Note that most "musk" in modern incense is synthetic, which is a sourcing and animal-welfare matter, not a safety claim. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## What buyers should look for
-
-> **Direct answer:** The buyer's check for "musk" is provenance honesty, not rarity: confirm the *actual material* — which synthetic musk or botanical substitute — and treat the scent name as a descriptor, never a claim of animal origin.
-
-For a fragrance or incense buyer, the checks are:
-
-- **Actual material** — confirm whether the "musk" is a synthetic (musk ketone, galaxolide, and related compounds) or a botanical substitute such as ambrette seed; the label names a scent family, not an animal source.
-- **No implied animal origin** — a responsible supplier should never imply animal source; genuine natural musk is CITES-restricted.
-- **Consistency** — for a repeatable product, confirm the specific compound and batch, since "musk" spans many different materials.
-
-See the [wholesale guide](/blog/wholesale-guide/) for sourcing the synthetic or botanical musk substitutes used in modern incense.
-
-## Our Industry View
-
-> **Direct answer:** The defining fact about musk today is the fixative paradox — the most expensive, most restricted material is used in the smallest dose, precisely because its job is structural, not aromatic. The name "musk" now denotes a synthetic scent family divorced from the animal, which makes provenance honesty, not rarity, the real commercial issue.
-
-From a manufacturing perspective, musk is the clearest case study in the encyclopedia of a **name that outlived its animal.** Three points follow:
-
-- **The fixative paradox.** Musk was historically the costliest ingredient in a court formula, yet it was dosed at a single 钱 against several 两 of agarwood and sandalwood. The reason is structural: a fixative works by being *sub-threshold* — it anchors a blend from below, and if you can clearly smell "musk," the dose is almost certainly too high. Value is therefore inversely related to perceptibility, which is unusual in a trade that prices most materials by their aromatic presence.
-- **The signifier outlived the signified.** The word "musk" migrated from an animal secretion to a scent family, and the scent family is now carried by synthetic macrocyclic musks and botanical substitutes. This is not a niche substitution; it is the *entire* modern market. A manufacturer specifying "musk" today is specifying a *scent target* — warm, sweet, powdery, skin-like — not a material, and the correct question is which synthetic or botanical achieves that target consistently.
-- **Provenance honesty is the real issue.** Because the animal source is protected, a responsible supplier should *never* imply animal origin. The commercial risk in "musk" is not rarity but mislabeling — presenting a synthetic or botanical accord as something it is not. The buyer's check is to confirm the *actual material* (which synthetic, or which botanical) rather than accepting the scent name at face value.
-
-In our view, the modern commercial reality of musk is that it is a **synthetic or botanical scent category with a historical animal name**, and the professional framing is to be explicit about that substitution — because the value, the consistency, and the ethics all lie on the synthetic side.
-
 ## Summary
 
 Musk (麝香) is the dried pod secretion of the male musk deer (*Moschus*), the defining animal fixative of classical Chinese court incense — dosed in tiny quantities to anchor and extend a 合香 blend from below. It belongs to a small animal-fixative family with civet (灵猫香) and castoreum (海狸香), all CITES-restricted and all now largely replaced by synthetics. The name "musk" today denotes a synthetic or botanical scent family — warm, sweet, skin-like — divorced from the protected animal source, so the modern commercial issue is provenance honesty rather than rarity.
@@ -166,7 +142,7 @@ Musk (麝香) is the dried pod secretion of the male musk deer (*Moschus*), the 
 
 **How is musk different from civet and castoreum?** All three are animal fixatives, but different animals and different characters. Musk (*Moschus* deer) is the sweetest and most skin-like; civet (灵猫香, *Viverra*) is sharper and more fecal-animalic; castoreum (海狸香, *Castor* beaver) is smokier and more leathery. Musk was the Chinese court's animal accent of choice, while civet and castoreum are more prominent in other perfumery traditions. See [civet](/ingredients/civet/) and [castoreum](/ingredients/castoreum/).
 
-**Why is this page a "historical reference only"?** Because genuine natural musk is an animal product from CITES-listed musk deer, and sourcing it today raises conservation and legal problems. The page therefore documents musk as a matter of historical and connoisseurship context — what it was, how it was used, and why it mattered — rather than as a material to buy. This is a transparency choice, not a judgment on historical practice.
+**Why is this page a "historical reference only"?** Because genuine natural musk is an animal product from CITES-listed musk deer, and sourcing it today raises conservation and legal problems. The page therefore documents musk as a matter of historical and connoisseurship context — what it was, how it was used, and why it mattered — rather than as a material to acquire. This is a transparency choice, not a judgment on historical practice.
 
 **What is the synthetic substitute for musk?** The main synthetic musks are macrocyclic compounds such as musk ketone and galaxolide, which reproduce the warm, sweet, powdery register without any animal source. Botanical substitutes such as ambrette seed (*Abelmoschus moschatus*) provide a natural musky note. These are inexpensive, consistent, legal to trade, and they dominate the modern market. Chemically, they echo muscone — the key odor compound in natural musk — but they are produced synthetically or harvested from plants rather than taken from deer.
 
@@ -180,7 +156,7 @@ See also: [ambergris](/ingredients/ambergris/), [civet](/ingredients/civet/), [c
 ### Traditional Chinese use
 **Source:** 麝香 recorded across the 香乘 (Xiang Cheng) as a court 合香 fixative accent, including the 花蕊夫人衙香 formula at 一钱; 麝香 in the 本草綱目 獸部. **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Conservation / sourcing
+### Conservation
 **Source:** the musk deer's CITES listing and the natural-vs-synthetic market note (musk ketone, galaxolide, ambrette seed substitutes). **Evidence type:** Trade and regulatory terminology.
 
 ### Safety

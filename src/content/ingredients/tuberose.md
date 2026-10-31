@@ -51,13 +51,13 @@ This page records it honestly as a modern floral note — **no classical Chinese
 
 *Agave amica* (formerly *Polianthes tuberosa*) is a bulbous perennial of the asparagus family, native to Mexico and long cultivated for its powerfully fragrant white flowers. Recent taxonomic work has returned the tuberose from its own genus *Polianthes* to *Agave*; both names are in active use, with *Polianthes tuberosa* the more familiar in perfumery literature. It is grown in China today as a floristry and garden plant; it is not a native species and has no Flora of China entry.
 
-The taxonomic detail is worth noting for buyers because it means the same flower can be listed under two different scientific names — *Agave amica* or *Polianthes tuberosa* — and a source that uses the older name is not necessarily wrong, just using the perfumery-traditional label.
+The taxonomic detail is worth noting for readers because it means the same flower can be listed under two different scientific names — *Agave amica* or *Polianthes tuberosa* — and a source that uses the older name is not necessarily wrong, just using the perfumery-traditional label.
 
 ## Where does tuberose come from?
 
 > **Direct answer:** Tuberose is native to Mexico and was spread worldwide through Western horticulture as a prized fragrant cut flower and perfume crop. It is now grown in warmer regions, including modern China, but it is not a native Chinese plant and has no Flora of China entry.
 
-The tuberose is a Mexican native that became a global horticultural and perfume crop through Western cultivation. Its powerfully fragrant white flowers made it valuable enough to be moved across warm regions worldwide, and it is now grown in modern China as a floristry and garden bulb. It is important to keep this straight: the plant is not native to China, has no Flora of China entry, and arrived through the Western floristry-and-perfumery channel — which is exactly why it is a modern crossover rather than a classical 香材.
+The tuberose is a Mexican native that became a global horticultural and perfume crop through Western cultivation. Its powerfully fragrant white flowers made it valuable enough to be moved across warm regions worldwide, and it is now grown in modern China as a floristry and garden bulb. To keep this straight: the plant is not native to China, has no Flora of China entry, and arrived through the Western floristry-and-perfumery channel — which is exactly why it is a modern crossover rather than a classical 香材.
 
 ## In modern use
 
@@ -82,29 +82,6 @@ There is **no classical Chinese incense record** for 晚香玉; its position is 
 > **Direct answer:** Tuberose is used as a white-floral note extracted from the flowers — historically by enfleurage, now usually by solvent extraction into an absolute, or reproduced as a synthetic accord. The living flower's scent is not carried into burning incense, which is why 晚香玉 is a perfumery and floristry material rather than a classical 香材.
 
 Tuberose's fragrance role is in extraction, not burning. The flower's powerful scent is captured historically by enfleurage — pressing the blossoms into fat to absorb their fragrance — and now usually by solvent extraction into an absolute, or by reproducing the profile as a synthetic accord. The critical practical point is that this is a *cold-extraction* flower: its scent is delicate enough that it does not survive combustion, which is why tuberose appears in perfume and floristry, not as a burned incense material. The living flower's evening fragrance and the perfumer's absolute are two different things, and neither is a classical 香材.
-
-## What buyers should look for
-
-> **Direct answer:** A buyer should recognize 晚香玉 as a modern crossover flower — a floristry and perfumery material, not a classical 香材 and not a burned incense ingredient. For fragrance, expect a tuberose absolute or a synthetic accord; the living flower's scent does not carry into burning incense.
-
-For a formulator or sourcing buyer, the checks are:
-
-- **Provenance** — recognize tuberose as a Mexican-native, Western-horticulture flower with no classical Chinese incense record; treat any "classical 香材" claim with care.
-- **Name** — the flower may be listed as *Agave amica* or *Polianthes tuberosa*; both refer to the same plant, the latter being the perfumery-traditional label.
-- **Format** — for fragrance, expect a tuberose absolute or a synthetic accord; the fresh flower is a floristry item, not an incense material.
-- **Aroma** — expect a sweet, creamy, heady white-floral that intensifies at night; this dense, narcotic character is its signature.
-
-## Our Industry View
-
-> **Direct answer:** Tuberose's lesson is about extraction economics: it is a flower whose scent is powerful in life but destroyed by combustion, so its entire commercial value is tied to cold extraction — enfleurage or solvent — and to the modern perfumery channel that brought it to China. It is a modern crossover that should be labeled as such, not draped in a borrowed classical pedigree.
-
-Tuberose is the clearest example in this encyclopedia of a material whose value depends entirely on *how* its scent is captured:
-
-- **Combustion destroys what extraction preserves.** The flower is intensely fragrant in the evening air, yet its delicate scent does not survive burning. This is a real material-science boundary: some aromatics are heat-stable and suit incense, while others — like tuberose — are cold-extraction materials. Recognizing which is which is basic formulator competence.
-- **The channel shapes the identity.** Tuberose reached China through Western horticulture and perfumery, not through the classical 香材 canon, and its Chinese name 晚香玉 is a modern descriptive coinage. That channel is part of its identity and should be stated, not hidden.
-- **Taxonomic drift is a sourcing detail.** The move from *Polianthes* to *Agave* means the same flower carries two scientific names; a buyer who sees either is looking at the same material. Knowing this prevents false "wrong species" alarms.
-
-In our view, tuberose is a **legitimate modern floral note whose value is extraction-bound**: the disciplined buyer specifies "tuberose absolute or accord," knows it is not a burned material, and keeps its modern, Mexican-origin provenance clearly on the record.
 
 ## Summary
 

@@ -144,46 +144,15 @@ The three converge on anethole, which is why they taste and smell alike and shar
 
 The culinary role is unambiguous and well documented. The medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Star anise is a cultivated tree of southern China and Vietnam, not an endangered material, so supply is stable. Sourcing must confirm the species — *Illicium verum* rather than the toxic *Illicium anisatum* — which is the one genuine risk.
 
-Star anise is farmed, not wild-harvested, so it carries no conservation concern. The practical sourcing question is the species check: because *Illicium verum* and the toxic *Illicium anisatum* are nearly identical in appearance, a buyer should confirm the botanical identity rather than assume. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Star anise serves cooking (five-spice and braising), flavor and fragrance (as star anise oil), and — industrially — as a source of extracted shikimic acid for pharmaceutical synthesis. Its incense use is a minor modern crossover, not a classical role.
-
-- **Culinary** — star anise is a cornerstone of Chinese braising and five-spice (五香粉).
-- **Flavor and fragrance** — star anise oil is distilled for flavor and fragrance use.
-- **Industrial extraction** — the fruit is a commercial source of shikimic acid, extracted for use in pharmaceutical synthesis.
-- **Incense** — a modern sweet-spice crossover, not a classical 香材.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Illicium verum*, not the toxic *Illicium anisatum*), prefer whole, aromatic stars, and — in incense — recognize that star anise is a modern sweet-spice additive, not a classical incense ingredient.
-
-Practical points for buyers:
-
-- **Species** — *Illicium verum* (Chinese star anise) is the edible, fragrant one; *Illicium anisatum* (Japanese star anise) is toxic and a known adulterant.
-- **Fruit quality** — the fruit should be whole, star-shaped, and intensely aromatic; the scent is the main quality indicator.
-- **Incense context** — star anise is a modern sweet-spice additive, not a classical 香材; understand that if you are aiming for an authentically classical formula.
+Star anise is farmed, not wild-harvested, so it carries no conservation concern. The practical sourcing question is the species check: because *Illicium verum* and the toxic *Illicium anisatum* are nearly identical in appearance, a reader should confirm the botanical identity rather than assume. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Do **not** confuse star anise with the toxic Japanese star anise (*Illicium anisatum*). Keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, star anise is a cheap, potent sweet-spice accent whose value is controlled warmth, not rarity — but it carries a species-specific safety requirement that most aromatics do not. The key variables are species and consistency, and the dosing depends on formulation.
-
-Star anise's commercial logic is familiar — abundant and strong, valued for consistent, economical sweetness — but it carries a distinctive constraint:
-
-- **The species check is non-negotiable.** Because *Illicium verum* and the toxic *Illicium anisatum* are near-identical in appearance, "star anise" must be pinned to the species, not the common name. This is a safety matter, not a grading nicety.
-- **It is a flavor crossover, not a 香材.** Star anise's warmth is culinary in origin, so it reads food-like in a blend. Whether that is desirable depends entirely on the formula — it suits modern gourmand and spice-forward blends, and is out of place in an authentically classical wood-and-resin composition.
-- **Dosing is the constraint.** Like clove and cinnamon, star anise is easy to overuse; the useful range is a small proportion. The right amount **depends on formulation**, so no single figure transfers between recipes.
-
-In our view, the commercial sweet spot is a **species-confirmed *Illicium verum*, bought whole and consistent**, used as a controlled sweet-spice accent — and never accepted on the strength of the name "star anise" alone.
 
 ## Summary
 

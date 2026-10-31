@@ -67,29 +67,6 @@ The plant is a Chinese native, long grown as a garden shrub for its winter flowe
 
 瑞香's classical incense role is a *transfer* technique, not a burned material. The *Xiangcheng* (香乘) includes 瑞香 in its flower-steaming method (花熏香), where delicate fragrant flowers — plum blossom, 瑞香, jasmine, osmanthus, and others — are steamed so their scent transfers onto an incense base. This is a technique for *capturing* a heat-fragile flower's scent indirectly, rather than burning the flower itself. It is the classical answer to the same material-science problem tuberose poses in the West: how to preserve a delicate floral scent that combustion would destroy. The flower's sweet, spicy character is transferred, not combusted.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should recognize 瑞香 as the flower of *Daphne odora*, a winter-blooming shrub, with a sweet, spicy, heady scent strongest in the fresh flower. Its role is garden fragrance and flower-scenting (花熏香), not a burned incense material, and parts other than the flower contain irritant compounds and are not used.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — confirm *Daphne odora*, the winter daphne; it is the classical Chinese 瑞香.
-- **Part** — only the fragrant flower is the valued part; the bark and other parts contain irritant compounds and are neither used for fragrance nor to be ingested.
-- **Aroma** — expect a sweet, spicy, heady scent, strongest in the fresh flower, strongest in the cool air of late winter.
-- **Role** — its incense role is flower-scenting (花熏香), not burning; treat it as a garden and scenting reference rather than a burned 香材.
-
-## Our Industry View
-
-> **Direct answer:** 瑞香's lesson is the classical flower-scenting technique: when a flower's scent is too delicate to survive burning, the classical tradition did not burn it — it steamed the flower to transfer the scent onto incense. This is the same material-science boundary as Western enfleurage, reached independently, and it is a reminder that "using a flower in incense" can mean capturing its scent, not combusting the blossom.
-
-瑞香 is the entry where the classical *technique* of flower-scenting is most clearly on display, and it carries a real lesson for anyone working with delicate florals:
-
-- **Capture, don't combust.** The *Xiangcheng*'s flower-steaming method (花熏香) is a recognition that a delicate flower's scent is destroyed by direct burning, so it is transferred by steam onto an incense base instead. This is the same material-science boundary Western perfumery solved with enfleurage — reached independently in the classical Chinese record. It is a sophisticated, technically sound insight, not a decorative flourish.
-- **The winter flower is a seasonal asset.** 瑞香's value is amplified by its timing: it blooms when the garden is dormant. In incense terms, that is a reminder that a material's *cultural and sensory* value can be seasonal and contextual, not just chemical.
-- **The safety boundary is part of the identity.** *Daphne* bark and other parts are irritant, and only the flower is used. This is the rare case where the "which part" question is a genuine safety matter, not just a quality matter — and it belongs on the record plainly.
-
-In our view, 瑞香 is best understood as a **winter garden flower whose classical incense role is steam-scenting rather than burning** — a documented technique that shows the classical tradition solving the delicate-floral problem with the same insight, and the same part-safety discipline, as the Western perfumery tradition.
-
 ## Summary
 
 瑞香 (*Daphne odora*, "auspicious fragrance") is a Thymelaeaceae winter-flowering shrub of China, prized for a sweet, spicy, heady scent that carries in the cool air of late winter. The Ming *Xiangcheng* (香乘) lists it among the fragrant southern blossoms and includes it in the flower-steaming technique (花熏香) — capturing the flower's scent onto incense rather than burning it — a classical answer to the same delicate-floral problem Western perfumery solved with enfleurage. Only the fragrant flower is used; other parts contain irritant compounds, a safety boundary that is part of the plant's identity.

@@ -39,7 +39,7 @@ related: ["pine-resin", "cedar", "juniper"]
 
 Pine trees (*Pinus*, family Pinaceae) are evergreen conifers native across the Northern Hemisphere, with many species in China — among them masson pine (*Pinus massoniana*), a common source of both resin and the aromatic needles used in Chinese tradition. The genus is recorded in Flora of China; the same botanical identity underlies both the needle and resin entries here. See [Pinus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343) and [Pinus massoniana on GBIF](https://www.gbif.org/species/5285215).
 
-The genus-level identity is important: "pine needle" is not a single species but a leaf type across many *Pinus* species. For sourcing, the species matters less than the part — the fresh needle versus the hardened resin — but a buyer who wants a specific regional or species character should pin it down.
+The genus-level identity is important: "pine needle" is not a single species but a leaf type across many *Pinus* species. For sourcing, the species matters less than the part — the fresh needle versus the hardened resin — but a reader who wants a specific regional or species character should pin it down.
 
 ## Chinese name and terminology
 
@@ -86,7 +86,7 @@ The quality points are:
 2. **Cleanliness** — free of dirt, insects, and debris.
 3. **Dryness** — properly dried, since moisture invites must and degrades the fresh note.
 
-These are freshness and preparation checks, consistent with a material whose value is a volatile, green top note. The needle is a low-cost material, so the buyer's concern is less grading and more "is it fresh and clean."
+These are freshness and preparation checks, consistent with a material whose value is a volatile, green top note. The needle is a low-cost material, so the reader's concern is less grading and more "is it fresh and clean."
 
 ## Common forms
 
@@ -115,34 +115,9 @@ The forms are functional states of the same leaf. The dried whole needle is the 
 
 The documented, non-medical facts are botanical identity, the Pinaceae placement, and the needle's distinction from the resin.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm it is the needle (松针), not the resin (松香), expect a fresh, conifer-green scent, and check freshness and dryness. The part-specification is the core check, because the same tree yields two very different aromatic materials.
-
-For a sourcing buyer, the checks are:
-
-- **Part** — 松针 is the needle; distinguish it from pine resin (松香), the same tree's warmer, balsamic resin with its own incense role.
-- **Freshness** — the green, conifer-fresh scent should be clean and bright, not musty or faded.
-- **Dryness and cleanliness** — properly dried, free of dirt and debris.
-- **Role** — a fresh green top note for sachets and blends, not a base to build around.
-
-The resin has its own entry at [pine-resin (松香)](/ingredients/pine-resin/), and related conifer aromatics include [cedar](/ingredients/cedar/) and [juniper](/ingredients/juniper/) — related but distinct conifer materials with their own characters.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Pine needles are a clean case study in a "same tree, opposite ends" principle: one botanical identity supplies both a fresh, volatile top note (the needle) and a warm, tenacious base (the resin), and the buyer's job is to know which end of the tree's fragrance they are buying. The part, not the tree, determines the aromatic function.
-
-From a sourcing perspective, pine needles illustrate a recurring aromatic-structure point. Three observations follow:
-
-- **One tree, opposite ends of the fragrance.** The needle is the fresh, green, volatile top; the resin is the warm, balsamic, tenacious base. They are not substitutes — they are two ends of the same tree's aromatic range, and they perform opposite functions in a blend. The needle lifts; the resin anchors.
-- **The part is the spec.** "Pine" alone specifies nothing aromatic; "松针" (needle) versus "松香" (resin) specifies everything. This is the part-specification discipline again, and it matters here because the two pine materials are so easily lumped together under the word "pine."
-- **Renewability shapes the market.** The needle is an abundant, renewable, low-value leaf crop; the resin is a slower, higher-value oleoresin. This abundance is why the needle is a humble sachet herb while the resin is a refined commodity — and why the needle's commercial reality is freshness and cleanliness, not grading.
-
-In our view, pine needles are best understood as the **fresh, renewable top note of the pine** — a green, outdoorsy accent whose value lies in brightness and freshness, and whose correct specification is the part-name (松针), never the generic "pine." The tree's resin does the base work; the needle does the top.
 
 ## Summary
 

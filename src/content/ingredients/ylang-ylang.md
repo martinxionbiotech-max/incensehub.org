@@ -78,7 +78,7 @@ The white florals are a crowded perfumery family, and ylang-ylang is the heavies
 - **neroli (橙花)** — *Citrus aurantium* flower, bright, citrusy, clean. See [neroli](/ingredients/neroli/).
 - **tuberose (晚香玉)** — *Polianthes tuberosa*, creamy, indolic, opulent. See [tuberose](/ingredients/tuberose/).
 
-All are sweet white-floral notes, but they differ sharply in weight and character: jasmine is green and fresh, neroli bright and citrus, tuberose creamy and heady, ylang-ylang sweet and tropical. A buyer specifying a "white floral" must name the species, because the four are not interchangeable.
+All are sweet white-floral notes, but they differ sharply in weight and character: jasmine is green and fresh, neroli bright and citrus, tuberose creamy and heady, ylang-ylang sweet and tropical. A reader specifying a "white floral" must name the species, because the four are not interchangeable.
 
 ## In modern use
 
@@ -133,34 +133,9 @@ The fraction grade ("extra" vs lower fractions) is the practical quality signal,
 
 The oil, graded by fraction, is the material; the flower is not used dried. The "extra" fraction is the premium grade.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm they are buying ylang-ylang oil (*Cananga odorata*), not the white florals jasmine, neroli, or tuberose, then check the fraction grade and freedom from adulteration. Expect a rich, sweet, creamy heart-to-base note, usually blended.
-
-For a buyer or sourcing reader:
-
-- **Identity** — confirm 依兰 is *Cananga odorata*, distinct from jasmine, neroli, and tuberose.
-- **Fraction** — specify the grade ("extra" is the premium, richest fraction).
-- **Adulteration** — a real risk for a valued oil; check for a clean, unextended oil.
-- **Role** — expect a rich, sweet, creamy heart-to-base note, usually blended.
-
-Because ylang-ylang is a valued tropical oil, the buyer is specifying **fraction, cleanliness, and correct species** — with the white-floral naming overlap as the main disambiguation risk.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Ylang-ylang is the purest case of the "phonetic crossover": a genuinely tropical flower whose Chinese name (依兰) is a sound-borrowing with no Chinese meaning — the strongest possible marker of a foreign material. Its commercial reality is an oil graded by distillation fraction, where the "extra" grade is the whole quality story.
-
-From a manufacturing and sourcing perspective, ylang-ylang illustrates a subtle but important pattern: **the name itself encodes provenance, and phonetics are the strongest marker of foreignness.** Three points follow:
-
-- **A phonetic name is the purest foreign marker.** 依兰 (yīlán) borrows the flower's sound, not its meaning, and carries no Chinese history. Compare 薰衣草 (descriptive, "clothes-scenting herb") and 洋甘菊 (prefixed, "foreign chrysanthemum"): the phonetic name is the one that most plainly says "this plant has no Chinese roots." For a buyer, the naming pattern is a quick, reliable provenance signal.
-- **The fraction is the whole quality story.** Ylang-ylang oil is graded by distillation fraction, and the first fraction ("extra") is the richest, most floral, and most expensive. This is a *process* grading — quality is a function of where in the distillation run the oil was collected — not a varietal claim. A buyer who understands fraction grading understands ylang-ylang's market.
-- **A heavy floral is a supporting material.** Ylang-ylang's opulent, creamy sweetness is a heart-to-base richness, not a top note. It is almost always blended, because its weight is a *supporting* fullness, not a lone scent. This role — heavy floral as body — is what distinguishes it from the bright top-note citrus and the fresh green jasmine.
-
-In our view, the professional framing for ylang-ylang is a **correctly fraction-graded (*extra*) tropical oil, read honestly through its phonetic name** — a material whose provenance is written into its name and whose quality is written into its distillation fraction.
 
 ## Summary
 

@@ -131,46 +131,15 @@ Vetiver is smoother and "drier"; patchouli is mustier and spicier. They are ofte
 
 We treat these as **aromatic/experiential descriptions, not medical claims.** We do not claim vetiver treats any condition.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Vetiver is a cultivated, renewable crop with a documented non-fragrance benefit — its deep roots are planted for erosion control and soil conservation. Sourcing should confirm the origin, since origin sets the aroma profile.
 
-Vetiver is planted, not wild-harvested, and its deep root system makes it a recognized erosion-control and soil-conservation crop — a genuine sustainability benefit that runs alongside its fragrance use. For a buyer, the practical question is **which origin**, because the label "vetiver" can be several different scent profiles depending on where the grass was grown and distilled. See the [wholesale guide](/blog/wholesale-guide/).
-
-## Modern commercial applications
-
-> **Direct answer:** Vetiver oil is a major perfumery base note and fixative, and it also goes into incense blends and scented products. Separately, the dried root is used in erosion control, screens, and mats — a non-fragrance use of the same grass.
-
-- **Perfumery** — vetiver oil is a staple base note and fixative across fragrance families.
-- **Incense** — the oil is blended into sticks and cones as a grounding base.
-- **Culinary (regional)** — khus roots flavor cooling drinks and sherbets in South Asia.
-- **Non-fragrance** — the grass's roots are used for erosion control and woven into screens and mats.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should ask for the origin, since it sets the aroma — Indian (khus) earthy-woody, Haitian lighter, Java smoky, Réunion prized — and confirm the form (oil vs dried root). A sample against the formula matters more than a generic "vetiver" label.
-
-For an incense maker or sourcing buyer:
-
-- **Origin** — India, Haiti, Java, or Réunion; each is a different profile, and a real seller names it.
-- **Form** — essential oil versus dried root; they are not interchangeable.
-- **Aroma** — a full, earthy, woody profile with no thin or harsh off-notes.
-- **Consistency** — because origin shifts the scent, a repeatable source matters more than a one-off lot.
+Vetiver is planted, not wild-harvested, and its deep root system makes it a recognized erosion-control and soil-conservation crop — a genuine sustainability benefit that runs alongside its fragrance use. For the reader, the practical question is **which origin**, because the label "vetiver" can be several different scent profiles depending on where the grass was grown and distilled..
 
 ## Safety
 
 Incense/essential-oil combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, vetiver's value is a reliable, grounding base note — and the working variable is origin, because "vetiver" is several different scent profiles, not one. A formula built on one origin will not reproduce if the source switches silently.
-
-Vetiver's commercial logic is **origin-first**: the name hides several different aromas, and which one a formula is built on matters more than the word "vetiver."
-
-- **Origin is the identity.** Indian khus, Haitian, and Java vetiver will read differently in the same blend, so a formula built on one will not smell the same if the source switches. The buyer's first question is not "is this vetiver" but "which vetiver."
-- **It is a base, not a lead.** Vetiver's job is to anchor and extend, so it is used in a supporting proportion. The right dose **depends on formulation** — what it is meant to ground and how long the dry-down should last — so no single percentage transfers between recipes.
-
-In our view, the commercial sweet spot is a **named origin, bought consistently**, used as a grounding base rather than a showcase note.
 
 ## Summary
 
@@ -200,7 +169,7 @@ See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/),
 ### Traditional Chinese use
 **Source:** this page records vetiver (岩兰草) as a perfumery and incense base note, described in aromatherapy as "calming"/"grounding." **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the origin grades (India/khus, Haiti, Java, Réunion/Bourbon) that change the aroma. **Evidence type:** Trade terminology.
 
 ### Safety
@@ -212,7 +181,7 @@ See also: [patchouli](/ingredients/patchouli/) and [cedar](/ingredients/cedar/),
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Health claims | Not established |
 
 ## Sources

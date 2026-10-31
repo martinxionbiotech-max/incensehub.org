@@ -57,7 +57,7 @@ This page records it honestly as a modern culinary and aromatherapy herb — **n
 
 > **Direct answer:** 百里香 ("hundred-li fragrance") is a genus-level Chinese name, not a species. It covers the *Thymus* genus, including native Chinese species such as *Thymus mongolicus*, while culinary thyme in the European sense is specifically *Thymus vulgaris*. The name describes the herb's strong, far-carrying scent.
 
-The name 百里香 is descriptive — "hundred-li fragrance," naming the herb's strong, far-reaching scent — and it is applied across the *Thymus* genus. Unlike sage's 鼠尾草, which points to a genus with a major medicinal member (丹参), thyme's 百里香 points to a genus that also has genuinely native Chinese species — notably *Thymus mongolicus*, the Mongolian/northern-China thyme. The result is a *shared genus* rather than a pure misnomer: the genus *Thymus* exists in China, but the specific "thyme" of Western cooking and fragrance is the Mediterranean *Thymus vulgaris*. For a buyer, the species question remains the decisive one.
+The name 百里香 is descriptive — "hundred-li fragrance," naming the herb's strong, far-reaching scent — and it is applied across the *Thymus* genus. Unlike sage's 鼠尾草, which points to a genus with a major medicinal member (丹参), thyme's 百里香 points to a genus that also has genuinely native Chinese species — notably *Thymus mongolicus*, the Mongolian/northern-China thyme. The result is a *shared genus* rather than a pure misnomer: the genus *Thymus* exists in China, but the specific "thyme" of Western cooking and fragrance is the Mediterranean *Thymus vulgaris*. For the reader, the species question remains the decisive one.
 
 ## Why is it used in incense and aromatherapy?
 
@@ -75,7 +75,7 @@ Thyme leaves are used fresh in cooking or dried for storage, and thyme essential
 
 > **Direct answer:** Thyme quality turns on the leaf — clean, well-dried leaves with the full warm, spicy, slightly medicinal character — and on species correctness, since 百里香 spans the *Thymus* genus. For culinary thyme, the reference is *Thymus vulgaris*.
 
-For a buyer, the practical checks are **species correctness** (confirming *Thymus vulgaris* rather than a native *Thymus* such as *T. mongolicus*) and **leaf quality** (clean, well-dried leaves carrying the warm, spicy, slightly medicinal character). For the oil, the reference is a clean thyme oil true to the herb's spicy-green profile. The species distinction matters because different *Thymus* species differ in aroma, particularly in thymol content.
+The practical checks are **species correctness** (confirming *Thymus vulgaris* rather than a native *Thymus* such as *T. mongolicus*) and **leaf quality** (clean, well-dried leaves carrying the warm, spicy, slightly medicinal character). For the oil, the reference is a clean thyme oil true to the herb's spicy-green profile. The species distinction matters because different *Thymus* species differ in aroma, particularly in thymol content.
 
 ## Common forms
 
@@ -105,25 +105,13 @@ The dried leaf and the oil are two products of the same herb; the oil is the con
 
 There is **no classical Chinese incense record** for thyme (百里香); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Lamiaceae placement, and its modern culinary and aromatherapy role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - thyme (百里香) is *Thymus vulgaris*; expect a warm, herbal, green, spicy, slightly medicinal scent.
 - Distinguish culinary thyme (*Thymus vulgaris*) from the native Chinese thyme relatives that share the 百里香 name — different plants, different uses.
 - In incense it is usually a dry herbal note, a modern addition rather than a classical 香材.
-
-## Our Industry View
-
-> **Direct answer:** Thyme's 百里香 name points to a genuinely shared genus — the *Thymus* genus exists in China (e.g., *Thymus mongolicus*) — so unlike a pure misnomer, the name is a "shared genus" case. But the specific herb of Western cooking and fragrance is *Thymus vulgaris*, and the species question, not the genus name, is what a buyer must settle.
-
-From a sourcing and editorial perspective, thyme is the subtler counterpart to sage's name-collision case, and the difference is instructive. Three points follow:
-
-- **A shared genus is not the same as a shared material.** 百里香 is a genus-level name, and the *Thymus* genus does have native Chinese members (*Thymus mongolicus*). This makes thyme's name less of a pure misnomer than sage's — the genus is present in China. But "thyme" as a cooking and fragrance herb is specifically *Thymus vulgaris*, and the aroma differences among *Thymus* species (driven in part by thymol content) are real. The genus name points in the right direction; only the species name lands.
-- **The phenolic-clove register is the identity, and it is a Western value.** Thyme's warm, spicy, slightly medicinal character comes from its aromatic-phenol chemistry, which reads as "clean" and "antiseptic" in Western aromatherapy. That register — clean, herbal, medicinal-green — is a modern Western aesthetic, not a classical Chinese incense one, which is why thyme sits outside the 香材 canon.
-- **Leaf versus oil is the practical sourcing fork.** Thyme reaches buyers as dried leaf (for cooking and incense) and as distilled oil (for aromatherapy), and these are materially different products with different quality questions. A sourcing conversation that does not first establish *which form* is already ambiguous — the same lesson the balsam cluster teaches, applied to a herb.
-
-In our view, thyme is best understood as a **shared-genus culinary herb** — a Mediterranean species whose Chinese name points to a genus that is genuinely present in China, making the sourcing question one of *species and form* rather than of pure name collision, and whose warm, clean, phenolic-green register is a modern Western import.
 
 ## Summary
 

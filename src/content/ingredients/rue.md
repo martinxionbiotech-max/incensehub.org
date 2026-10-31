@@ -60,7 +60,7 @@ A recurring difficulty in classical Chinese aromatic nomenclature is that the ch
 - **eupatorium (佩兰)** — *Eupatorium fortunei*, Asteraceae; fresh, herbaceous, mildly sweet, literally "worn orchid" (see [eupatorium](/ingredients/eupatorium/)).
 - **泽兰** — *Eupatorium japonicum*, a related but distinct herb (see [eupatorium-japonicum](/ingredients/eupatorium-japonicum/)).
 
-The point for a buyer or reader: "兰" is a name of honor in Chinese fragrant-herb culture, not a botanical family. 芸香 is a rue, 佩兰 is an eupatorium, and neither is an orchid — yet all three share the classical fragrant-herb register, which is precisely where the confusion lives.
+The point for the reader or reader: "兰" is a name of honor in Chinese fragrant-herb culture, not a botanical family. 芸香 is a rue, 佩兰 is an eupatorium, and neither is an orchid — yet all three share the classical fragrant-herb register, which is precisely where the confusion lives.
 
 ## Rue in the classical record (香乘考据)
 
@@ -132,28 +132,6 @@ There is no standardized commercial grading ladder for rue; aroma intensity on g
 - **Scientific Evidence** — the botanical identity of *Ruta graveolens* (Rutaceae) and its aromatic chemistry are documented; we present no clinical or medical efficacy claims.
 
 The scenting and book-herb uses are well documented. Medicinal uses are traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm identity — rue (*Ruta graveolens*) rather than a "兰"-named fragrant herb like 佩兰 — and then judge intensity and freshness. Rue's value is a bitter, penetrating green accent, so a strong, recently dried batch is the useful grade, and it is dosed sparingly rather than burned alone. Handle with care: the herb can irritate skin on contact in some people.
-
-For an incense maker or sourcing buyer:
-
-- **Identity** — rue (*Ruta graveolens*, Rutaceae); distinguish from 佩兰 (*Eupatorium fortunei*) and other "兰"-named fragrant herbs.
-- **Intensity and freshness** — a strong, bitter, penetrating green character; a faded or musty batch has lost its value.
-- **Dosing** — it is a small-dose accent, not a base.
-- **Handling** — rue can irritate skin on contact in some people; handle with care and keep away from children and pets.
-
-## Our Industry View
-
-> **Direct answer:** Rue's commercial lesson is that intensity, not sweetness, is sometimes the specification. It is a protective, bitter-green accent whose value lies in a strong, recently dried herb — and whose name in Chinese points to a function (book-preserving) as much as to a species. A buyer should resolve both the species and the intensity before buying.
-
-From a manufacturing perspective, rue is a case where the aromatic value is intensity rather than pleasantness. Two points follow:
-
-- **Intensity is the specification.** Most incense ingredients are bought for a pleasant note; rue is bought for a sharp, protective one. The practical consequence is that freshness matters more than for many herbs, because the bitter-green character fades with age, and a faded rue is a spent material with nothing pleasant to fall back on. The check is the same as for other leafy herbs: smell on gentle warming, and reject a flat or musty batch.
-- **The name points to a function.** In Chinese, 芸香 names both a species (rue) and a function (the book-preserving "book herb"), and it sits beside the "兰"-named fragrant herbs (佩兰, 泽兰) that are not orchids. A buyer who treats "芸香" as a self-identifying species label is assuming more than the name guarantees; the species — and the dose — must be pinned down separately.
-
-In our view, rue is a small-dose protective accent whose value is sharp, fresh intensity — buy it by species name, judge it by fresh bitter-green aroma, and dose it sparingly.
 
 ## Summary
 

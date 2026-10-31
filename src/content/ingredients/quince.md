@@ -76,7 +76,7 @@ The quince needs no processing for its fragrance role: the hard, yellow fruit sc
 
 > **Direct answer:** Quince quality turns on the fragrance and soundness of the fruit. A good quince is large, firm, golden, and intensely sweet-fruity-floral on the skin; a withered or bruised fruit has lost both its perfume and its display value. The fragrance, not the flesh, is the point.
 
-For a buyer, the practical checks are: **fragrance** (an intense, sweet, fruity-floral perfume from the skin), **soundness** (a firm, unblemished, golden fruit), and **size/form** (the large, melon-like, auspicious form that suits the 清供 display). Because the fruit is prized for fragrance and display rather than eating, its perfume and its appearance are the whole quality story — a bruised or withered quince has lost its value even if it is still technically sound.
+The practical checks are: **fragrance** (an intense, sweet, fruity-floral perfume from the skin), **soundness** (a firm, unblemished, golden fruit), and **size/form** (the large, melon-like, auspicious form that suits the 清供 display). Because the fruit is prized for fragrance and display rather than eating, its perfume and its appearance are the whole quality story — a bruised or withered quince has lost its value even if it is still technically sound.
 
 ## Common forms
 
@@ -105,9 +105,9 @@ The fresh fruit is the reference form for fragrance; the cooked or preserved for
 
 The 清供 and room-fragrance use is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the Rosaceae placement, and the offering-fruit use — plus the 木瓜/番木瓜 name collision that is the page's core disambiguation.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 木瓜 is the Chinese quince (*Pseudocydonia sinensis*, syn. *Chaenomeles sinensis*); expect a bright, fruity, sweet-floral scent.
 - Distinguish it from the papaya (番木瓜, *Carica papaya*) — a soft tropical fruit that shares the everyday name 木瓜 but is a different plant.
@@ -126,18 +126,6 @@ Practical points for buyers:
 | Classical role | 清供 + room fragrance + materia medica | Modern tropical fruit |
 
 The collision is in the modern name, not the plant: the classical 木瓜 is the quince, while the everyday 木瓜 often means the papaya. See [kumquat](/ingredients/kumquat/), [citron](/ingredients/citron/), [finger-citron](/ingredients/finger-citron/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Quince is a "name-drift false-friend" case — the classical 木瓜 is the hard, fragrant Chinese quince, but the everyday modern word has drifted to mean the papaya. This drift, plus the quince's place in the "fragrance of presence" 清供 group, defines it as a classical room-fragrance fruit that must be actively disambiguated from its modern namesake.
-
-From a sourcing and editorial perspective, the quince is most interesting for the drift its own name has undergone. Three points follow:
-
-- **The name drifted, and the drift is the trap.** 木瓜 ("tree melon") classically names the Chinese quince, but modern everyday Chinese uses it for the papaya. A buyer or reader who hears 木瓜 and assumes the tropical fruit has already made the error the name invites. The classical 清供-and-本草 material is the quince, and the qualifier 番 ("foreign") on 番木瓜 records the papaya's later, imported status — the same 番 foreign-origin marker the [fenugreek](/ingredients/fenugreek/) entry documents.
-- **"Fragrance of presence" is the quince's mode, and it is a genuine category.** The quince, citron, finger citron, and kumquat form a cluster of fruits experienced by proximity and evaporation — displayed and smelled, not burned or eaten raw. This is a real fragrance model, distinct from the burned 香材 and from extracted oils, and it is the model the whole 清供 tradition runs on.
-- **The rose-family placement is a sensory fact, not trivia.** The quince is a rose-family relative of apple and pear, not a citrus — which is why its perfume is fruity-floral rather than citrus-sharp. This placement explains the sensory difference from the citron group and is a useful check: a "木瓜" that smells sharply of lemon is probably the wrong plant.
-
-In our view, the Chinese quince is best understood as a **rose-family 清供 fruit whose classical name has drifted onto the papaya** — a hard, fragrant room-fragrance fruit of the "presence" tradition, distinct from both the tropical papaya and the citrus 清供 fruits it is displayed beside.
 
 ## Summary
 

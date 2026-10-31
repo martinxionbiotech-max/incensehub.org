@@ -48,7 +48,7 @@ The Chinese name 雪松 (xuěsōng, "snow cedar") specifically denotes true *Ced
 
 > **Direct answer:** Chinese 雪松 (xuěsōng) is the true cedar (*Cedrus*). It is distinct from 杜松 (dùsōng, common juniper *Juniperus communis*) and 崖柏 (yábǎi, *Thuja sutchuenensis*), two other conifers with cedar-adjacent aromas. The three are different families and parts, and Chinese names keep them separate.
 
-雪松 (xuěsōng) is not the only Chinese conifer name a buyer will meet. Three conifers with overlapping, woody-clean aromas carry distinct names:
+雪松 (xuěsōng) is not the only Chinese conifer name a reader will meet. Three conifers with overlapping, woody-clean aromas carry distinct names:
 
 - **cedar (雪松)** — true *Cedrus* (Pinaceae). This entry.
 - **juniper (杜松)** — common juniper *Juniperus communis* (Cupressaceae); brighter and drier than cedar. See [juniper](/ingredients/juniper/).
@@ -69,7 +69,7 @@ The geographic origin depends entirely on which species the name "cedar" means:
 
 True cedars are mountain conifers with a limited natural range; red cedar is an abundant lowland and upland tree. This difference in abundance matters for both price and sourcing (see Sustainability below).
 
-## The naming problem (buyer intelligence)
+## The naming problem (identification note)
 
 > **Direct answer:** "Cedar" is among the most ambiguous names in fragrance. A label saying "cedarwood" frequently means *Juniperus virginiana* (a juniper), not true *Cedrus*. Because the species — not the word "cedar" — sets the actual aroma and price, the label should name the genus.
 
@@ -110,7 +110,7 @@ Cedar reaches incense in two processing paths:
 - **Wood** — the aromatic heartwood is cut into chips or shavings for warming, or ground to powder for blending into sticks and cones. No extraction step is involved in the wood forms.
 - **Essential oil** — "cedarwood oil" is steam-distilled from the wood; oil from *Cedrus* (Atlas or Himalayan) differs from oil from *Juniperus virginiana*, so the source species sets the oil's character.
 
-For powder buyers, particle size and moisture content are the practical variables, but the exact target depends on the stick formula, binder, and production line — no single figure transfers between recipes. The mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, particle size and moisture content are the practical variables, but the exact target depends on the stick formula, binder, and production line — no single figure transfers between recipes. The mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## Working with cedar in practice (traditional practice, not measured data)
 
@@ -170,11 +170,11 @@ We describe cedar's aromatic use; we do not make medical claims.
 
 ## Adulteration & misidentification
 
-> **Direct answer:** The main buying risk is naming, not counterfeiting: "cedarwood" oil or wood is often *Juniperus virginiana* or another conifer sold without the species named. Both are legitimate aromatic woods, but they differ in aroma and price, so the label should state the genus.
+> **Direct answer:** The main identification risk is naming, not counterfeiting: "cedarwood" oil or wood is often *Juniperus virginiana* or another conifer sold without the species named. Both are legitimate aromatic woods, but they differ in aroma and price, so the label should state the genus.
 
-Unlike agarwood, cedar is not commonly "faked" with dyed or injected material; its risk is **species substitution under a shared common name**. A buyer who wants the warm, balsamic note of true *Cedrus* should not unknowingly receive the sharper, pencil-like *Juniperus virginiana* — or vice versa. The two are told apart by aroma register and by the botanical name on the label; this is a labeling and identification matter, not a counterfeit-versus-genuine issue in the agarwood sense.
+Unlike agarwood, cedar is not commonly "faked" with dyed or injected material; its risk is **species substitution under a shared common name**. A reader who wants the warm, balsamic note of true *Cedrus* should not unknowingly receive the sharper, pencil-like *Juniperus virginiana* — or vice versa. The two are told apart by aroma register and by the botanical name on the label; this is a labeling and identification matter, not a counterfeit-versus-genuine issue in the agarwood sense.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Some true cedars — notably Lebanon cedar — have a long history of overharvesting and a reduced wild range, while eastern redcedar (*J. virginiana*) is abundant and fast-growing. Sourcing should confirm the genus, since the conservation story differs sharply between *Cedrus* and *Juniperus*.
 
@@ -183,60 +183,25 @@ The sustainability picture is split by genus:
 - **True cedars** (*Cedrus*) are slower-growing mountain conifers; Lebanon cedar (*C. libani*) in particular has a documented history of overexploitation and a much-reduced natural range.
 - **Red cedar** (*Juniperus virginiana*) is an abundant, fast-spreading tree across eastern North America and carries no equivalent scarcity concern.
 
-For a buyer this is a sourcing question, not a legal one: confirm **which genus** the material is, because the conservation profile — and therefore the responsible-sourcing expectation — differs between the two. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Cedar is used in incense, in cedar chests and closet liners for its aromatic (and reputed moth-repellent) character, and as cedarwood essential oil in fragrance. Red cedar also has a long industrial use, from pencil wood to pet bedding shavings.
-
-Cedar reaches the market through several channels:
-
-- **Incense** — the wood and powder are blended as a clean base note.
-- **Aromatic storage** — cedar chests and closet liners use the wood's scent and its long-standing (traditional, not clinically proven) reputation for deterring moths.
-- **Essential oil** — "cedarwood oil" is a fragrance and aromatics ingredient; whether it is *Cedrus* or *Juniperus* sets the character and the price.
-- **Industrial uses** — red cedar has historically been used for pencil wood and aromatic shavings (such as pet bedding).
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should pin down the genus first — true *Cedrus* or *Juniperus* (or another conifer) — then the form, and, for oil, the source species. For powder, confirm particle size and moisture against the formula rather than accepting a generic "cedar" label.
-
-For an incense maker or sourcing buyer:
-
-- **Genus** — *Cedrus* vs *Juniperus* (vs another conifer); a real seller names the species.
-- **Form** — chips, shavings, powder, or oil; each behaves differently in a blend.
-- **Oil source** — "cedarwood oil" should state whether it is *Cedrus* or *Juniperus virginiana*, since they differ in aroma and cost.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula rather than accepting a nominal "cedar."
+For a reader this is a sourcing question, not a legal one: confirm **which genus** the material is, because the conservation profile — and therefore the responsible-sourcing expectation — differs between the two. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, the word "cedar" is a specification problem, not a material. Because it names two unrelated families with different aromas, the first requirement is a named genus; after that, particle size, moisture, and batch consistency follow the same logic as any wood powder — and the exact target depends on formulation.
-
-From a manufacturing perspective, cedar's defining issue is that **the name does not identify the material**. "Cedarwood" can be *Cedrus* or *Juniperus virginiana* — two plants with different aromas, densities, and prices — so a formula built on one will not reproduce if the source switches silently to the other.
-
-Two further points follow:
-
-- **Species is a specification, not a detail.** Because true cedar is warm and balsamic while red cedar is sharp and pencil-like, the choice changes the entire character of a blend. A buyer who approves a sample of one genus has not approved the other.
-- **Particle size and moisture affect behavior, not just aroma.** In powder, particle size changes how the material packs, draws air, and burns; moisture changes how it grinds and how the finished stick dries. The right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory is not transferable to another.
-
-In our view, the commercial sweet spot is a **named genus, bought in a consistent form**, used as a clean base note rather than a lead — and never accepted on the strength of the word "cedar" alone.
-
 ## Summary
 
-Cedar is a dry, clean, slightly sweet-resinous wood note that appears in incense under a confusing common name: true cedar (*Cedrus*, pine family) versus "cedarwood" often meaning red cedar (*Juniperus virginiana*, a juniper). Chinese 雪松 (xuěsōng) denotes the true *Cedrus*, and it is distinct from juniper (杜松) and thuja (崖柏). Its value rests on genus, heartwood content, and consistency rather than rarity, and its "calming" reputation is traditional language, not clinical evidence. In incense it is a light base or background note; commercially, naming the genus is the first requirement.
+Cedar is a dry, clean, slightly sweet-resinous wood note that appears in incense under a confusing common name: true cedar (*Cedrus*, pine family) versus "cedarwood" often meaning red cedar (*Juniperus virginiana*, a juniper). Chinese 雪松 (xuěsōng) denotes the true *Cedrus*, and it is distinct from juniper (杜松) and thuja (崖柏). Its value rests on genus, heartwood content, and consistency rather than rarity, and its "calming" reputation is traditional language, not clinical evidence. In incense it is a light base or background note; in trade, naming the genus is the first requirement.
 
 ## FAQ
 
-**Is "cedarwood" a true cedar?** Often not. Commercial "cedarwood" oil is frequently distilled from red cedar (*Juniperus virginiana*), which is a juniper, not a true cedar in the genus *Cedrus*. True cedars include Himalayan cedar (*C. deodara*), Atlas cedar (*C. atlantica*), and Lebanon cedar (*C. libani*). Other plants called "cedar," such as Western red cedar (*Thuja plicata*), add further confusion. Because the common name "cedar" covers several unrelated conifers, the actual species on the label determines the aroma, and it is worth checking which one you are buying.
+**Is "cedarwood" a true cedar?** Often not. Commercial "cedarwood" oil is frequently distilled from red cedar (*Juniperus virginiana*), which is a juniper, not a true cedar in the genus *Cedrus*. True cedars include Himalayan cedar (*C. deodara*), Atlas cedar (*C. atlantica*), and Lebanon cedar (*C. libani*). Other plants called "cedar," such as Western red cedar (*Thuja plicata*), add further confusion. Because the common name "cedar" covers several unrelated conifers, the actual species on the label determines the aroma, and it is worth checking which one you have.
 
 **What does cedar incense smell like?** Cedar incense has a clean, woody, slightly sweet-resinous aroma — a "dry wood" note, distinct from the creamy sweetness of sandalwood or the resinous depth of agarwood. It reads "quiet and clean" rather than sweet or deep, which is why it often serves as a base or background note in blends. The scent fills a room without dominating it, so cedar is usually paired with a resin or a warmer wood rather than burned as a solo statement.
 
 **What is the difference between cedar and sandalwood?** Cedar is a dry, clean, slightly sweet-resinous wood note, while sandalwood is creamy, sweet, and soft. Cedar tends to be lighter and sharper, with a "space-clearing" quality, whereas sandalwood is rounder, warmer, and more prized as a base note. Both are woody, but they sit at different weights in a blend: cedar provides a clean, airy background, and sandalwood anchors with a rich, milky sweetness. They are distinct aromas from different botanical sources.
 
-**Which cedar is used in incense?** It varies. True cedars (genus *Cedrus*), such as Himalayan cedar (*C. deodara*) and Atlas cedar (*C. atlantica*), are one source of the woody note. But much commercial "cedarwood" oil actually comes from red cedar (*Juniperus virginiana*), a juniper rather than a true cedar. Because these are different plants with different aromas, the species matters for both scent and price. When a label simply says "cedar," the actual source is worth checking before buying.
+**Which cedar is used in incense?** It varies. True cedars (genus *Cedrus*), such as Himalayan cedar (*C. deodara*) and Atlas cedar (*C. atlantica*), are one source of the woody note. But much commercial "cedarwood" oil actually comes from red cedar (*Juniperus virginiana*), a juniper rather than a true cedar. Because these are different plants with different aromas, the species matters for both scent and price. When a label simply says "cedar," the actual source is worth checking before sourcing.
 
 **Is cedar incense safe for pets?** All incense produces smoke and particulate matter, and that general caution applies to pets as well as people. Burn incense in a well-ventilated space, avoid letting smoke concentrate, and keep lit material and ash out of reach of children and pets, who may be more sensitive to airborne particles or curious about burning objects. This is general safety guidance that applies to every incense material, not a claim about any specific condition or about cedar in particular.
 

@@ -48,7 +48,7 @@ Note that "plum blossom" in English is a translation of convenience: *Prunus mum
 
 > **Direct answer:** 梅花 (méihuā) is the blossom of *Prunus mume*, but the word 梅花 also names a *grade of borneol* — 梅花脑 / 梅花片, the top ice-like crystal. The two meanings point to completely different materials, so an incense label's 梅花 must be read in context.
 
-The name 梅花 carries two meanings that a buyer must separate:
+The name 梅花 carries two meanings that a reader must separate:
 
 - **梅花 (méihuā)** — the plum blossom, the flower this page describes. The dried flower is also recorded as 白梅花 / 绿萼梅.
 - **梅花脑 / 梅花片** — a *grade of borneol* (龙脑), the top ice-like borneol crystal, named for resembling plum-blossom ice.
@@ -76,11 +76,11 @@ The blossom's status as the "first of the four gentlemen" (梅兰竹菊) and the
 
 > **Direct answer:** Plum blossom is harvested and dried; the whole dried flower is the commercial form. The drying method and the resulting moisture and color depend on the producer and grade, and for powder the particle size and moisture affect how the material behaves in a formula.
 
-The essential step is simple: the opened blossoms are harvested and **dried** to a stable, storable form. From there it branches by end use — whole dried flowers for tea and display, or ground powder for blending into incense. For powder buyers, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** (see Our Industry View below). The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The essential step is simple: the opened blossoms are harvested and **dried** to a stable, storable form. From there it branches by end use — whole dried flowers for tea and display, or ground powder for blending into incense. For powder, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** . The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines plum blossom quality?
 
-> **Direct answer:** Quality turns on cleanliness and an intact, gentle floral character — a clean, whole, delicately fragrant blossom beats a crumbled or stale one. There is no standardized numerical grading system; the buyer evaluates the physical condition of the lot.
+> **Direct answer:** Quality turns on cleanliness and an intact, gentle floral character — a clean, whole, delicately fragrant blossom beats a crumbled or stale one. There is no standardized numerical grading system; the reader evaluates the physical condition of the lot.
 
 The practical quality factors:
 
@@ -130,45 +130,13 @@ The word 梅 appears in all three, but they are unrelated. Wintersweet is a shru
 
 Plum blossom is not an expensive, heavily faked aromatic; its risk is a **naming matter**. The principal confusion is the three-way slide of the word 梅花 across the flower, the unrelated wintersweet shrub, and the borneol crystal grade. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Modern commercial applications
-
-> **Direct answer:** Plum blossom reaches the market mainly as a cultural and seasonal flower — in tea, in named "plum incense" (梅花香) recipes, and as a delicate floral-incense accent — rather than as a volume aromatic. The flower's commercial value lies in its signature and its symbolism.
-
-Plum blossom's commercial life is led by culture and season — the flower is a tea and seasonal item, and the plum-blossom *theme* anchors named classical incense recipes far more than the dried flower anchors a bulk formula. For a sourcing buyer, this split matters because **the "plum" in a plum-incense product may be a theme, a flower, or — confusingly — a borneol grade**, and a buyer must know which is meant before pricing or blending.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm what "梅花" means in context — the flower, the wintersweet shrub, or the borneol grade — then judge the flower's cleanliness and gentle floral character. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Meaning of 梅花** — confirm whether the label means the flower, wintersweet, or the borneol grade 梅花脑 / 梅花片; a real seller can state it.
-- **Form** — whole flowers or powder; each behaves differently in a blend.
-- **Physical condition** — clean, intact blossoms with a gentle floral character and no debris.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, plum blossom is a signature and a theme, not a base. Its value is a delicate, cool floral lift and a name that carries centuries of cultural weight — but the dried flower is subtle, so a "plum incense" product is usually a themed blend, and consistency matters more than the flower's intensity.
-
-From a manufacturing perspective, plum blossom's defining trait is the gap between its **symbolic and its aromatic** weight. The name 梅花 carries more cultural gravity than almost any other floral in the canon, but the dried flower itself is a whisper, not a statement.
-
-Two points follow:
-
-- **It is a theme as much as a material.** A "plum incense" (梅花香) is typically a *blended* recipe whose name and character reference the blossom, not a heavy dose of dried flower. A buyer should understand whether a "plum" product is built on the flower, on a theme, or — given the borneol-grade ambiguity — on something else entirely.
-- **Particle size and moisture affect behavior, not just aroma.** As a floral powder, plum blossom is sensitive to the same grinding and drying variables as any powder; the right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clean, correctly identified plum blossom** used as a measured floral accent or a themed signature — a material whose value is cultural and subtle, rewarding precision over volume.
-
 ## Summary
 
-Plum blossom (梅花) is the late-winter flower of *Prunus mume* (syn. *Armeniaca mume*), a Rosaceae tree recorded by Flora of China at 4–10 m tall, valued as the emblem of early spring, the "first of the four gentlemen," and the anchor of the classical "plum incense" (梅花香) recipes. Its main identification risk is the three-way slide of the word 梅花 across the flower, the unrelated wintersweet shrub, and the borneol grade 梅花脑 / 梅花片. In incense it is a delicate floral and a cultural signature, not a base; commercially, resolving what "梅" means and ensuring consistency outweigh intensity.
+Plum blossom (梅花) is the late-winter flower of *Prunus mume* (syn. *Armeniaca mume*), a Rosaceae tree recorded by Flora of China at 4–10 m tall, valued as the emblem of early spring, the "first of the four gentlemen," and the anchor of the classical "plum incense" (梅花香) recipes. Its main identification risk is the three-way slide of the word 梅花 across the flower, the unrelated wintersweet shrub, and the borneol grade 梅花脑 / 梅花片. In incense it is a delicate floral and a cultural signature, not a base; in trade, resolving what "梅" means and ensuring consistency outweigh intensity.
 
 ## FAQ
 

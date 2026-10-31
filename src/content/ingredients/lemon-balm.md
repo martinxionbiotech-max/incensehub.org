@@ -67,7 +67,7 @@ The "lemon" note is one of the clearest cases of aromatic convergence in this en
 - **lemon (柠檬)** — *Citrus × limon*, a rue-family (Rutaceae) citrus; lemony via limonene/citral from the rind.
 - **Lemongrass** — *Cymbopogon*, a grass (Poaceae); lemony via citral.
 
-Three different plant families converge on the same "lemony" register through shared chemistry. The practical consequence: **"lemon-scented" is a molecule, not a species** — a buyer who orders "something lemony" is ordering a register, and could receive a mint herb, a citrus, or a grass depending on what the seller means. See [lemon (柠檬)](/ingredients/lemon/) and [bergamot (佛手柑)](/ingredients/bergamot/).
+Three different plant families converge on the same "lemony" register through shared chemistry. The practical consequence: **"lemon-scented" is a molecule, not a species** — a reader who orders "something lemony" is ordering a register, and could receive a mint herb, a citrus, or a grass depending on what the seller means. See [lemon (柠檬)](/ingredients/lemon/) and [bergamot (佛手柑)](/ingredients/bergamot/).
 
 ## In modern use
 
@@ -116,17 +116,6 @@ The quality factors:
 
 There is no standardized commercial grading ladder; freshness and the soft lemony-green character are the practical signals.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish lemon balm (*Melissa officinalis*) from lemon (*Citrus × limon*) and from the mints (*Mentha* spp.) — different families, different aromas — and expect a soft, green-lemony leaf scent. It is a modern fragrance and herbal material, not a classical 香材, usually delivered as an oil or accord rather than a burned herb.
-
-For a formulator or sourcing buyer:
-
-- **Species** — confirm *Melissa officinalis* and distinguish it from lemon (*Citrus × limon*, a bright rind oil) and the mints (*Mentha* spp., a different genus).
-- **Form** — for fragrance, expect an essential oil or accord; the dried leaf is an herbal/tea material, not an incense material.
-- **Aroma** — a soft, green-lemony character (citral/citronellal); a sharp or bright-zest note suggests lemon, not lemon balm.
-- **Provenance** — understand it is a modern, Western-influenced crossover, not a classical 香材.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -143,21 +132,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 The "lemon" in "lemon balm" is a scent character, not a citrus relationship, and the mints are same-family but different-genus herbs. See [lemon (柠檬)](/ingredients/lemon/), [mint (薄荷)](/ingredients/mint/), and [basil (罗勒)](/ingredients/basil/).
 
-## Our Industry View
-
-> **Direct answer:** Lemon balm's lesson is that the lemon note is a molecule, not a monopoly — it appears across unrelated plant families (mint, citrus, grass) through shared citral/citronellal chemistry. For a buyer, "lemon-scented" is a register, not a spec: the disciplined order names the species and the form, and understands that a modern crossover should be labeled a modern crossover.
-
-From a manufacturing and sourcing perspective, lemon balm illustrates the same principle as eucalyptus and tarragon, applied to the "lemon" note:
-
-- **The note is a convergence, not a relationship.** Lemon balm is a mint-family herb that smells lemony through citral/citronellal — the same chemistry behind lemongrass and (partly) lemon rind. Three families, one register. A buyer who orders "something lemony" is ordering a *register*, not a material.
-- **The genus and the family are the spec.** Lemon balm must be distinguished from lemon (a citrus) and from the mints (a same-family, different-genus herb), because the name "lemon" in "lemon balm" points at a scent, not a relationship. The disciplined order names *Melissa officinalis* and the form.
-- **Quietness is the formulation variable.** Lemon balm is a soft, top-note accent whose value is freshness and lift, not intensity — and the right dose **depends on formulation**. A buyer treats it as a blending accent, not a base.
-
-In our view, the useful takeaway is procedural: **name the species, name the form, state the provenance, and read "lemon" as a molecule, not a relationship** — and a "lemon-scented herb" becomes fully specifiable instead of a source of confusion.
-
 ## Summary
 
-Lemon balm (香蜂草) is the mint-family (Lamiaceae) herb *Melissa officinalis*, native to the Mediterranean and recorded by Flora of China (as 香蜂花) as cultivated/introduced. Its soft, green-lemony scent comes from citral and citronellal — the same "lemon" chemistry shared with lemongrass and lemon rind — but it is not a citrus. It is a modern herbal and fragrance crossover with no classical Chinese incense record, a provenance this page states plainly. Commercially, the species and the form (oil vs leaf), not the "lemon" descriptor, are the buyer's real specification, and its quiet, fresh note is a blending accent, not a base.
+Lemon balm (香蜂草) is the mint-family (Lamiaceae) herb *Melissa officinalis*, native to the Mediterranean and recorded by Flora of China (as 香蜂花) as cultivated/introduced. Its soft, green-lemony scent comes from citral and citronellal — the same "lemon" chemistry shared with lemongrass and lemon rind — but it is not a citrus. It is a modern herbal and fragrance crossover with no classical Chinese incense record, a provenance this page states plainly. In trade, the species and the form (oil vs leaf), not the "lemon" descriptor, are the reader's real specification, and its quiet, fresh note is a blending accent, not a base.
 
 ## FAQ
 

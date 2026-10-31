@@ -58,7 +58,7 @@ Every formed incense is built from a small number of functional components, and 
 | Water | Added to make a workable paste | Enables shaping; removed again in drying |
 | Core (optional) | A thin bamboo splint, or a neutral charcoal/sawdust base | Gives a dipped stick its body and burn |
 
-The aromatic material is the point of the product, but the binder is the part most buyers overlook. A proper natural binder — see [makko & natural binders](/blog/makko-natural-binders/) — is itself a wood powder, so it binds *and* burns cleanly rather than adding a glue smell. The full vocabulary of what can go into a blend is covered in the [ingredients glossary](/blog/incense-ingredients-glossary/).
+The aromatic material is the point of the product, but the binder is the part most readers overlook. A proper natural binder — see [makko & natural binders](/blog/makko-natural-binders/) — is itself a wood powder, so it binds *and* burns cleanly rather than adding a glue smell. The full vocabulary of what can go into a blend is covered in the [ingredients glossary](/blog/incense-ingredients-glossary/).
 
 The single most important material distinction, however, is not which wood or resin but whether the scent comes from **real botanical powder or a fragrance oil**. That question runs through the entire chain, and it is treated separately in [what makes incense "natural"](/blog/what-makes-incense-natural/).
 
@@ -83,7 +83,7 @@ The fineness of the grind is a *choice*, not a spec. A finer powder packs more d
 
 Chinese incense is traditionally **not** a single material but a **blend** — 合香 (hé xiāng) — assembled on a formula principle analogous to Chinese herbal compounding (君臣佐使: chief, minister, assistant, guide). This is why "how incense is made" in the Chinese tradition is really "how a formula is composed," not just "how a stick is rolled." See [the blending system](/blog/hexiang-blending-system/) for the full treatment.
 
-The formula principle matters to a buyer because it explains *why* a classical Chinese incense is rarely a single note, and why "what is in it" matters more than "how it was rolled." In practice:
+The formula principle matters to a reader because it explains *why* a classical Chinese incense is rarely a single note, and why "what is in it" matters more than "how it was rolled." In practice:
 
 - The **chief (君)** is almost always a wood — agarwood or sandalwood — because woods carry the longest, most stable burn.
 - The **minister (臣)** rounds and reinforces the chief, usually at a fraction of its weight.
@@ -110,7 +110,7 @@ Two production methods dominate, and they produce different products:
 
 2. **Machine-made / dipped** — a core (bamboo or charcoal) is machine-coated or dipped in a liquid fragrance. Faster and cheaper, with a uniform — often synthetic — scent.
 
-See [hand-rolled vs machine-made](/blog/hand-rolled-vs-machine-made/) for how to tell which you are buying. The key point to carry into any purchase: **the shaping method and the material source are two separate questions** that usually, but not always, line up.
+See [hand-rolled vs machine-made](/blog/hand-rolled-vs-machine-made/) for how to tell which you are getting. The key point to carry into any purchase: **the shaping method and the material source are two separate questions** that usually, but not always, line up.
 
 ---
 
@@ -123,7 +123,7 @@ The freshly formed stick is still damp, and what happens next matters almost as 
 - **Drying** removes the shaping water. Done too fast or unevenly, a stick can crack, warp, or burn inconsistently.
 - **Curing** is the quieter stage that follows: a rest period in which the volatile aromas of the different ingredients settle and merge into a single, rounded character.
 
-Both stages are covered in depth in [how incense is dried and cured](/blog/how-incense-is-dried-and-cured/). For a buyer the practical takeaway is simple: a well-dried, well-cured stick burns evenly and smells settled, while a rushed one can smell raw or burn unevenly — and neither condition is visible on a shop shelf.
+Both stages are covered in depth in [how incense is dried and cured](/blog/how-incense-is-dried-and-cured/). For a reader the practical takeaway is simple: a well-dried, well-cured stick burns evenly and smells settled, while a rushed one can smell raw or burn unevenly — and neither condition is visible on a shop shelf.
 
 ---
 
@@ -137,13 +137,13 @@ How a maker knows a batch is good is a process, not a badge. The checks run from
 - **In-process control** — is the blend, moisture, and forming held steady during production?
 - **Final inspection** — does the finished product match the agreed specification on burn time, aroma, and form?
 
-The buyer's side of this — what to look for in consistency, particle size, moisture, density, burn behavior, and batch-to-batch variation — is treated fully in [incense manufacturing quality control](/blog/incense-manufacturing-quality-control/).
+The reader's side of this — what to look for in consistency, particle size, moisture, density, burn behavior, and batch-to-batch variation — is treated fully in [incense manufacturing quality control](/blog/incense-manufacturing-quality-control/).
 
 ---
 
 ## Final Product: Forms, Packaging, and What Reaches You
 
-**Direct answer:** The finished product is a dried, cured incense in one of several forms — stick, coil, cone, or loose powder — packaged to protect it from moisture and competing odors. Packaging is the last manufacturing step, and it is what preserves the scent until it reaches the buyer.
+**Direct answer:** The finished product is a dried, cured incense in one of several forms — stick, coil, cone, or loose powder — packaged to protect it from moisture and competing odors. Packaging is the last manufacturing step, and it is what preserves the scent until it reaches the reader.
 
 The end of the line is the product in your hand, and two things about it are worth knowing:
 
@@ -170,7 +170,7 @@ The end of the line is the product in your hand, and two things about it are wor
 - Most content stops at the mechanics.
 - 合香 explains why a Chinese incense is rarely a single note — and why “what is in it” matters more than “how it was rolled.”
 - The binder question is my favorite litmus test: makko or a chemical adhesive?
-- Add to that the stages most buyers never see — grinding, drying, curing, quality control — and you realize a stick is the tip of a much longer process.
+- Add to that the stages most readers never see — grinding, drying, curing, quality control — and you realize a stick is the tip of a much longer process.
 
 *This is the author's editorial view and experience — not a verified fact.*
 
@@ -196,7 +196,7 @@ The end of the line is the product in your hand, and two things about it are wor
 - [Incense Authentication: How to Spot Fake Agarwood, Sandalwood, and Resin](/blog/incense-authentication-database/)
 - [Incense Ingredients Glossary: Wood, Resin, Flower, and Spice](/blog/incense-ingredients-glossary/)
 - [Makko & Natural Binders: The Wood Powder That Holds Incense Together](/blog/makko-natural-binders/)
-- [Buying Qinan (奇楠): What to Check Before You Pay](/blog/qinan-buying-authentication/)
+- [Authenticating 奇楠 (Qinan)](/blog/qinan-buying-authentication/)
 - [What Makes Incense "Natural"? Binders, Bases, and the Label Problem](/blog/what-makes-incense-natural/)
 
 ## FAQ

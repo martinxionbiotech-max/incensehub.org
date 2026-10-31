@@ -59,7 +59,7 @@ The distinction is real and worth pinning down:
 - **玉兰** (*Magnolia denudata*) — the open white flower; fresh, green, slightly lemony. This entry.
 - **辛夷** (*Magnolia biondii*, Flora of China *Yulania biondii*) — the dried, unopened bud; spicy and camphoraceous. Its own entry.
 
-The practical point is that **flower and bud are different materials** from different (though related) species, with different aromas: an open flower reads fresh and green-lemony, while a closed bud reads spicy and camphoraceous. A buyer should not treat "magnolia" as one material; the plant part — flower vs bud — is the specification.
+The practical point is that **flower and bud are different materials** from different (though related) species, with different aromas: an open flower reads fresh and green-lemony, while a closed bud reads spicy and camphoraceous. A reader should not treat "magnolia" as one material; the plant part — flower vs bud — is the specification.
 
 ## Where does yulan magnolia come from?
 
@@ -71,7 +71,7 @@ The practical point is that **flower and bud are different materials** from diff
 
 > **Direct answer:** 玉兰 is used as a fresh white-floral note — a light, green-lemony lift in incense and scenting. It is not a 香乘 canon ingredient; its documented classical role is ornamental and cultural, so its incense use is a lighter, modern floral application rather than a 香道 heritage material.
 
-玉兰's role in incense and fragrance is as a *fresh white-floral note*: a light, green-lemony lift used in blending and scenting. It is not a 香乘 (Xiang Cheng) canon ingredient — its documented classical role is ornamental and cultural — so its incense use is best understood as a lighter, modern floral application. A buyer should position it as a fresh floral top note, not a deep or canonical 香材.
+玉兰's role in incense and fragrance is as a *fresh white-floral note*: a light, green-lemony lift used in blending and scenting. It is not a 香乘 (Xiang Cheng) canon ingredient — its documented classical role is ornamental and cultural — so its incense use is best understood as a lighter, modern floral application. A reader should position it as a fresh floral top note, not a deep or canonical 香材.
 
 ## How is it processed?
 
@@ -116,28 +116,6 @@ There is no standardized commercial grading ladder for 玉兰; aroma and plant-p
 - **Scientific Evidence** — the botanical identity of *Magnolia denudata* (*Yulania denudata*) and its floral chemistry are documented; we present no clinical or medical efficacy claims.
 
 The aromatic and cultural use is documented. We make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish 玉兰 (*Magnolia denudata*, the open flower) from 辛夷 (*Magnolia biondii* and relatives, the bud) — different species and plant parts with different aromas. Expect a fresh, green-lemony white floral, and judge freshness: the delicate note fades with age. In incense, 玉兰 is a fresh top note, usually blended rather than burned alone.
-
-For an incense maker or sourcing buyer:
-
-- **Plant part and species** — the open flower of *Magnolia denudata*, not the bud (辛夷, *M. biondii*).
-- **Aroma** — fresh, green-lemony white floral; a clean springy note beats a faded one.
-- **Condition** — clean, well-dried flower.
-- **Freshness** — the delicate note is volatile and fades with age.
-
-## Our Industry View
-
-> **Direct answer:** 玉兰's commercial lesson is plant-part specificity. "Magnolia" is not one material: the open flower (玉兰) and the unopened bud (辛夷) are different commodities with different aromas and different classical standings. A buyer should specify the part — flower vs bud — before anything else, because that single distinction changes the note, the price, and the historical context.
-
-From a manufacturing perspective, 玉兰 illustrates how a single botanical family produces two different commodities. Two points follow:
-
-- **Plant part is the specification.** In the magnolia family, the open flower (玉兰) reads fresh and green-lemony, while the unopened bud (辛夷) reads spicy and camphoraceous. They come from different (though related) species, and they are bought and used differently. "Magnolia" as a bare label does not tell a buyer which one is in hand; only the plant part does.
-- **Ornamental fame is not incense heritage.** 玉兰's classical standing is as a garden tree and spring symbol, not as a 香乘 canon ingredient. That is not a defect — it is honest provenance. A buyer should value it as a fresh, light floral note, not market it as a deep 香道 heritage material it is not.
-
-In our view, 玉兰 is a delicate fresh white-floral top note — buy it by plant part (open flower), judge it by fresh green-lemony aroma, and keep it clearly distinct from the bud material 辛夷.
 
 ## Summary
 

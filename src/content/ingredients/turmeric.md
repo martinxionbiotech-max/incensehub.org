@@ -87,7 +87,7 @@ Turmeric's curcumin is a strong dye that stains surfaces and skin intensely, so 
 
 ## What determines turmeric quality?
 
-> **Direct answer:** Quality turns on the rhizome's color intensity, aroma, and cleanliness: a good turmeric is deep yellow-orange, earthy-warm when ground, and free of mold. The decisive commercial question is species identity — confirming it is *Curcuma longa* (姜黄), not 郁金 or 莪术, the other two *Curcuma* rhizomes.
+> **Direct answer:** Quality turns on the rhizome's color intensity, aroma, and cleanliness: a good turmeric is deep yellow-orange, earthy-warm when ground, and free of mold. The decisive identification question is species identity — confirming it is *Curcuma longa* (姜黄), not 郁金 or 莪术, the other two *Curcuma* rhizomes.
 
 The practical quality points, in rough order:
 
@@ -122,28 +122,6 @@ Turmeric carries no standardized commercial grading ladder — it is an abundant
 - **Scientific Evidence** — curcumin, the rhizome's yellow-orange pigment, is well characterized chemically; but we present no clinical or medical efficacy claims.
 
 The culinary, coloring, and aromatic use is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species first — *Curcuma longa* (姜黄), not 郁金 or 莪术 — then check color intensity and cleanliness. For powder, confirm particle size and moisture against the formula. And handle with care: curcumin stains surfaces and skin intensely.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *Curcuma longa* vs 郁金 (*C. aromatica*) vs 莪术 (*C. phaeocaulis* / *C. zedoaria*); different rhizomes, routinely confused. Confirm which.
-- **Color intensity** — a deep, vivid yellow-orange indicates good curcumin content.
-- **Cleanliness** — freedom from mold and foreign material.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula. Handle carefully, as curcumin stains.
-
-## Our Industry View
-
-> **Direct answer:** Turmeric's commercial lesson is that a *Curcuma* name is not a species — 姜黄, 郁金, and 莪术 are three different rhizomes with overlapping names. And its defining trait in trade is color, not scent: a buyer's first question should be which rhizome and whether the yellow-orange color (curcumin) is part of the intended use.
-
-From a manufacturing perspective, turmeric is a material where **color and species identity matter more than aroma**. Two points follow:
-
-- **The *Curcuma* name is a category, not a species.** 姜黄, 郁金, and 莪术 are three distinct rhizomes whose Chinese names have historically overlapped. A formula built on turmeric's yellow-orange color and earthy warmth will not reproduce if the supply switches to the paler, more camphoraceous 莪术 or the "wild turmeric" 郁金. The species name is the specification.
-- **Color is the defining trait, not just a side effect.** Turmeric's best-known non-medicinal use is as a dye and coloring agent, and its curcumin is intense enough to stain equipment, surfaces, and skin. A buyer who does not want that color — or who does — should say so explicitly, because it is the rhizome's most consequential property in a production setting.
-
-In our view, turmeric is a cheap, reliable earthy accent and a powerful natural colorant — buy it by species name (*Curcuma longa*), check color intensity as a curcumin proxy, and treat the 姜黄/郁金/莪术 distinction as the core specification.
 
 ## Summary
 

@@ -49,9 +49,9 @@ The terminology needs a small precision:
 - **枫香脂 (fēngxiāngzhī)** — the resin, the actual fragrant substance.
 - **白胶香 (báijiāoxiāng)** — "white gum fragrance," an older name the *Xiangcheng* (香乘) records for 枫香脂, and which the *Golden Light Sutra* renders in transliteration as 须萨析罗婆.
 
-Because the tree and the resin share the name 枫香, a buyer should pin down whether a label means the wood or the resin — almost always it is the resin (枫香脂), which is the part with commercial fragrance value.
+Because the tree and the resin share the name 枫香, a reader should pin down whether a label means the wood or the resin — almost always it is the resin (枫香脂), which is the part with commercial fragrance value.
 
-## The storax / sweetgum distinction (buyer intelligence)
+## The storax / sweetgum distinction (identification note)
 
 > **Direct answer:** "Sweetgum" resin and "storax" are often confused because both come from *Liquidambar* trees — but they are different species from different regions. 枫香脂 is *Liquidambar formosana* (the native Chinese sweetgum); storax (苏合香) is *Liquidambar orientalis* (the Oriental sweetgum of Asia Minor). They are related resins from related trees, not the same product.
 
@@ -66,12 +66,12 @@ They are related resins from related trees in the same family (Altingiaceae), bu
 
 > **Direct answer:** The *Xiangcheng* (香乘) records a sharp practical fact: 枫香 was used to adulterate frankincense (乳香), and Li Shizhen noted the two are told apart only by burning. Both 枫香 and pine resin could pass for frankincense, but 枫香 was slightly whitish-yellow — so the burn test was the discriminating check.
 
-The most useful classical observation about 枫香 is a supply-chain warning, and it reads like modern buyer intelligence:
+The most useful classical observation about 枫香 is a supply-chain warning, and it reads like modern identification note:
 
 - **枫香 fakes frankincense.** The *Xiangcheng* (香乘) records, quoting Li Shizhen: "乳香，今人多以枫香杂之，惟烧时可辨" — today people adulterate frankincense with 枫香, and the two are told apart only by burning.
 - **Both 枫香 and pine resin could fake it.** "枫香、松脂皆可乱乳香，但枫香微白黄色，烧之可见真" — both 枫香 and pine resin can pass for frankincense, but 枫香 is slightly whitish-yellow, and burning reveals the truth.
 
-The same principle runs in both directions: 枫香 is close enough to frankincense to be used as an adulterant, which means a buyer should distinguish 枫香 from frankincense (乳香) on the one hand, and from the imported storax on the other. The burn test is the classical discriminator.
+The same principle runs in both directions: 枫香 is close enough to frankincense to be used as an adulterant, which means a reader should distinguish 枫香 from frankincense (乳香) on the one hand, and from the imported storax on the other. The burn test is the classical discriminator.
 
 ## Where does sweetgum come from?
 
@@ -133,28 +133,6 @@ There is no standardized commercial grading ladder, but "clear, clean, and aroma
 - **Scientific Evidence** — the botanical identity of *Liquidambar formosana* and the resin's balsamic chemistry are documented; we present no clinical or medical efficacy claims.
 
 Sweetgum resin appears in traditional uses; we describe its aromatic role and make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should pin down species first — 枫香脂 (*Liquidambar formosana*), not storax (*L. orientalis*) or frankincense (*Boswellia*) — then check resin content and clarity. The *Xiangcheng* records that 枫香 was used to adulterate frankincense, so identity is the first check, and a clean, aromatic, resin-rich material is the good grade.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — 枫香脂 is *Liquidambar formosana*; distinguish from storax (*L. orientalis*) and frankincense (*Boswellia*).
-- **Resin content and clarity** — "通明" (clear) resin is the classical good grade; a pale, clean, aromatic resin beats a woody or debris-laden one.
-- **Aroma** — sweet, balsamic, warm.
-- **Burn test** — the classical discriminator; it separates 枫香 from frankincense and reveals a smoky or off material.
-
-## Our Industry View
-
-> **Direct answer:** 枫香 is a native Chinese sweet-balsamic resin whose commercial story is about substitution. It is close enough to frankincense to serve as an adulterant and close enough to storax to be conflated by name — so the buyer's core job is to resolve the species and check the burn, not to trust the label.
-
-From a manufacturing perspective, 枫香 is a material defined by its substitutions. Two points follow:
-
-- **It is an adulterant and a substitute at once.** The *Xiangcheng* records 枫香 being used to adulterate frankincense ("乳香，今人多以枫香杂之"), which tells us two things at once: it is cheap enough and close enough to frankincense to be passed off as it, and a buyer receiving "frankincense" must be able to tell the two apart. The burn test is the classical discriminator, and it still applies.
-- **Native resin, not imported.** Unlike storax (苏合香), which classical texts record as imported, 枫香 is the native Chinese sweetgum resin — more available and cheaper, which is exactly why it entered the substitution trade. A buyer who understands the native/imported distinction understands the price and the risk.
-
-In our view, 枫香脂 is a fine sweet-balsamic resin for rounding a blend — buy it by species name, check that it is clear, clean, and aromatic, and use the burn test to keep it (and frankincense) honest.
 
 ## Summary
 

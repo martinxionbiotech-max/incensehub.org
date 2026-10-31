@@ -88,9 +88,9 @@ The dataset carries a version, a `dateModified`, and a changelog, so its history
 
 ## How to Use the Terminology
 
-> **Direct answer:** Three practical uses — pin down a Chinese name's English translation before buying, read a recipe or manual, or build a Chinese–English reference against the machine-readable dataset. The direction index above is the fastest entry for a human.
+> **Direct answer:** Three practical uses — pin down a Chinese name's English translation before choosing, read a recipe or manual, or build a Chinese–English reference against the machine-readable dataset. The direction index above is the fastest entry for a human.
 
-- **For buying** — a label or recipe name like 白奇楠 should resolve to "white qínán (agarwood grade)", not a guess; the glossary is the resolution table.
+- **For choosing** — a label or recipe name like 白奇楠 should resolve to "white qínán (agarwood grade)", not a guess; the glossary is the resolution table.
 - **For reading** — classical manuals and 合香 recipes use 香道, 合香, 隔火焚香, 君臣佐使; the glossary is the translation layer.
 - **For building** — the JSON is licensed CC BY-SA 4.0 and carries `termCode` + `alternateName` + `description`, so it can be consumed as a reference dataset with attribution.
 
@@ -105,7 +105,7 @@ The dataset carries a version, a `dateModified`, and a changelog, so its history
 **Position:** Terminology is the entry fee to the whole topic — most reader confusion about Chinese incense is really a translation problem, not a knowledge problem.
 
 **Reasoning:**
-- A buyer who can resolve 沉香 → agarwood and 奇楠 → qínán is already past most of the confusion.
+- A reader who can resolve 沉香 → agarwood and 奇楠 → qínán is already past most of the confusion.
 - The direction index is more useful than an alphabetical dump for a human reader.
 
 *This is the author's editorial view — not a verified fact.*

@@ -58,7 +58,7 @@ This is the key same-family distinction. 辛夷 (magnolia bud, *Magnolia biondii
 - **辛夷** — the dried *unopened bud*, the aromatic material.
 - **玉兰** — the *open flower* of *Magnolia denudata*, the ornamental celebrated in gardens.
 
-The practical point: 辛夷 is a bud material defined by its part and its spicy-floral character, while 玉兰 is a flower defined by its bloom. They are related, and a single tree can supply both names, but a buyer should know whether they are asking for the dried bud (辛夷) or the open flower (玉兰). 辛夷 is also distinct from 白兰花 (champaca, *Michelia alba*) and from 梅花 (plum blossom, *Prunus mume*), which is in an entirely different family.
+The practical point: 辛夷 is a bud material defined by its part and its spicy-floral character, while 玉兰 is a flower defined by its bloom. They are related, and a single tree can supply both names, but a reader should know whether they are asking for the dried bud (辛夷) or the open flower (玉兰). 辛夷 is also distinct from 白兰花 (champaca, *Michelia alba*) and from 梅花 (plum blossom, *Prunus mume*), which is in an entirely different family.
 
 ## Where does magnolia flower come from?
 
@@ -121,28 +121,6 @@ The practical quality points, in rough order:
 
 The aromatic use is documented in classical records. Medicinal uses — including the traditional nasal association — are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should check for clean, intact, unopened buds with a fresh spicy-floral scent, and confirm the source species (*Magnolia biondii* or a related magnolia). For powder, confirm particle size and moisture against the formula. And keep the same-family distinction in mind: 辛夷 is the bud, not the open 玉兰 flower.
-
-For an incense maker or sourcing buyer:
-
-- **Bud integrity and stage** — intact, unopened buds are the standard; opened or broken buds are lower grade.
-- **Aroma** — a fresh spicy-floral, slightly camphoraceous scent.
-- **Source species** — *Magnolia biondii* or a related magnolia such as *M. denudata*; ask, as the label may not say.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** 辛夷's commercial interest is as a fresh, spicy floral top note, but its real lesson is the part-versus-flower distinction: the value is in the unopened bud, and an opened flower is a different, lower-intensity material. The same-family overlap with 玉兰 makes the species and part worth specifying rather than trusting the name alone.
-
-From a manufacturing perspective, 辛夷 is a seasonal, part-specific material, and that specificity is the whole commercial point. Two observations follow:
-
-- **The part is the specification.** 辛夷 is the *unopened bud*, harvested in a narrow late-winter window when its essential oil is freshest. An opened flower — or a harvest taken too late — is a lower-intensity material even if it comes from the same tree. A buyer's first check is therefore bud integrity and stage, not just the name.
-- **The same-family overlap is a labeling question, not a defect.** Because the buds of *Magnolia biondii* and *Magnolia denudata* (玉兰) can both supply 辛夷, the name alone does not pin down the species. This is normal in the trade, but a buyer who wants reproducibility should specify species and part — bud, not flower — rather than accept an unqualified "辛夷."
-
-In our view, 辛夷 is a light, spicy floral top note worth having for its fresh lift — buy it as clean unopened buds, confirm the source species, and treat the part-versus-flower distinction as the core quality question.
-
 ## Summary
 
 magnolia flower bud (辛夷) is the dried unopened bud of *Magnolia biondii* (Flora of China: *Yulania biondii*) and related central-Chinese magnolias such as *M. denudata* (玉兰). It is a floral-spicy aromatic with a green, camphoraceous edge, used as a light top note and scenting material. Its value rests on bud integrity and harvest stage rather than rarity, it sits in the same family as 玉兰 and champaca (白兰花) but is distinct from them, and its medicinal uses are traditional language, not clinical evidence.
@@ -153,7 +131,7 @@ magnolia flower bud (辛夷) is the dried unopened bud of *Magnolia biondii* (Fl
 
 **What does magnolia flower bud (辛夷) smell like?** Floral and spicy at once — a soft magnolia bloom crossed with a green, slightly camphoraceous sharpness from its essential oil. It is lighter and spicier than creamy, heady florals like jasmine or gardenia, sitting closer to a "green floral" register. In a blend it adds lift and a fresh, slightly aromatic edge rather than deep sweetness.
 
-**How does magnolia flower bud (辛夷) differ from 玉兰 (yulan)?** They are the same magnolia family and can overlap in source, but they name different things in practice. 辛夷 is the dried *unopened bud* used as an aromatic; 玉兰 is the *open flower* of *Magnolia denudata*, the ornamental. A single tree can supply both names, but a buyer should know whether they are asking for the bud (辛夷) or the flower (玉兰).
+**How does magnolia flower bud (辛夷) differ from 玉兰 (yulan)?** They are the same magnolia family and can overlap in source, but they name different things in practice. 辛夷 is the dried *unopened bud* used as an aromatic; 玉兰 is the *open flower* of *Magnolia denudata*, the ornamental. A single tree can supply both names, but a reader should know whether they are asking for the bud (辛夷) or the flower (玉兰).
 
 **How does magnolia flower bud (辛夷) differ from champaca (白兰花)?** They are both magnolia-family flowers but distinct materials. 辛夷 is the flower bud of *Magnolia biondii* and related spring magnolias, with a green, spicy-floral character. white champaca (白兰花) is *Michelia alba*, a headier, sweeter, more fruity white floral. And 梅花 (plum blossom, *Prunus mume*) is in an entirely different family. Each has its own entry in this encyclopedia.
 

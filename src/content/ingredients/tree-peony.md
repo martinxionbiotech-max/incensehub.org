@@ -125,33 +125,9 @@ There is no standardized incense grading for the flower; ornamental quality and,
 
 The flower and the root bark are different parts with different uses; this entry describes the flower.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish the flower (牡丹) from the root bark (牡丹皮) — different parts, different products — and from the herbaceous peony (芍药). For the flower, expect an ornamental and light floral accent, not a lead incense material.
-
-For a buyer or sourcing reader:
-
-- **Part** — distinguish 牡丹 (flower) from 牡丹皮 (root bark) — different parts, different products.
-- **Species** — distinguish 牡丹 (*P. suffruticosa*, shrub) from 芍药 (*P. lactiflora*, herbaceous).
-- **Role** — expect an ornamental flower and light floral accent, not a lead incense material.
-
-Because the tree peony is a flower whose value is beauty, and its root bark is a separate product, part- and species-level precision are the decisive sourcing points.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** The tree peony is the clearest case of "cultural weight vs aromatic value": it is the "king of flowers," with enormous cultural fame, yet almost no incense role. This is a useful corrective — fame does not equal fragrance value, and the tree peony's commercial reality is split between an ornamental flower and a materia-medica root bark.
-
-From a manufacturing and sourcing perspective, the tree peony illustrates a principle that is easy to miss in an aromatic canon: **cultural fame and aromatic value are different currencies.** Three points follow:
-
-- **The "king of flowers" has almost no incense role.** 牡丹 is among the most culturally celebrated flowers in Chinese tradition — the 花王 of art and poetry — yet it is not a prominent incense floral. The classical incense florals are jasmine, osmanthus, and rose. This is a useful correction to the assumption that a famous flower must be an important incense material: the tree peony's fame is horticultural, not aromatic.
-- **One plant, two very different products.** The tree peony supplies an ornamental flower (valued for beauty) and a materia-medica root bark (牡丹皮, valued in a different, traditional-medical register). These are not two grades of one product but two products entirely — and conflating them is the main sourcing error.
-- **The name records the botany.** The Tang alias 木芍药 ("woody peony") is not a poetic flourish but a precise botanical marker — the shrub peony, distinguished from the herbaceous 芍药 by its persistent woody stem. The name itself is the disambiguation, which is a useful pattern for buyers.
-
-In our view, the professional framing for the tree peony is a **correctly part- and species-identified plant** — the ornamental flower (牡丹) distinguished from the herbaceous peony (芍药) and from its own root bark (牡丹皮) — and a reminder that in botanicals, fame and fragrance value do not always travel together.
 
 ## Summary
 

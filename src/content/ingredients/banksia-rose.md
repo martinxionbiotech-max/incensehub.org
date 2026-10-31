@@ -31,11 +31,11 @@ related: ["costus", "rose"]
 
 > **Direct answer:** 木香花 is a sweet, gentle rose-family floral, honeyed and slightly green, with none of the heady indole of jasmine or the sharp spice of a dried bud. It sits closer to a light, clear "rose" register than to the opulent white florals. In a blend it reads as a soft floral top note, adding a clean, honeyed lift rather than heavy sweetness.
 
-木香花 is a sweet, gentle rose-family floral, honeyed and slightly green, with none of the heady indole of jasmine or the sharp spice of a dried bud. It sits closer to a light, clear "rose" register than to the opulent white florals. In a blend it reads as a *soft floral top note*, adding a clean, honeyed lift rather than heavy sweetness. Flora of China adds a precise caveat about the fragrance: the cultivated double forms are **not fragrant**, while the single-flowered forms are fragrant or not — a point that matters for buyers, developed below.
+木香花 is a sweet, gentle rose-family floral, honeyed and slightly green, with none of the heady indole of jasmine or the sharp spice of a dried bud. It sits closer to a light, clear "rose" register than to the opulent white florals. In a blend it reads as a *soft floral top note*, adding a clean, honeyed lift rather than heavy sweetness. Flora of China adds a precise caveat about the fragrance: the cultivated double forms are **not fragrant**, while the single-flowered forms are fragrant or not — a point that matters for readers, developed below.
 
 ## Botanical identity
 
-> **Direct answer:** *Rosa banksiae* is an evergreen climbing rose of the rose family (Rosaceae). Flora of China describes a shrub climbing to 6 m, with leaflets in 3s to 5s and small flowers 1.5–2.5 cm across in clusters of 4–15, white or yellow, flowering April–May. Notably, the double or semi-double forms are not fragrant, while the single-flowered forms may be fragrant — a botanical detail that bears directly on what makes "木香花" an incense material at all.
+> **Direct answer:** *Rosa banksiae* is an evergreen climbing rose of the rose family (Rosaceae). Flora of China describes a shrub climbing to 6 m, with leaflets in 3s to 5s and small flowers 1.5–2.5 cm across in clusters of 4–15, white or yellow, flowering April–May. The double or semi-double forms are not fragrant, while the single-flowered forms may be fragrant — a botanical detail that bears directly on what makes "木香花" an incense material at all.
 
 Flora of China describes *Rosa banksiae* precisely: **evergreen climbing shrubs to 6 m tall**, with old branches bearing large rigid prickles; leaves with 3–5 (rarely 7) leaflets, elliptic-ovate to oblong-lanceolate, 2–5 × 0.8–1.8 cm, leathery; flowers **4–15 in simple umbels or corymbs, 1.5–2.5 cm across**, petals 5, semi-double, or double, **white or yellow**, "fragrant or not"; hip orange or black-brown, globose or ovoid, 5–7 mm; flowering **April–May**, fruiting August–October. Crucially, Flora of China keys the forms by fragrance: **"flowers double or semi-double, not fragrant; flowers single, fragrant or not."** The double white and yellow forms — the ones most cultivated, including the classic yellow "Lady Banks' rose" — are **not fragrant**; only the single-flowered form may be. This is a botanical fact with direct commercial consequence for a material sold as an incense flower. See [Rosa banksiae in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215) and [Rosa banksiae on GBIF](https://www.gbif.org/species/3004247).
 
@@ -52,7 +52,7 @@ The characters are identical (木香), and only the trailing 花 ("flower") dist
 
 ## The Banksia Rose (木香花) / costus (木香) confusion (read this)
 
-> **Direct answer:** 木香花 and 木香 share the characters 木香 but are different materials from different plant families: 木香花 is a rose flower (*Rosa banksiae*, Rosaceae), while 木香 is a root (*Saussurea costus*, Asteraceae). They appear side by side in the same 香乘 recipe — proof they are distinct — and a buyer must resolve the species, not rely on the shared characters.
+> **Direct answer:** 木香花 and 木香 share the characters 木香 but are different materials from different plant families: 木香花 is a rose flower (*Rosa banksiae*, Rosaceae), while 木香 is a root (*Saussurea costus*, Asteraceae). They appear side by side in the same 香乘 recipe — proof they are distinct — and a reader must resolve the species, not rely on the shared characters.
 
 The confusion is built into the name, and the classical record resolves it:
 
@@ -63,14 +63,14 @@ The decisive evidence is that the **香乘 (卷二十五, 宣庙御衣攒香) li
 
 ## The double-flower fragrance note (read this)
 
-> **Direct answer:** Flora of China records that the cultivated double and semi-double forms of *Rosa banksiae* are not fragrant, while the single-flowered form may be fragrant. This is a botanical fact with commercial force: the showy double "Lady Banks' rose" is grown for appearance, not scent, so a buyer seeking fragrant 木香花 must ask about flower form, not just the species name.
+> **Direct answer:** Flora of China records that the cultivated double and semi-double forms of *Rosa banksiae* are not fragrant, while the single-flowered form may be fragrant. This is a botanical fact with commercial force: the showy double "Lady Banks' rose" is grown for appearance, not scent, so a reader seeking fragrant 木香花 must ask about flower form, not just the species name.
 
-This is the most useful buyer-intelligence point about 木香花, and it comes straight from Flora of China:
+This is the most useful identification point about 木香花, and it comes straight from Flora of China:
 
 - **Double / semi-double forms** — the cultivated double white and yellow forms (including the classic "Lady Banks' rose") are **not fragrant**.
 - **Single-flowered form** — fragrant or not, per Flora of China.
 
-The consequence is direct: the showy double forms that dominate gardens are grown for **appearance, not scent**, so a label that says "木香花" or "Banksia rose" does not by itself guarantee a fragrant material. A buyer seeking 木香花 as an incense flower should ask about the **flower form** (single vs double), because the species name alone — *Rosa banksiae* — covers both the fragrant and the scentless forms.
+The consequence is direct: the showy double forms that dominate gardens are grown for **appearance, not scent**, so a label that says "木香花" or "Banksia rose" does not by itself guarantee a fragrant material. A reader seeking 木香花 as an incense flower should ask about the **flower form** (single vs double), because the species name alone — *Rosa banksiae* — covers both the fragrant and the scentless forms.
 
 ## Where does banksia rose come from?
 
@@ -128,28 +128,6 @@ There is no standardized commercial grading ladder, but "single-flowered, clean,
 
 The floral incense use is documented in the classical record (香乘). Medicinal or other uses are not the subject here, and we make no medical claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers must resolve two things before price: the 木香花/木香 distinction (flower vs root — different families), and the flower form (single = fragrant, double = scentless). Then judge a sweet, honeyed, lightly green aroma from clean, well-dried blooms. Dried material should be clean and retain a sweet floral character; musty or faded blooms are lower grade.
-
-For an incense maker or sourcing buyer:
-
-- **Identity** — 木香花 (*Rosa banksiae*, a flower), not 木香 (*Saussurea costus*, a root); different families, overlapping Chinese names.
-- **Flower form** — single-flowered (fragrant) vs double (scentless); the single form is the aromatic material.
-- **Aroma** — sweet, honeyed, lightly green; a clean note beats a faded one.
-- **Condition** — clean, well-dried blooms, free of mold.
-
-## Our Industry View
-
-> **Direct answer:** 木香花's commercial lesson is double disambiguation: the name collides with costus root, and the species covers both fragrant and scentless forms. A buyer must resolve the name to a plant part (flower vs root) and then resolve the species to a flower form (single vs double) — because neither the shared characters nor the species name alone guarantees a fragrant flower.
-
-From a manufacturing perspective, 木香花 is a two-step disambiguation problem. Two points follow:
-
-- **The name collides with a root.** 木香花 shares the characters 木香 with costus (木香), a root from a different family, and the two are listed side by side in the same 香乘 recipe — proof they are distinct. A buyer who reads only the shared characters buys the wrong material. The first specification is plant part: flower vs root.
-- **The species covers both fragrant and scentless forms.** Even after resolving to the flower, *Rosa banksiae* includes the showy double forms (scentless) and the single-flowered form (fragrant). The species name alone does not guarantee a fragrant flower. The second specification is flower form: single vs double.
-
-In our view, 木香花 is a light, honeyed floral top note with a genuinely documented 香乘 record — but it must be specified twice: first as the flower (not the costus root), then as the single-flowered fragrant form (not the ornamental double). That double disambiguation is the whole commercial story of the material.
-
 ## Summary
 
 木香花 (mùxiānghuā) is the flower of *Rosa banksiae*, a climbing rose (Rosaceae) of central and western China, recorded in the 香乘 as a flower material in incense recipes and listed there alongside the root costus (木香) — a name collision that must be resolved to plant part. Its second disambiguation is botanical: Flora of China records that the cultivated double forms are not fragrant, while the single-flowered form may be, so the species name alone does not guarantee a fragrant flower. No medical claims are made.
@@ -162,7 +140,7 @@ In our view, 木香花 is a light, honeyed floral top note with a genuinely docu
 
 **What does Banksia Rose (木香花) smell like?** Sweet, gentle, honeyed, and lightly green — a clear rose-family scent with none of jasmine's heady indole or a dried bud's spice. It sits closer to a light rose register than to the opulent white florals. In a blend it reads as a soft floral top note, adding a clean honeyed lift rather than heavy sweetness.
 
-**Are all Banksia roses fragrant?** No. Flora of China records that the cultivated double and semi-double forms of *Rosa banksiae* are **not fragrant**, while the single-flowered form may be fragrant. The showy double "Lady Banks' rose" is grown for appearance, not scent, so a buyer seeking fragrant 木香花 should ask about flower form, not just the species name.
+**Are all Banksia roses fragrant?** No. Flora of China records that the cultivated double and semi-double forms of *Rosa banksiae* are **not fragrant**, while the single-flowered form may be fragrant. The showy double "Lady Banks' rose" is grown for appearance, not scent, so a reader seeking fragrant 木香花 should ask about flower form, not just the species name.
 
 **Where does the Banksia rose come from?** *Rosa banksiae* is native to central and western China (Gansu, Guizhou, Henan, Hubei, Jiangsu, Sichuan, Yunnan), where it grows as a vigorous, mostly thornless climbing rose with dense clusters of small flowers, and was later exported to Western gardens as the "Lady Banks' rose." Flora of China records the species across its native range.
 

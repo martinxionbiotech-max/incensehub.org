@@ -117,45 +117,15 @@ The two are complements, not substitutes: frankincense brightens and lifts, myrr
 
 "Myrrh" can be confused with other *Commiphora* resins (bdellium, guggul, opopanax), and "myrrh beads" (from an unrelated African tree) or the herb "sweet cicely" (*Myrrhis odorata*) are different things entirely. In an incense context, "myrrh" means the resin of *Commiphora*.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Myrrh is tapped from wild and semi-wild *Commiphora* trees, so long-term supply depends on the health of those stands. Sourcing should confirm the species and origin, as with frankincense.
 
-Like frankincense, myrrh comes from wild or semi-managed trees in arid regions rather than plantations, so its long-term supply depends on the health of those stands. For a buyer, the practical questions are the same as for other resins: **which species, which origin, and what form** — with documentation where available. See the [wholesale guide](/blog/wholesale-guide/) for the sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Myrrh goes into incense (loose resin and blends), perfumery (myrrh oil), and some oral-care and personal-care products. The resin, the powder, and the oil serve different markets.
-
-- **Incense** — loose tears for heating, and resin powder blended into sticks, cones, and pastes.
-- **Perfumery** — myrrh essential oil as a bitter-balsamic, resinous base note.
-- **Oral and personal care** — myrrh appears in some mouthwash and oral-care formulations, reflecting its traditional oral use.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should ask for species and origin, look for whole, clean, reddish-brown tears over dust, and confirm the form — tears, powder, or oil — since each behaves differently in a blend.
-
-For an incense maker or sourcing buyer:
-
-- **Species and origin** — *Commiphora myrrha* and which region; a real seller can name them.
-- **Tear quality** — whole, clean, reddish-brown tears over dust and mixed fragments.
-- **Form** — tears for heating, powder for blending, oil for fragrance; they are not interchangeable.
-- **Aroma** — warm, bitter-balsamic, with no stale or smoky off-notes.
+Like frankincense, myrrh comes from wild or semi-managed trees in arid regions rather than plantations, so its long-term supply depends on the health of those stands. For the reader, the practical questions are the same as for other resins: **which species, which origin, and what form** — with documentation where available..
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. Do not consume resin based on traditional-medicine claims without professional guidance. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, myrrh is a bitter-balsamic depth note used in small proportion, and the working variables are species, tear grade, and form consistency — not a generic "myrrh" label. Because it is heavy, dosing is the practical constraint.
-
-Myrrh's manufacturing role is a **grounding depth note**, almost never a lead. Its bitterness and weight mean a little goes a long way, and overuse makes a blend feel heavy or medicinal.
-
-- **"Myrrh" is a family, not one material.** Other *Commiphora* resins (opopanax, guggul, bdellium) read differently, so a formula built on *C. myrrha* will not reproduce if the source switches to a related resin under the same loose name.
-- **Resin powder is sticky and heat-sensitive.** Compared with wood powder, resin powder behaves differently under grinding and heat, so particle size and how it is combined with a binder affect burn — and the right settings **depend on formulation**. There is no universal figure; a buyer should sample against their own production.
-
-In our view, the commercial value is a **documented, consistent species-and-grade supply**, used in a controlled proportion, rather than a generic "myrrh" label.
 
 ## Summary
 
@@ -185,7 +155,7 @@ See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/),
 ### Traditional Chinese use
 **Source:** [本草綱目 (Bencao Gangmu) full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目) and this page's record that 没药 (myrrh) is classically paired with 乳香 (frankincense). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the forms & grades (tears / powder / essential oil; clean well-formed tears grade higher). **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
@@ -200,7 +170,7 @@ See also: [frankincense, myrrh's classical partner](/ingredients/frankincense/),
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |

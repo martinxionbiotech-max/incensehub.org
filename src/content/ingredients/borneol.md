@@ -50,7 +50,7 @@ The Chinese terms sort roughly by source and form:
 - **艾片 (ài piàn)** — l-borneol distilled from the leaves of *Blumea balsamifera* (艾纳香).
 - **机制冰片 (jīzhì bīngpiàn)** — synthetic borneol, manufactured from turpentine or camphor.
 
-Because one name covers several sources, the term alone does not tell a buyer what they are getting.
+Because one name covers several sources, the term alone does not tell a reader what they are getting.
 
 ## Where does borneol come from?
 
@@ -58,7 +58,7 @@ Because one name covers several sources, the term alone does not tell a buyer wh
 
 Natural borneol's principal botanical sources are the **Borneo camphor tree** (*Dryobalanops aromatica*), whose resin crystallizes d-borneol, and **Blumea balsamifera**, whose leaves distill to l-borneol (艾片). Camphor-tree (*Cinnamomum camphora*) leaves also yield borneol as a co-product with camphor. In modern commerce, however, the majority of "borneol / 冰片" is **synthetic**, manufactured from turpentine or camphor and typically a mixture of isomers.
 
-## The source problem (buyer intelligence)
+## The source problem (identification note)
 
 > **Direct answer:** "Borneol" covers natural d-borneol (from resin or leaves), leaf-distilled l-borneol (艾片), and synthetic borneol. They differ in isomer composition, purity, and price, so a label that says only "borneol" does not tell you which you are getting.
 
@@ -88,13 +88,13 @@ Borneol's role in incense follows from its aroma: sharp, camphoraceous, and cool
 
 > **Direct answer:** Natural borneol is obtained by crystallizing d-borneol from the resin of *Dryobalanops aromatica*, or by distilling l-borneol from *Blumea balsamifera* leaves. Synthetic borneol is manufactured from turpentine or camphor and is usually an isomer mixture.
 
-The three routes are chemically and commercially distinct:
+The three routes are chemically and in trade distinct:
 
 - **Resin crystallization** — d-borneol crystallizes from the resin of *Dryobalanops aromatica*; this is the traditional, higher-value route.
 - **Leaf distillation** — l-borneol (艾片) is distilled from *Blumea balsamifera* leaves.
 - **Synthesis** — synthetic borneol is made from turpentine or camphor and is typically a mixture of isomers, cheaper than the natural forms.
 
-The route determines isomer composition and price, which is why the source — not just the name — is the buyer's real question.
+The route determines isomer composition and price, which is why the source — not just the name — is the reader's real question.
 
 ## What determines borneol quality?
 
@@ -131,57 +131,23 @@ Borneol and camphor are chemically related monoterpenes, and the two are easily 
 
 In traditional Chinese medicine, 冰片 is described with various therapeutic roles. We treat these as **traditional or preliminary**, not established clinical fact. The one solid, well-documented point is the **cooling sensation** — borneol activates the TRPM8 cold receptor, which is why it feels "cooling" (like menthol, but weaker). We make **no medical claims**.
 
-## Modern commercial applications
-
-> **Direct answer:** Borneol is used in incense (as a cooling top note), in perfumery, and — in the synthetic form — in industrial and pharmaceutical preparations. The natural crystal, the powder, and the synthetic form serve different markets.
-
-- **Incense** — a cooling, opening top note in 合香 and stick incense.
-- **Perfumery** — a camphoraceous note and fixative.
-- **Pharmaceutical / industrial** — borneol (especially synthetic) appears in topical preparations and industrial uses; we make no medical claims here.
-
-## What buyers should look for
-
-> **Direct answer:** Ask whether the borneol is natural (resin or leaf) or synthetic, and which enantiomer. Check purity and aroma — a clean camphoraceous-cooling note with no harsh or solvent off-notes. Borneol is potent, so dose sparingly.
-
-For an incense maker or sourcing buyer:
-
-- **Source** — natural d-borneol, leaf-distilled l-borneol (艾片), or synthetic; the label should say which.
-- **Isomer and purity** — a single enantiomer (natural) vs an isomer mixture (synthetic).
-- **Form** — crystal, powder, or synthetic.
-- **Aroma** — clean, cooling, camphoraceous, with no solvent off-notes.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Borneol is potent — it should be used sparingly and is not for consumption. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, the useful question is the source, not the name. A consistent supply of a single named form — natural d-borneol, 艾片, or synthetic — matters more than an unqualified "borneol" label, because the isomer composition changes the material's behavior.
-
-From a manufacturing perspective, "borneol" is a compound with several origins, and the origin determines the material's behavior. What makes a formula repeatable is **source consistency**: the same form, the same enantiomer, and the same purity, batch after batch.
-
-Two points follow:
-
-- **Isomer composition changes the material.** Natural borneol is essentially one enantiomer; synthetic is typically a mixture. Where a formula depends on the cooling note and a precise sensory character, swapping natural for synthetic — or d- for l- — is not a like-for-like substitution, even though all are "borneol."
-- **It is potent, so dose matters more than for most aromatics.** A little borneol opens a blend; too much dominates it. Because it is used at small proportions, even small batch-to-batch differences in purity read more strongly in the finished stick. The correct level **depends on formulation** — the other ingredients and the target profile — not on a universal figure.
-
-In our view, the commercial value is a **documented, consistent single-source supply**, not an unqualified "borneol" label.
-
 ## Summary
 
-Borneol (龙脑 / 冰片) is a crystalline monoterpene, not a wood or resin, obtained from the resin of *Dryobalanops aromatica*, the leaves of *Blumea balsamifera* (and the camphor tree), or chemical synthesis. Its sharp, cooling, camphoraceous aroma makes it the classic "opening" top note in Chinese incense, and its cooling sensation is a documented TRPM8 receptor effect. The key buyer distinction is source and isomer composition — natural single-enantiomer against synthetic mixture — which the name "borneol" alone does not reveal.
+Borneol (龙脑 / 冰片) is a crystalline monoterpene, not a wood or resin, obtained from the resin of *Dryobalanops aromatica*, the leaves of *Blumea balsamifera* (and the camphor tree), or chemical synthesis. Its sharp, cooling, camphoraceous aroma makes it the classic "opening" top note in Chinese incense, and its cooling sensation is a documented TRPM8 receptor effect. The key reader distinction is source and isomer composition — natural single-enantiomer against synthetic mixture — which the name "borneol" alone does not reveal.
 
 ## FAQ
 
 **Is borneol the same as camphor?** No — borneol and camphor are related but distinct monoterpenes. Borneol has a cooling, minty-woody character, while camphor is sharper and more pungent. They are chemically related, and borneol can slowly oxidize toward camphor over time, which is why aged borneol may smell more camphoraceous, but they are not the same compound. The distinction matters because "borneol" on a label can also hide synthetic material or a mixture of isomers, so the source — not just the name — determines what you are actually getting.
 
-**What is the difference between borneol (龙脑) and borneol crystal (冰片)?** 龙脑 (lóngnǎo) is the broader name for borneol as an aromatic material, literally "dragon brain." 冰片 (bīngpiàn) most often refers to the refined crystalline form, though the two terms overlap in practice. Both names cover natural and synthetic sources: natural d-borneol from *Dryobalanops aromatica* resin or camphor-tree leaves, l-borneol (艾片) from *Blumea balsamifera*, and synthetic borneol made from turpentine or camphor. Because the name does not specify the source, buyers should check which form they are getting.
+**What is the difference between borneol (龙脑) and borneol crystal (冰片)?** 龙脑 (lóngnǎo) is the broader name for borneol as an aromatic material, literally "dragon brain." 冰片 (bīngpiàn) most often refers to the refined crystalline form, though the two terms overlap in practice. Both names cover natural and synthetic sources: natural d-borneol from *Dryobalanops aromatica* resin or camphor-tree leaves, l-borneol (艾片) from *Blumea balsamifera*, and synthetic borneol made from turpentine or camphor. Because the name does not specify the source, readers should check which form they are getting.
 
 **What does borneol smell like?** Borneol has a sharp, camphor-like, cooling scent, often described as minty or slightly medicinal. It is a bright, penetrating top note that cuts through heavier woods and resins, adding clarity to a blend. Alongside the aroma, borneol imparts a distinct cooling sensation — it activates the same TRPM8 cold receptor as menthol, though more weakly. This combination of a piercing scent and a cooling feel is what makes borneol the classic "cooling" note in Chinese incense and materia medica.
 
-**Is borneol natural?** It can be. Natural d-borneol is crystallized from the resin of *Dryobalanops aromatica*, a dipterocarp tree, or distilled from camphor-tree (*Cinnamomum camphora*) leaves — the traditional 龙脑冰片. L-borneol, called 艾片, is distilled from the leaves of *Blumea balsamifera*. However, much commercial borneol is synthetic, manufactured from turpentine or camphor and often a mixture of isomers. Natural and synthetic forms differ in isomer composition, purity, and price, so a label that says only "borneol" does not tell you which you are buying.
+**Is borneol natural?** It can be. Natural d-borneol is crystallized from the resin of *Dryobalanops aromatica*, a dipterocarp tree, or distilled from camphor-tree (*Cinnamomum camphora*) leaves — the traditional 龙脑冰片. L-borneol, called 艾片, is distilled from the leaves of *Blumea balsamifera*. Much commercial borneol, though, is synthetic, manufactured from turpentine or camphor and often a mixture of isomers. Natural and synthetic forms differ in isomer composition, purity, and price, so a label that says only "borneol" does not tell you which you are getting.
 
 **Why does borneol feel cooling?** Borneol activates the TRPM8 receptor, the same cold-sensing mechanism behind menthol's cooling sensation, though borneol's effect is weaker. This receptor responds to cooling temperatures and to certain compounds, producing a sensation of cold without an actual drop in temperature. That receptor effect is well documented and explains why borneol feels "cooling" or "minty." It is a sensory fact about how the compound interacts with the body, not a health claim about treating any condition.
 

@@ -49,7 +49,7 @@ The terminology needs a part qualifier:
 - **槐花 (huáihuā)** — the flower. This entry.
 - **槐实 (huáishí) / 槐角 (huáijiǎo)** — the fruit, a distinct part with distinct uses.
 
-The *Bencao Gangmu* (本草纲目), tree section (木之二), records the tree under 槐 and folds in the flower (槐花) among its parts. Because the flower and fruit are different materials from the same tree, a buyer should pin down which part is meant — 槐花 (flower) vs 槐实 (fruit) — rather than reading "槐" as one material.
+The *Bencao Gangmu* (本草纲目), tree section (木之二), records the tree under 槐 and folds in the flower (槐花) among its parts. Because the flower and fruit are different materials from the same tree, a reader should pin down which part is meant — 槐花 (flower) vs 槐实 (fruit) — rather than reading "槐" as one material.
 
 ## The flower / fruit distinction (read this)
 
@@ -127,28 +127,6 @@ There is no standardized commercial grading ladder for 槐花; aroma and conditi
 - **Scientific Evidence** — the botanical identity of *Styphnolobium japonicum* (Fabaceae) and its chemistry are documented; we present no clinical or medical efficacy claims.
 
 The materia-medica record is traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the part — 槐花 is the flower of *Styphnolobium japonicum*, distinct from the fruit 槐实 — and judge freshness: a light, sweet, honey-like note from a clean, well-dried flower. It is a gentle floral accent, not a lead incense material, so expectation-setting matters.
-
-For an incense maker or sourcing buyer:
-
-- **Part** — the flower (槐花), not the fruit (槐实 / 槐角); different parts of the same tree with different uses.
-- **Aroma** — light, sweet, honey-like, with a slightly green edge.
-- **Condition** — clean, well-dried flower.
-- **Expectation** — a gentle floral accent, not a lead 香材.
-
-## Our Industry View
-
-> **Direct answer:** 槐花's commercial lesson is plant-part and expectation honesty. The pagoda tree is famous for officialdom symbolism and carries a materia-medica record, but its flower's scent is modest; and the flower and fruit are different materials. A buyer should specify the part and expect a gentle floral, not a strong note.
-
-From a manufacturing perspective, 槐花 makes two points:
-
-- **Part matters within one tree.** The pagoda tree yields two distinct materials — the flower (槐花) and the fruit (槐实) — recorded separately under 槐 in the *Bencao Gangmu*. A bare "槐" or "sophora" label does not specify the part, and the flower and fruit are not interchangeable. Part-of-plant is the specification, as it is for the magnolia flower/bud pair.
-- **Fame is not fragrance.** The pagoda tree's cultural prominence rests on officialdom ("面三槐，三公位焉") and its materia-medica record, not on a strong scent. Its flower's fragrance is light and honey-sweet. A buyer who reads the tree's fame as a promise of intensity is reading the wrong signal; 槐花 is a gentle floral, and it should be bought and sold as that.
-
-In our view, 槐花 is a light, honey-sweet floral accent with a culturally weighty tree behind it — specify the flower (not the fruit), judge it by freshness, and position it as a gentle supporting note rather than a lead 香材.
 
 ## Summary
 

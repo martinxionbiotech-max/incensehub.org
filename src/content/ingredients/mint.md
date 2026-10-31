@@ -74,7 +74,7 @@ Mint reaches use in two paths:
 - **Dried herb** — the aerial parts are harvested and dried; the dried leaves and flowering tops are the culinary and incense form. No extraction step is involved.
 - **Essential oil** — mint oil is steam-distilled from the herb; the menthol content sets its cooling, penetrating character, and the oil is a distinct product from the dried herb.
 
-For powder buyers, particle size and moisture are the practical variables, but the exact target depends on the formula, binder, and production line (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, particle size and moisture are the practical variables, but the exact target depends on the formula, binder, and production line . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines mint quality?
 
@@ -87,7 +87,7 @@ The quality factors, in rough order:
 3. **Leaf-to-stem ratio** — the leaves carry the aroma; a leafy lot beats a stemmy one.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized grading system**; the buyer evaluates freshness and physical condition of the lot.
+There is **no standardized grading system**; the reader evaluates freshness and physical condition of the lot.
 
 ## Common forms
 
@@ -127,57 +127,21 @@ All three share a minty, menthol-adjacent character from the common family and c
 
 > **Direct answer:** The main risk is misidentification under a shared "mint" name: 薄荷 (*M. haplocalyx*) is sometimes conflated with spearmint or peppermint. All are legitimate mints, but they differ in aroma and intended use, so the label should state the species.
 
-Mint is not a heavily faked aromatic; its risk is **species confusion**. Because English "mint" covers several species while Chinese separates them (薄荷 / 留兰香 / 胡椒薄荷), a buyer who wants the pharmacopoeial 薄荷 should not unknowingly receive spearmint or peppermint — or vice versa. The species — not the word "mint" — sets the actual aroma and intended use, so the label should name the plant. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
+Mint is not a heavily faked aromatic; its risk is **species confusion**. Because English "mint" covers several species while Chinese separates them (薄荷 / 留兰香 / 胡椒薄荷), a reader who wants the pharmacopoeial 薄荷 should not unknowingly receive spearmint or peppermint — or vice versa. The species — not the word "mint" — sets the actual aroma and intended use, so the label should name the plant. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Mint is a widely cultivated, fast-growing herb with no equivalent scarcity concern to the wild-harvested roots and woods; the sourcing question is freshness and species rather than conservation. Confirm the species and the drying date, since the top note fades.
 
-Because *Mentha canadensis* is widespread and mint is easily cultivated, there is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **freshness and identity**, not conservation: confirm which species is meant and how recently the material was dried, since the volatile top note is what the buyer is paying for. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Mint is used as a culinary herb, in confectionery and oral products (as mint oil), and as a cooling top note in incense and fragrance. The oil channel (menthol) and the dried-herb channel are separate products with different price structures.
-
-Mint reaches the market through distinct channels:
-
-- **Culinary herb** — fresh and dried mint is a staple across cuisines.
-- **Mint oil** — the distilled oil is a workhorse of confectionery, toothpaste, and oral-care products, carried by its menthol content.
-- **Incense and fragrance** — the dried herb and oil are used as a cooling, fresh top note.
-
-The oil and dried-herb markets are separate; a sourcing buyer should be clear which one they are buying.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should pin down the species (薄荷 vs spearmint vs peppermint), then judge freshness — a crisp menthol scent and a recent drying date — and, for powder, confirm particle size and moisture against the formula. The top note is volatile, so freshness is the decisive variable.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Mentha haplocalyx* (syn. *M. canadensis*) rather than spearmint or peppermint; a real seller names the species.
-- **Freshness** — the menthol top note fades with age; ask about the harvest/drying date and check the scent on arrival.
-- **Form and cleanliness** — leafy, stem-free dried herb, or powder; each behaves differently in a blend.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
+Because *Mentha canadensis* is widespread and mint is easily cultivated, there is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **freshness and identity**, not conservation: confirm which species is meant and how recently the material was dried, since the volatile top note is what the reader is paying for. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Mint's menthol can be intensely cooling; use sparingly. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, mint's value and its constraint are the same thing: volatility. A bright top note lifts a blend but fades in storage and can dominate if over-dosed, so the practical discipline is freshness control, species verification, and careful dosing — not the nominal "mint" name.
-
-From a manufacturing perspective, mint is a **top-note problem more than a material problem**. Its entire value is a volatile, cooling character that is exactly the part most vulnerable to age, heat, and grinding — so a formula that depends on mint's lift must control freshness and dosage more tightly than a formula built on a stable wood or resin.
-
-Two points follow:
-
-- **Freshness is the specification.** Because menthol and the other volatiles fade, a "mint" that smelled right on the supplier's shelf may not smell right after storage. The practical specification is the drying date and a freshness check on arrival, not a grade name.
-- **Dosage is the discipline.** As a bright top note, mint can dominate a blend if over-dosed and vanish if over-diluted. The right proportion **depends on formulation** — the other ingredients, the intended strength, and the production line — so a fixed percentage does not transfer between recipes.
-
-In our view, the commercial sweet spot is a **named species, recently dried, used sparingly** — a precise top-note accent, not a bulk filler.
-
 ## Summary
 
-Mint (薄荷, *bòhé*) is the aerial herb of *Mentha haplocalyx* (syn. *Mentha canadensis*), a rhizomatous perennial mint of the Lamiaceae and the "mint" of the Chinese pharmacopoeia. It is valued for a cooling, fresh, menthol-driven top note used as a culinary herb and as a sparing, bright accent in blended incense. Its quality rests on freshness — the volatile top note fades with age — and its naming risk is confusion with spearmint (留兰香) and peppermint (胡椒薄荷), two different mints. In incense it is a precision top-note modifier; commercially, species verification, freshness, and careful dosing outweigh the nominal "mint" name.
+Mint (薄荷, *bòhé*) is the aerial herb of *Mentha haplocalyx* (syn. *Mentha canadensis*), a rhizomatous perennial mint of the Lamiaceae and the "mint" of the Chinese pharmacopoeia. It is valued for a cooling, fresh, menthol-driven top note used as a culinary herb and as a sparing, bright accent in blended incense. Its quality rests on freshness — the volatile top note fades with age — and its naming risk is confusion with spearmint (留兰香) and peppermint (胡椒薄荷), two different mints. In incense it is a precision top-note modifier; in trade, species verification, freshness, and careful dosing outweigh the nominal "mint" name.
 
 ## FAQ
 
@@ -191,7 +155,7 @@ Mint (薄荷, *bòhé*) is the aerial herb of *Mentha haplocalyx* (syn. *Mentha 
 
 **How is mint (薄荷) used in Chinese tradition?** Primarily as a staple culinary herb — fresh and dried in teas, soups, and as a garnish — and as a cooling, fresh top note in incense. It is also recorded in traditional Chinese medicine (本草綱目, 草部). The medicinal uses are traditional language, not modern clinical evidence, and this encyclopedia makes no medical claims.
 
-**Why does dried mint fade in scent?** Because mint's aroma is carried by volatile compounds — chiefly menthol and related constituents — that evaporate and oxidize over time once the herb is dried and exposed to air. Freshness is therefore the decisive quality variable for mint: a recently dried lot keeps its crisp top note, while an old one loses exactly the character the buyer is paying for.
+**Why does dried mint fade in scent?** Because mint's aroma is carried by volatile compounds — chiefly menthol and related constituents — that evaporate and oxidize over time once the herb is dried and exposed to air. Freshness is therefore the decisive quality variable for mint: a recently dried lot keeps its crisp top note, while an old one loses exactly the character the reader is paying for.
 
 See also: [spearmint (留兰香)](/ingredients/spearmint/), [peppermint (胡椒薄荷)](/ingredients/peppermint/), [perilla](/ingredients/perilla/), [agastache-rugosa](/ingredients/agastache-rugosa/), and the full [scent guide](/blog/scent-guide/).
 
