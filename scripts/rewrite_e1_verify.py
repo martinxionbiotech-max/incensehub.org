@@ -127,14 +127,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--list', default='scripts/e1_targets.txt')
     ap.add_argument('--json', default='/tmp/e1_after.json')
+    ap.add_argument('--baseline', default='/tmp/e1_baseline.json')
     args = ap.parse_args()
 
     with open(args.list) as f:
         targets = [l.strip() for l in f if l.strip() and not l.startswith('#')]
 
     baseline = {}
-    if os.path.exists('/tmp/e1_baseline.json'):
-        baseline = json.load(open('/tmp/e1_baseline.json'))
+    if os.path.exists(args.baseline):
+        baseline = json.load(open(args.baseline))
 
     rows = []
     for relp in targets:
