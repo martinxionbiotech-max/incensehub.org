@@ -1,0 +1,473 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ingredientsDataset from '../../../data/ingredients.json';
+
+export async function getStaticPaths() {
+  const ingredients = await getCollection('ingredients');
+
+  return ingredients.map((ingredient) => ({
+    params: { slug: ingredient.id },
+    props: { ingredient },
+  }));
+}
+
+const { ingredient } = Astro.props;
+const { Content } = await render(ingredient);
+
+const allIngredients = await getCollection('ingredients');
+const related = (ingredient.data.related || [])
+  .map((slug) => allIngredients.find((i) => i.id === slug))
+  .filter(Boolean);
+
+const { title, chinese, pinyin, scientificName, type, aroma, last_reviewed } = ingredient.data;
+
+// ---- P2: species-authority sameAs (reuse only verified Sources-section links) ----
+const SAMEAS_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org'];
+
+function hostAllowed(url, hosts) {
+  try {
+    const h = new URL(url).hostname;
+    return hosts.some((host) => h === host || h.endsWith('.' + host));
+  } catch {
+    return false;
+  }
+}
+
+function extractExternalUrls(body, hosts) {
+  if (!body) return [];
+  const m = body.match(/## Sources\s*\n([\s\S]*)$/);
+  if (!m) return [];
+  const out = [];
+  const seen = new Set();
+  const re = /\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/g;
+  let mm;
+  while ((mm = re.exec(m[1])) !== null) {
+    const url = mm[1].replace(/[.,;]+$/, '');
+    if (hostAllowed(url, hosts) && !seen.has(url)) {
+      seen.add(url);
+      out.push(url);
+    }
+  }
+  return out;
+}
+
+const sameAs = extractExternalUrls(ingredient.body, SAMEAS_HOSTS);
+
+// Canonical machine-readable entity record on the data subsite (stable entity ID).
+sameAs.push(`https://data.incensehub.org/ingredients/#${ingredient.id}`);
+
+function extractImage(body) {
+  if (!body) return null;
+  const img = body.match(/<img\s+src="([^"]+)"[^>]*>/);
+  if (!img) return null;
+  const src = img[1];
+  const attr = img[0];
+  const w = attr.match(/width="(\d+)"/);
+  const h = attr.match(/height="(\d+)"/);
+  const dims = src.match(/-(\d+)x(\d+)\.\w+$/);
+  const width = w ? Number(w[1]) : dims ? Number(dims[1]) : null;
+  const height = h ? Number(h[1]) : dims ? Number(dims[2]) : null;
+  if (!src || width == null || height == null) return null;
+  return { '@type': 'ImageObject', url: src, width, height };
+}
+
+const image = extractImage(ingredient.body);
+
+// Category is read from the dataset entity, per the task spec.
+const datasetEntity = (ingredientsDataset.mainEntity || []).find((e) => e.termCode === ingredient.id);
+const categoryValue =
+  datasetEntity?.additionalProperty?.find((p) => p.name === 'Category')?.value ?? null;
+
+const additionalProperty = [
+  { '@type': 'PropertyValue', name: 'Chinese', value: chinese },
+  { '@type': 'PropertyValue', name: 'Pinyin', value: pinyin },
+  { '@type': 'PropertyValue', name: 'Scientific name', value: scientificName },
+  ...(categoryValue ? [{ '@type': 'PropertyValue', name: 'Category', value: categoryValue }] : []),
+];
+
+// Extract FAQ Q&A from the markdown body to emit FAQPage structured data.
+// The FAQ block is bounded at the next `##` heading so that later sections
+// (Evidence & Sources etc.) can never leak into the schema, and only bolded
+// labels that read as questions are accepted. This keeps non-question labels
+// such as `**Source:**` out of FAQPage.mainEntity, which Google treats as a
+// rich-result spam signal.
+const faqMatch = (ingredient.body || '').match(/## FAQ\s*\n([\s\S]*?)(?=\n##\s|$)/);
+let faqJsonLd = null;
+if (faqMatch) {
+  const qa = [];
+  const re = /\*\*([^*]+)\*\*\s*\n?([\s\S]*?)(?=\n\*\*|\n##|$)/g;
+  let m;
+  while ((m = re.exec(faqMatch[1])) !== null) {
+    const name = m[1].trim();
+    const a = m[2].trim();
+    // Only genuine questions: the bolded label must end with a question mark.
+    if (a && /[?？]\s*$/.test(name)) {
+      qa.push({ '@type': 'Question', name, acceptedAnswer: { '@type': 'Answer', text: a } });
+    }
+  }
+  if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
+}
+
+const pageUrl = `${Astro.site?.toString() ?? 'https://incensehub.org'}ingredients/${ingredient.id}/`;
+const aromaText = aroma.join(', ');
+const directAnswer = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${pageUrl}#webpage`,
+    name: title,
+    url: pageUrl,
+    description: directAnswer,
+    ...(last_reviewed ? { dateModified: last_reviewed } : {}),
+    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incensehub.org'}#website` },
+    breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+    mainEntity: { '@id': `${pageUrl}#definedterm` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: `${Astro.site?.toString() ?? 'https://incensehub.org'}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Ingredients',
+        item: `${Astro.site?.toString() ?? 'https://incensehub.org'}ingredients/`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: title,
+        item: pageUrl,
+      },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'DefinedTerm',
+    '@id': `${pageUrl}#definedterm`,
+    name: title,
+    alternateName: [chinese, pinyin, scientificName],
+    termCode: scientificName,
+    description: directAnswer,
+    ...(sameAs.length > 0 ? { sameAs } : {}),
+    ...(image ? { image } : {}),
+    additionalProperty,
+    inDefinedTermSet: {
+      '@type': 'DefinedTermSet',
+      name: 'IncenseHub Chinese Botanical Incense Ingredient Encyclopedia',
+      url: `${Astro.site?.toString() ?? 'https://incensehub.org'}ingredients/`,
+    },
+  },
+  ...(faqJsonLd ? [faqJsonLd] : []),
+];
+---
+
+<BaseLayout
+  title={`${title} — IncenseHub Ingredients`}
+  description={directAnswer}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <article class="entity-page">
+    <header class="entity-header">
+      <div class="shell prose">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a><span aria-hidden="true">/</span>
+          <a href="/ingredients/">Ingredients</a><span aria-hidden="true">/</span>
+          <span aria-current="page">{title}</span>
+        </nav>
+
+        <p class="entity-type">{type}</p>
+        <h1>{title}</h1>
+        <p class="entity-term">
+          <span lang="zh-Hans">{chinese}</span>
+          <span lang="zh-Latn-pinyin">{pinyin}</span>
+        </p>
+        <p class="entity-scientific" lang="la">{scientificName}</p>
+      </div>
+    </header>
+
+    <section class="direct-answer" aria-labelledby="direct-answer-title">
+      <div class="shell prose">
+        <p class="section-label" id="direct-answer-title">Direct answer</p>
+        <p class="direct-answer-text">{directAnswer}</p>
+      </div>
+    </section>
+
+    <section class="entity-facts" aria-labelledby="facts-title">
+      <div class="shell">
+        <h2 id="facts-title" class="section-title">Key facts</h2>
+        <dl class="fact-grid">
+          <div class="fact">
+            <dt>Chinese</dt>
+            <dd lang="zh-Hans">{chinese}</dd>
+          </div>
+          <div class="fact">
+            <dt>Pinyin</dt>
+            <dd lang="zh-Latn-pinyin">{pinyin}</dd>
+          </div>
+          <div class="fact">
+            <dt>Scientific name</dt>
+            <dd lang="la"><i>{scientificName}</i></dd>
+          </div>
+          <div class="fact">
+            <dt>Entity type</dt>
+            <dd>{type}</dd>
+          </div>
+          <div class="fact fact-wide">
+            <dt>Aroma profile</dt>
+            <dd>
+              <ul class="aroma-tags" aria-label="Aroma notes">
+                {aroma.map((note) => <li>{note}</li>)}
+              </ul>
+            </dd>
+          </div>
+        </dl>
+      </div>
+    </section>
+
+    <div class="shell article-layout">
+      <div class="prose article-body">
+        <Content />
+      </div>
+    </div>
+
+    <section class="data-record" aria-label="Structured data">
+      <div class="shell prose">
+        <p class="section-label">Structured data</p>
+        <p>
+          Machine-readable entity record (relationships + evidence):
+          <a href={`https://data.incensehub.org/ingredients/#${ingredient.id}`}>
+            data.incensehub.org/ingredients/#{ingredient.id}
+          </a>
+        </p>
+      </div>
+    </section>
+
+    {related.length > 0 && (
+      <section class="related" aria-labelledby="related-title">
+        <div class="shell prose">
+          <h2 id="related-title">Related ingredients</h2>
+          <ul class="related-list">
+            {related.map((r) => (
+              <li>
+                <a href={`/ingredients/${r.id}/`}>
+                  {r.data.chinese} · {r.data.title.split(' — ')[0]}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .entity-page {
+    width: 100%;
+  }
+
+  .entity-header {
+    padding-block: var(--space-6) var(--space-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: var(--space-4);
+    color: var(--ink-soft);
+    font-size: 0.88rem;
+  }
+
+  .breadcrumb a {
+    color: var(--ink-soft);
+  }
+
+  .entity-type {
+    margin: 0 0 var(--space-2);
+    color: var(--jade);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .entity-header h1 {
+    font-size: clamp(1.9rem, 4vw, 2.7rem);
+  }
+
+  .entity-term {
+    margin: 0 0 var(--space-1);
+    font-family: var(--serif);
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    line-height: 1.2;
+  }
+
+  .entity-term span {
+    display: block;
+  }
+
+  .entity-term span:last-child {
+    margin-top: var(--space-1);
+    color: var(--ink-soft);
+    font-size: 1rem;
+  }
+
+  .entity-scientific {
+    margin: 0;
+    color: var(--jade);
+    font-size: 1.05rem;
+  }
+
+  .direct-answer {
+    padding-block: var(--space-5);
+    background: var(--amber-soft);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-label {
+    margin: 0 0 var(--space-2);
+    color: var(--jade);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .direct-answer .section-label {
+    color: var(--ink);
+  }
+
+  .direct-answer-text {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: clamp(1.2rem, 2.6vw, 1.5rem);
+    line-height: 1.5;
+  }
+
+  .entity-facts {
+    padding-block: var(--space-5);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .section-title {
+    margin: 0 0 var(--space-3);
+    font-size: 1.65rem;
+    max-width: var(--max-prose);
+    margin-inline: auto;
+  }
+
+  .fact-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-2);
+    margin: 0;
+  }
+
+  .fact {
+    padding: var(--space-3);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+  }
+
+  .fact-wide {
+    grid-column: 1 / -1;
+  }
+
+  .fact dt {
+    margin-bottom: var(--space-1);
+    color: var(--ink-soft);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .fact dd {
+    margin: 0;
+  }
+
+  .aroma-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .aroma-tags li {
+    padding: 0.3rem 0.65rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--jade);
+    font-size: 0.9rem;
+  }
+
+  .article-layout {
+    padding-block: var(--space-6);
+  }
+
+  .article-body :global(h2) {
+    margin-top: var(--space-6);
+  }
+
+  .article-body :global(hr) {
+    margin: var(--space-5) 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+  }
+
+  /* The markdown body repeats the header, direct answer and key facts that the
+     structured sections above already render. Hide the markdown copies
+     (presentation only; the content remains in source). */
+  .entity-page .article-body > h1:first-child,
+  .entity-page .article-body > h1:first-child + p,
+  .entity-page .article-body > h2#key-facts,
+  .entity-page .article-body > h2#key-facts + table {
+    display: none;
+  }
+
+  .related {
+    border-top: 1px solid var(--line);
+    padding-block: var(--space-5) var(--space-6);
+  }
+
+  .related h2 {
+    margin-top: 0;
+  }
+
+  .data-record {
+    border-top: 1px solid var(--line);
+    padding-block: var(--space-4) var(--space-5);
+    background: var(--amber-soft);
+  }
+
+  .data-record p:last-child {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 46rem) {
+    .fact-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .fact-wide {
+      grid-column: auto;
+    }
+  }
+</style>

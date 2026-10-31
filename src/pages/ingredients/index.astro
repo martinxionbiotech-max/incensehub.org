@@ -1,0 +1,241 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const ingredients = await getCollection('ingredients');
+const orderedIngredients = ingredients.sort((a, b) => a.data.title.localeCompare(b.data.title));
+const siteUrl = Astro.site?.toString() ?? 'https://incensehub.org';
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${siteUrl}/ingredients/`,
+  name: 'IncenseHub Ingredient Encyclopedia',
+  description:
+    'Verified, source-transparent entries on Chinese botanical incense ingredients.',
+  url: `${siteUrl}/ingredients/`,
+  isPartOf: { '@id': `${siteUrl}#website` },
+  mainEntity: {
+    '@type': 'ItemList',
+    itemListElement: orderedIngredients.map((entry, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      name: entry.data.title,
+      url: `${siteUrl}/ingredients/${entry.id}/`,
+    })),
+  },
+};
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: 'Home',
+      item: `${siteUrl}/`,
+    },
+    {
+      '@type': 'ListItem',
+      position: 2,
+      name: 'Ingredients',
+      item: `${siteUrl}/ingredients/`,
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="Ingredients — IncenseHub Chinese Botanical Incense Encyclopedia"
+  description="A source-transparent encyclopedia of Chinese botanical incense ingredients, including botanical source, Chinese term, pinyin and aroma profile."
+>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+
+  <section class="page-head">
+    <div class="shell prose">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a><span aria-hidden="true">/</span><span aria-current="page">Ingredients</span>
+      </nav>
+      <p class="section-label">Ingredient encyclopedia</p>
+      <h1>Ingredients</h1>
+      <p class="lede">
+        Direct answer: an ingredient entry names the botanical material, its Chinese
+        term and pinyin, its scientific source, and its aroma profile — then explains
+        how it is processed, graded, used and authenticated.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="shell">
+      {
+        orderedIngredients.length > 0 ? (
+          <div class="ingredient-list">
+            {orderedIngredients.map((entry) => (
+              <article class="ingredient-row">
+                <div class="row-main">
+                  <p class="row-kicker">{entry.data.type}</p>
+                  <h2><a href={`/ingredients/${entry.id}/`}>{entry.data.title}</a></h2>
+                  <p class="row-names">
+                    <span>{entry.data.chinese}</span>
+                    <span>{entry.data.pinyin}</span>
+                    <span>{entry.data.scientificName}</span>
+                  </p>
+                </div>
+                <p class="row-aroma">
+                  <span class="row-aroma-label">Aroma</span>
+                  {entry.data.aroma.join(' · ')}
+                </p>
+                <a class="row-link" href={`/ingredients/${entry.id}/`} aria-label={`Read ${entry.data.title}`}>Read entry</a>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <p class="empty-note">No ingredient entries have been published yet.</p>
+        )
+      }
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .page-head {
+    padding-block: var(--space-6) var(--space-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .page-head h1 {
+    font-size: clamp(1.9rem, 4vw, 2.6rem);
+  }
+
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: var(--space-4);
+    color: var(--ink-soft);
+    font-size: 0.88rem;
+  }
+
+  .breadcrumb a {
+    color: var(--ink-soft);
+  }
+
+  .section-label {
+    margin: 0 0 var(--space-2);
+    color: var(--jade);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .lede {
+    font-family: var(--serif);
+    font-size: 1.35rem;
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+
+  .section {
+    padding-block: var(--space-5);
+  }
+
+  .ingredient-list {
+    display: grid;
+    gap: var(--space-3);
+  }
+
+  .ingredient-row {
+    display: grid;
+    grid-template-columns: 1fr minmax(12rem, 0.7fr) auto;
+    gap: var(--space-4);
+    align-items: center;
+    padding: var(--space-4);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+    transition: border-color 180ms ease, transform 180ms ease;
+  }
+
+  .ingredient-row:hover {
+    border-color: var(--amber);
+    transform: translateY(-1px);
+  }
+
+  .row-kicker {
+    margin: 0 0 var(--space-1);
+    color: var(--jade);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .row-main h2 {
+    margin: 0 0 var(--space-1);
+    font-size: 1.55rem;
+  }
+
+  .row-main h2 a {
+    color: var(--ink);
+    text-decoration: none;
+    transition: color 180ms ease;
+  }
+
+  .row-main h2 a:hover {
+    color: var(--wood);
+  }
+
+  .row-names {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+
+  .row-names span + span::before {
+    content: ' · ';
+    color: var(--line);
+  }
+
+  .row-aroma {
+    margin: 0;
+    color: var(--jade);
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+
+  .row-aroma-label {
+    display: block;
+    margin-bottom: 0.2rem;
+    color: var(--ink-soft);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  .row-link {
+    color: var(--wood);
+    font-weight: 500;
+    white-space: nowrap;
+    transition: color 180ms ease;
+  }
+
+  .empty-note {
+    color: var(--ink-soft);
+  }
+
+  @media (max-width: 46rem) {
+    .ingredient-row {
+      grid-template-columns: 1fr;
+      align-items: start;
+    }
+
+    .row-link {
+      white-space: normal;
+    }
+  }
+</style>

@@ -1,0 +1,2298 @@
+{
+  "/blog/agarwood-incense/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/history-of-chinese-incense.md",
+    "src/content/blog/huarui-furen-yamen-recipe.md",
+    "src/content/blog/incense-authentication-database.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/japanese-incense-kodo.md",
+    "src/content/blog/jiangnan-lizhu-bedchamber-recipe.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/middle-eastern-incense.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/blog/sandalwood-incense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/blog/what-makes-incense-natural.md",
+    "src/content/ingredients/agarwood.md"
+  ],
+  "/blog/incense-authentication-database/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-material-comparison-matrix.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/jiangnan-lizhu-bedchamber-recipe.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/blog/xuande-censer.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/red-sandalwood.md"
+  ],
+  "/blog/incense-substitution-cross-reference/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/incense-material-comparison-matrix.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md"
+  ],
+  "/blog/japanese-incense-kodo/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/four-leisure-arts.md",
+    "src/content/blog/history-of-chinese-incense.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/world-incense-traditions.md",
+    "src/content/concepts/chinese-incense.md"
+  ],
+  "/blog/scent-guide/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-in-daily-ritual.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/incense-material-comparison-matrix.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/plant-sources-of-incense-scents.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/blog/sandalwood-incense.md",
+    "src/content/blog/scent-by-intention.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/blog/yoga-breathwork.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/aglaia.md",
+    "src/content/ingredients/amber.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/anise.md",
+    "src/content/ingredients/apricot-kernel.md",
+    "src/content/ingredients/aromatic-turmeric.md",
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/asarum.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/bamboo-leaves.md",
+    "src/content/ingredients/banksia-rose.md",
+    "src/content/ingredients/basil.md",
+    "src/content/ingredients/bay-leaf.md",
+    "src/content/ingredients/beeswax.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/bletilla.md",
+    "src/content/ingredients/blumea-balsamifera.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cassia-twig.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/chamomile.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/copaiba.md",
+    "src/content/ingredients/coriander-seed.md",
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/cubeb.md",
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/cyperus.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/daphne.md",
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/dragons-blood.md",
+    "src/content/ingredients/elsholtzia.md",
+    "src/content/ingredients/eucalyptus.md",
+    "src/content/ingredients/eupatorium-japonicum.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/fenugreek.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/galbanum.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/ginkgo.md",
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/jasmine-grandiflorum.md",
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/jiangzhenxiang.md",
+    "src/content/ingredients/juniper.md",
+    "src/content/ingredients/katsumadai.md",
+    "src/content/ingredients/kumquat.md",
+    "src/content/ingredients/labdanum.md",
+    "src/content/ingredients/lavender.md",
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/linglingxiang.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/litsea-cubeba.md",
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/lotus-flower.md",
+    "src/content/ingredients/magnolia-flower.md",
+    "src/content/ingredients/mastic.md",
+    "src/content/ingredients/michelia-figo.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/mugwort.md",
+    "src/content/ingredients/mulberry-leaf.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/mustard.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/neroli.md",
+    "src/content/ingredients/nutmeg.md",
+    "src/content/ingredients/onycha.md",
+    "src/content/ingredients/orange-peel.md",
+    "src/content/ingredients/orchid.md",
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/oxyphylla.md",
+    "src/content/ingredients/paicao.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/peppermint.md",
+    "src/content/ingredients/perilla.md",
+    "src/content/ingredients/peru-balsam.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/platycladus-leaves.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/pomelo-peel.md",
+    "src/content/ingredients/prickly-ash.md",
+    "src/content/ingredients/quince.md",
+    "src/content/ingredients/red-sandalwood.md",
+    "src/content/ingredients/rose.md",
+    "src/content/ingredients/rosemary.md",
+    "src/content/ingredients/rue.md",
+    "src/content/ingredients/sage.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/schisandra.md",
+    "src/content/ingredients/schizonepeta.md",
+    "src/content/ingredients/shellac.md",
+    "src/content/ingredients/silk-tree.md",
+    "src/content/ingredients/sophora-flower.md",
+    "src/content/ingredients/spearmint.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/star-anise.md",
+    "src/content/ingredients/styrax-resin.md",
+    "src/content/ingredients/sweetgum.md",
+    "src/content/ingredients/tarragon.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/thyme.md",
+    "src/content/ingredients/torreya.md",
+    "src/content/ingredients/tree-peony-bark.md",
+    "src/content/ingredients/tree-peony.md",
+    "src/content/ingredients/tsao-ko.md",
+    "src/content/ingredients/tuberose.md",
+    "src/content/ingredients/turmeric.md",
+    "src/content/ingredients/valerian.md",
+    "src/content/ingredients/vanilla.md",
+    "src/content/ingredients/vetiver.md",
+    "src/content/ingredients/violet.md",
+    "src/content/ingredients/wintersweet.md",
+    "src/content/ingredients/ylang-ylang.md",
+    "src/content/ingredients/yulan-magnolia.md",
+    "src/content/ingredients/zedoary.md"
+  ],
+  "/blog/hexiang-blending-system/": [
+    "src/content/blog/agarwood-grading-guide.md",
+    "src/content/blog/baizi-incense-recipe.md",
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/ersu-jiuju-recipe.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/jiangnan-lizhu-bedchamber-recipe.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/shouyang-princess-plum-recipe.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/blog/xiangpu-incense-manuals.md",
+    "src/content/blog/xuezhong-chunxin-recipe.md",
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/bletilla.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md",
+    "src/content/ingredients/shellac.md"
+  ],
+  "/blog/agarwood-grading-guide/": [
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-authentication-database.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/ingredients/agarwood.md"
+  ],
+  "/blog/sandalwood-incense/": [
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/essential-oils-in-incense.md",
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/history-of-chinese-incense.md",
+    "src/content/blog/how-aromatherapy-works.md",
+    "src/content/blog/incense-authentication-database.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-material-comparison-matrix.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/indian-incense-agarbatti.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/shouyang-princess-plum-recipe.md",
+    "src/content/blog/tibetan-incense.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/blog/what-makes-incense-natural.md",
+    "src/content/blog/xuezhong-chunxin-recipe.md",
+    "src/content/blog/yoga-breathwork.md",
+    "src/content/ingredients/sandalwood.md"
+  ],
+  "/blog/agarwood-vs-frankincense/": [
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/frankincense-incense.md"
+  ],
+  "/blog/what-is-chinese-incense/": [
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/chinese-incense-vs-essential-oils-candles.md",
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/history-of-chinese-incense.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/incense-vs-essential-oil-diffuser.md",
+    "src/content/blog/indian-incense-agarbatti.md",
+    "src/content/blog/japanese-incense-kodo.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/sandalwood-incense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/tibetan-incense.md",
+    "src/content/blog/world-incense-traditions.md",
+    "src/content/blog/xiangpu-incense-manuals.md",
+    "src/content/ingredients/mugwort.md"
+  ],
+  "/blog/natural-vs-synthetic-incense/": [
+    "src/content/blog/agarwood-incense.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/lotus-incense-recipe.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/sandalwood-incense.md",
+    "src/content/blog/what-makes-incense-natural.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/musk.md"
+  ],
+  "/ingredients/agarwood/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/jiangzhenxiang.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/thuja.md"
+  ],
+  "/blog/qinan-kyara/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/ingredients/agarwood.md"
+  ],
+  "/blog/gehuo-fenxiang-setup/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-smoke-air-quality-evidence.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/incense-tools-utensils.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/how-incense-is-made/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/blog/hand-rolled-vs-machine-made.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-authentication-database.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-storage-longevity.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/what-makes-incense-natural.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/asarum.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/basil.md",
+    "src/content/ingredients/bay-leaf.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/cyperus.md",
+    "src/content/ingredients/elsholtzia.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/litsea-cubeba.md",
+    "src/content/ingredients/lotus-flower.md",
+    "src/content/ingredients/magnolia-flower.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/perilla.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/rosemary.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/tree-peony-bark.md",
+    "src/content/ingredients/turmeric.md",
+    "src/content/ingredients/valerian.md"
+  ],
+  "/blog/makko-natural-binders/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/hand-rolled-vs-machine-made.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/plant-sources-of-incense-scents.md",
+    "src/content/ingredients/bletilla.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/sandalwood.md"
+  ],
+  "/blog/qinan-buying-authentication/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/qinan-kyara.md",
+    "src/content/ingredients/agarwood.md"
+  ],
+  "/blog/wholesale-guide/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/mugwort.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/orange-peel.md",
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/rose.md",
+    "src/content/ingredients/rosemary.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/star-anise.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/blog/incense-powder-resin/": [
+    "src/content/blog/agarwood-powder-vs-chips.md",
+    "src/content/blog/aromatherapy-beads.md",
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/incense-tools-utensils.md",
+    "src/content/blog/which-incense-format.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/cyperus.md",
+    "src/content/ingredients/dragons-blood.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/mugwort.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/red-sandalwood.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/styrax-resin.md",
+    "src/content/ingredients/sweetgum.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/ingredients/frankincense/": [
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/galbanum.md",
+    "src/content/ingredients/labdanum.md",
+    "src/content/ingredients/mastic.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/sweetgum.md"
+  ],
+  "/blog/incense-material-comparison-matrix/": [
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/anise.md",
+    "src/content/ingredients/aromatic-turmeric.md",
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/copaiba.md",
+    "src/content/ingredients/coriander-seed.md",
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/fenugreek.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/jasmine-grandiflorum.md",
+    "src/content/ingredients/juniper.md",
+    "src/content/ingredients/kumquat.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/mustard.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/onycha.md",
+    "src/content/ingredients/oxyphylla.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/peru-balsam.md",
+    "src/content/ingredients/prickly-ash.md",
+    "src/content/ingredients/quince.md",
+    "src/content/ingredients/red-sandalwood.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/tsao-ko.md",
+    "src/content/ingredients/vetiver.md",
+    "src/content/ingredients/zedoary.md"
+  ],
+  "/blog/how-to-buy-agarwood-for-incense-manufacturing/": [
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/qinan-buying-authentication.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/ingredients/myrrh/": [
+    "src/content/blog/agarwood-vs-frankincense.md",
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/dragons-blood.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/labdanum.md",
+    "src/content/ingredients/mastic.md"
+  ],
+  "/ingredients/sandalwood/": [
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/sandalwood-vs-red-sandalwood.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/bletilla.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/jiangzhenxiang.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/red-sandalwood.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/thuja.md"
+  ],
+  "/ingredients/red-sandalwood/": [
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/sandalwood-vs-red-sandalwood.md",
+    "src/content/ingredients/dragons-blood.md",
+    "src/content/ingredients/sandalwood.md"
+  ],
+  "/blog/bulk-incense-ingredient-sourcing/": [
+    "src/content/blog/agarwood-vs-sandalwood.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/how-aromatherapy-works/": [
+    "src/content/blog/aroma-molecules-and-mood.md",
+    "src/content/blog/calming-evening-ritual.md",
+    "src/content/blog/essential-oils-in-incense.md",
+    "src/content/blog/incense-in-daily-ritual.md",
+    "src/content/blog/plant-sources-of-incense-scents.md",
+    "src/content/blog/scent-wheel.md"
+  ],
+  "/blog/plant-sources-of-incense-scents/": [
+    "src/content/blog/aroma-molecules-and-mood.md",
+    "src/content/blog/baizi-incense-recipe.md",
+    "src/content/blog/how-aromatherapy-works.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/violet.md"
+  ],
+  "/blog/essential-oils-in-incense/": [
+    "src/content/blog/aroma-molecules-and-mood.md",
+    "src/content/blog/aromatherapy-beads.md",
+    "src/content/blog/chinese-incense-vs-essential-oils-candles.md",
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/how-aromatherapy-works.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/incense-vs-essential-oil-diffuser.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/sandalwood-incense.md",
+    "src/content/ingredients/thyme.md"
+  ],
+  "/blog/which-incense-format/": [
+    "src/content/blog/aromatherapy-beads.md",
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/best-incense-for-small-room.md",
+    "src/content/blog/boshan-censer.md",
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-to-burn-incense-safely.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-and-breathwork.md",
+    "src/content/blog/incense-burn-time-format-matrix.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/incense-tools-utensils.md",
+    "src/content/blog/incense-ventilation-indoor-air.md",
+    "src/content/blog/scent-by-intention.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/study-deep-work.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/blog/xuande-censer.md",
+    "src/content/blog/yoga-breathwork.md"
+  ],
+  "/blog/incense-gift-guide/": [
+    "src/content/blog/aromatherapy-beads.md",
+    "src/content/blog/how-to-choose-incense.md"
+  ],
+  "/blog/how-to-choose-incense/": [
+    "src/content/blog/aromatherapy-beads.md",
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/blog/scent-by-intention.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/safety/": [
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/incense-vs-candles-vs-diffusers.md",
+    "src/content/blog/yoga-breathwork.md",
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/apricot-kernel.md",
+    "src/content/ingredients/aromatic-turmeric.md",
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/asarum.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/basil.md",
+    "src/content/ingredients/beeswax.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cassia-twig.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/chamomile.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/cubeb.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/eucalyptus.md",
+    "src/content/ingredients/eupatorium-japonicum.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/ginkgo.md",
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/jiangzhenxiang.md",
+    "src/content/ingredients/juniper.md",
+    "src/content/ingredients/lavender.md",
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/litsea-cubeba.md",
+    "src/content/ingredients/lotus-flower.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/mugwort.md",
+    "src/content/ingredients/mulberry-leaf.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/myrrh.md",
+    "src/content/ingredients/nutmeg.md",
+    "src/content/ingredients/orange-peel.md",
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/platycladus-leaves.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/pomelo-peel.md",
+    "src/content/ingredients/red-sandalwood.md",
+    "src/content/ingredients/rose.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/schisandra.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/star-anise.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/torreya.md",
+    "src/content/ingredients/tree-peony-bark.md",
+    "src/content/ingredients/tree-peony.md",
+    "src/content/ingredients/tsao-ko.md",
+    "src/content/ingredients/vanilla.md",
+    "src/content/ingredients/vetiver.md",
+    "src/content/ingredients/ylang-ylang.md",
+    "src/content/ingredients/zedoary.md"
+  ],
+  "/blog/incense-sticks/": [
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/incense-holder-burner-guide/": [
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-sticks.md"
+  ],
+  "/blog/incense-coils/": [
+    "src/content/blog/backflow-cones.md",
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/chinese-incense-recipes/": [
+    "src/content/blog/baizi-incense-recipe.md",
+    "src/content/blog/ersu-jiuju-recipe.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/huarui-furen-yamen-recipe.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/jiangnan-lizhu-bedchamber-recipe.md",
+    "src/content/blog/lotus-incense-recipe.md",
+    "src/content/blog/shouyang-princess-plum-recipe.md",
+    "src/content/blog/xiangpu-incense-manuals.md",
+    "src/content/blog/xuezhong-chunxin-recipe.md"
+  ],
+  "/blog/huarui-furen-yamen-recipe/": [
+    "src/content/blog/baizi-incense-recipe.md",
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/onycha.md"
+  ],
+  "/blog/incense-vs-reed-diffuser-wax-melts/": [
+    "src/content/blog/best-incense-for-small-room.md",
+    "src/content/blog/incense-sticks-vs-candles.md",
+    "src/content/blog/incense-vs-candles-vs-diffusers.md"
+  ],
+  "/blog/incense-ventilation-indoor-air/": [
+    "src/content/blog/best-incense-for-small-room.md",
+    "src/content/blog/how-to-burn-incense-safely.md",
+    "src/content/blog/incense-burn-time-format-matrix.md",
+    "src/content/blog/incense-pets-sensitivities.md",
+    "src/content/blog/incense-safety-guide.md",
+    "src/content/blog/incense-smoke-air-quality-evidence.md",
+    "src/content/blog/incense-sticks-vs-candles.md"
+  ],
+  "/blog/incense-vs-candles-vs-diffusers/": [
+    "src/content/blog/best-incense-for-small-room.md",
+    "src/content/blog/incense-sticks-vs-candles.md",
+    "src/content/blog/incense-vs-essential-oil-diffuser.md",
+    "src/content/blog/incense-vs-reed-diffuser-wax-melts.md"
+  ],
+  "/ingredients/borneol/": [
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/blumea-balsamifera.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/eucalyptus.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/sweetgum.md"
+  ],
+  "/ingredients/camphor/": [
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/ingredients/blumea-balsamifera.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/eucalyptus.md"
+  ],
+  "/blog/incense-safety-guide/": [
+    "src/content/blog/borneol-vs-camphor.md",
+    "src/content/blog/calming-evening-ritual.md",
+    "src/content/blog/how-to-burn-incense-safely.md",
+    "src/content/blog/incense-pets-sensitivities.md",
+    "src/content/blog/incense-smoke-air-quality-evidence.md",
+    "src/content/blog/incense-sticks-vs-candles.md",
+    "src/content/blog/incense-storage-longevity.md",
+    "src/content/blog/incense-ventilation-indoor-air.md",
+    "src/content/blog/what-is-chinese-incense.md"
+  ],
+  "/blog/incense-burners-tools/": [
+    "src/content/blog/boshan-censer.md",
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/incense-smoke-air-quality-evidence.md",
+    "src/content/blog/incense-tools-utensils.md",
+    "src/content/blog/which-incense-format.md",
+    "src/content/blog/xuande-censer.md"
+  ],
+  "/blog/history-of-chinese-incense/": [
+    "src/content/blog/boshan-censer.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/four-leisure-arts.md",
+    "src/content/blog/japanese-incense-kodo.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/blog/xiangpu-incense-manuals.md"
+  ],
+  "/blog/xuande-censer/": [
+    "src/content/blog/boshan-censer.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/how-incense-powder-is-made/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/ingredients/licorice.md"
+  ],
+  "/blog/incense-manufacturing-quality-control/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/hand-rolled-vs-machine-made.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/blog/wholesale-guide.md",
+    "src/content/ingredients/bletilla.md"
+  ],
+  "/blog/incense-storage-longevity/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/how-incense-is-dried-and-cured.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-safety-guide.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/packaging-shipping-guide.md"
+  ],
+  "/blog/factory-vetting-guide/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/samples-program/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/incense-export-considerations/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/wholesale/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/request-a-quote/": [
+    "src/content/blog/bulk-incense-ingredient-sourcing.md",
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/incense-in-daily-ritual/": [
+    "src/content/blog/calming-evening-ritual.md",
+    "src/content/blog/four-leisure-arts.md",
+    "src/content/blog/incense-and-breathwork.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-seal-zhuanxiang.md"
+  ],
+  "/blog/incense-and-breathwork/": [
+    "src/content/blog/calming-evening-ritual.md",
+    "src/content/blog/incense-in-daily-ritual.md",
+    "src/content/blog/yoga-breathwork.md"
+  ],
+  "/blog/xuezhong-chunxin-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md"
+  ],
+  "/blog/jiangnan-lizhu-bedchamber-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/ingredients/honey.md"
+  ],
+  "/blog/shouyang-princess-plum-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/plum-blossom.md"
+  ],
+  "/blog/baizi-incense-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/blog/huarui-furen-yamen-recipe.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/platycladus-leaves.md"
+  ],
+  "/blog/lotus-incense-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/ingredients/lotus-flower.md"
+  ],
+  "/blog/ersu-jiuju-recipe/": [
+    "src/content/blog/chinese-incense-recipes.md"
+  ],
+  "/blog/xiangpu-incense-manuals/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/lanDeng-editorial-methodology.md",
+    "src/content/blog/what-is-chinese-incense.md"
+  ],
+  "/blog/incense-ingredients-glossary/": [
+    "src/content/blog/chinese-incense-recipes.md",
+    "src/content/blog/ersu-jiuju-recipe.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/incense-material-comparison-matrix.md",
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/plant-sources-of-incense-scents.md"
+  ],
+  "/blog/incense-vs-essential-oil-diffuser/": [
+    "src/content/blog/chinese-incense-vs-essential-oils-candles.md",
+    "src/content/blog/essential-oils-in-incense.md",
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-sticks-vs-candles.md",
+    "src/content/blog/incense-vs-candles-vs-diffusers.md",
+    "src/content/blog/incense-vs-reed-diffuser-wax-melts.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/what-makes-incense-natural.md"
+  ],
+  "/blog/indian-incense-agarbatti/": [
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/tibetan-incense.md",
+    "src/content/blog/world-incense-traditions.md"
+  ],
+  "/blog/world-incense-traditions/": [
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/chinese-vs-japanese-incense.md",
+    "src/content/blog/indian-incense-agarbatti.md",
+    "src/content/blog/japanese-incense-kodo.md",
+    "src/content/blog/middle-eastern-incense.md",
+    "src/content/blog/tibetan-incense.md",
+    "src/content/ingredients/sage.md"
+  ],
+  "/blog/tibetan-incense/": [
+    "src/content/blog/chinese-vs-indian-incense.md",
+    "src/content/blog/indian-incense-agarbatti.md",
+    "src/content/blog/middle-eastern-incense.md",
+    "src/content/blog/world-incense-traditions.md"
+  ],
+  "/ingredients/orange-peel/": [
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/coriander-seed.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/neroli.md",
+    "src/content/ingredients/pomelo-peel.md"
+  ],
+  "/blog/frankincense-incense/": [
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/huarui-furen-yamen-recipe.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/middle-eastern-incense.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/sandalwood-vs-frankincense.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/study-deep-work.md",
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/myrrh.md"
+  ],
+  "/blog/lotus-incense/": [
+    "src/content/blog/citrus-incense.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/lotus-incense-recipe.md",
+    "src/content/blog/plant-sources-of-incense-scents.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/ingredients/lotus-flower.md"
+  ],
+  "/blog/oem-private-label-guide/": [
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/oem-vs-private-label.md"
+  ],
+  "/blog/scent-by-intention/": [
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/how-to-choose-incense.md",
+    "src/content/blog/study-deep-work.md",
+    "src/content/blog/yoga-breathwork.md"
+  ],
+  "/blog/incense-for-business/": [
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/oem-vs-private-label.md",
+    "src/content/blog/packaging-shipping-guide.md",
+    "src/content/blog/samples-program.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/oem/": [
+    "src/content/blog/custom-fragrance-development.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/oem-vs-private-label.md"
+  ],
+  "/ingredients/amber/": [
+    "src/content/blog/ersu-jiuju-recipe.md",
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/ingredients/labdanum.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/styrax-resin.md"
+  ],
+  "/blog/what-makes-incense-natural/": [
+    "src/content/blog/essential-oils-in-incense.md",
+    "src/content/blog/hand-rolled-vs-machine-made.md",
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/incense-storage-longevity.md",
+    "src/content/blog/incense-vs-essential-oil-diffuser.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/concepts/chinese-incense.md"
+  ],
+  "/blog/incense-for-meditation/": [
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/four-leisure-arts.md",
+    "src/content/blog/incense-and-breathwork.md",
+    "src/content/blog/incense-in-daily-ritual.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/lavender-incense.md",
+    "src/content/blog/scent-by-intention.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/study-deep-work.md",
+    "src/content/blog/yoga-breathwork.md"
+  ],
+  "/blog/lavender-incense/": [
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/how-aromatherapy-works.md",
+    "src/content/blog/incense-for-meditation.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/lotus-incense.md",
+    "src/content/blog/plant-sources-of-incense-scents.md",
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/ingredients/lavender.md"
+  ],
+  "/blog/study-deep-work/": [
+    "src/content/blog/evening-unwinding.md",
+    "src/content/blog/scent-by-intention.md"
+  ],
+  "/blog/moq-pricing-guide/": [
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/oem-vs-private-label.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/packaging-shipping-guide/": [
+    "src/content/blog/factory-vetting-guide.md",
+    "src/content/blog/how-to-buy-agarwood-for-incense-manufacturing.md",
+    "src/content/blog/incense-export-considerations.md",
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/incense-spec-sheet-coa.md",
+    "src/content/blog/incense-storage-longevity.md",
+    "src/content/blog/moq-pricing-guide.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/wholesale-guide.md"
+  ],
+  "/blog/woody-aroma-family/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/resinous-aroma-family.md"
+  ],
+  "/ingredients/rose/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/ingredients/banksia-rose.md",
+    "src/content/ingredients/chamomile.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/tree-peony.md",
+    "src/content/ingredients/violet.md"
+  ],
+  "/ingredients/jasmine/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/jasmine-grandiflorum.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/neroli.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/rose.md",
+    "src/content/ingredients/tuberose.md",
+    "src/content/ingredients/violet.md",
+    "src/content/ingredients/ylang-ylang.md"
+  ],
+  "/ingredients/osmanthus/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/ingredients/bay-leaf.md",
+    "src/content/ingredients/daphne.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/jasmine-grandiflorum.md",
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/lotus-flower.md",
+    "src/content/ingredients/orchid.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/rose.md",
+    "src/content/ingredients/silk-tree.md",
+    "src/content/ingredients/tuberose.md",
+    "src/content/ingredients/wintersweet.md"
+  ],
+  "/ingredients/chrysanthemum/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/ingredients/chamomile.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/orchid.md",
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/sophora-flower.md"
+  ],
+  "/blog/incense-aroma-families/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/woody-aroma-family.md"
+  ],
+  "/blog/resinous-aroma-family/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/woody-aroma-family.md"
+  ],
+  "/blog/scent-wheel/": [
+    "src/content/blog/floral-aroma-family.md",
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/scent-guide.md"
+  ],
+  "/blog/sandalwood-vs-frankincense/": [
+    "src/content/blog/frankincense-incense.md",
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/sandalwood-incense.md"
+  ],
+  "/blog/middle-eastern-incense/": [
+    "src/content/blog/frankincense-vs-myrrh.md",
+    "src/content/blog/indian-incense-agarbatti.md",
+    "src/content/blog/tibetan-incense.md",
+    "src/content/blog/world-incense-traditions.md"
+  ],
+  "/blog/incense-smoke-air-quality-evidence/": [
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/how-to-burn-incense-safely.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-pets-sensitivities.md",
+    "src/content/blog/incense-safety-guide.md",
+    "src/content/blog/what-is-chinese-incense.md",
+    "src/content/blog/what-makes-incense-natural.md"
+  ],
+  "/blog/incense-tools-utensils/": [
+    "src/content/blog/gehuo-fenxiang-setup.md",
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-seal-zhuanxiang.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/incense-spec-sheet-coa/": [
+    "src/content/blog/hand-rolled-vs-machine-made.md",
+    "src/content/blog/incense-storage-longevity.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/blog/qinan-buying-authentication.md"
+  ],
+  "/ingredients/onycha/": [
+    "src/content/blog/hexiang-blending-system.md",
+    "src/content/blog/huarui-furen-yamen-recipe.md",
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/musk.md"
+  ],
+  "/blog/backflow-cones/": [
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/incense-sticks.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/evening-unwinding/": [
+    "src/content/blog/home-ambiance.md",
+    "src/content/blog/scent-by-intention.md",
+    "src/content/blog/study-deep-work.md"
+  ],
+  "/blog/aroma-molecules-and-mood/": [
+    "src/content/blog/how-aromatherapy-works.md",
+    "src/content/blog/plant-sources-of-incense-scents.md"
+  ],
+  "/blog/hand-rolled-vs-machine-made/": [
+    "src/content/blog/how-incense-is-made.md",
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/blog/samples-program.md"
+  ],
+  "/blog/how-incense-is-dried-and-cured/": [
+    "src/content/blog/how-incense-is-made.md"
+  ],
+  "/blog/incense-powder-vs-wood-chips/": [
+    "src/content/blog/how-incense-powder-is-made.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/yoga-breathwork/": [
+    "src/content/blog/incense-and-breathwork.md",
+    "src/content/blog/scent-by-intention.md"
+  ],
+  "/blog/calming-evening-ritual/": [
+    "src/content/blog/incense-and-breathwork.md",
+    "src/content/blog/incense-in-daily-ritual.md"
+  ],
+  "/blog/floral-aroma-family/": [
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/woody-aroma-family.md"
+  ],
+  "/blog/landeng-knowledge-map/": [
+    "src/content/blog/incense-aroma-families.md",
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/lanDeng-editorial-methodology.md"
+  ],
+  "/blog/incense-terminology-glossary/": [
+    "src/content/blog/incense-burn-time-format-matrix.md",
+    "src/content/blog/incense-terminology-reference.md",
+    "src/content/blog/what-is-chinese-incense.md"
+  ],
+  "/blog/boshan-censer/": [
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-holder-burner-guide.md",
+    "src/content/blog/which-incense-format.md",
+    "src/content/blog/xuande-censer.md"
+  ],
+  "/blog/incense-seal-zhuanxiang/": [
+    "src/content/blog/incense-burners-tools.md",
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/incense-tools-utensils.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/home-ambiance/": [
+    "src/content/blog/incense-coils.md",
+    "src/content/blog/scent-by-intention.md"
+  ],
+  "/blog/oem-vs-private-label/": [
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/oem-private-label-guide.md"
+  ],
+  "/blog/custom-fragrance-development/": [
+    "src/content/blog/incense-for-business.md",
+    "src/content/blog/oem-private-label-guide.md",
+    "src/content/blog/oem-vs-private-label.md",
+    "src/content/blog/samples-program.md"
+  ],
+  "/blog/aromatherapy-beads/": [
+    "src/content/blog/incense-gift-guide.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/four-leisure-arts/": [
+    "src/content/blog/incense-in-daily-ritual.md"
+  ],
+  "/ingredients/": [
+    "src/content/blog/incense-ingredients-glossary.md",
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/lanDeng-editorial-methodology.md",
+    "src/content/blog/lanDeng-knowledge-map.md"
+  ],
+  "/blog/incense-burn-time-format-matrix/": [
+    "src/content/blog/incense-manufacturing-quality-control.md",
+    "src/content/blog/incense-stick-vs-cone.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/incense-stick-vs-cone/": [
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/ingredients/cypress-seed/": [
+    "src/content/blog/incense-materials-techniques-forms.md",
+    "src/content/ingredients/bamboo-leaves.md",
+    "src/content/ingredients/ginkgo.md",
+    "src/content/ingredients/platycladus-leaves.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/torreya.md"
+  ],
+  "/blog/how-to-burn-incense-safely/": [
+    "src/content/blog/incense-pets-sensitivities.md",
+    "src/content/blog/incense-powder-resin.md",
+    "src/content/blog/incense-safety-guide.md",
+    "src/content/blog/incense-ventilation-indoor-air.md"
+  ],
+  "/blog/agarwood-powder-vs-chips/": [
+    "src/content/blog/incense-powder-vs-wood-chips.md",
+    "src/content/blog/natural-vs-synthetic-incense.md",
+    "src/content/blog/which-incense-format.md"
+  ],
+  "/blog/incense-pets-sensitivities/": [
+    "src/content/blog/incense-safety-guide.md",
+    "src/content/blog/incense-smoke-air-quality-evidence.md",
+    "src/content/blog/incense-ventilation-indoor-air.md"
+  ],
+  "/ingredients/benzoin/": [
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/copaiba.md",
+    "src/content/ingredients/labdanum.md",
+    "src/content/ingredients/peru-balsam.md",
+    "src/content/ingredients/shellac.md",
+    "src/content/ingredients/styrax-resin.md",
+    "src/content/ingredients/sweetgum.md",
+    "src/content/ingredients/vanilla.md"
+  ],
+  "/ingredients/ambergris/": [
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/ingredients/amber.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/musk.md",
+    "src/content/ingredients/onycha.md"
+  ],
+  "/ingredients/cinnamon/": [
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/ingredients/bay-leaf.md",
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cassia-twig.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/mustard.md",
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/pomelo-peel.md",
+    "src/content/ingredients/star-anise.md"
+  ],
+  "/ingredients/cedar/": [
+    "src/content/blog/incense-substitution-cross-reference.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/juniper.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/pine-resin.md",
+    "src/content/ingredients/platycladus-leaves.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/blog/incense-terminology-reference/": [
+    "src/content/blog/incense-terminology-glossary.md",
+    "src/content/blog/lanDeng-knowledge-map.md"
+  ],
+  "/blog/incense-materials-techniques-forms/": [
+    "src/content/blog/incense-terminology-reference.md"
+  ],
+  "/blog/incense-sticks-vs-candles/": [
+    "src/content/blog/incense-vs-candles-vs-diffusers.md",
+    "src/content/blog/incense-vs-reed-diffuser-wax-melts.md"
+  ],
+  "/blog/best-incense-for-small-room/": [
+    "src/content/blog/incense-vs-candles-vs-diffusers.md"
+  ],
+  "/blog/chinese-incense-vs-essential-oils-candles/": [
+    "src/content/blog/incense-vs-candles-vs-diffusers.md",
+    "src/content/blog/incense-vs-reed-diffuser-wax-melts.md",
+    "src/content/blog/what-is-chinese-incense.md"
+  ],
+  "/blog/landeng-editorial-methodology/": [
+    "src/content/blog/lanDeng-editorial-methodology.md",
+    "src/content/blog/lanDeng-knowledge-map.md"
+  ],
+  "/ingredients/beeswax/": [
+    "src/content/blog/makko-natural-binders.md",
+    "src/content/ingredients/bletilla.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/shellac.md"
+  ],
+  "/ingredients/pine-resin/": [
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/amber.md",
+    "src/content/ingredients/borneol-oil.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/mastic.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/thuja.md",
+    "src/content/ingredients/torreya.md"
+  ],
+  "/ingredients/sweetgum/": [
+    "src/content/blog/resinous-aroma-family.md",
+    "src/content/ingredients/styrax-resin.md"
+  ],
+  "/blog/agarwood-vs-sandalwood/": [
+    "src/content/blog/sandalwood-vs-red-sandalwood.md"
+  ],
+  "/blog/citrus-incense/": [
+    "src/content/blog/scent-guide.md",
+    "src/content/blog/scent-wheel.md",
+    "src/content/blog/study-deep-work.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/orange-peel.md"
+  ],
+  "/ingredients/vetiver/": [
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/cyperus.md",
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/valerian.md"
+  ],
+  "/ingredients/patchouli/": [
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/linglingxiang.md",
+    "src/content/ingredients/valerian.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/ingredients/thuja/": [
+    "src/content/blog/woody-aroma-family.md",
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/juniper.md",
+    "src/content/ingredients/platycladus-leaves.md"
+  ],
+  "/ingredients/bletilla/": [
+    "src/content/ingredients/agarwood.md",
+    "src/content/ingredients/sandalwood.md",
+    "src/content/ingredients/shellac.md"
+  ],
+  "/ingredients/mugwort/": [
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/eupatorium-japonicum.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/perilla.md",
+    "src/content/ingredients/rue.md",
+    "src/content/ingredients/tarragon.md"
+  ],
+  "/ingredients/elsholtzia/": [
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/perilla.md"
+  ],
+  "/ingredients/paicao/": [
+    "src/content/ingredients/agastache-rugosa.md",
+    "src/content/ingredients/linglingxiang.md"
+  ],
+  "/ingredients/michelia-figo/": [
+    "src/content/ingredients/aglaia.md",
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/jasmine.md"
+  ],
+  "/ingredients/champaca/": [
+    "src/content/ingredients/aglaia.md",
+    "src/content/ingredients/gardenia.md",
+    "src/content/ingredients/magnolia-flower.md",
+    "src/content/ingredients/michelia-figo.md",
+    "src/content/ingredients/orchid.md",
+    "src/content/ingredients/yulan-magnolia.md"
+  ],
+  "/ingredients/orchid/": [
+    "src/content/ingredients/aglaia.md",
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/osmanthus.md"
+  ],
+  "/ingredients/shellac/": [
+    "src/content/ingredients/amber.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/dragons-blood.md"
+  ],
+  "/ingredients/styrax-resin/": [
+    "src/content/ingredients/amber.md",
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/peru-balsam.md",
+    "src/content/ingredients/sweetgum.md"
+  ],
+  "/ingredients/musk/": [
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/beeswax.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/honey.md",
+    "src/content/ingredients/onycha.md"
+  ],
+  "/ingredients/civet/": [
+    "src/content/ingredients/ambergris.md",
+    "src/content/ingredients/castoreum.md",
+    "src/content/ingredients/musk.md"
+  ],
+  "/ingredients/cardamom/": [
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/katsumadai.md",
+    "src/content/ingredients/nutmeg.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/tsao-ko.md"
+  ],
+  "/ingredients/tsao-ko/": [
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/katsumadai.md"
+  ],
+  "/ingredients/galangal/": [
+    "src/content/ingredients/amomum-villosum.md",
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/oxyphylla.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/tsao-ko.md",
+    "src/content/ingredients/turmeric.md"
+  ],
+  "/ingredients/angelica/": [
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/asarum.md",
+    "src/content/ingredients/atractylodes.md",
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md",
+    "src/content/ingredients/ligusticum.md"
+  ],
+  "/ingredients/atractylodes/": [
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/asarum.md"
+  ],
+  "/ingredients/calamus/": [
+    "src/content/ingredients/angelica-sinensis.md",
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/cyperus.md"
+  ],
+  "/ingredients/angelica-sinensis/": [
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md"
+  ],
+  "/ingredients/asarum/": [
+    "src/content/ingredients/angelica.md",
+    "src/content/ingredients/ligusticum.md"
+  ],
+  "/ingredients/fennel/": [
+    "src/content/ingredients/anise.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/coriander-seed.md",
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/fenugreek.md",
+    "src/content/ingredients/star-anise.md",
+    "src/content/ingredients/tarragon.md"
+  ],
+  "/ingredients/star-anise/": [
+    "src/content/ingredients/anise.md",
+    "src/content/ingredients/clove.md",
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/fennel.md"
+  ],
+  "/ingredients/plum-blossom/": [
+    "src/content/ingredients/apricot-kernel.md",
+    "src/content/ingredients/daphne.md",
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/lotus-flower.md",
+    "src/content/ingredients/magnolia-flower.md",
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/tree-peony.md",
+    "src/content/ingredients/wintersweet.md"
+  ],
+  "/ingredients/peony/": [
+    "src/content/ingredients/apricot-kernel.md",
+    "src/content/ingredients/schisandra.md",
+    "src/content/ingredients/tree-peony-bark.md",
+    "src/content/ingredients/tree-peony.md"
+  ],
+  "/ingredients/licorice/": [
+    "src/content/ingredients/apricot-kernel.md",
+    "src/content/ingredients/schisandra.md"
+  ],
+  "/ingredients/turmeric/": [
+    "src/content/ingredients/aromatic-turmeric.md",
+    "src/content/ingredients/zedoary.md"
+  ],
+  "/ingredients/zedoary/": [
+    "src/content/ingredients/aromatic-turmeric.md",
+    "src/content/ingredients/turmeric.md"
+  ],
+  "/ingredients/tarragon/": [
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/mugwort.md"
+  ],
+  "/ingredients/agastache-rugosa/": [
+    "src/content/ingredients/artemisia-annua.md",
+    "src/content/ingredients/elsholtzia.md",
+    "src/content/ingredients/eupatorium-japonicum.md",
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/linglingxiang.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/paicao.md",
+    "src/content/ingredients/patchouli.md",
+    "src/content/ingredients/perilla.md",
+    "src/content/ingredients/schizonepeta.md"
+  ],
+  "/ingredients/schizonepeta/": [
+    "src/content/ingredients/artemisia-annua.md"
+  ],
+  "/ingredients/galbanum/": [
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/frankincense.md"
+  ],
+  "/ingredients/costus/": [
+    "src/content/ingredients/asafoetida.md",
+    "src/content/ingredients/banksia-rose.md"
+  ],
+  "/ingredients/ligusticum/": [
+    "src/content/ingredients/asarum.md",
+    "src/content/ingredients/ligusticum-chuanxiong.md"
+  ],
+  "/ingredients/mulberry-leaf/": [
+    "src/content/ingredients/bamboo-leaves.md",
+    "src/content/ingredients/sophora-flower.md"
+  ],
+  "/ingredients/platycladus-leaves/": [
+    "src/content/ingredients/bamboo-leaves.md",
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/mulberry-leaf.md"
+  ],
+  "/ingredients/perilla/": [
+    "src/content/ingredients/basil.md",
+    "src/content/ingredients/elsholtzia.md",
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/schizonepeta.md"
+  ],
+  "/ingredients/mint/": [
+    "src/content/ingredients/basil.md",
+    "src/content/ingredients/elsholtzia.md",
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/peppermint.md",
+    "src/content/ingredients/perilla.md",
+    "src/content/ingredients/rosemary.md",
+    "src/content/ingredients/schizonepeta.md",
+    "src/content/ingredients/spearmint.md"
+  ],
+  "/ingredients/rosemary/": [
+    "src/content/ingredients/bay-leaf.md",
+    "src/content/ingredients/eucalyptus.md",
+    "src/content/ingredients/lavender.md",
+    "src/content/ingredients/sage.md",
+    "src/content/ingredients/thyme.md"
+  ],
+  "/ingredients/honey/": [
+    "src/content/ingredients/beeswax.md"
+  ],
+  "/ingredients/copaiba/": [
+    "src/content/ingredients/benzoin.md",
+    "src/content/ingredients/peru-balsam.md"
+  ],
+  "/ingredients/finger-citron/": [
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/kumquat.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/quince.md"
+  ],
+  "/ingredients/citron/": [
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/kumquat.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/quince.md"
+  ],
+  "/ingredients/neroli/": [
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/ylang-ylang.md"
+  ],
+  "/ingredients/kumquat/": [
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/ginkgo.md",
+    "src/content/ingredients/quince.md"
+  ],
+  "/ingredients/quince/": [
+    "src/content/ingredients/bergamot.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/kumquat.md"
+  ],
+  "/ingredients/borneol-oil/": [
+    "src/content/ingredients/blumea-balsamifera.md",
+    "src/content/ingredients/borneol.md"
+  ],
+  "/blog/borneol-vs-camphor/": [
+    "src/content/ingredients/borneol.md",
+    "src/content/ingredients/camphor.md"
+  ],
+  "/ingredients/blumea-balsamifera/": [
+    "src/content/ingredients/borneol.md"
+  ],
+  "/ingredients/orris-root/": [
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/lily-of-the-valley.md",
+    "src/content/ingredients/tree-peony-bark.md",
+    "src/content/ingredients/violet.md"
+  ],
+  "/ingredients/cyperus/": [
+    "src/content/ingredients/calamus.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/ingredients/eucalyptus/": [
+    "src/content/ingredients/camphor.md",
+    "src/content/ingredients/rosemary.md"
+  ],
+  "/ingredients/katsumadai/": [
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/oxyphylla.md",
+    "src/content/ingredients/tsao-ko.md"
+  ],
+  "/ingredients/clove/": [
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/cassia-twig.md",
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/cubeb.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/nutmeg.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/sand-ginger.md",
+    "src/content/ingredients/star-anise.md"
+  ],
+  "/ingredients/nutmeg/": [
+    "src/content/ingredients/cardamom.md",
+    "src/content/ingredients/clove.md"
+  ],
+  "/ingredients/ginger/": [
+    "src/content/ingredients/cassia-twig.md",
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/mustard.md",
+    "src/content/ingredients/turmeric.md"
+  ],
+  "/ingredients/juniper/": [
+    "src/content/ingredients/cedar.md",
+    "src/content/ingredients/pine-needles.md",
+    "src/content/ingredients/thuja.md"
+  ],
+  "/ingredients/lavender/": [
+    "src/content/ingredients/chamomile.md"
+  ],
+  "/ingredients/bergamot/": [
+    "src/content/ingredients/chamomile.md",
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/finger-citron.md",
+    "src/content/ingredients/lavender.md",
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/neroli.md"
+  ],
+  "/ingredients/yulan-magnolia/": [
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/magnolia-flower.md",
+    "src/content/ingredients/michelia-figo.md",
+    "src/content/ingredients/orchid.md"
+  ],
+  "/ingredients/gardenia/": [
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/magnolia-flower.md"
+  ],
+  "/ingredients/aglaia/": [
+    "src/content/ingredients/champaca.md",
+    "src/content/ingredients/michelia-figo.md"
+  ],
+  "/ingredients/chamomile/": [
+    "src/content/ingredients/chrysanthemum.md",
+    "src/content/ingredients/lavender.md"
+  ],
+  "/ingredients/cassia-twig/": [
+    "src/content/ingredients/cinnamon.md"
+  ],
+  "/ingredients/mustard/": [
+    "src/content/ingredients/cinnamon.md",
+    "src/content/ingredients/pepper.md"
+  ],
+  "/ingredients/lemon/": [
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/pomelo-peel.md"
+  ],
+  "/ingredients/grapefruit/": [
+    "src/content/ingredients/citron.md",
+    "src/content/ingredients/pomelo-peel.md"
+  ],
+  "/ingredients/lemon-balm/": [
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/lemon.md"
+  ],
+  "/ingredients/rue/": [
+    "src/content/ingredients/citronella.md",
+    "src/content/ingredients/mugwort.md"
+  ],
+  "/ingredients/castoreum/": [
+    "src/content/ingredients/civet.md",
+    "src/content/ingredients/musk.md"
+  ],
+  "/ingredients/peru-balsam/": [
+    "src/content/ingredients/copaiba.md",
+    "src/content/ingredients/fenugreek.md",
+    "src/content/ingredients/vanilla.md"
+  ],
+  "/ingredients/labdanum/": [
+    "src/content/ingredients/copaiba.md",
+    "src/content/ingredients/vanilla.md"
+  ],
+  "/ingredients/spikenard-nardostachys/": [
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/cyperus.md",
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/ligusticum.md",
+    "src/content/ingredients/valerian.md"
+  ],
+  "/ingredients/banksia-rose/": [
+    "src/content/ingredients/costus.md",
+    "src/content/ingredients/rose.md"
+  ],
+  "/ingredients/litsea-cubeba/": [
+    "src/content/ingredients/cubeb.md"
+  ],
+  "/ingredients/long-pepper/": [
+    "src/content/ingredients/cubeb.md",
+    "src/content/ingredients/pepper.md",
+    "src/content/ingredients/prickly-ash.md"
+  ],
+  "/ingredients/coriander-seed/": [
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/fenugreek.md"
+  ],
+  "/ingredients/dill/": [
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/fennel.md"
+  ],
+  "/ingredients/fenugreek/": [
+    "src/content/ingredients/cumin.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/quince.md"
+  ],
+  "/ingredients/ginkgo/": [
+    "src/content/ingredients/cypress-seed.md",
+    "src/content/ingredients/torreya.md"
+  ],
+  "/ingredients/wintersweet/": [
+    "src/content/ingredients/daphne.md",
+    "src/content/ingredients/plum-blossom.md"
+  ],
+  "/ingredients/anise/": [
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/fennel.md",
+    "src/content/ingredients/star-anise.md",
+    "src/content/ingredients/tarragon.md"
+  ],
+  "/ingredients/cumin/": [
+    "src/content/ingredients/dill.md",
+    "src/content/ingredients/fenugreek.md"
+  ],
+  "/ingredients/pine-needles/": [
+    "src/content/ingredients/eucalyptus.md",
+    "src/content/ingredients/pine-resin.md"
+  ],
+  "/ingredients/eupatorium/": [
+    "src/content/ingredients/eupatorium-japonicum.md",
+    "src/content/ingredients/linglingxiang.md",
+    "src/content/ingredients/orchid.md",
+    "src/content/ingredients/rue.md"
+  ],
+  "/ingredients/eupatorium-japonicum/": [
+    "src/content/ingredients/eupatorium.md",
+    "src/content/ingredients/rue.md"
+  ],
+  "/ingredients/mastic/": [
+    "src/content/ingredients/frankincense.md",
+    "src/content/ingredients/myrrh.md"
+  ],
+  "/ingredients/sand-ginger/": [
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/ginger.md",
+    "src/content/ingredients/nutmeg.md",
+    "src/content/ingredients/turmeric.md"
+  ],
+  "/ingredients/oxyphylla/": [
+    "src/content/ingredients/galangal.md",
+    "src/content/ingredients/katsumadai.md"
+  ],
+  "/ingredients/asafoetida/": [
+    "src/content/ingredients/galbanum.md"
+  ],
+  "/ingredients/torreya/": [
+    "src/content/ingredients/ginkgo.md"
+  ],
+  "/ingredients/pomelo-peel/": [
+    "src/content/ingredients/grapefruit.md",
+    "src/content/ingredients/lemon.md",
+    "src/content/ingredients/litchi-husk.md",
+    "src/content/ingredients/orange-peel.md"
+  ],
+  "/ingredients/silk-tree/": [
+    "src/content/ingredients/honeysuckle.md",
+    "src/content/ingredients/osmanthus.md"
+  ],
+  "/ingredients/jasmine-grandiflorum/": [
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/tuberose.md"
+  ],
+  "/ingredients/lily-of-the-valley/": [
+    "src/content/ingredients/jasmine.md",
+    "src/content/ingredients/orris-root.md"
+  ],
+  "/ingredients/amomum-villosum/": [
+    "src/content/ingredients/katsumadai.md",
+    "src/content/ingredients/schisandra.md",
+    "src/content/ingredients/tsao-ko.md"
+  ],
+  "/ingredients/basil/": [
+    "src/content/ingredients/lemon-balm.md",
+    "src/content/ingredients/sage.md"
+  ],
+  "/ingredients/schisandra/": [
+    "src/content/ingredients/licorice.md",
+    "src/content/ingredients/peony.md"
+  ],
+  "/ingredients/ligusticum-chuanxiong/": [
+    "src/content/ingredients/ligusticum.md"
+  ],
+  "/ingredients/cubeb/": [
+    "src/content/ingredients/litsea-cubeba.md",
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/pepper.md"
+  ],
+  "/ingredients/citronella/": [
+    "src/content/ingredients/litsea-cubeba.md",
+    "src/content/ingredients/rue.md"
+  ],
+  "/ingredients/pepper/": [
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/mustard.md",
+    "src/content/ingredients/prickly-ash.md"
+  ],
+  "/ingredients/prickly-ash/": [
+    "src/content/ingredients/long-pepper.md",
+    "src/content/ingredients/pepper.md"
+  ],
+  "/ingredients/spearmint/": [
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/peppermint.md"
+  ],
+  "/ingredients/peppermint/": [
+    "src/content/ingredients/mint.md",
+    "src/content/ingredients/spearmint.md"
+  ],
+  "/ingredients/artemisia-annua/": [
+    "src/content/ingredients/mugwort.md",
+    "src/content/ingredients/schizonepeta.md",
+    "src/content/ingredients/tarragon.md"
+  ],
+  "/ingredients/bamboo-leaves/": [
+    "src/content/ingredients/mulberry-leaf.md"
+  ],
+  "/ingredients/sophora-flower/": [
+    "src/content/ingredients/mulberry-leaf.md"
+  ],
+  "/ingredients/ylang-ylang/": [
+    "src/content/ingredients/neroli.md",
+    "src/content/ingredients/tuberose.md"
+  ],
+  "/ingredients/litchi-husk/": [
+    "src/content/ingredients/orange-peel.md",
+    "src/content/ingredients/pomelo-peel.md"
+  ],
+  "/ingredients/violet/": [
+    "src/content/ingredients/orris-root.md",
+    "src/content/ingredients/rose.md"
+  ],
+  "/ingredients/bay-leaf/": [
+    "src/content/ingredients/osmanthus.md",
+    "src/content/ingredients/rosemary.md",
+    "src/content/ingredients/thyme.md"
+  ],
+  "/ingredients/linglingxiang/": [
+    "src/content/ingredients/paicao.md",
+    "src/content/ingredients/vanilla.md"
+  ],
+  "/ingredients/tree-peony/": [
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/tree-peony-bark.md"
+  ],
+  "/ingredients/tree-peony-bark/": [
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/tree-peony.md"
+  ],
+  "/ingredients/apricot-kernel/": [
+    "src/content/ingredients/peony.md",
+    "src/content/ingredients/plum-blossom.md"
+  ],
+  "/ingredients/vanilla/": [
+    "src/content/ingredients/peru-balsam.md"
+  ],
+  "/ingredients/daphne/": [
+    "src/content/ingredients/plum-blossom.md",
+    "src/content/ingredients/wintersweet.md"
+  ],
+  "/ingredients/jiangzhenxiang/": [
+    "src/content/ingredients/red-sandalwood.md"
+  ],
+  "/ingredients/thyme/": [
+    "src/content/ingredients/sage.md"
+  ],
+  "/ingredients/dragons-blood/": [
+    "src/content/ingredients/shellac.md"
+  ],
+  "/ingredients/honeysuckle/": [
+    "src/content/ingredients/silk-tree.md",
+    "src/content/ingredients/sophora-flower.md"
+  ],
+  "/ingredients/lotus-flower/": [
+    "src/content/ingredients/silk-tree.md"
+  ],
+  "/ingredients/valerian/": [
+    "src/content/ingredients/spikenard-nardostachys.md",
+    "src/content/ingredients/vetiver.md"
+  ],
+  "/ingredients/sage/": [
+    "src/content/ingredients/thyme.md"
+  ],
+  "/ingredients/aromatic-turmeric/": [
+    "src/content/ingredients/turmeric.md",
+    "src/content/ingredients/zedoary.md"
+  ],
+  "/ingredients/magnolia-flower/": [
+    "src/content/ingredients/wintersweet.md",
+    "src/content/ingredients/yulan-magnolia.md"
+  ],
+  "/ingredients/tuberose/": [
+    "src/content/ingredients/ylang-ylang.md"
+  ],
+  "/blog/chinese-vs-indian-incense/": [],
+  "/blog/chinese-vs-japanese-incense/": [],
+  "/blog/frankincense-vs-myrrh/": [],
+  "/blog/sandalwood-vs-red-sandalwood/": []
+}

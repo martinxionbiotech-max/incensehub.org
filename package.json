@@ -1,0 +1,22 @@
+{
+  "name": "landeng",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "IncenseHub — Chinese botanical incense knowledge platform (static Astro scaffold).",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/generate-markdown.mjs",
+    "preview": "astro preview",
+    "astro": "astro",
+    "prebuild": "node scripts/generate-llms.mjs",
+    "sync:datasets": "node scripts/sync-datasets.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.4.0",
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "node-html-markdown": "^2.0.0"
+  }
+}

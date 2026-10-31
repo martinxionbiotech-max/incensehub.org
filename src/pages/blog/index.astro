@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog')).sort((a, b) =>
+  (a.data.last_reviewed || '').localeCompare(b.data.last_reviewed || '')
+);
+---
+
+<BaseLayout
+  title="Guides — IncenseHub Chinese Botanical Incense"
+  description="Research-led guides on Chinese incense: materials, formats, safety, buying, and the classical 合香 tradition."
+>
+  <section class="index-page">
+    <header class="index-header">
+      <div class="shell prose">
+        <h1>Incense Guides</h1>
+        <p class="lede">
+          {posts.length} research-led guides on Chinese incense — materials, formats,
+          safety, buying, and the classical compound-incense (合香) tradition.
+        </p>
+      </div>
+    </header>
+
+    <div class="shell">
+      <ul class="guide-list">
+        {
+          posts.map((post) => (
+            <li>
+              <a href={`/blog/${post.data.slug}/`}>
+                <span class="guide-title">{post.data.title}</span>
+                <span class="guide-pillar">{post.data.pillar}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .index-page {
+    width: 100%;
+  }
+
+  .index-header {
+    padding-block: var(--space-6) var(--space-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .index-header h1 {
+    margin: 0 0 var(--space-2);
+    font-family: var(--serif);
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
+  }
+
+  .lede {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 1.15rem;
+  }
+
+  .guide-list {
+    display: grid;
+    gap: 0.4rem;
+    margin: 0;
+    padding: var(--space-5) 0;
+    list-style: none;
+  }
+
+  .guide-list a {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.4rem 1rem;
+    padding: 0.8rem 0;
+    border-bottom: 1px solid var(--line);
+    text-decoration: none;
+  }
+
+  .guide-title {
+    color: var(--ink);
+    font-weight: 600;
+    transition: color 180ms ease;
+  }
+
+  .guide-list a:hover .guide-title {
+    color: var(--wood);
+  }
+
+  .guide-pillar {
+    color: var(--ink-soft);
+    font-size: 0.82rem;
+    letter-spacing: 0.04em;
+  }
+</style>

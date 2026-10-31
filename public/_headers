@@ -1,0 +1,16 @@
+# Machine-readable markdown variants — explicit Content-Type
+# (Cloudflare's MIME table may not map `.md` to text/markdown).
+/ingredients/*.md
+  Content-Type: text/markdown; charset=utf-8
+
+/blog/*.md
+  Content-Type: text/markdown; charset=utf-8
+
+/chinese-incense.md
+  Content-Type: text/markdown; charset=utf-8
+
+/*
+  Content-Signal: ai-train=yes, search=yes, ai-input=yes
+  Link: </llms.txt>; rel="describedby"
+  Link: </sitemap-index.xml>; rel="sitemap"
+  X-Robots-Tag: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1

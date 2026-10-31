@@ -1,0 +1,200 @@
+# IncenseHub (澜灯)
+
+> A quiet, research-led English-language knowledge platform for Chinese botanical incense: its materials, botanicals, history, terminology, craft and culture.
+
+## Core pages
+
+- [Home](/): editorial homepage for IncenseHub.
+- [Chinese Incense (香 / Xiang)](/chinese-incense/): what Chinese incense is — history, the Four Leisure Arts, and the way of incense (香道).
+- [Wholesale](/wholesale/): wholesale inquiries for Chinese botanical incense.
+- [OEM & Private Label](/oem/): OEM and private-label development.
+- [Contact](/contact/): samples, quotes, wholesale and OEM inquiries.
+
+## Ingredient encyclopedia
+
+- [Agarwood](/ingredients/agarwood/)
+- [Benzoin](/ingredients/benzoin/)
+- [Cedar](/ingredients/cedar/)
+- [Chrysanthemum](/ingredients/chrysanthemum/)
+- [Cinnamon](/ingredients/cinnamon/)
+- [Clove](/ingredients/clove/)
+- [Frankincense](/ingredients/frankincense/)
+- [Jasmine](/ingredients/jasmine/)
+- [Mugwort](/ingredients/mugwort/)
+- [Myrrh](/ingredients/myrrh/)
+- [Orange Peel / Chenpi](/ingredients/orange-peel/)
+- [Osmanthus](/ingredients/osmanthus/)
+- [Patchouli](/ingredients/patchouli/)
+- [Rose](/ingredients/rose/)
+- [Sandalwood](/ingredients/sandalwood/)
+- [Vetiver](/ingredients/vetiver/)
+- [Borneol](/ingredients/borneol/)
+- [Pine Resin](/ingredients/pine-resin/)
+- [Angelica](/ingredients/angelica/)
+- [Calamus](/ingredients/calamus/)
+- [Sweetgum](/ingredients/sweetgum/)
+- [Ambergris](/ingredients/ambergris/)
+- [Agastache](/ingredients/agastache-rugosa/)
+- [Atractylodes](/ingredients/atractylodes/)
+- [Borneol Oil](/ingredients/borneol-oil/)
+- [Cardamom](/ingredients/cardamom/)
+- [Cyperus](/ingredients/cyperus/)
+- [Jiangzhenxiang](/ingredients/jiangzhenxiang/)
+- [Linglingxiang](/ingredients/linglingxiang/)
+- [Orris Root](/ingredients/orris-root/)
+- [Plum Blossom](/ingredients/plum-blossom/)
+- [Spikenard](/ingredients/spikenard-nardostachys/)
+- [Star Anise](/ingredients/star-anise/)
+- [Storax](/ingredients/styrax-resin/)
+- [Red Sandalwood](/ingredients/red-sandalwood/)
+- [Camphor](/ingredients/camphor/)
+- [Fennel](/ingredients/fennel/)
+- [Eupatorium](/ingredients/eupatorium/)
+- [Ligusticum](/ingredients/ligusticum/)
+- [Citronella](/ingredients/citronella/)
+- [Gardenia](/ingredients/gardenia/)
+- [Champaca](/ingredients/champaca/)
+- [Nutmeg](/ingredients/nutmeg/)
+- [Sand Ginger](/ingredients/sand-ginger/)
+- [Costus](/ingredients/costus/)
+- [Cypress Seed](/ingredients/cypress-seed/)
+- [Musk](/ingredients/musk/)
+- [Onycha](/ingredients/onycha/)
+- [Lotus Flower](/ingredients/lotus-flower/)
+- [Cubeb](/ingredients/cubeb/)
+- [Long Pepper](/ingredients/long-pepper/)
+- [Coriander Seed](/ingredients/coriander-seed/)
+- [Litchi Husk](/ingredients/litchi-husk/)
+- [Galangal](/ingredients/galangal/)
+- [Dragon's Blood](/ingredients/dragons-blood/)
+- [Paicao](/ingredients/paicao/)
+- [Rue](/ingredients/rue/)
+- [Bletilla](/ingredients/bletilla/)
+- [Civet](/ingredients/civet/)
+- [Pepper](/ingredients/pepper/)
+- [Dried Ginger](/ingredients/ginger/)
+- [Magnolia Flower](/ingredients/magnolia-flower/)
+- [Wintersweet](/ingredients/wintersweet/)
+- [Turmeric](/ingredients/turmeric/)
+- [Labdanum](/ingredients/labdanum/)
+- [Mastic](/ingredients/mastic/)
+- [Asafoetida](/ingredients/asafoetida/)
+- [Perilla](/ingredients/perilla/)
+- [Mint](/ingredients/mint/)
+- [Pomelo Peel](/ingredients/pomelo-peel/)
+- [Thuja](/ingredients/thuja/)
+- [Banksia Rose](/ingredients/banksia-rose/)
+- [Spanish Jasmine](/ingredients/jasmine-grandiflorum/)
+- [Yulan Magnolia](/ingredients/yulan-magnolia/)
+- [Honeysuckle](/ingredients/honeysuckle/)
+- [Amomum villosum](/ingredients/amomum-villosum/)
+- [Tsaoko](/ingredients/tsao-ko/)
+- [Galbanum](/ingredients/galbanum/)
+- [Bay Leaf](/ingredients/bay-leaf/)
+- [Rosemary](/ingredients/rosemary/)
+- [Finger Citron](/ingredients/finger-citron/)
+- [Citron](/ingredients/citron/)
+- [Licorice](/ingredients/licorice/)
+- [Honey](/ingredients/honey/)
+- [Aromatic Turmeric](/ingredients/aromatic-turmeric/)
+- [Zedoary](/ingredients/zedoary/)
+- [Orchid](/ingredients/orchid/)
+- [Daphne](/ingredients/daphne/)
+- [Banana Shrub](/ingredients/michelia-figo/)
+- [Katsumadai](/ingredients/katsumadai/)
+- [Sharp-Leaf Galangal](/ingredients/oxyphylla/)
+- [Sichuan Pepper](/ingredients/prickly-ash/)
+- [Mountain Pepper](/ingredients/litsea-cubeba/)
+- [Amber](/ingredients/amber/)
+- [Juniper](/ingredients/juniper/)
+- [Basil](/ingredients/basil/)
+- [Elsholtzia](/ingredients/elsholtzia/)
+- [Aglaia](/ingredients/aglaia/)
+- [Peony](/ingredients/peony/)
+- [Anise](/ingredients/anise/)
+- [Cumin](/ingredients/cumin/)
+- [Shellac](/ingredients/shellac/)
+- [Beeswax](/ingredients/beeswax/)
+- [Torreya](/ingredients/torreya/)
+- [Kumquat](/ingredients/kumquat/)
+- [Castoreum](/ingredients/castoreum/)
+- [Blumea Balsamifera](/ingredients/blumea-balsamifera/)
+- [Tuberose](/ingredients/tuberose/)
+- [Dill](/ingredients/dill/)
+- [Mustard Seed](/ingredients/mustard/)
+- [Apricot Kernel](/ingredients/apricot-kernel/)
+- [Ginkgo Nut](/ingredients/ginkgo/)
+- [Dong Quai](/ingredients/angelica-sinensis/)
+- [Peru Balsam](/ingredients/peru-balsam/)
+- [Quince](/ingredients/quince/)
+- [Arborvitae Leaves](/ingredients/platycladus-leaves/)
+- [Vanilla Bean](/ingredients/vanilla/)
+- [Silk Tree Flower](/ingredients/silk-tree/)
+- [Pine Needles](/ingredients/pine-needles/)
+- [Bamboo Leaves](/ingredients/bamboo-leaves/)
+- [Fenugreek](/ingredients/fenugreek/)
+- [Chuanxiong](/ingredients/ligusticum-chuanxiong/)
+- [Sophora Flower](/ingredients/sophora-flower/)
+- [Tree Peony](/ingredients/tree-peony/)
+- [Mulberry Leaf](/ingredients/mulberry-leaf/)
+- [Sweet Wormwood](/ingredients/artemisia-annua/)
+- [Schizonepeta](/ingredients/schizonepeta/)
+- [Cassia Twig](/ingredients/cassia-twig/)
+- [Bergamot](/ingredients/bergamot/)
+- [Neroli](/ingredients/neroli/)
+- [Valerian](/ingredients/valerian/)
+- [Schisandra](/ingredients/schisandra/)
+- [Asarum](/ingredients/asarum/)
+- [Zelan](/ingredients/eupatorium-japonicum/)
+- [Tree Peony Bark](/ingredients/tree-peony-bark/)
+- [Lavender](/ingredients/lavender/)
+- [Sage](/ingredients/sage/)
+- [Thyme](/ingredients/thyme/)
+- [Chamomile](/ingredients/chamomile/)
+- [Ylang-Ylang](/ingredients/ylang-ylang/)
+- [Copaiba](/ingredients/copaiba/)
+- [Violet](/ingredients/violet/)
+- [Lemon](/ingredients/lemon/)
+- [Grapefruit](/ingredients/grapefruit/)
+- [Tarragon](/ingredients/tarragon/)
+- [Spearmint](/ingredients/spearmint/)
+- [Peppermint](/ingredients/peppermint/)
+- [Eucalyptus](/ingredients/eucalyptus/)
+- [Lemon Balm](/ingredients/lemon-balm/)
+- [Lily of the Valley](/ingredients/lily-of-the-valley/)
+
+## Machine-readable data
+
+- [Ingredient dataset](https://data.incensehub.org/datasets/ingredients.json): 150 ingredient entities (Schema.org Dataset / DefinedTerm).
+- [Terminology dataset](https://data.incensehub.org/datasets/terminology.json): 249 Chinese–English incense terms (Schema.org Dataset / DefinedTerm).
+- [Relationship dataset](https://data.incensehub.org/datasets/relationships.json): 150 / 806 entity records (typed edges) (Schema.org Dataset / DefinedTerm).
+- [Comparison dataset](https://data.incensehub.org/datasets/comparisons.json): 17 comparison profiles (Schema.org Dataset / DefinedTerm).
+- [Material dataset](https://data.incensehub.org/datasets/materials.json): 15 functional materials (Schema.org Dataset / DefinedTerm).
+- [Form dataset](https://data.incensehub.org/datasets/forms.json): 12 incense forms (Schema.org Dataset / DefinedTerm).
+- [Technique dataset](https://data.incensehub.org/datasets/techniques.json): 12 incense techniques (Schema.org Dataset / DefinedTerm).
+- [Aroma dataset](https://data.incensehub.org/datasets/aroma.json): 10 aroma families (Schema.org Dataset / DefinedTerm).
+
+
+## Machine-readable markdown
+
+Clean markdown variants of the data-driven pages are generated at build time (`.md` endpoints) for LLMs and AI agents. Each file carries a YAML frontmatter (title, description, canonical, updated), an H1, a one-sentence definition, core data tables and source links — with no navigation, footer or JavaScript noise — and links back to its human-readable HTML page.
+
+Endpoint patterns:
+
+- `/ingredients/{slug}.md` — 150 ingredient entity pages
+- `/blog/{slug}.md` — 115 blog guides
+- `/chinese-incense.md` — Chinese incense pillar page
+
+Example URLs:
+
+- [Agarwood](https://incensehub.org/ingredients/agarwood.md)
+- [Sandalwood](https://incensehub.org/ingredients/sandalwood.md)
+- [What is Chinese incense?](https://incensehub.org/chinese-incense.md)
+- [Agarwood grading guide](https://incensehub.org/blog/agarwood-grading-guide.md)
+- [Incense safety guide](https://incensehub.org/blog/incense-safety-guide.md)
+
+## AI content notes
+
+- Entity pages expose machine-readable definitions (Chinese term, pinyin, scientific name, type, aroma profile).
+- Traditional knowledge and modern evidence are labeled separately.
+- No fabricated reviews, ratings, prices or authors appear on this site.

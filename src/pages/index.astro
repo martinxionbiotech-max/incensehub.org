@@ -1,0 +1,355 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const ingredients = await getCollection('ingredients');
+const orderedIngredients = ingredients.sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+
+<BaseLayout
+  title="IncenseHub — Chinese Incense Knowledge: Materials, History & Craft"
+  description="An independent knowledge platform documenting Chinese incense — its botanicals, materials, grading, history, terminology and craft — with source-transparent evidence and no sales pitch."
+>
+  <section class="hero">
+    <div class="shell hero-inner">
+      <p class="eyebrow">Chinese incense knowledge · 香 · 合香 · 香道</p>
+      <h1>IncenseHub</h1>
+      <p class="lede">
+        An independent reference for Chinese incense: what each material is, how it is
+        formed and graded, how blends are composed, and how to tell quality from adulteration.
+      </p>
+      <img src="/images/home-hero-botanical-still-life-1600x900.webp" alt="Incense smoke rising from a dark ceramic censer surrounded by botanical materials and brass tools, warm amber light" width="1600" height="900">
+      <p class="hero-note">
+        Knowledge first — no catalog, no quotes, no sales pitch. Every claim is traced to its
+        source, and traditional knowledge is labeled separately from modern evidence.
+      </p>
+      <a class="text-link" href="/ingredients/">Browse the ingredient reference <span aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <section class="section what-is">
+    <div class="shell prose">
+      <p class="section-label">Positioning</p>
+      <h2>What this site is — and is not</h2>
+      <p>
+        <strong>IncenseHub is an independent knowledge platform for Chinese incense.</strong> It
+        answers four questions for each material and practice: <em>what it is, how it forms or is
+        made, how it is graded, and how to judge quality against adulteration.</em> It is not a
+        store, a wholesale catalog, or a manufacturer's sitefront — there is nothing to buy here.
+      </p>
+      <p>
+        The materials range from everyday woods like cedar to the rare, protected
+        <a href="/ingredients/thuja/">thuja (崖柏)</a>, each documented in its own
+        source-transparent entry, and each graded distinction (沉水, 奇楠, 老山檀) explained as
+        a claim to verify rather than a label to trust.
+      </p>
+      <a class="text-link" href="/ingredients/">Browse the ingredient encyclopedia <span aria-hidden="true">→</span></a>
+      <img class="section-img" src="/images/home-what-is-materials-1200x675.webp" alt="The five Chinese incense material families — woods, resins, flowers, herbs and spices — arranged on rice paper" width="1200" height="675" loading="lazy">
+    </div>
+  </section>
+
+  <section class="section topics">
+    <div class="shell">
+      <div class="section-heading">
+        <p class="section-label">Content entry points</p>
+        <h2>Seven ways into the subject</h2>
+      </div>
+      <p class="topics-lede">
+        The site is organized around seven knowledge domains. Start from whichever question
+        brought you here.
+      </p>
+      <div class="topic-grid">
+        <a class="topic-card" href="/chinese-incense/">
+          <span class="card-kicker">Domain 1</span>
+          <h3>Materials &amp; entities</h3>
+          <p>150 botanicals — woods, resins, flowers, herbs, spices — each with identity, pinyin, sourcing, and grading.</p>
+        </a>
+        <a class="topic-card" href="/blog/incense-authentication-database/">
+          <span class="card-kicker">Domain 2</span>
+          <h3>Authentication &amp; quality</h3>
+          <p>How to judge real from fake: grading systems, faking methods, and the substitution cross-reference.</p>
+        </a>
+        <a class="topic-card" href="/blog/agarwood-incense/">
+          <span class="card-kicker">Domain 3</span>
+          <h3>Formation &amp; principles</h3>
+          <p>Why agarwood and resin form at all — wounding, fungus, and the slow chemistry of scent.</p>
+        </a>
+        <a class="topic-card" href="/blog/how-incense-is-made/">
+          <span class="card-kicker">Domain 4</span>
+          <h3>Craft &amp; technique</h3>
+          <p>Grinding, sieving, blending, forming, drying and curing — the material craft behind the stick.</p>
+        </a>
+        <a class="topic-card" href="/blog/scent-guide/">
+          <span class="card-kicker">Domain 5</span>
+          <h3>Aroma &amp; atmosphere</h3>
+          <p>The ten aroma families, the scent wheel, and choosing a scent by atmosphere rather than habit.</p>
+        </a>
+        <a class="topic-card" href="/blog/what-is-chinese-incense/">
+          <span class="card-kicker">Domain 6</span>
+          <h3>Culture &amp; history</h3>
+          <p>香道, the Four Leisure Arts, the 香谱 manuals, and the Song-to-Ming incense canon.</p>
+        </a>
+        <a class="topic-card" href="/blog/hexiang-blending-system/">
+          <span class="card-kicker">Domain 7</span>
+          <h3>Blending &amp; the 合香 system</h3>
+          <p>The chief–minister–assistant–guide principle — how a Chinese blend is composed like a formula.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section explore">
+    <div class="shell">
+      <div class="section-heading">
+        <div>
+          <p class="section-label">Explore by entity</p>
+          <h2>Ingredients</h2>
+        </div>
+        <a class="text-link" href="/ingredients/">View all ingredients</a>
+      </div>
+
+      <img class="section-img" src="/images/home-explore-tea-table-1200x675.webp" alt="A lit incense stick in a ceramic censer beside a cup of tea on a warm wood table" width="1200" height="675" loading="lazy">
+
+      {
+        orderedIngredients.length > 0 ? (
+          <div class="card-grid">
+            {orderedIngredients.map((entry) => (
+              <a class="entity-card" href={`/ingredients/${entry.id}/`}>
+                <span class="card-kicker">{entry.data.type}</span>
+                <h3>{entry.data.chinese} <span>{entry.data.pinyin}</span></h3>
+                <p class="card-name">{entry.data.title}</p>
+                <p class="card-scientific">{entry.data.scientificName}</p>
+                <p class="aroma" aria-label="Aroma notes">
+                  {entry.data.aroma.join(' · ')}
+                </p>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <p class="empty-note">Ingredient entries will appear here as they are published.</p>
+        )
+      }
+    </div>
+  </section>
+
+  <section class="section trust">
+    <div class="shell prose">
+      <p class="section-label">Editorial standard</p>
+      <h2>Source-transparent, never fabricated</h2>
+      <p>
+        Every page separates traditional knowledge from modern evidence, names its sources, and
+        shows open questions rather than hiding them. This site is edited under a single collective
+        byline; it does not invent authors, reviews, ratings, prices, certifications, or test
+        results.
+      </p>
+      <ul class="trust-list">
+        <li>Traditional claims are never upgraded into scientific fact.</li>
+        <li>Unverifiable precise numbers are dropped or marked unverified.</li>
+        <li>Entity pages expose machine-readable definitions for search and AI discovery.</li>
+        <li>No health or medical claims — incense is treated as aroma, craft, and culture.</li>
+      </ul>
+      <a class="text-link" href="/blog/landeng-editorial-methodology/">How this site researches Chinese incense <span aria-hidden="true">→</span></a>
+      <img class="section-img" src="/images/home-trust-censer-tools-1200x675.webp" alt="Traditional Chinese incense utensils arranged on a bamboo tray beside a small censer" width="1200" height="675" loading="lazy">
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding-block: clamp(4rem, 10vw, 8rem) clamp(3rem, 8vw, 6rem);
+  }
+
+  .hero-inner {
+    max-width: 62rem;
+  }
+
+  .eyebrow,
+  .section-label,
+  .card-kicker {
+    margin: 0 0 var(--space-2);
+    color: var(--jade);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .hero .eyebrow {
+    margin-bottom: 0;
+  }
+
+  .hero h1 {
+    margin-bottom: var(--space-3);
+  }
+
+  .hero h1 span {
+    color: var(--ink-soft);
+    font-weight: 400;
+  }
+
+  .hero h1,
+  .hero .lede {
+    text-wrap: balance;
+  }
+
+  .lede {
+    font-family: var(--serif);
+    font-size: clamp(1.25rem, 2.6vw, 1.65rem);
+    line-height: 1.45;
+  }
+
+  .hero-note {
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+
+  .section {
+    padding-block: var(--space-6);
+    border-top: 1px solid var(--line);
+  }
+
+  .what-is {
+    background: var(--paper-raise);
+  }
+
+  .section-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+
+  .section-heading h2 {
+    margin: 0;
+  }
+
+  .topics-lede {
+    max-width: 44rem;
+    color: var(--ink-soft);
+    margin-bottom: var(--space-4);
+  }
+
+  .topic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: var(--space-3);
+  }
+
+  .topic-card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    padding: var(--space-4);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+    color: var(--ink);
+    text-decoration: none;
+    transition: border-color 180ms ease, transform 180ms ease;
+  }
+
+  .topic-card:hover {
+    border-color: var(--amber);
+    transform: translateY(-2px);
+  }
+
+  .topic-card h3 {
+    margin: 0;
+    font-size: 1.25rem;
+  }
+
+  .topic-card p {
+    margin: 0;
+    color: var(--ink-soft);
+    font-size: 0.94rem;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: var(--space-3);
+  }
+
+  .entity-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 13rem;
+    padding: var(--space-4);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--paper-raise);
+    color: var(--ink);
+    text-decoration: none;
+    transition: border-color 180ms ease, transform 180ms ease;
+  }
+
+  .entity-card:hover {
+    border-color: var(--amber);
+    transform: translateY(-2px);
+  }
+
+  .entity-card h3 {
+    margin: 0 0 var(--space-1);
+    font-size: 1.9rem;
+  }
+
+  .entity-card h3 span {
+    color: var(--ink-soft);
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .card-name {
+    margin: 0 0 var(--space-1);
+    color: var(--ink-soft);
+  }
+
+  .card-scientific {
+    margin: 0 0 var(--space-3);
+    color: var(--jade);
+    font-style: italic;
+    font-size: 0.95rem;
+  }
+
+  .aroma {
+    margin: auto 0 0;
+    color: var(--ink-soft);
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+  }
+
+  .trust-list {
+    padding-left: 1.2rem;
+  }
+
+  .trust-list li {
+    margin-bottom: var(--space-1);
+  }
+
+  .empty-note {
+    color: var(--ink-soft);
+  }
+
+  .section-img {
+    display: block;
+    max-width: 100%;
+    width: min(100%, 48rem);
+    margin: var(--space-4) auto var(--space-5);
+    border-radius: 8px;
+    box-shadow: 0 1px 2px rgba(28, 26, 23, 0.06), 0 6px 20px -8px rgba(28, 26, 23, 0.12);
+  }
+
+  @media (max-width: 44rem) {
+    .section-heading {
+      align-items: start;
+      flex-direction: column;
+    }
+
+    .hero .text-link,
+    .section-heading .text-link {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>

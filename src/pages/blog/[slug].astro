@@ -1,0 +1,200 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.data.slug },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const { title, primary_keyword, search_intent, pillar, last_reviewed } = post.data;
+
+// 唯一化 meta description：从正文提炼（无 description frontmatter 字段，按 §24 生成）
+const metaDescription =
+  (post.body || '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/[#*_>`\[\]()!-]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 155) || title;
+
+// ---- P2: authoritative citations (reuse only verified Sources-section links) ----
+const CITATION_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org', 'wikisource.org', 'ctext.org'];
+
+function hostAllowed(url, hosts) {
+  try {
+    const h = new URL(url).hostname;
+    return hosts.some((host) => h === host || h.endsWith('.' + host));
+  } catch {
+    return false;
+  }
+}
+
+function extractExternalUrls(body, hosts) {
+  if (!body) return [];
+  const m = body.match(/## Sources\s*\n([\s\S]*)$/);
+  if (!m) return [];
+  const out = [];
+  const seen = new Set();
+  const re = /\[[^\]]*\]\((https?:\/\/[^\s)]+)\)/g;
+  let mm;
+  while ((mm = re.exec(m[1])) !== null) {
+    const url = mm[1].replace(/[.,;]+$/, '');
+    if (hostAllowed(url, hosts) && !seen.has(url)) {
+      seen.add(url);
+      out.push(url);
+    }
+  }
+  return out;
+}
+
+const citations = extractExternalUrls(post.body, CITATION_HOSTS);
+
+function extractImage(body) {
+  if (!body) return null;
+  const img = body.match(/<img\s+src="([^"]+)"[^>]*>/);
+  if (!img) return null;
+  const src = img[1];
+  const attr = img[0];
+  const w = attr.match(/width="(\d+)"/);
+  const h = attr.match(/height="(\d+)"/);
+  const dims = src.match(/-(\d+)x(\d+)\.\w+$/);
+  const width = w ? Number(w[1]) : dims ? Number(dims[1]) : null;
+  const height = h ? Number(h[1]) : dims ? Number(dims[2]) : null;
+  if (!src || width == null || height == null) return null;
+  return { '@type': 'ImageObject', url: src, width, height };
+}
+
+const image = extractImage(post.body);
+
+// Extract FAQ Q&A from the markdown body to emit FAQPage structured data.
+const faqMatch = (post.body || '').match(/## FAQ\s*\n([\s\S]*)$/);
+let faqJsonLd = null;
+if (faqMatch) {
+  const qa: { '@type': 'Question'; name: string; acceptedAnswer: { '@type': 'Answer'; text: string } }[] = [];
+  const re = /###\s*Q:\s*(.+?)\n([\s\S]*?)(?=\n###\s*Q:|\n##|$)/g;
+  let m;
+  while ((m = re.exec(faqMatch[1])) !== null) {
+    // Strip AUTO:* injection markers (sync-datasets.mjs) from the raw answer
+    // text so they don't leak into the FAQPage structured data.
+    const a = m[2].replace(/<!--\s*\/?AUTO:[\s\S]*?-->/g, '').trim();
+    if (a) qa.push({ '@type': 'Question', name: m[1].trim(), acceptedAnswer: { '@type': 'Answer', text: a } });
+  }
+  if (qa.length > 0) faqJsonLd = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa };
+}
+
+const SITE = Astro.site?.toString() ?? 'https://incensehub.org';
+const pageUrl = `${SITE}blog/${post.data.slug}/`;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': `${pageUrl}#article`,
+    headline: title,
+    url: pageUrl,
+    inLanguage: 'en',
+    about: primary_keyword,
+    articleSection: pillar,
+    dateModified: last_reviewed,
+    ...(image ? { image } : {}),
+    ...(citations.length > 0 ? { citation: citations } : {}),
+    isPartOf: { '@id': `${SITE}#website` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: SITE },
+      { '@type': 'ListItem', position: 2, name: 'Guides', item: `${SITE}blog/` },
+      { '@type': 'ListItem', position: 3, name: title, item: pageUrl },
+    ],
+  },
+  ...(faqJsonLd ? [faqJsonLd] : []),
+];
+---
+
+<BaseLayout title={`${title} — IncenseHub`} description={metaDescription}>
+  <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <article class="guide-page">
+    <header class="guide-header">
+      <div class="shell prose">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a><span aria-hidden="true">/</span>
+          <a href="/blog/">Guides</a><span aria-hidden="true">/</span>
+          <span aria-current="page">{title}</span>
+        </nav>
+        <p class="guide-meta">{pillar}</p>
+        <h1>{title}</h1>
+      </div>
+    </header>
+
+    <div class="shell article-layout">
+      <div class="prose article-body">
+        <Content />
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page {
+    width: 100%;
+  }
+
+  .guide-header {
+    padding-block: var(--space-6) var(--space-4);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: var(--space-4);
+    color: var(--ink-soft);
+    font-size: 0.88rem;
+  }
+
+  .breadcrumb a {
+    color: var(--ink-soft);
+  }
+
+  .guide-meta {
+    margin: 0 0 var(--space-2);
+    color: var(--jade);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .guide-header h1 {
+    margin: 0;
+    font-family: var(--serif);
+    font-size: clamp(1.7rem, 4vw, 2.6rem);
+    line-height: 1.15;
+  }
+
+  .article-layout {
+    padding-block: var(--space-6);
+  }
+
+  .article-body :global(h2) {
+    margin-top: var(--space-6);
+  }
+
+  .article-body :global(hr) {
+    margin: var(--space-5) 0;
+    border: 0;
+    border-top: 1px solid var(--line);
+  }
+</style>
