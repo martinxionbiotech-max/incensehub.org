@@ -60,7 +60,7 @@ Two *Ferula* gum-resins from the same region are easily related but distinct:
 - **galbanum (白松香)** — *Ferula gummosa* and relatives; green, balsamic, sharp. This entry.
 - **asafoetida (阿魏)** — *Ferula assa-foetida* / *F. foetida*; far more sulfurous and pungent. Its own entry (see [asafoetida](/ingredients/asafoetida/)).
 
-Both are giant fennel resins from Iran and Central Asia in the same genus, but their scent characters differ sharply — galbanum is green and balsamic, asafoetida is sulfurous and pungent — and the Chinese names are not interchangeable. A buyer should not substitute one for the other on the strength of the shared genus.
+Both are giant fennel resins from Iran and Central Asia in the same genus, but their scent characters differ sharply — galbanum is green and balsamic, asafoetida is sulfurous and pungent — and the Chinese names are not interchangeable. A reader should not substitute one for the other on the strength of the shared genus.
 
 ## The absence-from-Xiang Cheng (香乘) note (read this)
 
@@ -72,7 +72,7 @@ This is a case where the *absence* of a record is itself the honest finding:
 - **Translated Western knowledge** — the name 白松香 (and 格蓬) enters Chinese via translated Western materia-medica and perfumery vocabulary, reflecting galbanum's Mediterranean/Middle-Eastern origin.
 - **Western classical incense** — galbanum is a documented ingredient of Western and Middle-Eastern incense and perfumery from antiquity.
 
-The practical consequence for a buyer: any "classical Chinese" provenance claim for galbanum should be treated with care, because the documented heritage is Western and Middle-Eastern, not Chinese-canonical.
+The practical consequence for the reader: any "classical Chinese" provenance claim for galbanum should be treated with care, because the documented heritage is Western and Middle-Eastern, not Chinese-canonical.
 
 ## Where does galbanum come from?
 
@@ -84,7 +84,7 @@ The practical consequence for a buyer: any "classical Chinese" provenance claim 
 
 > **Direct answer:** Galbanum is used as a green, bracing resin note — a fresh, sappy lift that few resins provide, and one of the classic "green" notes of Western and Middle-Eastern incense and perfumery. It is documented from antiquity in those traditions, though it has no classical Chinese incense-canon role.
 
-Galbanum's role is as a *green, bracing resin*: a fresh, sappy, vegetal lift delivered by a resin rather than a leaf, one of the archetypal green notes of Western and Middle-Eastern incense and perfumery. It is documented in those traditions from antiquity. In the Chinese context, it is a translated Western material — useful for a modern buyer or formulator who wants a green resin note, but not a classical Chinese 香材, and this page records that distinction explicitly.
+Galbanum's role is as a *green, bracing resin*: a fresh, sappy, vegetal lift delivered by a resin rather than a leaf, one of the archetypal green notes of Western and Middle-Eastern incense and perfumery. It is documented in those traditions from antiquity. In the Chinese context, it is a translated Western material — useful for a modern reader or formulator who wants a green resin note, but not a classical Chinese 香材, and this page records that distinction explicitly.
 
 ## How is it processed?
 
@@ -129,27 +129,6 @@ There is no single standardized ladder, but "green, correctly identified, and ho
 - **Scientific Evidence** — the botanical identity of *Ferula gummosa* (Apiaceae) and the resin's chemistry are documented; we present no clinical or medical efficacy claims.
 
 The incense and perfumery use is documented in Western classical sources. Medicinal uses, where they appear, are traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm identity — 白松香 is galbanum (*Ferula gummosa*), a green, sharp resin, distinct from asafoetida (阿魏), its sulfurous relative. Expect a green, sappy, balsamic character. And because it is not a Chinese-canon material, treat any "classical Chinese" provenance claim with care.
-
-For a buyer:
-
-- **Identity** — *Ferula gummosa* (galbanum), not asafoetida (*Ferula assa-foetida*); the scent characters differ sharply.
-- **Aroma** — green, sappy, balsamic; bitter-green rather than sweet or citrus.
-- **Provenance** — its documented heritage is Western and Middle-Eastern; treat any "classical Chinese" provenance claim with care.
-
-## Our Industry View
-
-> **Direct answer:** Galbanum's commercial lesson is that a green note can come from a resin — and that honest provenance matters as much as aroma. It is a Western/Middle-Eastern resin with no 香乘 entry, so a buyer should specify it by its actual heritage and its *Ferula* identity, not by a fabricated Chinese-canon pedigree or a name shared with asafoetida.
-
-From a manufacturing perspective, galbanum makes two points worth carrying forward:
-
-- **A green note can come from a resin.** Most green notes come from leaves and stems; galbanum delivers a green, sappy, bracing lift from a gum-resin, which is precisely its value — a fresh vegetal top note with a resin's tenacity. A formulator who wants a "green" that lasts can reach for galbanum where a leaf note would fade.
-- **Honest provenance is part of the specification.** Galbanum has no 香乘 entry, and its documented heritage is Western and Middle-Eastern. A buyer should specify it on those terms — *Ferula gummosa*, Western/Middle-Eastern origin — rather than accept a "classical Chinese" framing that the record does not support. The same honesty principle applies to its relationship with asafoetida: same genus, sharply different scent, names not interchangeable.
-
-In our view, galbanum is a distinctive green balsamic resin — buy it by species name (*Ferula gummosa*), expect a bitter-green sappy character, keep it separate from asafoetida, and record its Western/Middle-Eastern heritage honestly.
 
 ## Summary
 

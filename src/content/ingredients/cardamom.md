@@ -73,7 +73,7 @@ Cardamom's incense role is explicitly a **blending** one. The Ming-dynasty *Xian
 
 > **Direct answer:** Cardamom is used as the dried whole fruit, whose seeds carry the aroma; the seeds are separated and ground for blending. No extraction step is involved in the fruit or seed form; only an essential oil would require distillation.
 
-The fruit is harvested and **dried**; the aroma is carried in the **seeds**, which are separated from the husk and ground for blending. No extraction step is involved in the dried-fruit or seed form. For powder buyers, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The fruit is harvested and **dried**; the aroma is carried in the **seeds**, which are separated from the husk and ground for blending. No extraction step is involved in the dried-fruit or seed form. For powder, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines cardamom quality?
 
@@ -86,7 +86,7 @@ The quality factors, in rough order:
 3. **Freshness** — the volatile camphoraceous character fades with age.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized grading system**; the buyer evaluates the physical condition and aroma of the lot.
+There is **no standardized grading system**; the lot is judged by its physical condition and aroma.
 
 ## Common forms
 
@@ -127,57 +127,21 @@ The 豆蔻 name and the ginger family both hide real botanical differences. See 
 
 > **Direct answer:** The main risk is misidentification under the shared 豆蔻 name: 白豆蔻, 草豆蔻, nutmeg (肉豆蔻), and green cardamom are different plants. The Chinese name and botanical name on the label resolve which is meant.
 
-Cardamom is not a heavily faked, expensive aromatic; its risk is the **shared 豆蔻 name**. A buyer who wants the white cardamom (*Amomum kravanh*) should not unknowingly receive 草豆蔻 (*Alpinia*), nutmeg (肉豆蔻, *Myristica fragrans*), or green cardamom (*Elettaria*) — all different plants with different scents and uses. The Chinese name (白豆蔻 vs 草豆蔻 vs 肉豆蔻) or the botanical name resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
+Cardamom is not a heavily faked, expensive aromatic; its risk is the **shared 豆蔻 name**. A reader who wants the white cardamom (*Amomum kravanh*) should not unknowingly receive 草豆蔻 (*Alpinia*), nutmeg (肉豆蔻, *Myristica fragrans*), or green cardamom (*Elettaria*) — all different plants with different scents and uses. The Chinese name (白豆蔻 vs 草豆蔻 vs 肉豆蔻) or the botanical name resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Cardamom is a cultivated Southeast Asian spice with no equivalent wild-harvest scarcity concern to spikenard or agarwood; the sourcing question is species verification and seed quality rather than conservation.
 
-White cardamom is a cultivated spice, and the related Java white cardamom is grown in cultivation (Hainan, southern Yunnan). There is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm which "cardamom" is meant and evaluate seed fullness and aroma. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Cardamom is used in Chinese cooking and spiced-broth traditions, in traditional materia medica, and as a blending spice in classical-style incense. Its commercial weight is led by the culinary and materia-medica channels; incense is a smaller, specialist use.
-
-Cardamom reaches the market through distinct channels:
-
-- **Culinary** — 白豆蔻 is a warming spice in Chinese cooking and spiced-broth traditions.
-- **Materia medica** — 白豆蔻 is a standard dried fruit of the Chinese herbal trade.
-- **Blended incense** — 白豆蔻 is a classical blending spice in *huxiang* formulas.
-
-The culinary and materia-medica channels dominate its commercial weight; incense is a smaller, specialist application.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm which "cardamom" is meant (白豆蔻 vs 草豆蔻 vs nutmeg), then judge seed fullness, aroma, and freshness — and, for powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Identity** — confirm 白豆蔻 (*Amomum kravanh*) rather than 草豆蔻 (*Alpinia*), nutmeg (肉豆蔻), or green cardamom (*Elettaria*); a real seller names the Chinese or botanical name.
-- **Seed fullness** — well-filled, fragrant, camphoraceous seeds are the benchmark.
-- **Freshness** — the camphoraceous character fades with age.
-- **Powder consistency** — for powder, confirm particle size and moisture, and test a sample against your formula.
+White cardamom is a cultivated spice, and the related Java white cardamom is grown in cultivation (Hainan, southern Yunnan). There is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm which "cardamom" is meant and evaluate seed fullness and aroma. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, white cardamom's defining constraint is its classical role: it is a blender, not a burn. Its warm pungency supports a formula but can dominate or vanish depending on dosage and batch, so consistency — of aroma, particle size, moisture, and identity — matters more than any grade name.
-
-From a manufacturing perspective, 白豆蔻 is a **blender whose value is warm pungency, not volume**. The classical manuals are explicit that it is a 和香 ingredient, not a burning material — which means its role in a modern formula is a supporting accent whose character must stay reproducible, and whose identity must not slip between the several "cardamoms."
-
-Two points follow:
-
-- **Identity is a specification, not a detail.** 白豆蔻, 草豆蔻, and nutmeg are different plants sharing a name; a formula built on one will not reproduce if the source switches silently to another. The Chinese name or botanical name is part of the specification.
-- **Particle size and moisture affect behavior, not just aroma.** In powder, particle size changes how the material packs, draws air, and burns; moisture changes how it grinds and how the finished stick dries. The right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **correctly identified, consistently full-seeded 白豆蔻** used as a measured blending accent — not a rare spice, but one that must be reorderable to the same specification.
-
 ## Summary
 
-White cardamom (白豆蔻, *báidòukòu*) is the dried fruit of *Amomum kravanh*, a ginger-family (Zingiberaceae) spice of Southeast Asia. It is valued for a warm, camphoraceous, eucalyptus-like aroma, and the classical *Xiangcheng* (香乘) specifies its incense role as a blending spice (和香), not a solo burn. Its quality rests on seed fullness, aroma, and freshness rather than a formal grade, and its naming risk is confusion with katsumadai (草豆蔻), nutmeg (肉豆蔻), and green cardamom — all different plants. In incense it is a blending accent, not a lead; commercially, identity and batch consistency outweigh volume.
+White cardamom (白豆蔻, *báidòukòu*) is the dried fruit of *Amomum kravanh*, a ginger-family (Zingiberaceae) spice of Southeast Asia. It is valued for a warm, camphoraceous, eucalyptus-like aroma, and the classical *Xiangcheng* (香乘) specifies its incense role as a blending spice (和香), not a solo burn. Its quality rests on seed fullness, aroma, and freshness rather than a formal grade, and its naming risk is confusion with katsumadai (草豆蔻), nutmeg (肉豆蔻), and green cardamom — all different plants. In incense it is a blending accent, not a lead; in trade, identity and batch consistency outweigh volume.
 
 ## FAQ
 

@@ -47,7 +47,7 @@ Three unrelated plants converge on the same molecule, anethole, and their Chines
 
 **This page describes 茴芹 = anise, *Pimpinella anisum*.** When a classical Chinese text or formula says 茴香, it means fennel (or star anise), not this Western anise; the anethole sweetness is the shared thread.
 
-This three-way convergence is the single most useful fact about anise for anyone working with 茴-named materials: the shared name element 茴 records a *shared smell*, not a shared plant. A buyer, formulator, or reader who treats 茴芹, 小茴香, and 大茴香 as interchangeable has collapsed three distinct botanical species into one aroma, and the classical incense record — which uses 茴香 for fennel — does not map onto this Western seed at all.
+This three-way convergence is the single most useful fact about anise for anyone working with 茴-named materials: the shared name element 茴 records a *shared smell*, not a shared plant. A reader or formulator who treats 茴芹, 小茴香, and 大茴香 as interchangeable has collapsed three distinct botanical species into one aroma, and the classical incense record — which uses 茴香 for fennel — does not map onto this Western seed at all.
 
 ## Botanical source and origin
 
@@ -61,7 +61,7 @@ The name itself is a modern coinage: 茴芹 was built to give the Western spice 
 
 > **Direct answer:** The name 茴芹 is a modern botanical coinage — 茴 ("the anethole-scented group") + 芹 ("celery/carrot-family herb") — not a classical term. It belongs to the modern Chinese vocabulary for imported aromatics, a different naming layer from the classical fennel (茴香) and star anise (大茴香).
 
-The name 茴芹 (huíqín) is transparent and modern: 茴 marks the anethole-scented group, and 芹 marks the carrot-family (celery-like) herb. It is a modern botanical term, not a classical 香材 name. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for the same aromatic register — fennel (茴香) and star anise (大茴香) — and 茴芹 sits *outside* that canon as a modern label for the Western seed. A buyer who hears "茴" should not assume a classical 香材; the specific name must be pinned to the specific species, and for anise that species is *Pimpinella anisum*.
+The name 茴芹 (huíqín) is transparent and modern: 茴 marks the anethole-scented group, and 芹 marks the carrot-family (celery-like) herb. It is a modern botanical term, not a classical 香材 name. This matters for disambiguation because Chinese has a separate, genuinely classical vocabulary for the same aromatic register — fennel (茴香) and star anise (大茴香) — and 茴芹 sits *outside* that canon as a modern label for the Western seed. A reader who hears "茴" should not assume a classical 香材; the specific name must be pinned to the specific species, and for anise that species is *Pimpinella anisum*.
 
 ## Why is it used in fragrance?
 
@@ -79,7 +79,7 @@ The ripe fruits are harvested and dried, producing the small, ridged, gray-green
 
 > **Direct answer:** Anise quality turns on anethole content and freshness. A good anise is clean, dry, and strongly licorice-sweet on crushing, without a musty or woody off-note. Because the whole fruit retains its aroma longer than ground powder, whole seed is the reference form for checking quality.
 
-For a buyer, the practical checks are: **anethole content** (a strong, clean licorice sweetness on crushing, not a faint or woody note), **freshness** (dry, aromatic fruit rather than stale, musty seed), and **form** (whole fruit retains its scent far longer than ground powder). The seed's small size and hard coat are natural protectors of the volatile anethole, which is why whole anise keeps better than most ground spices — and why the aroma-on-crushing test is the standard quality check.
+The practical checks are: **anethole content** (a strong, clean licorice sweetness on crushing, not a faint or woody note), **freshness** (dry, aromatic fruit rather than stale, musty seed), and **form** (whole fruit retains its scent far longer than ground powder). The seed's small size and hard coat are natural protectors of the volatile anethole, which is why whole anise keeps better than most ground spices — and why the aroma-on-crushing test is the standard quality check.
 
 ## Common forms
 
@@ -109,9 +109,9 @@ The distinction between whole seed and powder is a shelf-life point, not a quali
 
 The Western culinary and flavoring use is unambiguous and well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Apiaceae placement, and the anethole sweet-licorice character — plus the three-way disambiguation that is the page's core factual contribution.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 茴芹 is anise (*Pimpinella anisum*); expect a sweet, licorice, warm, spicy scent, the purest anethole note of the 茴 group.
 - Distinguish it from fennel (小茴香, *Foeniculum vulgare*) and star anise (八角, *Illicium verum*) — three unrelated plants sharing a name element and an anethole sweetness.
@@ -131,18 +131,6 @@ Practical points for buyers:
 | Classical Chinese status | None (modern term) | Classical 茴香 | Classical 大茴香 |
 
 The three share the anethole register but are distinct species with distinct forms and characters — and only fennel and star anise belong to the classical Chinese vocabulary. See [fennel](/ingredients/fennel/), [star-anise](/ingredients/star-anise/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Anise is a "chemistry-family, not botany-family" case — the 茴 name cluster groups three unrelated plants by a single shared molecule, anethole. This makes anise the clearest lesson in the whole 茴 group: a shared name element records a shared smell, and assuming it records a shared plant is the exact error the classical 茴香 record invites.
-
-From a sourcing and editorial perspective, anise is most interesting for what the 茴 cluster reveals about how Chinese naming works — and where it fails. Three points follow:
-
-- **The 茴 group is a chemistry family, not a botanical family.** Anise (Apiaceae), fennel (Apiaceae), and star anise (Schisandraceae) are not closely related, yet they share one name element because they share one molecule, anethole. Chinese aromatic naming here is *olfactory*, grouping by smell rather than by plant. This is a genuinely useful editorial fact, because it explains why a single 茴 in a name cannot be trusted to identify a species — and why disambiguation is the first job, not the last.
-- **"Purest" is a formulation statement, not a ranking.** Anise carries the cleanest, most concentrated licorice note of the three, but that does not make it "better" — fennel's greener cast and star anise's resinous warmth are distinct registers for distinct jobs. For a formulator, the choice among the three is a *register choice*, and collapsing them into "licorice" discards exactly the information that matters.
-- **Modern-term provenance is itself the sourcing signal.** 茴芹 is a modern botanical coinage, not a classical 香材 — which means its presence in a modern Chinese fragrance is an *import*, not a continuation of a Chinese tradition. For a buyer, the practical reading is that "anise" in a Chinese-sourced material spec should be pinned to *Pimpinella anisum* specifically, because the classical 茴香 word points elsewhere.
-
-In our view, anise is best understood as the **purest anethole seed in a chemistry-family of three unrelated plants** — a Western spice whose Chinese name is modern, whose licorice note is the shared thread binding it to fennel and star anise, and whose sourcing conversation turns on register and species rather than on the shared 茴 name.
 
 ## Summary
 

@@ -55,7 +55,7 @@ This page records it honestly as a modern aromatic leaf — **no classical Chine
 
 > **Direct answer:** 桉叶 (ānyè) means "eucalyptus leaf" — 桉 "eucalyptus" + 叶 "leaf" — while the tree is 蓝桉 (lán'ān, "blue gum"). The name is modern and part-specific: it names the leaf, the fragrant part, rather than the tree's timber. This matters because eucalyptus is grown in China chiefly for timber, and the leaf is a secondary aromatic use.
 
-The Chinese terminology is modern and part-precise: 桉 (ān) is the eucalyptus (the genus *Eucalyptus*), and 叶 (yè) is the leaf, so 桉叶 names **the leaf specifically**. The tree itself is 蓝桉 (lán'ān), "blue gum," after its blue-gray bark. This part-precision is the practical point: eucalyptus in China is grown primarily as **plantation timber**, and the fragrant leaf — the aromatherapy material — is a secondary use. A buyer who specifies 桉叶 is asking for the leaf (and its oil), not the wood, and should confirm which *Eucalyptus* species is meant, since the genus is large and the leaf oils differ by species.
+The Chinese terminology is modern and part-precise: 桉 (ān) is the eucalyptus (the genus *Eucalyptus*), and 叶 (yè) is the leaf, so 桉叶 names **the leaf specifically**. The tree itself is 蓝桉 (lán'ān), "blue gum," after its blue-gray bark. This part-precision is the practical point: eucalyptus in China is grown primarily as **plantation timber**, and the fragrant leaf — the aromatherapy material — is a secondary use. A reader who specifies 桉叶 is asking for the leaf (and its oil), not the wood, and should confirm which *Eucalyptus* species is meant, since the genus is large and the leaf oils differ by species.
 
 ## The camphoraceous family (read this)
 
@@ -127,17 +127,6 @@ Because the genus *Eucalyptus* is large and the leaf oils differ by species, the
 
 The oil is the main commercial aromatic form, and it is potent and single-note in character.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should specify the species (*Eucalyptus globulus* vs others) and the form (oil vs leaf), and expect a sharp, camphoraceous, eucalyptol-fresh scent. Because eucalyptus is potent and single-note, it is a blending accent — dosed sparingly — and its provenance (a modern, introduced aromatic) should be understood rather than inflated.
-
-For a formulator or sourcing buyer:
-
-- **Species** — confirm *Eucalyptus globulus* (or specify another species); the oils differ, and "eucalyptus" alone is under-specified.
-- **Form** — oil, dried leaf, or accord; the oil is the main aromatic product.
-- **Character** — a sharp, clean, camphoraceous, eucalyptol-fresh note; confirm it is the leaf material, not the timber.
-- **Dosing** — eucalyptus is potent and top-note; specify it as a small blending accent, not a base.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Eucalyptus oil is concentrated; use as directed. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -154,21 +143,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 All three are "camphoraceous," but the shared adjective hides three different plants and chemistries. See [camphor (樟木)](/ingredients/camphor/) and [borneol (龙脑)](/ingredients/borneol/) for the full treatment.
 
-## Our Industry View
-
-> **Direct answer:** Eucalyptus's lesson is that "camphoraceous" names a chemistry, not a plant — and a modern, introduced aromatic must be sourced by species and understood as a crossover, not a classical 香材. The disciplined buyer names the species and the form (oil vs leaf) and doses the potent, single-note oil sparingly, rather than buying "eucalyptus" as a category.
-
-From a manufacturing and sourcing perspective, eucalyptus carries two lessons that run through every modern crossover in this encyclopedia:
-
-- **The note is a chemistry, not a plant.** "Camphoraceous" describes a sharp, cool, medicinal-fresh register shared by eucalyptus, camphor, and borneol — three different plants. A buyer who orders "something camphoraceous" is ordering a *register*, not a material, and the result could be an Australian leaf when they wanted a distilled crystal, or vice versa.
-- **The genus is not a spec.** *Eucalyptus* is a large genus, and the leaf oils differ by species. "Eucalyptus" alone does not say which oil, which eucalyptol level, or which character — the species (*E. globulus* and which chemotype) is the real specification.
-- **Provenance honesty is the editorial position.** Eucalyptus is a modern, introduced aromatic with no classical Chinese record, and this page says so plainly. That honesty — labeling a modern material as modern — is itself the point: it prevents a Western aromatherapy staple from being passed off as a classical 香材.
-
-In our view, the useful takeaway is procedural: **name the species, name the form, state the provenance, and dose a potent single-note oil sparingly** — and a "camphoraceous" material becomes fully specifiable instead of a source of confusion.
-
 ## Summary
 
-Eucalyptus (桉叶) is the leaf of *Eucalyptus globulus*, the blue gum, a myrtle-family (Myrtaceae) tree native to southeastern Australia and Tasmania and introduced to China as a 19th-century plantation timber. Its sharp, camphoraceous, eucalyptol-fresh note is a modern aromatherapy and fragrance material with no classical Chinese incense record, a provenance this page states plainly. It shares the "camphoraceous" register with camphor (樟脑) and borneol (龙脑) — three different plants, three chemistries — so the species and the form (oil vs leaf) are the buyer's real specification, and the potent, single-note oil is a blending accent, not a base.
+Eucalyptus (桉叶) is the leaf of *Eucalyptus globulus*, the blue gum, a myrtle-family (Myrtaceae) tree native to southeastern Australia and Tasmania and introduced to China as a 19th-century plantation timber. Its sharp, camphoraceous, eucalyptol-fresh note is a modern aromatherapy and fragrance material with no classical Chinese incense record, a provenance this page states plainly. It shares the "camphoraceous" register with camphor (樟脑) and borneol (龙脑) — three different plants, three chemistries — so the species and the form (oil vs leaf) are the reader's real specification, and the potent, single-note oil is a blending accent, not a base.
 
 ## FAQ
 

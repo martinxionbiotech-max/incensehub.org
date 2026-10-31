@@ -58,7 +58,7 @@ The bee origin matters for sourcing: honey is a *bee product*, and its character
 - **honey (蜂蜜)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). This entry.
 - **蜂蜡 / beeswax (蜜蜡)** — the wax of the honeycomb, used as a molding and coating material. Its own entry.
 
-The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them separately — 蜂蜜 then 蜜蜡 then 蜜蜂 — treating them as distinct products with distinct uses. A buyer should not conflate them: honey binds a powder into a dough; beeswax molds and coats a formed body. See [beeswax](/ingredients/beeswax/).
+The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them separately — 蜂蜜 then 蜜蜡 then 蜜蜂 — treating them as distinct products with distinct uses. A reader should not conflate them: honey binds a powder into a dough; beeswax molds and coats a formed body. See [beeswax](/ingredients/beeswax/).
 
 ## In Chinese tradition
 
@@ -117,40 +117,15 @@ There is no standardized grading ladder for incense honey; the practical signal 
 | raw honey (生蜜) | Rarely used as-is; too watery and unstable for binding |
 | refined honey (炼蜜) | The standard 合香 binder, simmered to remove foam and water |
 
-The distinction is one of processing, not of a different product — the same honey, refined. For a buyer or maker, the practical choice is 炼蜜.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should treat honey as a binder, not a fragrance, and specify refinement: 炼蜜 (refined) over 生蜜 (raw). The practical checks are moisture, viscosity, cleanliness, and stability — not floral variety or "flavor."
-
-For an incense maker or sourcing buyer:
-
-- **Role** — confirm you are buying honey as a *binder* (以蜜和香), not as a fragrance.
-- **Refinement** — specify refined honey (炼蜜), which binds more stably than raw 生蜜.
-- **Moisture and viscosity** — the binder should be thick and dry enough to hold a form; excess water invites slump and mold.
-- **Cleanliness** — freedom from foreign matter and fermentation.
-
-Because honey is a structural material, the buyer is effectively specifying a *working property* (bind strength and stability), and refinement is the decisive quality variable.
+The distinction is one of processing, not of a different product — the same honey, refined. For a reader or maker, the practical choice is 炼蜜.
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** Honey is the clearest reminder in the classical canon that incense is a craft of process materials, not just aromatics. Its commercial value is entirely in its working properties — refinement, moisture, stability — not its flavor, which makes it the ingredient most likely to be misread by a buyer who thinks in fragrance terms.
-
-From a manufacturing perspective, honey is the purest example of a **process ingredient hiding in an aromatic canon.** Three points follow:
-
-- **The binder is the invisible structural layer.** Every 合香 pill or cake depends on a binder, and honey is the classical default. A buyer or maker who focuses only on the aromatics — the agarwood, the sandalwood, the flowers — is ignoring the material that actually holds the formula together. This is the "invisible ingredient" problem: the binder contributes almost nothing to the scent but everything to the physical integrity.
-- **Refinement is the whole specification.** The difference between a good and a poor incense honey is almost entirely 炼蜜 — whether the raw honey was properly simmered to remove foam and water. A sticky, wet, unrefined honey produces pills that slump and mold; a properly refined honey produces stable, storable forms. This is a *process* quality, not a *varietal* quality, and it is exactly where cheap incense honey fails.
-- **It is the ingredient most likely to be misread.** Because honey is also a food with a flavor, a buyer can easily slip into judging it by taste or floral variety. For incense, that is the wrong frame: the working properties — moisture, viscosity, stability — are what matter, and the floral source is secondary.
-
-In our view, the professional framing for honey is a **refined, stable, clean binder**, bought for its working properties, not its flavor — a reminder that half of incense craft is invisible structure, not scent.
-
 ## Summary
 
-Honey (蜂蜜) is the nectar-derived product of the honey bee (*Apis mellifera*), and the classical binder of 合香 — the material that turns loose incense powders into formable, storable pills and cakes (以蜜和香). It is a process ingredient, not an aromatic: its value is structural, and the classical manuals' key distinction is refined honey (炼蜜) over raw honey (生蜜) for a more stable bind. It is distinct from beeswax (蜂蜡), the same bees' comb wax used for molding and coating. Commercially, honey is bought for its working properties — refinement, moisture, stability — not its flavor.
+Honey (蜂蜜) is the nectar-derived product of the honey bee (*Apis mellifera*), and the classical binder of 合香 — the material that turns loose incense powders into formable, storable pills and cakes (以蜜和香). It is a process ingredient, not an aromatic: its value is structural, and the classical manuals' key distinction is refined honey (炼蜜) over raw honey (生蜜) for a more stable bind. It is distinct from beeswax (蜂蜡), the same bees' comb wax used for molding and coating. In trade, honey is bought for its working properties — refinement, moisture, stability — not its flavor.
 
 ## FAQ
 

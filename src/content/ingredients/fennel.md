@@ -48,7 +48,7 @@ The 茴香 name is the central naming trap in this entry:
 - **小茴香 (xiǎohuíxiāng)** — fennel, *Foeniculum vulgare*; "small fennel."
 - **大茴香 / 八角 (dàhuíxiāng / bājiǎo)** — star anise, *Illicium verum*; "large fennel," an unrelated evergreen tree.
 
-The two share the 茴香 element because they share the anethole sweetness, and a third relative — 茴芹 (anise, *Pimpinella anisum*) — completes the "anise-sweet" family under its own name. When a classical recipe lists 茴香 without qualifier, it is usually read as fennel, but a buyer should confirm which plant a label means. See [star anise](/ingredients/star-anise/) and [anise](/ingredients/anise/).
+The two share the 茴香 element because they share the anethole sweetness, and a third relative — 茴芹 (anise, *Pimpinella anisum*) — completes the "anise-sweet" family under its own name. When a classical recipe lists 茴香 without qualifier, it is usually read as fennel, but a reader should confirm which plant a label means. See [star anise](/ingredients/star-anise/) and [anise](/ingredients/anise/).
 
 ## Where does fennel come from?
 
@@ -68,7 +68,7 @@ Fennel is sweet and anise-like — warm, herbaceous, and softly licorice-scented
 
 Fennel's incense role is documented through classical formula rather than solo use:
 
-- **合香 supporting note:** 茴香 is listed in classical blended-incense formulas — most notably the Shouyang princess's plum incense (寿阳公主梅花香), where it contributes warm spice-and-sweetness alongside clove bark and rosewood.
+- **合香 supporting note:** 茴香 is listed in classical blended-incense formulas — above all the Shouyang princess's plum incense (寿阳公主梅花香), where it contributes warm spice-and-sweetness alongside clove bark and rosewood.
 - **Never a lead material:** fennel is a food-adjacent sweetener of blends, not a base or a self-sufficient fragrance.
 
 See the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/) for the formula context.
@@ -77,7 +77,7 @@ See the [Shouyang princess plum recipe](/blog/shouyang-princess-plum-recipe/) fo
 
 > **Direct answer:** Fennel is processed by drying the ripe fruit, which is used whole or ground. There is no extraction step in the whole/ground form; for incense blending it is ground to powder, with particle size and moisture depending on the formula.
 
-The essential step is simple: the ripe fruit is harvested and **dried** to a stable, storable form, then used whole or ground. For powder buyers, the same practical variables as any seed spice apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and seed-spice powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
+The essential step is simple: the ripe fruit is harvested and **dried** to a stable, storable form, then used whole or ground. For powder, the same practical variables as any seed spice apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and seed-spice powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
 
 ## What determines fennel quality?
 
@@ -105,7 +105,7 @@ The distinction is functional, not a quality statement — though whole fruit ke
 
 - **Culinary spice:** 小茴香 is a staple of Chinese braising and spice blends, valued for its warm, sweet, anise-like character. **Historical Record** — documented culinary use.
 - **Materia medica:** 小茴香 appears in traditional Chinese medicine as a warming aromatic; Flora of China notes the stem, leaves, and fruit are used as the dietary herb "xiao hui xiang" to aid digestion. **Traditional Use** — traditional materia-medica language, not modern clinical evidence.
-- **Incense context:** 茴香 is listed as an ingredient in classical 合香 formulas — most notably the Shouyang princess's plum incense (寿阳公主梅花香), where it acts as a warm spice-and-sweetness note alongside clove bark and rosewood. **Historical Record** — documented formula use.
+- **Incense context:** 茴香 is listed as an ingredient in classical 合香 formulas — above all the Shouyang princess's plum incense (寿阳公主梅花香), where it acts as a warm spice-and-sweetness note alongside clove bark and rosewood. **Historical Record** — documented formula use.
 
 ## Traditional use vs modern evidence
 
@@ -129,39 +129,13 @@ The three are distinct plants that meet on the anethole molecule. See [star anis
 
 Fennel is an inexpensive spice, so adulteration is not the same concern as with agarwood. The real risk is **misidentification through the shared 茴香 name**: a label that says only 茴香 could mean fennel or star anise. Specifying *Foeniculum vulgare* resolves it.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the scientific name (*Foeniculum vulgare*), prefer whole fruit for aroma retention, and check for a strong, clean sweet-anise scent. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Foeniculum vulgare*; the shared 茴香 name makes this the first check.
-- **Form** — whole fruit retains anethole better than pre-ground; each behaves differently in a blend.
-- **Aroma** — a strong, clean sweet-anise scent; the primary quality indicator.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, fennel is a warm sweet-spice supporting note, not a base. Its value is a food-adjacent sweetness that rounds a blend — but because it is a volatile-spice note, whole-fruit storage and dose matter more than the nominal name.
-
-From a manufacturing perspective, fennel's defining traits are **sweetness** and **volatility**. It supplies a warm, food-adjacent sweetness that softens sharper spices and resins, but its anethole is volatile, so the material fades if stored ground for long.
-
-Two points follow:
-
-- **It is a supporting note, not a base.** Fennel rounds and sweetens a blend but will not carry it. A buyer who expects it to lead a fragrance will be disappointed, while one who doses it as a sweet-spice accent gets real value.
-- **Aroma retention is the formulation variable.** Because anethole is volatile, whole-fruit storage and grinding-to-order matter; the practical dose and particle-size targets **depend on formulation**, so a figure that works in one factory does not transfer to another.
-
-In our view, fennel's commercial value lies in its role as a **correctly identified, whole-fruit, sweet-spice accent** used to round classical and modern blends — a supporting spice whose real value is its anethole freshness, not its price.
-
 ## Summary
 
-Fennel (小茴香) is the dried ridged fruit of *Foeniculum vulgare*, an Apiaceae herb native to the Mediterranean and cultivated throughout China, valued for a sweet, anise-like anethole aroma it shares with the unrelated star anise and anise. In Chinese tradition it is a culinary spice, a materia-medica warming aromatic, and a documented 合香 supporting note in 寿阳公主梅花香. Its main identification risk is the shared 茴香 name with star anise. In incense it is a warm, sweet supporting note, not a base; commercially, correct identification and whole-fruit aroma retention outweigh price.
+Fennel (小茴香) is the dried ridged fruit of *Foeniculum vulgare*, an Apiaceae herb native to the Mediterranean and cultivated throughout China, valued for a sweet, anise-like anethole aroma it shares with the unrelated star anise and anise. In Chinese tradition it is a culinary spice, a materia-medica warming aromatic, and a documented 合香 supporting note in 寿阳公主梅花香. Its main identification risk is the shared 茴香 name with star anise. In incense it is a warm, sweet supporting note, not a base; in trade, correct identification and whole-fruit aroma retention outweigh price.
 
 ## FAQ
 

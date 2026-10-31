@@ -113,17 +113,6 @@ The quality factors, in rough order:
 - **Historical Record** — juniper's long Western use (gin, aromatic wood, bath products) is a documented modern practice, not a Chinese classical tradition.
 - **Scientific Evidence** — the botanical identity of *Juniperus communis* (Cupressaceae) and its near-global cool-temperate distribution are documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should expect a woody, piney, resinous, fresh character, confirm the species (*Juniperus communis* rather than a "cedarwood" juniper), and check freshness of the volatile aroma. It is a modern aromatic, not a classical Chinese material — so verify any claim of antique provenance.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — 杜松 is common juniper (*Juniperus communis*); distinguish it from the *Juniperus* species traded as "cedarwood" (such as *J. virginiana*).
-- **Freshness** — a clean, bracing, piney-resinous note; reject flat, faded material.
-- **Part** — specify wood, needles, or berries, as they carry different balances of the same character.
-- **Provenance honesty** — it is a modern cross-over; treat any claim of antique Chinese lineage with skepticism.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -141,21 +130,9 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 See [cedar](/ingredients/cedar/), [thuja](/ingredients/thuja/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** Juniper's commercial lesson is that a material can enter a tradition from outside it and still be fully legitimate — provided the label is honest about that entry. It is a bright, cheap, reliable conifer note; the buyer's real risk is not quality but provenance inflation, where a modern Western aromatic is dressed up as a classical Chinese 香材.
-
-From a manufacturing perspective, juniper is a case in **provenance honesty rather than sourcing difficulty**:
-
-- **It is abundant and cheap, and that is its strength.** As the world's most widely distributed conifer, juniper is a dependable, low-cost evergreen note. A manufacturer can build a repeatable product on it without the scarcity anxiety of agarwood or 崖柏.
-- **The risk is narrative, not material.** The temptation with any modern aromatic is to attach an invented antique lineage to justify a premium. With 杜松, that would be fabrication — it has no classical Chinese incense history. The disciplined approach is to present it as what it is: a modern, Western-origin conifer note, and let it earn its place on aroma and cost rather than story.
-- **Know the "cedarwood" trap.** Because trade "cedarwood" often means a *Juniperus*, juniper and cedar are routinely confused in sourcing. Pinning down the species is the practical first step.
-
-In our view, juniper is a clean, bright, reliable conifer whose honest framing is itself the useful discipline: buy it by species, price it by its real abundance, and resist the temptation to invent a classical origin it never had.
-
 ## Summary
 
-杜松 (*Juniperus communis*) is the common juniper, the world's most widely distributed conifer, best known for the berries that flavor gin and as a clean, piney, resinous aromatic wood and needle material. It is a modern cross-over into Chinese incense — absent from the 香乘 and the 本草 canon, and not a native Flora-of-China species — so its value is a bright, abundant evergreen note rather than any classical lineage. For a buyer the practical checks are species (versus "cedarwood" junipers), freshness of the volatile aroma, and an honest framing that does not inflate a Western aromatic into a Chinese classical 香材.
+杜松 (*Juniperus communis*) is the common juniper, the world's most widely distributed conifer, best known for the berries that flavor gin and as a clean, piney, resinous aromatic wood and needle material. It is a modern cross-over into Chinese incense — absent from the 香乘 and the 本草 canon, and not a native Flora-of-China species — so its value is a bright, abundant evergreen note rather than any classical lineage. For a reader the practical checks are species (versus "cedarwood" junipers), freshness of the volatile aroma, and an honest framing that does not inflate a Western aromatic into a Chinese classical 香材.
 
 ## FAQ
 

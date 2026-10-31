@@ -98,7 +98,7 @@ The historical processing was the harvest-and-dry of the castor sacs: the secret
 | Castoreum tincture | Diluted in alcohol, historical perfumery form |
 | Synthetic castoreum | A modern reconstruction of the leathery-smoky scent |
 
-The first two are historical animal forms; the last is the modern material that replaced them. For a contemporary buyer, "castoreum" means the synthetic.
+The first two are historical animal forms; the last is the modern material that replaced them. For the contemporary reader, "castoreum" means the synthetic.
 
 ## In Western tradition (historical)
 
@@ -116,33 +116,21 @@ The first two are historical animal forms; the last is the modern material that 
 
 The historical Western perfumery use is documented; no medical claims are made, and the page states plainly that castoreum is historical context only.
 
-## Conservation and sourcing notes
+## Conservation notes
 
 > **Direct answer:** Castoreum is a historical Western perfumery fixative — not a Chinese incense material and not recommended today. Modern "castoreum" is almost entirely synthetic; the Eurasian beaver *Castor fiber* is a protected species in much of its range, so legitimate modern fragrance uses the synthetic, not the animal material.
 
-Practical points for buyers:
+Practical points:
 
 - 海狸香 is castoreum, a historical Western perfumery fixative — not a Chinese incense material, and not recommended today.
 - Modern "castoreum" is almost entirely a synthetic reconstruction of the animalic-leathery scent, not the animal secretion.
 - The Eurasian beaver *Castor fiber* is a protected species in much of its range; legitimate modern fragrance uses the synthetic, not the animal material.
 
-The ethical and legal point is straightforward: the animal source is protected, so the *only* legitimate modern "castoreum" is the synthetic. Unlike musk and civet, which are CITES-listed, the beaver's protection is national and regional (rather than CITES), but the practical consequence for a buyer is the same — the animal material is not a legitimate contemporary option. See [natural vs synthetic incense](/blog/natural-vs-synthetic-incense/) for how this substitution logic applies across the material families.
+The ethical and legal point is straightforward: the animal source is protected, so the *only* legitimate modern "castoreum" is the synthetic. Unlike musk and civet, which are CITES-listed, the beaver's protection is national and regional (rather than CITES), but the practical consequence for the reader is the same — the animal material is not a legitimate contemporary option. See [natural vs synthetic incense](/blog/natural-vs-synthetic-incense/) for how this substitution logic applies across the material families.
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Castoreum is the "imported outsider" of the animal-fixative trio — a Western leather fixative with no Chinese incense pedigree, whose Chinese name is a modern coinage, and whose animal source is protected by national/regional law rather than CITES. Its lesson is a provenance discipline: not every "classical" fixative belongs to the Chinese canon, and the responsible framing is to name the tradition accurately.
-
-From a sourcing and editorial perspective, castoreum adds a distinct lesson to the animal-fixative family. Three points follow:
-
-- **Not all animal fixatives are Chinese.** Musk (麝香) and civet (灵猫香) have genuine classical Chinese standing; castoreum does not — it is a Western leather fixative, and its Chinese name 海狸香 is a modern descriptive coinage. This is a provenance fact, not a minor detail: an encyclopedia claiming Chinese incense authority must say plainly which of its animal materials belong to the Chinese canon and which do not. Castoreum is the imported outsider.
-- **Protection takes different legal forms.** Where musk and civet are CITES-listed, the beaver's protection is national and regional — legally protected across much of Europe and Asia, with subspecies ranging to Critically Endangered. The legal instrument differs, but the buyer's conclusion is identical: the animal material is not a legitimate contemporary option, and the synthetic is the only responsible choice.
-- **The synthetic is the entire modern story.** "Castoreum" today is a synthetic reconstruction of a leathery-smoky accord — used, notably, in both fragrance and flavor. The buyer's check is not rarity but accuracy: confirm it is the synthetic, and do not accept a label implying animal origin.
-
-In our view, castoreum is best framed as the **Western, synthetic-only member of the animal-fixative family** — a material whose correct description includes three explicit statements: Western (not Chinese) provenance, protected animal source, and synthetic modern reality. The discipline it teaches is to name a material's tradition accurately rather than folding everything into a generic "animal fixative" category.
 
 ## Summary
 

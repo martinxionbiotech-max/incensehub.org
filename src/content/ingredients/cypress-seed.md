@@ -127,40 +127,17 @@ The incense use is documented in the classical recipe record. Medicinal uses are
 
 They are **the same tree, different parts**: the seed carries the classical incense fame, while the leaf is chiefly a materia-medica material. See [arborvitae leaves (侧柏叶)](/ingredients/platycladus-leaves/).
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - The classical material is green, unopened seeds; the roasted, honey-wine-treated seed is the finished incense material.
 - Distinguish 柏子 (the seed) from 侧柏叶 (the leafy branchlets) — different parts with different uses.
 - 柏子香 is a loose roasted-seed material burned on charcoal or an electric heater, not a pressed stick.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish the seed (柏子, the incense material) from the leafy branchlets (侧柏叶), expect clean, green, unopened seeds for the classical recipe, and understand that 柏子香 is a loose roasted-seed material, not a stick.
-
-For a sourcing or incense buyer:
-
-- **Part** — confirm 柏子 (the seed), not 侧柏叶 (the leafy branchlets).
-- **Seed condition** — clean, green, unopened seeds for the classical recipe.
-- **Form** — 柏子香 is a loose material burned on charcoal or a heater, not a pressed stick.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, cypress seed's value is cultural, not material — it is the accessible everyman ingredient, and its appeal is its humility and simplicity. As a commercial product it is a niche, single-material loose incense, not a scalable lead note.
-
-From a manufacturing perspective, cypress seed's commercial logic is **cultural, not scalable**:
-
-- **Its value is the story, not the material.** 柏子香 is prized for being cheap and simple — the anti-luxury. That is a positioning asset for a heritage or "scholar's" product line, but it does not translate into a premium lead note.
-- **It is a single-material loose incense.** The finished product is roasted seed burned on a heater or charcoal, not a blended stick; the processing (scald, wine, honey, dry) is simple and the result is deliberately unmeasured, so the right treatment **depends on the maker's intent** rather than a fixed specification.
-
-In our view, the commercial sweet spot is a **heritage-positioned, clearly labeled 柏子香** that sells the scholar's story — accessibility, simplicity, humility — rather than a commodity seed sold on aroma intensity.
 
 ## Summary
 

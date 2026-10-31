@@ -31,7 +31,7 @@ related: ["agastache-rugosa", "perilla"]
 
 > **Direct answer:** Elsholtzia is minty and herbal, with a spicy, faintly sweet, camphor-adjacent lift — a fresh green note close to mint and perilla but with its own softer, warmer cast. In incense it reads as a clean green aromatic that freshens a blend rather than leading it.
 
-香薷 is minty and herbal, with a spicy, faintly sweet, camphor-adjacent lift — a fresh green note close to mint and perilla but with its own softer, warmer cast. It is not as sharply cooling as mint, nor as anise-leaning as perilla. In incense it reads as a *clean green aromatic* that freshens a blend, a bright herbal top or mid note in the mint-family register. Because the note is volatile, its contribution depends on when it is introduced and how much heat it meets — a point developed in the buyer notes below.
+香薷 is minty and herbal, with a spicy, faintly sweet, camphor-adjacent lift — a fresh green note close to mint and perilla but with its own softer, warmer cast. It is not as sharply cooling as mint, nor as anise-leaning as perilla. In incense it reads as a *clean green aromatic* that freshens a blend, a bright herbal top or mid note in the mint-family register. Because the note is volatile, its contribution depends on when it is introduced and how much heat it meets — a point developed in the identification notes below.
 
 ## Botanical identity
 
@@ -51,7 +51,7 @@ The herb was moved by Li Shizhen from the vegetable section into the fragrant-he
 
 ## The Lamiaceae green-aromatic triangle
 
-> **Direct answer:** elsholtzia (香薷), agastache (藿香), and perilla (紫苏) are three mint-family herbs whose green notes overlap closely enough that a buyer must distinguish them by species. Elsholtzia is minty-spicy and slightly sweet, agastache is minty-anise, and perilla is shiso-like and anise-leaning — three genera, one aromatic family.
+> **Direct answer:** elsholtzia (香薷), agastache (藿香), and perilla (紫苏) are three mint-family herbs whose green notes overlap closely enough that a reader must distinguish them by species. Elsholtzia is minty-spicy and slightly sweet, agastache is minty-anise, and perilla is shiso-like and anise-leaning — three genera, one aromatic family.
 
 The mint family (Lamiaceae) contributes a cluster of green aromatics to Chinese incense, and three of them — 香薷, 藿香, and 紫苏 — sit close enough in profile that their names are worth pinning to species:
 
@@ -88,7 +88,7 @@ The quality factors, in rough order:
 1. **Aroma intensity** — the minty-spicy, slightly sweet green note is the value; a clean, fresh scent beats a faded one.
 2. **Condition** — clean, well-dried herb, free of mold, excess stem, and foreign matter.
 3. **Freshness** — volatile oils fade with age and poor storage, so an older or badly stored batch reads flat.
-4. **Species clarity** — *Elsholtzia ciliata* (and relatives) rather than an unspecified "mint-family herb," so the buyer knows what green note is actually in hand.
+4. **Species clarity** — *Elsholtzia ciliata* (and relatives) rather than an unspecified "mint-family herb," so the reader knows what green note is actually in hand.
 
 There is no standardized commercial grading ladder for 香薷; the practical signal is the aroma on gentle warming, which should be minty-spicy and slightly sweet, not musty or faded.
 
@@ -118,28 +118,6 @@ The distinction is one of physical preparation (whole vs cut vs ground), not of 
 - **Scientific Evidence** — the plant's botanical identity and the volatile-oil chemistry that underlies the aroma are documented; we present no clinical or medical efficacy claims.
 
 The aromatic classification and culinary use are documented. Medicinal uses are traditional, not established clinical fact, and we make no medical claims.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species — *Elsholtzia ciliata* and relatives, not an unspecified mint-family herb — and then judge freshness by aroma: the herb should smell minty-spicy and slightly sweet, not musty or faded. Distinguish it from agastache and perilla, which share the green register but differ in species and note.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *Elsholtzia ciliata* (and relatives); distinguish from agastache (藿香) and perilla (紫苏), which overlap in the green register.
-- **Aroma** — minty-spicy and slightly sweet on gentle warming; a musty or faded note signals lost volatiles.
-- **Condition** — clean, well-dried aerial herb with minimal stem and foreign matter.
-- **Form** — whole herb vs cut vs powder, matched to how the blend introduces the note.
-
-## Our Industry View
-
-> **Direct answer:** Elsholtzia is a fresh, volatile green note whose commercial value is almost entirely about freshness and species clarity. Because its aroma is heat- and age-sensitive, a buyer should treat "香薷" as a freshness specification, not a static grade — and confirm which mint-family species is actually in hand.
-
-From a manufacturing perspective, 香薷 illustrates a general point about leafy green aromatics: the value is in a volatile note that the supply chain is working against. Two points follow:
-
-- **Freshness is the specification.** Unlike a resin or wood, whose aroma is relatively stable, a leafy herb loses its minty-spicy top note with age, heat, and poor storage. A buyer who specifies only "香薷" without checking aroma is buying a name, not a note. The practical test is smell on gentle warming — a flat or musty batch is a spent batch regardless of what the label says.
-- **Species clarity beats family proximity.** Three mint-family herbs (elsholtzia, agastache, perilla) share the green register, but they are different genera with different notes. In a repeatable blend, "a minty green herb" is not a specification; *Elsholtzia ciliata* is.
-
-In our view, 香薷 is a useful supporting green aromatic — buy it by species name, judge it by fresh aroma, and treat it as a top or mid note that brightens a blend rather than a material that anchors one.
 
 ## Summary
 

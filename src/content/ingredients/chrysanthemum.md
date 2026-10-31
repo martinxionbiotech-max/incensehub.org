@@ -44,13 +44,13 @@ Chrysanthemum belongs to the daisy family, Asteraceae. Two names carry the botan
 - ***Chrysanthemum morifolium*** — the cultivated chrysanthemum, an ancient horticultural complex of countless named forms bred for flower size, color, and bloom season. This is the source of the tea flower and the garden chrysanthemum.
 - ***Chrysanthemum indicum*** — the wild chrysanthemum, 野菊 (*yějú*, "wild chrysanthemum"), a perennial herb recorded by Flora of China at roughly 0.25–1 m tall with procumbent rhizomes. It is the wild progenitor stock behind the cultivated forms.
 
-In incense and tea the material of value is the **dried flower head**, not a root, wood, or resin. This matters for a buyer: chrysanthemum is a light floral material, structurally different from the woody and resinous aromatics it is often blended with. See [Chrysanthemum indicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857).
+In incense and tea the material of value is the **dried flower head**, not a root, wood, or resin. This matters for the reader: chrysanthemum is a light floral material, structurally different from the woody and resinous aromatics it is often blended with. See [Chrysanthemum indicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857).
 
 ## Chinese name and terminology
 
 > **Direct answer:** 菊花 (júhuā) is the standard Chinese name; 野菊 (yějú) specifically denotes the wild *Chrysanthemum indicum*. The name carries no single species precision — 菊花 covers many cultivated forms of *C. morifolium*, and the regional variety names signal grade and intended use more than a distinct aroma.
 
-The name 菊花 is broad, not a species label. Two terms a buyer should distinguish:
+The name 菊花 is broad, not a species label. Two terms a reader should distinguish:
 
 - **菊花 (júhuā)** — the general name for chrysanthemum, covering the many cultivated forms of *C. morifolium*.
 - **野菊 (yějú)** — the wild chrysanthemum, *C. indicum*, a related but distinct wild plant.
@@ -63,7 +63,7 @@ This looseness is typical of Chinese herbal naming: the name points to a class o
 
 Chrysanthemum is grown throughout China as a garden and crop plant. The wild *C. indicum* is a widespread perennial herb of East Asia, recorded by Flora of China across a broad range of provinces. The cultivated tea flower is identified not by a single origin but by its **regional variety name** — 杭白菊 (Hangzhou), 贡菊 (Huangshan), and others — which is also how the trade grades it (see Varieties below).
 
-## Varieties (a buyer's note)
+## Varieties (an identification note)
 
 "菊花" covers many cultivated forms of *C. morifolium*, and the named varieties differ:
 
@@ -83,7 +83,7 @@ Chrysanthemum is a supporting ingredient, not a solo statement. Its cool, dry, b
 
 > **Direct answer:** Chrysanthemum flowers are harvested and dried; the whole dried flower head is the commercial form. The exact drying method (sun, air, or low-temperature drying) and the resulting moisture and color depend on the producer and grade, so no single processing specification applies across the trade.
 
-The essential step is simple: the opened flower heads are harvested and **dried** to a stable, storable form. From there the material branches by end use — whole dried flowers for tea and display, or ground powder for blending into incense. For powder buyers, the same practical variables as any floral powder apply: particle size and moisture affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line (see Our Industry View below). The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The essential step is simple: the opened flower heads are harvested and **dried** to a stable, storable form. From there the material branches by end use — whole dried flowers for tea and display, or ground powder for blending into incense. For powder, the same practical variables as any floral powder apply: particle size and moisture affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line . The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines chrysanthemum quality?
 
@@ -97,7 +97,7 @@ The practical quality factors:
 4. **Freedom from foreign matter** — clean separation from stems, leaves, and debris.
 5. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized numerical grading system**; the regional variety names carry the grade signal, and the buyer evaluates the physical condition of the lot.
+There is **no standardized numerical grading system**; the regional variety names carry the grade signal, and the lot is judged by its physical condition.
 
 ## Common forms
 
@@ -141,43 +141,13 @@ Chrysanthemum and chamomile are **different plants in the same family** — a st
 
 Chrysanthemum is not an expensive, heavily faked aromatic in the way agarwood is; its risk is a **naming and identification matter**. The principal confusion is with chamomile, which shares the Asteraceae family and a loose floral-herbal resemblance but is a different genus with a different aroma and use. A label that names the genus resolves it. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Modern commercial applications
-
-> **Direct answer:** Chrysanthemum reaches the market mainly as tea and food, with a secondary role as a light herbal-floral incense material. The tea channel dominates its commercial weight; incense use is a smaller, supporting application.
-
-Chrysanthemum's commercial life is led by tea and food — the whole dried flower is a staple tisane across China and East Asia. Its incense role is secondary: a light, cooling herbal-floral accent in blends, useful where a non-sweet floral is wanted. For a sourcing buyer, this split matters because the **tea-grade and incense-grade markets value the flower differently** — tea buyers prize intact, uniformly colored flowers for steeping, while incense buyers care more about aroma on gentle heat and how the powder behaves in a formula.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the botanical source (*C. morifolium* vs *C. indicum*), the named variety, and the form — then judge physical condition: intact flowers, even color, clean aroma, and freedom from debris. For powder, test particle size and moisture against the formula rather than accepting a nominal grade.
-
-For an incense maker or sourcing buyer:
-
-- **Species and variety** — confirm *Chrysanthemum morifolium* and the named variety (杭白菊, 贡菊, etc.); a real seller can state it.
-- **Form** — whole flowers or powder; each behaves differently in a blend.
-- **Physical condition** — intact, evenly colored flowers with a clean floral-herbal scent and no debris or mold.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
-Chrysanthemum is food-grade and widely drunk as tea; however, incense combustion produces smoke and particulate matter — burn in a well-ventilated space. People with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though this is more relevant to tea than to incense. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, chrysanthemum is a precision modifier, not a base. Its value is that it supplies a cool, non-sweet floral without adding the sugar-weight of jasmine or rose — but the same lightness means it can vanish under heavier woods, so dosage, particle size, and batch consistency matter more than the variety name.
-
-From a manufacturing perspective, chrysanthemum's defining trait is **lightness** — which is both its value and its constraint. It adds an airy, cooling floral lift that heavier flowers cannot, but that very lightness means it is easily buried beneath woods and resins, so it must be dosed and blended deliberately rather than dropped in as an afterthought.
-
-Two points follow:
-
-- **It is a modifier, not a base.** Chrysanthemum will not carry a formula the way sandalwood or agarwood can. Its role is to adjust the top of a blend — to lighten and cool it. A buyer who expects it to anchor a formula will be disappointed; a buyer who uses it to tune a blend gets real value.
-- **Particle size and moisture affect behavior, not just aroma.** As a light floral powder, chrysanthemum is sensitive to the same grinding and drying variables as any powder; the right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clean, consistently dried, named-variety flower** used as a measured accent — not a rare or expensive ingredient, but one that rewards precision over quantity.
+Chrysanthemum is food-grade and widely drunk as tea. Incense combustion still produces smoke and particulate matter — burn in a well-ventilated space. People with ragweed-family (Asteraceae) allergies may wish to be cautious with chrysanthemum, though this is more relevant to tea than to incense. See our [safety guide](/safety/).
 
 ## Summary
 
-Chrysanthemum (菊花) is the dried flower of *Chrysanthemum morifolium* (with wild *C. indicum* as its progenitor), valued as a cool, dry, bittersweet herbal-floral — familiar as tea and cultural symbol, and useful in incense as a light, non-sweet supporting note. Its quality rests on flower completeness, color, aroma, and cleanliness rather than a formal grade, and its naming risk is confusion with chamomile, a different Asteraceae genus. In incense it is a precision modifier, not a base; commercially, consistency and correct dosing outweigh the variety name.
+Chrysanthemum (菊花) is the dried flower of *Chrysanthemum morifolium* (with wild *C. indicum* as its progenitor), valued as a cool, dry, bittersweet herbal-floral — familiar as tea and cultural symbol, and useful in incense as a light, non-sweet supporting note. Its quality rests on flower completeness, color, aroma, and cleanliness rather than a formal grade, and its naming risk is confusion with chamomile, a different Asteraceae genus. In incense it is a precision modifier, not a base; in trade, consistency and correct dosing outweigh the variety name.
 
 ## FAQ
 
@@ -205,7 +175,7 @@ See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese i
 ### Traditional Chinese use
 **Source:** this page records chrysanthemum described for the eyes and liver and "dispersing wind-heat," and its place among the Four Gentlemen (四君子) and the Double Ninth Festival (重阳节). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the named varieties (杭白菊 / 贡菊 / 亳菊 / 滁菊) signal grade and intended use. **Evidence type:** Trade terminology.
 
 ### Safety
@@ -217,7 +187,7 @@ See also: [mugwort](/ingredients/mugwort/), another herbal (non-sweet) Chinese i
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Laboratory confirmation | Requires analytical testing |
 | Health claims | Not established |
 

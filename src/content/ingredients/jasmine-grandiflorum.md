@@ -76,7 +76,7 @@ For perfumery, the freshly opened 素馨 flowers are picked and extracted — by
 
 > **Direct answer:** 素馨 quality turns on the intensity and richness of the flower's scent — a full, heady, white-floral character with the indolic depth that defines the perfumery jasmine. In absolute form, the quality is judged on the purity and richness of the floral note, not on the raw flower's appearance alone.
 
-For a buyer, the practical checks are: **scent intensity** (a full, heady, sweet white-floral character with the characteristic indolic depth), **richness** (the opulent, almost animalic undertone that separates 素馨 from the fresher 茉莉), and — for the absolute — **purity** (a clean floral note, not a synthetic or diluted substitute). Because 素馨's value is in its heady, indolic richness, a flat or merely "clean" jasmine note is likely the wrong material or a thinned product.
+The practical checks are: **scent intensity** (a full, heady, sweet white-floral character with the characteristic indolic depth), **richness** (the opulent, almost animalic undertone that separates 素馨 from the fresher 茉莉), and — for the absolute — **purity** (a clean floral note, not a synthetic or diluted substitute). Because 素馨's value is in its heady, indolic richness, a flat or merely "clean" jasmine note is likely the wrong material or a thinned product.
 
 ## Common forms
 
@@ -106,9 +106,9 @@ The absolute is the perfumery reference form; the fresh flower is the classical 
 
 The aromatic and incense use is documented in classical and modern perfumery records. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Oleaceae placement, and the sweet heady floral use — plus the 素馨/茉莉 species distinction that is the page's core.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Distinguish 素馨 (*Jasminum grandiflorum*) from 茉莉 (*Jasminum sambac*) — different jasmines with different scent character, and a label saying only "jasmine" is underspecified.
 - True jasmine absolute is costly and delicate; in incense the scent is often carried as an accord over a wood or resin base.
@@ -127,18 +127,6 @@ Practical points for buyers:
 | Classical record | Listed in 香乘 (心字香, 逗情香) | Listed in 香乘 (alongside 素馨) |
 
 The two are distinct species with distinct registers, listed separately in the classical record. See [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 素馨 is a "same-genus-different-species" case — "jasmine" is not one plant, and a label saying only "jasmine" underspecifies between the heady perfumery jasmine (素馨) and the fresh tea jasmine (茉莉). The classical 香乘 record, listing the two flowers side by side, is itself the evidence of the distinction.
-
-From a sourcing and editorial perspective, 素馨 is most interesting for the underspecification risk that the word "jasmine" itself creates. Three points follow:
-
-- **"Jasmine" is a genus, not a material.** 素馨 (*Jasminum grandiflorum*) and 茉莉 (*Jasminum sambac*) are different species with different scent characters, and the English word "jasmine" collapses them. A sourcing spec that says "jasmine" without the species is underspecified in exactly the way a spec saying "pepper" or "citrus" would be. The heady, indolic perfumery jasmine and the fresh, tea-like jasmine are not interchangeable.
-- **The classical record does the disambiguation for us.** 香乘 lists 素馨 and 茉莉 as separate flowers in the same formulas — 心字香 and 逗情香 — which is the classical evidence that the distinction was recognized. This is a source-quality point: a knowledge resource that cites the classical listing is citing the distinction itself, not merely asserting it.
-- **The indolic note is the real tell, and it carries a sourcing lesson.** 素馨's heady, almost animalic indolic depth is what separates it from 茉莉, and it is also the note that commercial perfumery often tames or brightens. For a buyer, this means the "jasmine" that arrives too clean and bright may be a thinned or reformulated product, not the full 素馨 absolute. The richness of the indolic note is the quality signal.
-
-In our view, 素馨 is best understood as the **heady, indolic perfumery jasmine in a genus that the word "jasmine" underspecifies** — a classical 香乘 flower that is also the Western fine-fragrance jasmine, distinct from the tea-scented 茉莉, and best sourced by species rather than by the shared name.
 
 ## Summary
 

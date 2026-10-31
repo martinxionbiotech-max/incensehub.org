@@ -55,7 +55,7 @@ Chinese itself distinguishes two "cinnamon" words that English flattens into one
 
 Both come from *Cinnamomum cassia*; the difference is grade and which layer of bark is used. In a Chinese incense or cooking context, "cinnamon" usually means cassia (桂皮) — strong and economical rather than the delicate Ceylon "true cinnamon." For the young twig of the same tree, see [cassia twig (桂枝)](/ingredients/cassia-twig/).
 
-## The "cinnamon vs cassia" distinction (buyer intelligence)
+## The "cinnamon vs cassia" distinction (identification note)
 
 > **Direct answer:** "Cinnamon" is an ambiguous name. Chinese cassia (*C. cassia*) is the strong, thick-barked standard in North America and Chinese cooking/incense; Ceylon cinnamon (*C. verum*) is milder, finer, and more expensive. Both are *Cinnamomum* barks; in a Chinese incense context, "cinnamon" means cassia.
 
@@ -128,47 +128,17 @@ We describe its aromatic and culinary use; we do **not** make medical claims.
 
 > **Direct answer:** The main buying risk is substitution — Ceylon cinnamon (*C. verum*) sold as, or confused with, Chinese cassia, and vice versa. Both are genuine *Cinnamomum* barks, but they differ in aroma, thickness, and price, so the label should name the species.
 
-The practical screening point is the **cassia vs Ceylon** distinction already covered above: both are real cinnamon barks, but a buyer who wants the strong, thick cassia of Chinese incense should not receive the milder, finer Ceylon type. The two are told apart by bark thickness (cassia is thicker and harder), aroma strength, and price. This is a species/labeling matter, not a counterfeit-versus-genuine issue in the way agarwood adulteration is.
+The practical screening point is the **cassia vs Ceylon** distinction already covered above: both are real cinnamon barks, but a reader who wants the strong, thick cassia of Chinese incense should not receive the milder, finer Ceylon type. The two are told apart by bark thickness (cassia is thicker and harder), aroma strength, and price. This is a species/labeling matter, not a counterfeit-versus-genuine issue in the way agarwood adulteration is.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Cassia is a cultivated tree, not a wild-harvested or endangered material, so its supply is renewable and stable. Sourcing should confirm the species (cassia vs Ceylon), the bark layer (桂皮 vs 肉桂), and the form.
 
-Chinese cassia is farmed in southern China and Vietnam, so unlike wild-harvested aromatics, it carries no meaningful conservation or legal risk. For a buyer, the practical questions are commercial: **which species**, **which bark layer** (桂皮 vs 肉桂), and **which form** (quill, strip, or powder). See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Cassia bark goes to spice and flavor use (including Chinese five-spice), incense blending, and — as a distilled oil — flavor and fragrance. The bark serves spice and incense; the oil serves flavor and fragrance as a separate product.
-
-- **Spice and flavor** — cassia is a core culinary spice and a component of Chinese five-spice (五香粉).
-- **Incense** — the bark and its powder are blended into sticks and cones as a warm-spice note.
-- **Flavor and fragrance oil** — cassia oil is distilled for flavor and fragrance applications, a separate product from the bark.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (Chinese cassia vs Ceylon cinnamon), the bark layer (桂皮 vs 肉桂), and the form (quill, strip, or powder). Ask for oil content where it matters, and request a sample against the formula rather than accepting a generic "cinnamon" label.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — Chinese cassia vs Ceylon cinnamon; a real seller names which.
-- **Bark layer** — 桂皮 (outer bark, economical) vs 肉桂 (inner bark, finer); the two differ in grade and price.
-- **Form** — quill, strip, or powder; each behaves differently in a blend.
-- **Aroma strength** — a warm, sweet-pungent scent; cassia should read stronger and thicker than Ceylon.
+Chinese cassia is farmed in southern China and Vietnam, so unlike wild-harvested aromatics, it carries no meaningful conservation or legal risk. For the reader, the practical questions are ones of identification: **which species**, **which bark layer** (桂皮 vs 肉桂), and **which form** (quill, strip, or powder). 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter — burn in a well-ventilated space. Cassia bark contains coumarin; this matters for large dietary consumption, not for incense use. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, cassia is a cheap, potent warm-spice accent — its value is controlled pungency, not rarity. The key variables are species, bark layer, and form consistency, because a strong note like cassia must be dosed carefully or it overpowers a blend.
-
-Cassia's commercial logic is the reverse of the premium aromatics: it is **abundant and strong**, so its value lies in consistent, economical pungency rather than scarcity.
-
-- **The name hides three different materials.** "Cinnamon" can mean Chinese cassia, Ceylon cinnamon, or — in a Chinese context — the bark (桂皮) versus the twig (桂枝). Each behaves differently in a blend, so a formula built on one will not reproduce if the source switches silently.
-- **Dosing is the constraint.** Cassia is potent and food-adjacent, so it is easy to overuse; the useful range is a small proportion in a compound. The right amount **depends on formulation** — what it is meant to warm, and how much pungency the finished incense should carry — so no single figure transfers between recipes.
-
-In our view, the commercial sweet spot is a **named species and bark layer, bought in a consistent form**, used as a controlled accent rather than a lead note.
 
 ## Summary
 
@@ -200,11 +170,11 @@ See also: [clove](/ingredients/clove/), its frequent spice partner, [mustard see
 ### Traditional Chinese use
 **Source:** this page records cassia bark's traditional warming-formula uses in Chinese medicine and its role in blended incense (合香). **Evidence type:** Historically documented — traditional materia-medica language, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the 桂皮 (guìpí) vs 肉桂 (ròuguì) grade/layer distinction and Chinese cassia vs Ceylon cinnamon (*C. verum*). **Evidence type:** Trade terminology.
 
 ### Authenticity / adulteration
-**Source:** the "cinnamon vs cassia" buyer note — both are *Cinnamomum* barks but differ in aroma and price. **Evidence type:** Practical screening.
+**Source:** the "cinnamon vs cassia" identification note — both are *Cinnamomum* barks but differ in aroma and price. **Evidence type:** Practical screening.
 
 ### Safety
 **Source:** incense combustion produces smoke and particulate matter; cassia bark contains coumarin (relevant to large dietary consumption, not incense use). **Evidence type:** Established.
@@ -215,7 +185,7 @@ See also: [clove](/ingredients/clove/), its frequent spice partner, [mustard see
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Authenticity test | Practical screening |
 | Health claims | Not established |
 

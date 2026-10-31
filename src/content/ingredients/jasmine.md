@@ -22,7 +22,7 @@ related: ["rose", "osmanthus"]
 | | |
 |---|---|
 | Chinese | 茉莉 (mòlì), 茉莉花 (mòlìhuā) |
-| Botanical source | *Jasminum* species — notably *J. sambac* |
+| Botanical source | *Jasminum* species — chiefly *J. sambac* |
 | What it is | A dried flower (not a wood or resin) |
 | Aroma | Sweet, floral, heady |
 | Traditional role | Scented tea, perfume, fragrance |
@@ -39,7 +39,7 @@ It is richer and "heavier" than a light floral: where chrysanthemum is dry and c
 
 > **Direct answer:** Jasmine is the flower of *Jasminum* species in the olive family (Oleaceae). The classic Chinese tea-and-fragrance jasmine is *Jasminum sambac*; the Western perfume jasmine is *Jasminum grandiflorum*. They are two species of the same genus with different scent character.
 
-"Jasmine" spans many *Jasminum* species, all in the olive family (Oleaceae). The two a buyer meets most often:
+"Jasmine" spans many *Jasminum* species, all in the olive family (Oleaceae). The two a reader meets most often:
 
 - ***Jasminum sambac*** — the small, white, tea-scented jasmine; the classic Chinese tea-and-fragrance species.
 - ***Jasminum grandiflorum*** — the Spanish or Poet's jasmine, larger-flowered and headier; the classic Western perfumery jasmine and the source of much jasmine absolute.
@@ -149,48 +149,15 @@ Jasmine's risks mirror rose's:
 - **Naming** — a label saying only "jasmine" is underspecified; 茉莉 (*J. sambac*) and 素馨 (*J. grandiflorum*) are different jasmines with different scent character.
 - **Absolute substitution** — genuine jasmine absolute is costly, so cheaper synthetic jasmine notes (built on benzyl acetate and related molecules) or extended naturals are common. This is legitimate when labeled; it is a problem only when sold as natural absolute.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Jasmine is a widely cultivated crop, not an endangered material, so its supply is stable. The practical sourcing questions are species, form, and — for the absolute — purity, since the expensive extract is the main point of substitution.
 
-Jasmine is farmed at scale for tea and fragrance, so it carries no conservation concern. The sourcing questions are commercial: **which species**, **which form** (fresh flowers, concrete, absolute, or tea), and — for the extract — **how pure**. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Jasmine serves scented tea (its largest single use), perfumery (as concrete and absolute), and incense (as a floral accord). The fresh flower scents tea; the extract serves fine fragrance; "jasmine" in incense is usually a rebuilt note.
-
-- **Tea** — jasmine tea (茉莉花茶) is one of the great scented teas of China.
-- **Perfumery** — jasmine concrete and absolute are prized natural fragrance materials.
-- **Incense** — "jasmine" appears as a floral accord over a wood or resin base.
-- **Aromatics** — jasmine notes appear widely in candles, room fragrance, and personal-care products.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (sambac vs grandiflorum), the form (flowers, absolute, or tea), and — for the extract — purity. In incense, confirm whether "jasmine" is natural or an accord, and request a sample against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — *J. sambac* vs *J. grandiflorum*; a real seller names which.
-- **Form** — fresh flowers, concrete/absolute, or tea; each has a different use.
-- **Purity** — for the absolute, price should match the claimed purity; genuine jasmine absolute is never cheap.
-- **Accord vs natural** — in incense, confirm whether "jasmine" is natural extract or a reconstructed accord.
+Jasmine is farmed at scale for tea and fragrance, so it carries no conservation concern. The sourcing questions are ones of identification: **which species**, **which form** (fresh flowers, concrete, absolute, or tea), and — for the extract — **how pure**. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space; avoid inhaling concentrated smoke. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, "jasmine" is usually a reconstructed accord, not raw flower — and that is the honest way to treat it. The key variables are species, form, and whether the note is natural or synthetic, because genuine jasmine absolute is too costly to be an economical incense ingredient.
-
-From a manufacturing perspective, jasmine is a floral whose **market form diverges from its natural form**, exactly as rose does. The flower is real, but in incense the note is almost always rebuilt, because genuine jasmine absolute is too expensive and too delicate to be a practical stick ingredient.
-
-Two points follow:
-
-- **Species is the first specification.** 茉莉 (*J. sambac*) and 素馨 (*J. grandiflorum*) are different jasmines with different registers — the first tea-like and fresh, the second opulent and heady. A formula built on one will not reproduce if the source switches to the other.
-- **The accord is not a defect, but it must be labeled.** A well-built jasmine accord is usually more stable and consistent than the natural extract, which varies by harvest and is prohibitively expensive. The requirement is honesty: natural or accord, stated plainly, with the price matching the claim.
-
-In our view, the commercial sweet spot is a **clearly labeled jasmine note — natural or accord — bought in a consistent form**, used as a romantic floral accent rather than a lead. The exact dosing **depends on formulation**.
 
 ## Summary
 
@@ -222,7 +189,7 @@ See also: [rose](/ingredients/rose/), [osmanthus](/ingredients/osmanthus/), [jas
 ### Traditional Chinese use
 **Source:** this page records jasmine tea (茉莉花茶) as traditionally China's oldest scented-flower tea, developed around the Song dynasty (960–1279) via 窨制 scenting. **Evidence type:** Historically documented — traditional use, not modern clinical evidence.
 
-### Commercial grading
+### Trade grading
 **Source:** the *J. sambac* vs *J. grandiflorum* species note and the "true absolute vs accord" distinction. **Evidence type:** Trade terminology.
 
 ### Safety
@@ -234,7 +201,7 @@ See also: [rose](/ingredients/rose/), [osmanthus](/ingredients/osmanthus/), [jas
 |---|---|
 | Botanical identity | Established |
 | Traditional use | Historically documented |
-| Commercial grading | Trade terminology |
+| Trade grading | Trade terminology |
 | Health claims | Not established |
 
 ## Sources

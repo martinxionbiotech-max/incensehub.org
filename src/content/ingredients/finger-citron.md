@@ -64,7 +64,7 @@ The citrus family is crowded in Chinese fragrance, and the finger citron is at t
 - **citron (香橼)** — *Citrus medica*, the parent species, the plain fragrant fruit.
 - **bergamot (佛手柑)** — *Citrus bergamia*, a *different* citrus entirely, whose Chinese name 佛手柑 ("finger-citron-like") is a calque of the finger citron. See [bergamot](/ingredients/bergamot/).
 
-The trap is 佛手柑: because 佛手 means "Buddha's hand," 佛手柑 *looks* like "finger citron," but it names the bergamot, a distinct species grown for its essential oil. The finger citron (佛手) and the bergamot (佛手柑) are not the same plant — a buyer must specify the species, not rely on the overlapping name.
+The trap is 佛手柑: because 佛手 means "Buddha's hand," 佛手柑 *looks* like "finger citron," but it names the bergamot, a distinct species grown for its essential oil. The finger citron (佛手) and the bergamot (佛手柑) are not the same plant — a reader must specify the species, not rely on the overlapping name.
 
 ## In Chinese tradition
 
@@ -124,39 +124,13 @@ There is no standardized grading system; fragrance, freshness, and rind conditio
 
 The whole fresh fruit is the incense-craft form; the others are food or secondary uses. The finger citron is not a burned material or an essential-oil crop in the classical tradition.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the material is the finger citron (佛手, *Citrus medica* var. *sarcodactylis*), not the plain citron (香橼) or the bergamot (佛手柑), and judge a fresh, thick, oil-rich rind with a strong citrus-floral scent. Expect a display fruit, not a burned incense material.
-
-For a buyer or sourcing reader:
-
-- **Identity** — confirm 佛手 is *Citrus medica* var. *sarcodactylis*, distinct from plain citron (香橼) and from bergamot (佛手柑).
-- **Freshness and fragrance** — a fresh, thick, oil-rich rind with a strong citrus-floral scent; the fragrance fades with drying.
-- **Role** — expect a 清供 display fruit and room fragrance, not a burned incense material or an oil.
-
-Because the finger citron is a display fruit whose value is evaporation, the buyer is effectively specifying **fragrant, fresh, intact rind** — and the naming trap (佛手 vs 佛手柑) is the main disambiguation risk.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** The finger citron is the clearest reminder that classical Chinese fragrance includes a whole non-combustion tradition — the 清供 room fragrance — that modern incense marketing largely ignores. Its value is the "fragrance of presence," and it has no burned-incense equivalent.
-
-From a manufacturing and sourcing perspective, the finger citron illustrates a category that modern incense commerce barely serves: **the fragrance-of-presence material.** Three points follow:
-
-- **Non-combustion is a real fragrance category.** The finger citron scents a room by evaporation, never by burning. This is a distinct logic — fragrance by presence — that the classical 清供 tradition embraced and that modern incense, with its focus on sticks, cones, and coils, largely ignores. It is a reminder that "incense" in the broad Chinese sense (香) includes materials that are smelled in place, not burned.
-- **The value is the rind's oil, and it is volatile.** Everything the finger citron is worth lives in the oil of its thick rind, and that oil fades with time. A fresh fruit is dramatically more fragrant than a dried one, so the commercial variable is freshness — the same volatility that governs citrus peels and light florals generally.
-- **The name is the biggest sourcing risk.** 佛手 vs 佛手柑 (finger citron vs bergamot) is a genuine confusion point, because the bergamot's Chinese name borrows the finger citron's. A buyer who does not specify the species can end up with the wrong citrus entirely. This is a disambiguation problem, not a quality problem.
-
-In our view, the professional framing for the finger citron is a **fresh, fragrant, correctly identified 清供 fruit** — a material whose value is honesty about its non-combustion role and its volatility, and whose chief risk is a name that overlaps with the bergamot.
-
 ## Summary
 
-Finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the "Buddha's hand" fingered variety of the citron, whose fruit splits into digit-like, oil-rich, intensely fragrant rind segments with almost no pulp. It is the classical scholar's-table offering (清供) fragrance fruit — scenting a room by evaporation, never by burning — and must be kept distinct from the plain citron (香橼) and, above all, from the bergamot (佛手柑), whose Chinese name borrows the finger citron's. Its commercial value is fresh, fragrant rind and honest non-combustion framing.
+Finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the "Buddha's hand" fingered variety of the citron, whose fruit splits into digit-like, oil-rich, intensely fragrant rind segments with almost no pulp. It is the classical scholar's-table offering (清供) fragrance fruit — scenting a room by evaporation, never by burning — and must be kept distinct from the plain citron (香橼) and, above all, from the bergamot (佛手柑), whose Chinese name borrows the finger citron's. Its value is fresh, fragrant rind and honest non-combustion framing.
 
 ## FAQ
 
@@ -166,7 +140,7 @@ Finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the "Buddha's ha
 
 **What does finger citron smell like?** Citrus and floral at once — a bright, sweet, lemony-floral rind scent that is more perfumed and less tart than an orange or pomelo. The fragrance comes from the thick rind and its oil, not the juice (the finger citron has almost no pulp), and it scents a room by evaporation rather than by burning.
 
-**Is finger citron (佛手) the same as bergamot (佛手柑)?** No — this is a classic naming trap. finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the fingered citron; bergamot (佛手柑) is *Citrus bergamia*, a different citrus grown for its essential oil. The bergamot's Chinese name borrows "佛手," so the two are easily confused. They are different species, and a buyer must specify which. See [bergamot](/ingredients/bergamot/).
+**Is finger citron (佛手) the same as bergamot (佛手柑)?** No — this is a classic naming trap. finger citron (佛手) is *Citrus medica* var. *sarcodactylis*, the fingered citron; bergamot (佛手柑) is *Citrus bergamia*, a different citrus grown for its essential oil. The bergamot's Chinese name borrows "佛手," so the two are easily confused. They are different species, and a reader must specify which. See [bergamot](/ingredients/bergamot/).
 
 **How is finger citron (佛手) used in Chinese culture?** As a scholar's-table offering (清供) fruit, displayed for its fragrance and its auspicious "hand of Buddha" form, especially around the New Year. Its oil-rich rind scents a room by presence and evaporation. It is a fragrance fruit for display, not a burned incense material, and it does not appear in the classical incense compendium 香乘.
 

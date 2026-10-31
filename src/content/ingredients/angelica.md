@@ -69,7 +69,7 @@ Flora of China places *Angelica dahurica* in the forest margins, valley grasslan
 
 > **Direct answer:** Angelica root is harvested, cleaned, dried, and then sliced or ground. No extraction step is involved in the root form; only an essential oil or extract would require distillation or solvent extraction.
 
-The root is **harvested, cleaned, and dried**, then either sliced (for use as root slices) or **ground to powder** (for blending into incense). No extraction step is involved in the dried-root form. For powder buyers, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The root is **harvested, cleaned, and dried**, then either sliced (for use as root slices) or **ground to powder** (for blending into incense). No extraction step is involved in the dried-root form. For powder, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines angelica quality?
 
@@ -82,7 +82,7 @@ The quality factors, in rough order:
 3. **Root thickness and maturity** — a sound, mature root (recalling the botanical "strongly aromatic" root) reads richer than thin or woody material.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized grading system**; the buyer evaluates the physical condition and aroma of the lot.
+There is **no standardized grading system**; the lot is judged by its physical condition and aroma.
 
 ## Common forms
 
@@ -123,57 +123,21 @@ The two are complements, not substitutes, in the Chinese tradition. See [angelic
 
 > **Direct answer:** The main risk is misidentification, not adulteration: "angelica" can mean 白芷, dong quai, or European angelica — three different species. The botanical name on the label resolves which is meant.
 
-Angelica is not a heavily faked, expensive aromatic in the agarwood sense; its risk is the **shared common name**. A buyer who wants the warm, herbal 白芷 for incense should not unknowingly receive dong quai (当归) or European angelica — related plants with different aromas and roles. The botanical name on the label resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
+Angelica is not a heavily faked, expensive aromatic in the agarwood sense; its risk is the **shared common name**. A reader who wants the warm, herbal 白芷 for incense should not unknowingly receive dong quai (当归) or European angelica — related plants with different aromas and roles. The botanical name on the label resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** *Angelica dahurica* is a cultivated medicinal and aromatic crop with no equivalent wild-harvest scarcity concern to spikenard or agarwood; the sourcing question is species verification and root quality rather than conservation.
 
-白芷 is a long-cultivated aromatic and medicinal root, and there is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm which *Angelica* species is meant and evaluate the root's aroma and soundness. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Angelica root is used in traditional materia medica, in blended incense, and in perfumery as a warm herbal base note. Its commercial weight is led by materia medica and incense blending rather than any single flagship product.
-
-Angelica reaches the market through distinct channels:
-
-- **Materia medica** — 白芷 is a standard dried root of the Chinese herbal trade.
-- **Blended incense** — 白芷 is a supporting body note in 合香 formulas.
-- **Perfumery** — the warm, herbal root note is used in some fragrance blends.
-
-The three channels value the root somewhat differently: the materia-medica trade prizes clean, intact root slices, while the incense buyer cares more about aroma on gentle heat and how the powder behaves in a formula.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Angelica dahurica*, not dong quai or European angelica), then judge the root's aroma, soundness, and cleanliness — and, for powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Angelica dahurica* (白芷) rather than *A. sinensis* (当归) or *A. archangelica*; a real seller names the species.
-- **Aroma** — the root should be warm, herbal, and sweet-bitter when gently warmed.
-- **Soundness and cleanliness** — freedom from rot, mold, and foreign matter.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
+白芷 is a long-cultivated aromatic and medicinal root, and there is no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm which *Angelica* species is meant and evaluate the root's aroma and soundness. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, 白芷 is a supporting body note, not a lead. Its value is in grounding a blend, and that role depends on consistency — of aroma, particle size, moisture, and batch-to-batch variation — more than on any rare or premium grading.
-
-From a manufacturing perspective, 白芷 is a **body-note ingredient whose value is consistency, not rarity**. It will not carry a formula the way sandalwood or agarwood can; its job is to deepen and ground a blend, which is exactly the role most vulnerable to batch-to-batch drift — a slightly stale or differently ground lot changes the blend's character without announcing itself.
-
-Two points follow:
-
-- **It is a supporting note, so consistency is the specification.** A formula that relies on 白芷 for body needs the *same* warm, herbal register every batch. A single fragrant lot proves little; what matters is that the next lot smells and behaves like the last.
-- **Particle size and moisture affect behavior, not just aroma.** In powder, particle size changes how the material packs, draws air, and burns; moisture changes how it grinds and how the finished stick dries. The right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **consistent, well-documented 白芷 with a confirmed species and a steady aromatic profile**, used as a supporting body note — not a rare root, but one that must be reorderable to the same specification.
-
 ## Summary
 
-Angelica (白芷, *báizhǐ*) is the dried, strongly aromatic root of *Angelica dahurica*, a stout Apiaceae herb of northern and eastern China. It is a classic supporting body note in Chinese 合香, valued for a warm, herbal, sweet-bitter root character that grounds a blend from below. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risk is confusion with dong quai (当归, *Angelica sinensis*) — same genus, different species. In incense it is a supporting note, not a lead; commercially, species verification and batch consistency outweigh rarity.
+Angelica (白芷, *báizhǐ*) is the dried, strongly aromatic root of *Angelica dahurica*, a stout Apiaceae herb of northern and eastern China. It is a classic supporting body note in Chinese 合香, valued for a warm, herbal, sweet-bitter root character that grounds a blend from below. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risk is confusion with dong quai (当归, *Angelica sinensis*) — same genus, different species. In incense it is a supporting note, not a lead; in trade, species verification and batch consistency outweigh rarity.
 
 ## FAQ
 
@@ -185,7 +149,7 @@ Angelica (白芷, *báizhǐ*) is the dried, strongly aromatic root of *Angelica 
 
 **What is angelica root used for in incense?** Angelica root contributes a warm, herbal base note to Chinese blended incense. In the 合香 tradition, it is one of the classical aromatic roots that add body and depth, supporting the woods and resins that anchor a formula. It also appears in traditional materia medica, where 白芷 is described for various uses, though those are treated as traditional rather than established clinical fact. In incense, its role is aromatic and cultural, not therapeutic.
 
-**Is angelica an expensive or heavily faked material?** No. Unlike agarwood, angelica root is not a rare, heavily adulterated aromatic. Its risk is misidentification, not counterfeiting: the English name "angelica" covers 白芷, dong quai (当归), and European angelica — three different species. A buyer's main job is to confirm the botanical name (*Angelica dahurica*) rather than to run authenticity tests.
+**Is angelica an expensive or heavily faked material?** No. Unlike agarwood, angelica root is not a rare, heavily adulterated aromatic. Its risk is misidentification, not counterfeiting: the English name "angelica" covers 白芷, dong quai (当归), and European angelica — three different species. The essential check is to confirm the botanical name (*Angelica dahurica*) rather than to run authenticity tests.
 
 See also: [angelica-sinensis (当归)](/ingredients/angelica-sinensis/), [calamus](/ingredients/calamus/), [mugwort](/ingredients/mugwort/), [asarum](/ingredients/asarum/) and the full [scent guide](/blog/scent-guide/).
 

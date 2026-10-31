@@ -65,7 +65,7 @@ The processing is a mucilage-release step: the dried tuber is pounded or soaked 
 
 > **Direct answer:** Bletilla quality is judged by its binding performance, not its scent. A good tuber is clean, firm, and releases strong mucilage when pounded and soaked — producing a paste that holds a shape firmly and burns evenly without adding odor.
 
-For a buyer, 白及 is judged by **function, not fragrance**: the dried tuber should be clean and firm, and it should release strong mucilage when pounded or soaked and mixed with water. The practical tests are how well the resulting paste forms and holds an incense shape, and whether the finished incense burns evenly without the binder imposing any scent. In modern incense, makko wood powder and other natural binders often serve the same role — 白及 is the classical Chinese answer to the same functional requirement.
+For the reader, 白及 is judged by **function, not fragrance**: the dried tuber should be clean and firm, and it should release strong mucilage when pounded or soaked and mixed with water. The practical tests are how well the resulting paste forms and holds an incense shape, and whether the finished incense burns evenly without the binder imposing any scent. In modern incense, makko wood powder and other natural binders often serve the same role — 白及 is the classical Chinese answer to the same functional requirement.
 
 ## Common forms
 
@@ -95,9 +95,9 @@ The forms are stages of one functional material — the dried tuber ground or po
 
 The binder use is documented in the classical recipe record. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the mucilage binder role, and the functional (not aromatic) place of 白及 in 合香.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Dried bletilla tuber should be clean and firm; the mucilage is released when it is pounded or soaked and mixed with water.
 - 白及 is a *binder*, not a fragrance — judge it by how well it forms and holds an incense shape, not by scent.
@@ -115,18 +115,6 @@ Practical points for buyers:
 
 The three are functional equivalents — binders that hold a blend and burn cleanly — chosen by tradition and availability. See [natural binders in incense](/blog/makko-natural-binders/) and [beeswax](/ingredients/beeswax/).
 
-## Our Industry View
-
-> **Direct answer:** Bletilla is the purest proof that 合香 is engineering, not just perfumery. A material chosen for its *absence* of scent — whose entire value is mucilage strength, clean burning, and shape retention — shows that a classical incense formula is a functional system with a hidden structural layer, invisible in the final aroma but decisive in manufacturing.
-
-From a manufacturing and sourcing perspective, 白及 is the most revealing of the functional materials because it is defined by what it does *not* contribute. Three points follow:
-
-- **The binder is the invisible layer of every formula.** A stick of incense is judged by its fragrance, but whether it holds its shape and burns evenly is decided by the binder — a material no one smells. 白及's near-scentless mucilage is the purest expression of this: the entire value is adhesive strength, clean burning, and shape retention, and none of it appears in the aroma profile.
-- **The 君臣佐使 "guide" role is a design decision, not a rank.** In the chief–minister–assistant–guide structure, 白及 is a guide (使) — it directs the blend's structure. This is not a lesser rank but a different function: the chief (君) carries the scent, the guide holds the form. A formula needs both, and a manufacturer who neglects the binder layer gets a blend that smells right but will not form or burn.
-- **"Binder quality" is a functional spec, not an aesthetic one.** For a buyer, 白及 should be judged by mucilage yield and burn behavior, not by appearance or scent. The sourcing conversation is therefore about *consistency of binding performance* — batch-to-batch mucilage strength — which is a very different question from the fragrance-led sourcing of an aromatic. See [incense manufacturing quality control](/blog/incense-manufacturing-quality-control/).
-
-In our view, bletilla is best understood as the **scentless structural foundation of classical 合香** — the material that proves a formula is an engineered system, where the binder's mucilage, not any aroma, is what lets the fragrance exist in solid, burnable form.
-
 ## Summary
 
 Bletilla (白及) is the mucilaginous tuber of the orchid *Bletilla striata*, the classical Chinese 合香 binder. Its water-soluble mucilage forms a gum that binds loose incense powders into sticks, cakes, and pills, and it is valued for function rather than fragrance — it binds and burns cleanly without imposing a scent. In the 君臣佐使 structure it is a guide (使) material, the functional counterpart to the fragrant chief materials.
@@ -143,7 +131,7 @@ Bletilla (白及) is the mucilaginous tuber of the orchid *Bletilla striata*, th
 
 **How does bletilla relate to other incense binders?** It is the classical Chinese binder, playing the same functional role as makko wood powder and honey in the East Asian incense tradition. In the chief–minister–assistant–guide (君臣佐使) structure of 合香, it is a guide (使) material — it binds and directs the blend rather than contributing a scent. Modern incense often uses makko or other natural binders in its place.
 
-**How should a buyer judge bletilla quality?** By function, not scent: a clean, firm tuber that releases strong mucilage when pounded and soaked, producing a paste that holds a shape firmly and burns evenly without adding odor. It is a functional spec — mucilage yield and burn behavior — not an aesthetic one.
+**How is bletilla quality?** By function, not scent: a clean, firm tuber that releases strong mucilage when pounded and soaked, producing a paste that holds a shape firmly and burns evenly without adding odor. It is a functional spec — mucilage yield and burn behavior — not an aesthetic one.
 
 See also: [sandalwood](/ingredients/sandalwood/), [beeswax](/ingredients/beeswax/), the [合香 blending system](/blog/hexiang-blending-system/), [natural binders in incense](/blog/makko-natural-binders/), and the full [scent guide](/blog/scent-guide/).
 

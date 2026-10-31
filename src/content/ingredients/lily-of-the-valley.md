@@ -69,7 +69,7 @@ This page records it honestly as a modern fragrance flower — **no classical Ch
 
 > **Direct answer:** 铃兰 (línglán) means "bell orchid," naming the flower's bell shape — but the plant is not an orchid; it is an asparagus-family perennial. The name is ornamental, not a classical 香材 term, and it carries no incense or materia-medica connotation.
 
-The name 铃兰 is a descriptive-ornamental coinage — 铃 "bell" + 兰 "orchid" — naming the bell-shaped flowers, even though the plant is not an orchid but an Asparagaceae perennial. The name has no classical 香材 or materia-medica status, which is consistent with the plant's actual position in China: an ornamental garden and cut flower, not an incense material. For a buyer, the terminology point is that 铃兰 is a modern ornamental-perfumery name, not a term from the 香乘 or 本草纲目.
+The name 铃兰 is a descriptive-ornamental coinage — 铃 "bell" + 兰 "orchid" — naming the bell-shaped flowers, even though the plant is not an orchid but an Asparagaceae perennial. The name has no classical 香材 or materia-medica status, which is consistent with the plant's actual position in China: an ornamental garden and cut flower, not an incense material. For the reader, the terminology point is that 铃兰 is a modern ornamental-perfumery name, not a term from the 香乘 or 本草纲目.
 
 ## Why is the "muguet" note used in perfumery?
 
@@ -87,7 +87,7 @@ There is no meaningful flower extraction for lily of the valley; the note is a s
 
 > **Direct answer:** "Muguet" quality is a synthetic-accord question, not a flower question. A good accord is clean, fresh, and true to the dewy green-floral character, without a harsh or chemical edge. Because the note is synthetic, the quality checks are purity, consistency, and correct odor.
 
-For a buyer, "muguet" quality is judged at the accord level: the checks are **purity**, **consistency**, and **odor fidelity** (a clean, dewy, green-floral character without a harsh or chemical edge). There is no botanical-grade question, because the natural flower is not a legitimate raw material — it is poisonous and its scent is fleeting. The buyer's conversation is therefore entirely about the synthetic accord or the finished fragrance, not about sourcing a plant.
+For the reader, "muguet" quality is judged at the accord level: the checks are **purity**, **consistency**, and **odor fidelity** (a clean, dewy, green-floral character without a harsh or chemical edge). There is no botanical-grade question, because the natural flower is not a legitimate raw material — it is poisonous and its scent is fleeting. The reader's conversation is therefore entirely about the synthetic accord or the finished fragrance, not about sourcing a plant.
 
 ## In modern use
 
@@ -105,9 +105,9 @@ For a buyer, "muguet" quality is judged at the accord level: the checks are **pu
 
 There is **no classical Chinese incense record** for lily of the valley (铃兰); its fragrance role is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Asparagaceae placement, its toxicity, and its modern perfumery role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - lily of the valley (铃兰) here is *Convallaria majalis*; its note in fragrance is almost always a synthetic "muguet" accord, not the natural flower.
 - It is poisonous — all parts — and is **not** an incense material; do not burn it.
@@ -125,18 +125,6 @@ Practical points for buyers:
 - The plant's only legitimate roles are as an ornamental garden/cut flower and as the *inspiration* for a synthetic perfume note — never as a botanical incense ingredient.
 
 For the general safety of incense combustion, burn any incense in a well-ventilated space and avoid inhaling concentrated smoke. This page describes lily of the valley as an ornamental and perfume flower only. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Lily of the valley is the extreme case of "scent ≠ material safety": one of perfumery's most beloved fresh notes is inspired by a cardiac-glycoside poison, so the note exists almost entirely as a synthetic accord. It is the cleanest illustration that a fragrance's appeal and its botanical source can be completely unrelated — and that a beloved note does not make a usable raw material.
-
-From a sourcing and editorial perspective, 铃兰 is the most important safety case in this batch, because it tests the assumption that a beloved scent implies a usable plant. Three points follow:
-
-- **The note and the plant have been fully separated — and this is the responsible design, not a compromise.** The muguet accord is a synthetic construction (hydroxycitronellal, lilial, and related molecules), and it has to be: the flower's scent is fleeting and the plant is poisonous. This is not a case of synthetic "replacing" a viable natural; there was never a viable natural to replace. The synthetic route is the only responsible route.
-- **The safety separation is absolute, and it belongs before any other content.** Because the plant is a cardiac-glycoside poison, no amount of "traditional" or "natural" framing changes the fact that it must not be burned, ingested, or used as a raw material. This is the one page where the toxicity warning must be the first and strongest statement — a discipline that applies to every poisonous botanical an encyclopedia might otherwise romanticize.
-- **For a manufacturer, "lily of the valley" is a fragrance specification, not a material.** The buyer's conversation is entirely about the synthetic accord — its purity, consistency, and odor — never about sourcing a flower. Any supplier that offers a "lily of the valley" botanical incense ingredient is misrepresenting the material, and that misrepresentation is itself a red flag.
-
-In our view, lily of the valley is best understood as the **definitive "scent-without-material" case** — a beloved synthetic note whose botanical namesake is a poison, making the separation between fragrance and safety the entire professional lesson of the material.
 
 ## Summary
 

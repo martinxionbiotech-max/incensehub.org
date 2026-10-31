@@ -71,7 +71,7 @@ The trunk is tapped and the oleoresin collected, much like collecting a tree sap
 
 > **Direct answer:** Copaiba quality turns on species/origin, freshness, and the intended form. A good balsam is clean and free-flowing without adulteration; a good oil is clear and true to the woody-balsamic character. Because several *Copaifera* species can supply the material, genus identity and documentation matter.
 
-For a buyer, the practical checks are: **species and origin** (which *Copaifera* species, and whether the material is balsam or oil), **freshness and cleanliness** (freedom from adulteration, sediment, or added solvent), and **aroma fidelity** (a clean woody-balsamic character, not a sharp or chemical edge). Because the trade name "copaiba" spans several species, a credible supplier should state the genus and form clearly rather than offering only the bare label.
+The practical checks are: **species and origin** (which *Copaifera* species, and whether the material is balsam or oil), **freshness and cleanliness** (freedom from adulteration, sediment, or added solvent), and **aroma fidelity** (a clean woody-balsamic character, not a sharp or chemical edge). Because the trade name "copaiba" spans several species, a credible supplier should state the genus and form clearly rather than offering only the bare label.
 
 ## Common forms
 
@@ -92,9 +92,9 @@ The distinction between balsam and oil is a processing choice, not a quality sta
 
 There is **no classical Chinese incense record** for copaiba (古巴香脂); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Fabaceae placement, and its modern aromatherapy role.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - copaiba (古巴香脂) is the tapped oleoresin of *Copaifera* spp.; expect a soft, woody, balsamic, resinous, slightly sweet scent.
 - Distinguish it from Peru balsam (*Myroxylon balsamum*) — another South American balsam, but denser and vanilla-sweet.
@@ -113,21 +113,9 @@ Practical points for buyers:
 
 The two are often grouped as "South American balsams," but they sit at opposite ends of the register — copaiba light and woody, Peru balsam dense and gourmand-sweet. See [peru-balsam](/ingredients/peru-balsam/) and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
 
-## Our Industry View
-
-> **Direct answer:** Copaiba and Peru balsam are a disambiguation exercise in miniature: both are New World legume balsams with "geographic" Chinese names, yet neither name points to the true source — copaiba's "Cuba" label and Peru balsam's "Peru" label are trade artifacts. The real sourcing skill is recognizing that a balsam's name records its port, not its forest.
-
-From a manufacturing and sourcing perspective, copaiba is best read as the *lighter, more fluid* member of a modern South American balsam cluster — and as a case study in how trade names mislead. Three points follow:
-
-- **The "Cuba" name is a second example of the same misnomer.** Copaiba's Chinese name 古巴香脂 ("Cuba balsam") is a modern trade label, while the material is tapped from *Copaifera* species across tropical South America, not Cuba specifically. Placed beside Peru balsam's "Peru" misnomer, the two form a clean lesson: in the balsam trade, geographic names are logistics labels, not provenance certificates.
-- **Copaiba is an oleoresin, and that changes the processing and the market.** Unlike hardened gum-resins, copaiba flows from the tree and is routinely steam-distilled into an essential oil. This means copaiba reaches buyers in two materially different forms — balsam and oil — and a sourcing conversation that does not first establish *which form* is already ambiguous. Genus identity and form are the two questions that must precede any price discussion.
-- **The register matters more than the rarity.** Copaiba is a mild, blending-friendly note — a quiet fixative, not a signature. For a manufacturer, its value is as a *soft woody-balsamic blender*, and the practical requirement is consistency and documentation across several possible *Copaifera* species, not the pursuit of an expensive "top grade" that does not meaningfully exist for this material.
-
-In our view, copaiba is best understood as the **light, fluid counterpoint to Peru balsam** in a modern South American balsam cluster — a material whose sourcing conversation is defined by genus identity and balsam-vs-oil form, and whose "Cuba" label is a reminder that a name can describe the shipping route, not the source.
-
 ## Summary
 
-Copaiba (古巴香脂) is the oleoresin of *Copaifera* trees (Fabaceae), a tropical South American genus whose balsam is light, woody, creamy, and often steam-distilled into an essential oil. It is a modern crossover with no classical Chinese incense record, and its "Cuba" name is a trade artifact. Its key buyer points are genus identity, the balsam-versus-oil distinction, and the contrast with the denser, sweeter Peru balsam.
+Copaiba (古巴香脂) is the oleoresin of *Copaifera* trees (Fabaceae), a tropical South American genus whose balsam is light, woody, creamy, and often steam-distilled into an essential oil. It is a modern crossover with no classical Chinese incense record, and its "Cuba" name is a trade artifact. Its key identification points are genus identity, the balsam-versus-oil distinction, and the contrast with the denser, sweeter Peru balsam.
 
 ## FAQ
 

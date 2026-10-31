@@ -76,7 +76,7 @@ The seed capsules are harvested and the seeds dried; the dried seed is the trade
 
 > **Direct answer:** Katsumadai quality turns on the seed — clean, well-dried seeds with the full warm, camphoraceous, slightly bitter character — and on correct identification, since the 豆蔻 name family spans several different plants.
 
-For a buyer, the practical checks are **identification** (confirming 草豆蔻 = *Alpinia katsumadae* rather than 白豆蔻, 肉豆蔻, or green cardamom) and **seed quality** (clean, well-dried seeds carrying the warm, camphoraceous, slightly bitter character). The identification check is the more important of the two, because the 豆蔻 name family hides several different plants with different aromas, prices, and uses.
+The practical checks are **identification** (confirming 草豆蔻 = *Alpinia katsumadae* rather than 白豆蔻, 肉豆蔻, or green cardamom) and **seed quality** (clean, well-dried seeds carrying the warm, camphoraceous, slightly bitter character). The identification check is the more important of the two, because the 豆蔻 name family hides several different plants with different aromas, prices, and uses.
 
 ## Common forms
 
@@ -105,9 +105,9 @@ The whole seed is the reference form; the powder is a convenience form selected 
 
 The traditional-medicine and minor spice use is documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the Zingiberaceae placement, and the warm-spice character.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Distinguish 草豆蔻 (*Alpinia katsumadae*) from 白豆蔻 (*Amomum kravanh*) and nutmeg (肉豆蔻, *Myristica fragrans*) — the 豆蔻 name covers all three.
 - Expect a warm, camphoraceous, slightly bitter character, more medicinal than the white cardamom's sweet pungency.
@@ -124,18 +124,6 @@ Practical points for buyers:
 | Character | Camphoraceous, slightly bitter | Sweet-pungent | Smoky, pungent, cooling | Sweet, warm, nutmeg |
 
 The warm-spice register is shared, but the species — and in nutmeg's case the family — are different. See [tsao-ko](/ingredients/tsao-ko/), [cardamom](/ingredients/cardamom/), and [amomum-villosum](/ingredients/amomum-villosum/).
-
-## Our Industry View
-
-> **Direct answer:** The 豆蔻 family is a "false friend" cluster: a shared name element hides three to four different plants, at least two different botanical families, and several different scents and uses. The sourcing lesson is that "cardamom" in Chinese is never an identity — only the species (*Alpinia katsumadae*, *Amomum kravanh*, *Myristica fragrans*, *Elettaria cardamomum*) can settle what is actually being bought.
-
-From a sourcing and editorial perspective, 草豆蔻 is the entry point into one of the classic Chinese spice-name confusions, and it generalizes into a broader sourcing discipline. Three points follow:
-
-- **The 豆蔻 name is a family, not a material.** 草豆蔻, 白豆蔻, 肉豆蔻, and green cardamom (小豆蔻) all share the 豆蔻 element, but they are different plants — and nutmeg (肉豆蔻) is not even in the ginger family, despite the name. This is a "false friend" cluster: the name invites the assumption that these are grades or varieties of one spice, when they are separate species with separate aromas, prices, and uses.
-- **The taxonomy itself is in motion, which is the second trap.** 草豆蔻 is often treated under *Alpinia hainanensis* rather than *Alpinia katsumadae* — a synonym situation that means the *same* material can appear under two botanical names. For a buyer, this doubles the identification burden: first disambiguate across the 豆蔻 family, then account for the synonym within the species.
-- **The register is the honest differentiator.** 草豆蔻's camphoraceous, slightly bitter, medicinal character is distinct from 白豆蔻's sweet pungency and 草果's smoky-cooling pungency. When a sourcing conversation turns on aroma rather than on a botanical name, these register differences do the disambiguation work that the names fail to do.
-
-In our view, katsumadai is best understood as the **medicinal, camphoraceous member of the 豆蔻 false-friend family** — a warm ginger-family seed whose name is one of several that share the "cardamom" element, and whose sourcing conversation must settle species (and synonym) before any price or quality discussion.
 
 ## Summary
 

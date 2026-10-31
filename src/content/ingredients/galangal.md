@@ -75,11 +75,11 @@ Galangal's incense role is a **spice accent**, not a lead:
 
 > **Direct answer:** Galangal is processed by harvesting the rhizome, cleaning it, and drying it — whole, sliced, or ground to powder. There is no extraction step in the whole/ground form; for incense blending it is ground, with particle size and moisture depending on the formula.
 
-The essential step is simple: the rhizome is dug, cleaned, and **dried** to a stable, storable form, then used whole, sliced, or ground. For powder buyers, the same practical variables as any root or rhizome powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and rhizome-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
+The essential step is simple: the rhizome is dug, cleaned, and **dried** to a stable, storable form, then used whole, sliced, or ground. For powder, the same practical variables as any root or rhizome powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, other ingredients, and the production line. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and rhizome-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
 
 ## What determines galangal quality?
 
-> **Direct answer:** Quality turns on a hard, dense, strongly gingery-aromatic rhizome with a clean camphor-like edge. Stale, soft, or woody-fibrous rhizomes lose their aromatic heat. There is no standardized numerical grading; the buyer evaluates the physical condition of the lot.
+> **Direct answer:** Quality turns on a hard, dense, strongly gingery-aromatic rhizome with a clean camphor-like edge. Stale, soft, or woody-fibrous rhizomes lose their aromatic heat. There is no standardized numerical grading; the lot is judged by its physical condition.
 
 The practical quality factors, in rough order:
 
@@ -129,39 +129,13 @@ They are distinct species in one family. See [ginger](/ingredients/ginger/), [sa
 
 Galangal is an inexpensive spice, so adulteration is not the same concern as with agarwood. The real risk is **species confusion**: lesser galangal (*Alpinia officinarum*) and greater galangal (*Alpinia galanga*) are different species, and a label that says only "galangal" or 高良姜 could be ambiguous. Specifying *Alpinia officinarum* resolves it.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Alpinia officinarum*, lesser galangal), the form, and the physical condition — a hard, dense, strongly gingery-aromatic rhizome with a camphor-like edge and no mold. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Alpinia officinarum* (lesser galangal); the lesser-vs-greater split makes this the first check.
-- **Form** — whole rhizome, slices, or powder; each behaves differently in a blend.
-- **Physical condition** — hard, dense, strongly gingery-aromatic rhizome with a camphor-like edge, no mold or debris.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, galangal is a sharp spice accent, not a base. Its value is a dry, camphoraceous heat that cuts through heavier woods and resins — but because it is a volatile-spice note, storage and dose matter more than the nominal name.
-
-From a manufacturing perspective, galangal's defining traits are **sharpness** and **penetration**. It supplies a dry, camphoraceous heat that cuts through heavier woods and resins, but its aromatics are volatile, so the material fades if stored poorly.
-
-Two points follow:
-
-- **It is an accent, not a base.** Galangal sharpens and brightens a blend but will not carry it. A buyer who expects it to lead a fragrance will be disappointed, while one who doses it as a spice accent gets real value.
-- **Penetration is the formulation variable.** Because its heat is sharp, the practical dose and particle-size targets **depend on formulation**, so a figure that works in one factory does not transfer to another.
-
-In our view, galangal's commercial value lies in its role as a **correctly identified, hard, dense lesser-galangal rhizome** used as a measured spice accent — a supporting ginger whose real value is its sharp aromatic heat, not its price.
-
 ## Summary
 
-Galangal (高良姜) is the dried rhizome of *Alpinia officinarum*, a Zingiberaceae perennial Flora of China records with pseudostems 40–110 cm and a white-with-red-streaks labellum, native to Guangdong, Guangxi, and Hainan. It is the "lesser galangal," distinct from the larger, milder greater galangal (*Alpinia galanga*), and in the ginger family it sits alongside common ginger and sand ginger. In Chinese tradition it is a culinary spice and a materia-medica warming aromatic, and in incense a sharp, camphoraceous warming accent. Its main identification risk is the lesser-vs-greater species split; commercially, correct identification and dense, fresh rhizome condition outweigh price.
+Galangal (高良姜) is the dried rhizome of *Alpinia officinarum*, a Zingiberaceae perennial Flora of China records with pseudostems 40–110 cm and a white-with-red-streaks labellum, native to Guangdong, Guangxi, and Hainan. It is the "lesser galangal," distinct from the larger, milder greater galangal (*Alpinia galanga*), and in the ginger family it sits alongside common ginger and sand ginger. In Chinese tradition it is a culinary spice and a materia-medica warming aromatic, and in incense a sharp, camphoraceous warming accent. Its main identification risk is the lesser-vs-greater species split; in trade, correct identification and dense, fresh rhizome condition outweigh price.
 
 ## FAQ
 

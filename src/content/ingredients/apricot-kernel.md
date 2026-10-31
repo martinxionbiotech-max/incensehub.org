@@ -119,17 +119,6 @@ The sweet-versus-bitter distinction is the decisive quality and safety axis, not
 
 The forms are culinary and oil-oriented, reinforcing that 杏仁 is a food and materia-medica seed rather than a 香材.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should know the sweet-versus-bitter distinction — sweet kernels are the food-grade material, bitter kernels are higher in amygdalin (a cyanide precursor) and are a documented safety concern. 杏仁 is a food and materia-medica seed, not a classical incense staple; use it as a supporting sweet-nutty nuance, not a lead 香材.
-
-For a food, fragrance, or sourcing buyer:
-
-- **Sweet vs bitter** — confirm which kernel is being offered; bitter kernels are higher in amygdalin and not for casual consumption.
-- **Identity** — confirm *Prunus armeniaca* (杏仁), distinct from bitter almond and other *Prunus* kernels that share the benzaldehyde note.
-- **Role** — understand it is a food and materia-medica seed, not a classical incense staple.
-- **Condition** — clean, sound kernels with a sweet, nutty, marzipan-like aroma and no rancidity.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Bitter apricot kernels contain amygdalin, a cyanide precursor, and are not for casual consumption. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -145,18 +134,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Chemistry | Amygdalin → benzaldehyde + cyanide | Amygdalin → benzaldehyde + cyanide (higher) |
 
 Both are *Prunus* kernels converging on benzaldehyde, which is why they smell alike despite being different plants. The safety logic is shared: amygdalin is a cyanide precursor, and bitter forms carry the higher concern.
-
-## Our Industry View
-
-> **Direct answer:** Apricot kernel's lesson is that a scent can be a molecule, not a plant — and that the almond note is chemistry (benzaldehyde) shared across several *Prunus* kernels. For a buyer, this means the note is reproducible and the real specification is the kernel's sweet-versus-bitter profile and its cyanogenic safety, not the species name alone.
-
-From a manufacturing and sourcing perspective, 杏仁 illustrates how a fragrance note can be **decoupled from the plant that carries it**:
-
-- **The note is a molecule.** The "almond" scent is benzaldehyde, released when *Prunus* kernels' amygdalin is crushed or moistened. Because several species share the chemistry, "almond-smelling" is not a species specification — and a formulator can often reach the same note by other means. This is the opposite of a material like agarwood, whose value is tied to a specific wood.
-- **Sweet versus bitter is the real spec.** The practical distinction is not apricot-versus-almond but **sweet versus bitter kernel** — because that axis determines both aroma and the cyanogenic safety profile. A buyer who specifies only "杏仁" has not specified the safety-relevant variable.
-- **Safety drives sourcing discipline here.** Amygdalin's cyanide release means bitter kernels are a genuine handling concern, not a flavor nuance. This is a rare case where the chemistry that produces the aroma is also the chemistry that produces the risk, so the sourcing spec and the safety spec are the same question.
-
-In our view, the useful takeaway is procedural: **specify the kernel (sweet or bitter), understand the note as benzaldehyde chemistry, and treat the cyanogenic safety boundary as part of the specification** — rather than treating 杏仁 as a simple "almond-scented seed."
 
 ## Summary
 

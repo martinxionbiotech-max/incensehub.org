@@ -31,7 +31,7 @@ related: ["long-pepper", "clove"]
 
 > **Direct answer:** Cubeb (荜澄茄, *bìchéngqié*) is the dried, unripe fruit of *Piper cubeba*, a climbing vine of the pepper family (Piperaceae) native to Java and Sumatra. It is a peppery spice with a faintly camphoraceous bite, dried whole with its stalk attached — the "tailed pepper."
 
-Cubeb is a **pepper-family spice**, a distinct species from black pepper (*Piper nigrum*) and long pepper (*Piper longum*). It is gathered unripe and dried whole, with the small stalk ("tail") usually still attached — the source of the name "tailed pepper." Its defining commercial fact is a naming hazard: the Chinese materia-medica name 荜澄茄 has also been applied to *Litsea cubeba* (山鸡椒, "mountain pepper"), a laurel-family plant, so the name alone does not identify the material.
+Cubeb is a **pepper-family spice**, a distinct species from black pepper (*Piper nigrum*) and long pepper (*Piper longum*). It is gathered unripe and dried whole, with the small stalk ("tail") usually still attached — the source of the name "tailed pepper." Its defining identifying fact is a naming hazard: the Chinese materia-medica name 荜澄茄 has also been applied to *Litsea cubeba* (山鸡椒, "mountain pepper"), a laurel-family plant, so the name alone does not identify the material.
 
 ## Botanical identity
 
@@ -48,7 +48,7 @@ The naming task is a disambiguation:
 - **荜澄茄 (bìchéngqié)** — properly cubeb, *Piper cubeba* (Piperaceae).
 - **山鸡椒 (shānjījiāo, *Litsea cubeba*)** — "mountain pepper," a laurel-family (Lauraceae) plant to which the name 荜澄茄 has also been applied in materia medica.
 
-Because one Chinese name has been applied to two different species in different families, the name alone does not identify the material — a buyer must confirm which plant is meant. See [mountain pepper (山鸡椒)](/ingredients/litsea-cubeba/).
+Because one Chinese name has been applied to two different species in different families, the name alone does not identify the material — a reader must confirm which plant is meant. See [mountain pepper (山鸡椒)](/ingredients/litsea-cubeba/).
 
 ## Where does cubeb come from?
 
@@ -123,45 +123,23 @@ The culinary role is well documented. Medicinal uses are **traditional**, not es
 | Black pepper | *Piper nigrum* | Hot, pungent |
 | Long pepper (荜茇) | *Piper longum* | Warm, pungent, sweet-woody |
 
-The critical disambiguation, however, is not within *Piper* but against 山鸡椒 (*Litsea cubeba*), a laurel-family plant sharing the 荜澄茄 name. See [long pepper](/ingredients/long-pepper/) and [mountain pepper (山鸡椒)](/ingredients/litsea-cubeba/).
+The critical disambiguation is not within *Piper* but against 山鸡椒 (*Litsea cubeba*), a laurel-family plant sharing the 荜澄茄 name. See [long pepper](/ingredients/long-pepper/) and [mountain pepper (山鸡椒)](/ingredients/litsea-cubeba/).
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Whole cubeb should be dense, dark, and strongly peppery-aromatic; the tail ("stalk") is a normal feature, not a defect.
 - Distinguish 荜澄茄 (cubeb, *Piper cubeba*) from 山鸡椒 (*Litsea cubeba*, mountain pepper) — different plants that share a Chinese materia-medica name.
 - In incense, cubeb is a spice accent, usually blended, not burned alone.
 
-## What buyers should look for
-
-> **Direct answer:** Buy whole, dense, dark fruit with the tail attached, and confirm the botanical identity — cubeb (*Piper cubeba*, Piperaceae), not the laurel-family 山鸡椒 (*Litsea cubeba*) that shares the 荜澄茄 name.
-
-For a cooking or blending buyer:
-
-- **Form** — whole fruit over ground, for aroma retention.
-- **Aroma** — sharp, peppery, faintly camphoraceous when crushed.
-- **Identity** — confirm *Piper cubeba* (cubeb), not *Litsea cubeba* (山鸡椒).
-- **Appearance** — dense, dark fruit with the tail attached.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, cubeb's real risk is the name, not the spice: 荜澄茄 has been applied to both *Piper cubeba* and *Litsea cubeba*, so a blend will change character if the wrong plant is shipped. Confirming species matters more than confirming "cubeb."
-
-From a manufacturing perspective, cubeb's commercial logic is **name-driven risk**:
-
-- **The name is ambiguous.** 荜澄茄 has been applied to both cubeb (*Piper cubeba*, Piperaceae) and mountain pepper (*Litsea cubeba*, Lauraceae). A formula built on cubeb's peppery-camphoraceous bite will not reproduce if the laurel-family plant — with its lemony-citrus character — is substituted.
-- **It is a spice accent, used sparingly.** Cubeb's piquant lift is used at a supporting proportion, and the right dose **depends on formulation** — what it is meant to brighten — not on a universal figure.
-
-In our view, the commercial sweet spot is a **species-confirmed, whole-fruit supply** — the botanical name pinned down — rather than a nominal "荜澄茄" whose plant is unspecified.
-
 ## Summary
 
-Cubeb (荜澄茄, *bìchéngqié*) is the dried, unripe fruit of *Piper cubeba*, a pepper-family (Piperaceae) climbing vine native to Java and Sumatra. It is a sharp, peppery, faintly camphoraceous spice, dried whole with its stalk attached — the "tailed pepper." It is a warm spice accent in some 合香 blends rather than a classical defining material. Its central commercial hazard is naming: 荜澄茄 has also been applied to 山鸡椒 (*Litsea cubeba*, "mountain pepper"), a laurel-family plant with a lemony-citrus character, so the species must be confirmed when the name appears.
+Cubeb (荜澄茄, *bìchéngqié*) is the dried, unripe fruit of *Piper cubeba*, a pepper-family (Piperaceae) climbing vine native to Java and Sumatra. It is a sharp, peppery, faintly camphoraceous spice, dried whole with its stalk attached — the "tailed pepper." It is a warm spice accent in some 合香 blends rather than a classical defining material. Its central identification hazard is naming: 荜澄茄 has also been applied to 山鸡椒 (*Litsea cubeba*, "mountain pepper"), a laurel-family plant with a lemony-citrus character, so the species must be confirmed when the name appears.
 
 ## FAQ
 

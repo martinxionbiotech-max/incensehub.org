@@ -47,7 +47,7 @@ The register is worth stating against black pepper: long pepper's heat is often 
 
 > **Direct answer:** 荜茇 (bìbá), also written 荜拔, is the Chinese name for *Piper longum*, recording an ancient Indian origin (Sanskrit *pippalī*). It belongs to the pepper-family name cluster alongside black pepper (胡椒) and cubeb (荜澄茄) — three different spices that share the pepper register but not the species.
 
-The name 荜茇 (also 荜拔) is a phonetic rendering of the ancient Indian name for the spice (cf. Sanskrit *pippalī*), recording the material's South Asian origin in the same way 阿魏 records asafoetida's Central Asian origin. It sits in the pepper-family name cluster: black pepper (胡椒), cubeb (荜澄茄), and long pepper (荜茇) are three distinct *Piper* species, and the names — though they share the pepper register — identify different fruit forms and different spices. For a buyer, the name alone does not separate them; the species does.
+The name 荜茇 (also 荜拔) is a phonetic rendering of the ancient Indian name for the spice (cf. Sanskrit *pippalī*), recording the material's South Asian origin in the same way 阿魏 records asafoetida's Central Asian origin. It sits in the pepper-family name cluster: black pepper (胡椒), cubeb (荜澄茄), and long pepper (荜茇) are three distinct *Piper* species, and the names — though they share the pepper register — identify different fruit forms and different spices. For the reader, the name alone does not separate them; the species does.
 
 ## Why is it used in incense?
 
@@ -65,7 +65,7 @@ The immature fruit spikes are harvested and dried, producing the slender, catkin
 
 > **Direct answer:** Long pepper quality turns on density and pungency — whole spikes should be dark, dense, and strongly pungent-aromatic, with the slender spike form being normal rather than a defect. The sweet, lingering heat should be present in full.
 
-For a buyer, the practical checks are **density** (dark, dense spikes rather than light or hollow ones) and **pungency** (a strong, sweet, lingering heat). The slender, catkin-like spike form is normal — it is not a defect, but the defining morphology that distinguishes long pepper from the round berry of black pepper. Correct identification is the first check, since 荜茇, 胡椒, and 荜澄茄 are three different spices.
+The practical checks are **density** (dark, dense spikes rather than light or hollow ones) and **pungency** (a strong, sweet, lingering heat). The slender, catkin-like spike form is normal — it is not a defect, but the defining morphology that distinguishes long pepper from the round berry of black pepper. Correct identification is the first check, since 荜茇, 胡椒, and 荜澄茄 are three different spices.
 
 ## Common forms
 
@@ -94,9 +94,9 @@ The whole spike is the reference form; the powder is a convenience form for blen
 
 The culinary role is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the pepper-family placement, and the warm, pungent aromatic use.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Whole long pepper should be dark, dense, and strongly pungent-aromatic; the slender spike form is normal, not a defect.
 - Distinguish long pepper (荜茇) from black pepper and cubeb — three different pepper-family spices.
@@ -113,18 +113,6 @@ Practical points for buyers:
 | Character | Hotter, sweeter, rounded | Sharp, clean pungency | Pungent with cooling edge |
 
 The three share the pepper register but are distinct species with distinct fruit forms and characters. See [pepper](/ingredients/pepper/), [cubeb](/ingredients/cubeb/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Long pepper is a "historical precedence" story — the pepper that was once more important than black pepper, now largely eclipsed by it. Its slender fruit spike is the morphological tell that separates it from black pepper's round berry, and its fall from prominence is a reminder that a spice's market position is historical, not fixed.
-
-From a sourcing and editorial perspective, long pepper is most interesting for the historical reversal it records, which carries a direct sourcing lesson. Three points follow:
-
-- **Long pepper predated black pepper as the more important spice.** In many Asian and Mediterranean traditions, long pepper was historically the more prominent of the peppers, and black pepper's later rise is a comparatively recent development in the long history of the spice trade. This is a *historical precedence* point, not a quality claim — it explains why 荜茇 carries its own classical identity rather than being a mere variant of black pepper.
-- **Morphology is the disambiguator.** The slender, catkin-like fruit spike of long pepper is visually unmistakable against black pepper's round berry and cubeb's stalked berry. For a buyer, the physical form is the fastest correct check — and a whole-spike purchase that arrives as round berries is a misidentification to flag. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for how form-based checks work across the spice families.
-- **The register difference is the market difference.** Long pepper's hotter, sweeter, more rounded heat is a distinct sensory profile from black pepper's sharp pungency. For a formulator, that difference — not the shared "pepper" name — is what determines which spice a blend needs, and it is why long pepper survives as a specific, sought material rather than being absorbed into "pepper."
-
-In our view, long pepper is best understood as the **historically-precedent, morphologically-distinct member of the pepper family** — a slender-spiked spice whose hotter, sweeter heat once outranked black pepper's, and whose sourcing conversation turns on form and register rather than on the shared "pepper" name.
 
 ## Summary
 

@@ -29,9 +29,9 @@ related: ["orange-peel", "osmanthus"]
 
 ## Aroma profile
 
-> **Direct answer:** Litchi husk, when dried and burned, gives a sweet, fruity, faintly floral scent that is notably fresh and delicate — lighter than citrus peel and less sharp than spice. It is a fruit-peel note in the same family as tangerine peel (陈皮), but sweeter and more floral, valued for its freshness rather than for a heavy or resinous scent.
+> **Direct answer:** Litchi husk, when dried and burned, gives a sweet, fruity, faintly floral scent that is distinctly fresh and delicate — lighter than citrus peel and less sharp than spice. It is a fruit-peel note in the same family as tangerine peel (陈皮), but sweeter and more floral, valued for its freshness rather than for a heavy or resinous scent.
 
-Litchi husk, when dried and burned, gives a sweet, fruity, faintly floral scent that is notably fresh and delicate — lighter than citrus peel and less sharp than spice. It is a *fruit-peel* note, in the same family as tangerine peel (陈皮), but sweeter and more floral. The 香乘 singles it out: of the fruit peels, litchi husk makes the freshest, most refined incense (取其壳合香最清馥). The aroma is a *top-note* character — bright and lifting, not a deep base — which is exactly why classical practice blended it rather than burning it alone.
+Litchi husk, when dried and burned, gives a sweet, fruity, faintly floral scent that is distinctly fresh and delicate — lighter than citrus peel and less sharp than spice. It is a *fruit-peel* note, in the same family as tangerine peel (陈皮), but sweeter and more floral. The 香乘 singles it out: of the fruit peels, litchi husk makes the freshest, most refined incense (取其壳合香最清馥). The aroma is a *top-note* character — bright and lifting, not a deep base — which is exactly why classical practice blended it rather than burning it alone.
 
 ## Botanical source and origin
 
@@ -45,7 +45,7 @@ Litchi husk, when dried and burned, gives a sweet, fruity, faintly floral scent 
 
 > **Direct answer:** The name 荔枝壳 is literal and part-precise: 荔枝 "litchi" + 壳 "husk/shell," naming the *pericarp* specifically rather than the fruit or the tree. This part-precision is the key to the material — the incense is made from the discarded husk, not the flesh, and not a wood, resin, or flower.
 
-The Chinese term is helpfully specific: 荔枝 (lìzhī) is the litchi, and 壳 (ké) is the husk or shell — so 荔枝壳 names the **pericarp**, the leathery outer covering, rather than the fruit flesh or the tree. This matters because the litchi is a fruit whose edible part (the fleshy aril) and its aromatic part (the husk) are completely different materials. A buyer who understands the part-level name knows they are being offered a **peel**, not a fruit product, and not a wood or resin.
+The Chinese term is helpfully specific: 荔枝 (lìzhī) is the litchi, and 壳 (ké) is the husk or shell — so 荔枝壳 names the **pericarp**, the leathery outer covering, rather than the fruit flesh or the tree. This matters because the litchi is a fruit whose edible part (the fleshy aril) and its aromatic part (the husk) are completely different materials. A reader who understands the part-level name knows they are being offered a **peel**, not a fruit product, and not a wood or resin.
 
 ## The fruit-peel family (read this)
 
@@ -117,19 +117,6 @@ There is no standardized commercial grading system for litchi husk; freshness, c
 
 The distinction is functional, not a quality statement — the same husk in different physical forms. As a light, food-adjacent peel, it behaves like other leafy or peely materials: fine, low-density, and quick to release (and lose) its aroma.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the material is the *husk* (pericarp), not the fruit or another peel; then judge freshness and cleanliness — a dry, intact husk with a faintly sweet, fruity scent. Expect a light accent material, not a lead note, and specify drying and storage condition.
-
-For an incense maker or sourcing buyer:
-
-- **Part** — confirm 荔枝壳 is the husk (pericarp), not the fruit flesh and not a wood or resin.
-- **Species/identity** — distinguish it from other fruit peels, chiefly 陈皮 (*Citrus reticulata*) and 柚皮 (*Citrus maxima*), which have different characters.
-- **Freshness and condition** — clean, dry, intact husk with a faintly sweet, fruity scent; the note fades with age.
-- **Form** — whole husk or ground powder, depending on the blending method.
-
-Because it is a light, delicate material, a buyer is effectively specifying a **top-note accent**, and the freshness of the lot is the decisive quality variable.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -146,29 +133,15 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 
 Litchi husk is a soapberry-family pericarp, while 陈皮 and 柚皮 are rue-family citrus peels — so the "fruit-peel" label hides a real botanical split. See [orange-peel (陈皮)](/ingredients/orange-peel/) and [pomelo peel (柚皮)](/ingredients/pomelo-peel/).
 
-## Our Industry View
-
-> **Direct answer:** Litchi husk is the clearest example of a category modern sourcing under-serves: the fruit-peel incense. It is a byproduct — a discarded pericarp — turned into a named 香材, and its commercial value is entirely a matter of freshness and clean handling, not rarity or grading. That makes it a cheap, high-surface-area, batch-variable material that must be bought on condition, not on a name.
-
-From a manufacturing perspective, litchi husk illustrates something that is easy to overlook in an encyclopedia of woods and resins: **the fruit-peel category is a real, classical Chinese aromatic register, and it is a byproduct category.**
-
-Three points follow:
-
-- **It is a byproduct turned 香材.** Litchi husk is the discarded pericarp of a fruit grown primarily for eating. Its value in incense is a *recovery* — a use found for material that would otherwise be waste. That is unusual in the classical canon, which is dominated by deliberately harvested woods, resins, and flowers, and it explains why the peel is light, cheap, and food-adjacent.
-- **Freshness is the whole specification.** Unlike a resin or a dense wood, which can keep for years, a delicate fruit-peel note is volatile and fades. The difference between a good and a poor lot of litchi husk is almost entirely a matter of **how recently and how well it was dried and stored** — which makes condition, not a nominal grade, the buyer's real check.
-- **Low density changes handling.** A peel is high-surface-area and light, so particle behavior, packing, and burn differ from wood or resin powder. The right grind and dose **depend on formulation**, not on a fixed figure.
-
-In our view, the commercial sweet spot is a **clean, freshly dried, correctly identified litchi husk** bought as a delicate top-note accent — a material whose value is honesty about its byproduct origin and its volatility, rather than any claim of rarity.
-
 ## Summary
 
-Litchi husk (荔枝壳) is the dried pericarp of the litchi fruit, *Litchi chinensis*, a Sapindaceae tree native to southwestern Guangdong and Hainan and long cultivated in southern China. It is a rare example of a fruit *peel* becoming a named classical incense material — the 香乘 records 荔枝香 ("取其壳合香最清馥") as the freshest, most refined of the fruit peels. Its sweet, fruity, faintly floral note is a delicate top-note accent, almost always blended, and it sits in a small Chinese family of fruit-peel materials alongside aged mandarin peel (陈皮) and pomelo peel (柚皮), all different species. Commercially its value is freshness and clean handling, not rarity — a byproduct 香材 whose condition is the real specification.
+Litchi husk (荔枝壳) is the dried pericarp of the litchi fruit, *Litchi chinensis*, a Sapindaceae tree native to southwestern Guangdong and Hainan and long cultivated in southern China. It is a rare example of a fruit *peel* becoming a named classical incense material — the 香乘 records 荔枝香 ("取其壳合香最清馥") as the freshest, most refined of the fruit peels. Its sweet, fruity, faintly floral note is a delicate top-note accent, almost always blended, and it sits in a small Chinese family of fruit-peel materials alongside aged mandarin peel (陈皮) and pomelo peel (柚皮), all different species. In trade its value is freshness and clean handling, not rarity — a byproduct 香材 whose condition is the real specification.
 
 ## FAQ
 
 **What is litchi husk incense?** An incense made from the dried, leathery red husk (pericarp) of the litchi fruit, *Litchi chinensis*. The 香乘 (Xiang Cheng) records a "荔枝香" (litchi incense) made from the husk, quoting the 香谱 that taking the husk to blend incense yields the freshest and most refined result (取其壳合香最清馥). It is a classical fruit-peel specialty.
 
-**What does litchi husk smell like?** Sweet, fruity, and faintly floral, with a mildly woody undertone — notably fresh and delicate, lighter than citrus peel and less sharp than spice. It is a fruit-peel note in the same family as tangerine peel (陈皮) but sweeter and more floral, valued for its freshness rather than for a heavy or resinous scent.
+**What does litchi husk smell like?** Sweet, fruity, and faintly floral, with a mildly woody undertone — distinctly fresh and delicate, lighter than citrus peel and less sharp than spice. It is a fruit-peel note in the same family as tangerine peel (陈皮) but sweeter and more floral, valued for its freshness rather than for a heavy or resinous scent.
 
 **Why is litchi husk a notable incense material?** Because it is a rare example of a fruit *peel* becoming a named incense material in its own right — and because it is a byproduct, the discarded husk of a fruit grown for eating, recovered as a 香材. The litchi is native to southern China, and the husk's sweet, delicate scent earned it a place in the classical 香谱 as 荔枝香, where it is praised as the freshest and most refined of the fruit-peel incenses.
 

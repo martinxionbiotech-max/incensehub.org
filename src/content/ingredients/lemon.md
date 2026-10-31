@@ -133,38 +133,13 @@ There is no classical grading ladder; freshness, chemistry, and freedom from adu
 
 The essential oil is the fragrance form; the peel and juice are food materials. Lemon is a modern essential-oil crop, not a classical incense material.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm they are buying lemon essential oil (*Citrus × limon*) and not the classical fruits citron, finger citron, or pomelo peel, then check freshness and freedom from adulteration. Expect a bright, volatile top note, not a body material.
-
-For a buyer or sourcing reader:
-
-- **Identity** — confirm 柠檬 is *Citrus × limon*, distinct from citron (香橼), finger citron (佛手), and pomelo peel (柚皮).
-- **Freshness** — the bright top note is volatile and oxidizes; a fresh oil is markedly brighter.
-- **Adulteration** — citrus oils are commonly extended; check for a clean, unadulterated oil.
-- **Role** — expect a top note, usually blended, not a body or base material.
-
-Because lemon is a volatile top note and a commodity oil, the buyer is specifying **fresh, clean, correctly identified lemon oil** — and the naming overlap with the classical citrus fruits is the main disambiguation risk.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Citrus oils can be skin-irritating at high concentration; use as directed. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** Lemon is the cleanest example of the "modern crossover" problem: a genuinely useful essential oil with zero classical Chinese pedigree, which must be placed honestly inside a canon built on 香材. The professional move is to treat it as a modern essential-oil top note and to be explicit that no classical origin exists — provenance honesty, not a fabricated backstory.
-
-From a manufacturing and sourcing perspective, lemon illustrates the cleanest case of a **modern crossover with no classical pedigree.** Three points follow:
-
-- **Provenance honesty is the discipline.** Lemon is a real, useful fragrance material — but it has no classical Chinese standing, and the correct editorial move is to say so plainly. A site that pretends lemon is a 香材, or that it has an ancient Chinese history, is fabricating a backstory. The honest framing is a modern essential-oil top note, and the reader should be told there is no classical record.
-- **The top note is the whole product.** Lemon's value is a bright, volatile, fleeting top note. This is a specific commercial role — it "opens" a blend — and it means lemon is a *supporting* material, almost always blended, not a body. A buyer who treats it as a lead material is misreading its chemistry.
-- **It is a commodity oil with an adulteration risk.** Unlike the rare, protected animal fixatives, lemon oil is abundant and inexpensive — but that abundance comes with a real risk of adulteration and oxidation. The buyer's checks are freshness and purity, the opposite of the rarity checks that govern materials like ambergris.
-
-In our view, the professional framing for lemon is a **fresh, clean, modern essential-oil top note with no classical claim** — a material whose value is honest positioning in the modern fragrance canon, not a manufactured Chinese pedigree.
-
 ## Summary
 
-Lemon (柠檬) is the fruit and rind of *Citrus × limon*, a cultivated hybrid of the citron and bitter orange (Rutaceae), valued for the bright, zesty top note of its cold-pressed peel oil — chiefly limonene and citral. It is a modern essential-oil fragrance material with no classical Chinese incense record, and must be kept distinct from the classical citrus fragrance fruits (citron, finger citron, pomelo peel) and from the unrelated lemon-scented herb lemon balm. Commercially it is a fresh, volatile top note with a real adulteration risk, framed honestly as a modern crossover.
+Lemon (柠檬) is the fruit and rind of *Citrus × limon*, a cultivated hybrid of the citron and bitter orange (Rutaceae), valued for the bright, zesty top note of its cold-pressed peel oil — chiefly limonene and citral. It is a modern essential-oil fragrance material with no classical Chinese incense record, and must be kept distinct from the classical citrus fragrance fruits (citron, finger citron, pomelo peel) and from the unrelated lemon-scented herb lemon balm. In trade it is a fresh, volatile top note with a real adulteration risk, framed honestly as a modern crossover.
 
 ## FAQ
 

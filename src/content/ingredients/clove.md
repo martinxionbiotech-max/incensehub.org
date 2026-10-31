@@ -127,48 +127,17 @@ Clove's principal compound, **eugenol**, is the subject of laboratory research o
 
 > **Direct answer:** The two buying risks are naming (丁香 means clove or lilac) and material quality — "exhausted" cloves from which the oil has already been distilled, which look intact but smell weak. A strong, oily aroma is the practical screen.
 
-Beyond the 丁香 clove/lilac naming trap, the practical quality risk is **exhausted cloves**: buds from which the essential oil has already been distilled, then sold as if whole. They look nearly identical to fresh buds but carry little of the pungency, so a buyer who judges only by appearance can be misled. The scent — sharp, warm, and penetrating — is the reliable check; a weak or flat-smelling lot is a warning sign.
+Beyond the 丁香 clove/lilac naming trap, the practical quality risk is **exhausted cloves**: buds from which the essential oil has already been distilled, then sold as if whole. They look nearly identical to fresh buds but carry little of the pungency, so a reader who judges only by appearance can be misled. The scent — sharp, warm, and penetrating — is the reliable check; a weak or flat-smelling lot is a warning sign.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** Clove is a cultivated tropical tree, not a wild-harvested or endangered material, so its supply is renewable and stable. Sourcing should confirm the form (whole, ground, or oil) and check the oil content, since exhausted material is the main quality trap.
 
-Clove is farmed across the humid tropics, so unlike wild-harvested aromatics it carries no meaningful conservation or legal risk. The practical sourcing questions are commercial: **which form** (whole bud, ground, or oil), and **how much oil is actually left in the material**. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Clove serves spice and flavor use (including five-spice), incense blending, and — as clove oil — flavor, fragrance, and a long-standing use in dental care. The buds serve spice and incense; the oil serves flavor and fragrance as a separate product.
-
-- **Spice and flavor** — clove is a core culinary spice and a component of Chinese five-spice (五香粉).
-- **Incense** — the buds and their powder are blended into sticks and cones as a warm-spice note.
-- **Clove oil** — the distilled oil is used in flavor, fragrance, and a long-standing role in dental care (its eugenol is the traditional "clove oil" remedy).
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the form (whole, ground, or oil), check the oil content by scent, and prefer plump, intact buds. For powder, confirm particle size and moisture, and test a sample against the formula rather than accepting a generic "clove" label.
-
-For an incense maker or sourcing buyer:
-
-- **Form** — whole bud, ground, or oil; each behaves differently in a blend.
-- **Oil content** — the scent is the test; a strong, warm, penetrating aroma indicates high eugenol.
-- **Bud quality** — plump, intact buds over broken or stem-heavy material.
-- **Powder consistency** — confirm particle size and moisture, and request a sample against your formula.
+Clove is farmed across the humid tropics, so unlike wild-harvested aromatics it carries no meaningful conservation or legal risk. The practical sourcing questions are ones of identification: **which form** (whole bud, ground, or oil), and **how much oil is actually left in the material**. 
 
 ## Safety
 
 Clove oil/eugenol is potent and can be irritating; it should not be applied undiluted. Incense combustion produces smoke and particulate matter — burn in a well-ventilated space. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** In manufacturing, clove is a cheap, potent warm-spice accent whose value is controlled pungency, not rarity. The key variables are form and oil content, because a strong note like clove must be dosed carefully or it overpowers a blend.
-
-Clove's commercial logic is like cassia's: it is **abundant and strong**, so its value lies in consistent, economical pungency rather than scarcity.
-
-- **The name hides two plants.** 丁香 is clove in a spice context and lilac in a garden context; in a Chinese ingredient list the distinction is assumed, but a buyer should still confirm they are getting *Syzygium aromaticum* buds, not a mislabeled or exhausted lot.
-- **Oil content is the specification that matters.** Because clove's entire character is its eugenol pungency, an exhausted or low-oil lot is a different material in practice — even though it looks the same. The right way to buy is by scent and oil content, not by appearance.
-- **Dosing is the constraint.** Clove is easy to overuse; the useful range is a small proportion in a compound. The right amount **depends on formulation** — what it is meant to sharpen, and how much pungency the finished incense should carry — so no single figure transfers between recipes.
-
-In our view, the commercial sweet spot is a **fresh, high-oil clove bought in a consistent form**, used as a controlled accent rather than a lead note.
 
 ## Summary
 

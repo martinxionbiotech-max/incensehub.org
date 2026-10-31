@@ -123,31 +123,9 @@ Bay leaf carries no standardized grading ladder — it is an abundant culinary h
 
 - **Traditional Use** — bay leaf is a staple Western culinary and fragrance herb, used for its camphoraceous, slightly sweet aroma.
 - **Historical Record** — its use in Chinese kitchens and incense is a modern crossover; 月桂叶 is absent from the 香乘, where 月桂子 means the osmanthus fruit.
-- **Scientific Evidence** — the leaf's essential oil (notably 1,8-cineole) is characterized, but we present no clinical or medical efficacy claims.
+- **Scientific Evidence** — the leaf's essential oil (chiefly 1,8-cineole) is characterized, but we present no clinical or medical efficacy claims.
 
 The culinary and aromatic use is documented in Western sources. We make **no medical claims**.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm they are getting *Laurus nobilis* leaf, then check freshness and oil content — an intact, green, strongly aromatic leaf. For powder, confirm particle size and moisture against the formula. And keep the 桂 disambiguation in mind: bay leaf is not osmanthus or cinnamon.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — bay leaf is *Laurus nobilis*; distinguish it from osmanthus (桂花) and cinnamon (桂皮), which share the 桂 character.
-- **Freshness and oil content** — the leaf should be green, intact, and strongly aromatic when bruised.
-- **Form** — whole leaf, crushed, powder, or oil; each behaves differently in a blend.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-## Our Industry View
-
-> **Direct answer:** Bay leaf's commercial interest is as a clean, cheap herbal accent, but its real lesson is provenance: it is a modern Western crossover wearing a Chinese name. The 月桂/桂花/桂皮 confusion is a labeling risk that a buyer resolves by naming the species, not by trusting the 桂 character.
-
-From a manufacturing perspective, bay leaf is a minor but instructive material. Its aromatic value — a dry, camphoraceous, eucalyptus-like lift — is modest and easily sourced, which makes it a cheap accent rather than a pillar. Two points follow:
-
-- **Provenance is part of the specification.** Bay leaf is a Western herb imported into Chinese incense, not a classical material; treating it as a 香道 heritage ingredient would misstate its history. For content and labeling, the honest framing is "modern crossover," which is also what a buyer should understand before paying any premium for a "月桂" label.
-- **The 桂 character is a trap, not a clue.** bay (月桂叶), osmanthus (桂花), and cinnamon (桂皮) are unrelated aromatics sharing one character. In sourcing, the only reliable identifier is the Latin species name — *Laurus nobilis* — because the Chinese characters will not keep the three apart.
-
-In our view, bay leaf is a clean, low-cost herbal accent worth having for its fresh lift — but buy it by species name, and do not let the shared 桂 character blur the difference between a Mediterranean leaf, a sweet Chinese flower, and a warm bark.
 
 ## Summary
 

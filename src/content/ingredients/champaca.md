@@ -77,7 +77,7 @@ The flower is the part used, and it branches by end use:
 - **Dried** — the stable form for storage and grinding into floral-incense powder.
 - **Oil** — champaca absolute/attar, a separate perfumery product from the flower itself.
 
-For powder buyers, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** (see Our Industry View below). The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** . The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines champaca quality?
 
@@ -91,7 +91,7 @@ The practical quality factors:
 4. **Freedom from foreign matter** — clean separation from leaves, stems, and debris.
 5. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is no standardized numerical grading system; the buyer evaluates the physical condition of the lot.
+There is no standardized numerical grading system; the lot is judged by its physical condition.
 
 ## Common forms
 
@@ -135,45 +135,13 @@ All three belong to the magnolia tradition and all are sometimes loosely called 
 
 Champaca is not an expensive, heavily faked aromatic; its risk is a **naming matter**. The principal confusions are between *Michelia alba* and *Magnolia denudata* (both white magnolias) and between the "兰" name and true orchids. A label that names the species resolves it. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Modern commercial applications
-
-> **Direct answer:** Champaca reaches the market through three channels — a tea-scenting and worn blossom, a perfumery oil/absolute, and a delicate floral-incense accent. The perfumery and tea channels dominate its commercial weight; incense use is a smaller, supporting application.
-
-Champaca's commercial life is led by perfumery — champaca absolute is a valued white-floral ingredient — and by tea scenting and the fresh-blossom trade of southern China. Its incense role is smaller: a sweet, heady floral accent or a themed note. For a sourcing buyer, this split matters because **the perfumery, tea, and incense markets value the flower differently** — perfumers prize the oil's round, sweet character, tea scenters prize fresh fragrant blossoms, and incense buyers care about how the dried powder behaves in a formula.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Michelia alba* vs *Magnolia denudata*), the form, and the physical condition — clean, white, fragrant blossoms with no browning or debris. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Michelia alba* (white champaca); a real seller can state it and distinguish it from 玉兰 (*Magnolia denudata*).
-- **Form** — fresh, dried, powder, or oil; each behaves differently in a blend.
-- **Physical condition** — intact, white, fragrant blossoms with no browning, mold, or debris.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, champaca is a signature floral, not a durable base. Its value is a sweet, heady white-floral that is strongest fresh — so a champaca-named product is often as much about the theme or the oil as the dried flower, and consistency matters more than the variety name.
-
-From a manufacturing perspective, champaca's defining trait is the gap between its **fresh and dried** fragrance, amplified by the fact that its commercial value concentrates in the *oil* and the *fresh blossom* rather than the dried flower. That split shapes how champaca is actually used.
-
-Two points follow:
-
-- **It is often a theme or an oil, not a dried-flower base.** Because drying mutes the scent and the perfumery value sits in the absolute, many "champaca" incense products lean on a champaca-named character or a touch of oil rather than a heavy dose of dried flower. A buyer should understand whether a "champaca" product is built on the flower, on the oil, or on a theme.
-- **Particle size and moisture affect behavior, not just aroma.** As a floral powder, champaca is sensitive to the same grinding and drying variables as any powder; the right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clean, correctly identified champaca flower (or a documented oil)** used as a measured white-floral accent — a material whose value lies in its sweet signature and its consistency rather than in rarity or volume.
-
 ## Summary
 
-Champaca (白兰花) is the fragrant white flower of *Michelia alba* (syn. *Magnolia × alba*), an evergreen magnolia-family tree cultivated across southern China and Southeast Asia, valued as a sweet, heady, slightly fruity white-floral — worn fresh, used to scent tea and sachets, and distilled to a perfumery absolute. Its main identification risks are confusion with the yulan magnolia (*Magnolia denudata*) and the misleading "兰" (orchid) name. In incense it is a delicate floral accent and a theme, not a durable base; commercially, species confirmation and consistency outweigh the variety name.
+Champaca (白兰花) is the fragrant white flower of *Michelia alba* (syn. *Magnolia × alba*), an evergreen magnolia-family tree cultivated across southern China and Southeast Asia, valued as a sweet, heady, slightly fruity white-floral — worn fresh, used to scent tea and sachets, and distilled to a perfumery absolute. Its main identification risks are confusion with the yulan magnolia (*Magnolia denudata*) and the misleading "兰" (orchid) name. In incense it is a delicate floral accent and a theme, not a durable base; in trade, species confirmation and consistency outweigh the variety name.
 
 ## FAQ
 

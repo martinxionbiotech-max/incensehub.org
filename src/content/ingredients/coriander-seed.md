@@ -65,7 +65,7 @@ The ripe fruits are harvested and dried whole, producing the round, ridged seed-
 
 > **Direct answer:** Coriander seed quality turns on the freshness and intensity of its citrusy, linalool aroma. Good seed is round, dry, and strongly warm-citrusy on crushing, without a stale or musty note; the whole seed retains its aroma far longer than ground powder.
 
-For a buyer, the practical checks are: **aroma intensity** (a strong, clean, warm-citrusy note on crushing — the linalool character — not a stale or musty edge), **freshness** (round, dry, sound seed rather than shriveled or old material), and **form** (whole seed retains its aroma far longer than ground powder). The crush test is the standard quality check, and whole seed is the reference form precisely because the volatile linalool escapes quickly once ground.
+The practical checks are: **aroma intensity** (a strong, clean, warm-citrusy note on crushing — the linalool character — not a stale or musty edge), **freshness** (round, dry, sound seed rather than shriveled or old material), and **form** (whole seed retains its aroma far longer than ground powder). The crush test is the standard quality check, and whole seed is the reference form precisely because the volatile linalool escapes quickly once ground.
 
 ## Common forms
 
@@ -95,9 +95,9 @@ The whole seed is the reference form; the powder is a convenience form, and the 
 
 The culinary role is well documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the seed-vs-leaf distinction, and the fresh, citrusy aromatic use.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - Whole coriander seed should be round, dry, and fragrant with a warm, citrusy, slightly floral aroma; ground seed loses scent faster.
 - Distinguish the seed (芫荽籽, warm and citrusy) from the leaf herb (芫荽 / 香菜, fresh and green) — different aromatics from the same plant.
@@ -116,18 +116,6 @@ Practical points for buyers:
 | Incense use | Fresh spice accent | None (not used) |
 
 The distinction is the page's core: one plant, two aromatics, and only the seed serves the incense role. See [fennel](/ingredients/fennel/), [orange-peel](/ingredients/orange-peel/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Coriander is a "one-plant-two-aromatics" case — the seed and the leaf are opposite aromatics from the same species, and the common error is to treat "coriander" as one material. The seed's linalool citrus-woody note is the incense contribution; the leaf's green, polarizing note has no aromatic role. Specifying the part, not just the species, is the sourcing lesson.
-
-From a sourcing and editorial perspective, coriander is most interesting for the clean split it enacts within a single species. Three points follow:
-
-- **The seed and leaf are effectively opposite aromatics.** The seed is warm, citrusy, and woody — driven by linalool — while the leaf is fresh, green, and polarizing (a soapy note many people perceive). This is a rare case where one plant yields two materials that could not be mistaken for each other, yet are routinely collapsed into "coriander." For a formulator, the difference is not a nuance; it is the entire decision.
-- **Specifying the part is the sourcing lesson.** A purchase order that says "coriander" has not specified the material — the seed and the leaf are different products with different suppliers, different forms, and different shelf lives. The incense material is the *seed* (芫荽籽), and the leaf (芫荽/香菜) is a fresh culinary herb that degrades quickly and has no aromatic role in a blend. The part must be named, not assumed.
-- **The 胡 prefix records the import, and the 籽 suffix records the part.** The older name 胡荽 carries the 胡 foreign-origin marker (as in 胡椒 and 葫芦巴), and the modern 芫荽籽 adds the 籽 "seed" suffix to separate the seed from the leaf. The name system itself is doing disambiguation work — a reader who learns to read 胡 as "import" and 籽 as "seed" gains a portable tool for the whole aromatic vocabulary.
-
-In our view, coriander is best understood as the **one plant that yields two opposite aromatics** — a warm, citrusy, linalool-driven seed that serves as a fresh incense accent, and a green, polarizing leaf that does not — and its sourcing conversation turns on naming the part, not just the species.
 
 ## Summary
 

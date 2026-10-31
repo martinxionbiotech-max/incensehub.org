@@ -52,9 +52,9 @@ None of these is a classical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) term. The
 
 ## The modern-crossover point (read this)
 
-> **Direct answer:** labdanum (岩蔷薇) is not a classical Chinese incense material. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — not as a claim of classical Chinese origin.
+> **Direct answer:** labdanum (岩蔷薇) is not a classical Chinese incense material. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market readers may encounter through the global fragrance trade — not as a claim of classical Chinese origin.
 
-labdanum (岩蔷薇) is **not a classical Chinese incense material**. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may encounter through the global fragrance trade — **not** as a claim of classical Chinese origin. This is a sourcing and category honesty note, and it matters because a buyer looking for an "authentic Chinese" incense material should not be sold labdanum on that basis.
+labdanum (岩蔷薇) is **not a classical Chinese incense material**. It comes from a Mediterranean shrub, and its documented use is in modern Western perfumery, not in the historical 香谱 (Xiang Pu) or 香乘 (Xiang Cheng) tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market readers may encounter through the global fragrance trade — **not** as a claim of classical Chinese origin. This is a sourcing and category honesty note, and it matters because a reader looking for an "authentic Chinese" incense material should not be sold labdanum on that basis.
 
 ## The amber-accord function (read this)
 
@@ -62,7 +62,7 @@ labdanum (岩蔷薇) is **not a classical Chinese incense material**. It comes f
 
 Labdanum's defining function in perfumery is as the **natural backbone of the amber note**. The classic amber accord — the sweet, warm, resinous base that underlies countless fragrances — is typically built from three materials: **labdanum, vanilla, and benzoin**. Labdanum supplies the leathery, smoky, animalic warmth; vanilla the sweetness; benzoin the balsamic roundness. Together they produce the "amber" character that is not amber the fossil but a constructed accord, and labdanum is the part that gives it depth and tenacity.
 
-This is the useful distinction for a buyer or formulator: labdanum is specified for *function* — a base and fixative that anchors and holds a composition — not for a bright top or a standalone character. It is an infrastructure material in perfumery, and its value is in what it does to the whole blend, not in how it smells alone.
+This is the useful distinction for the reader or formulator: labdanum is specified for *function* — a base and fixative that anchors and holds a composition — not for a bright top or a standalone character. It is an infrastructure material in perfumery, and its value is in what it does to the whole blend, not in how it smells alone.
 
 ## Where does labdanum come from?
 
@@ -74,7 +74,7 @@ This is the useful distinction for a buyer or formulator: labdanum is specified 
 
 > **Direct answer:** Labdanum is used as a base and fixative — it anchors a fragrance from below, adds richness and tenacity, and supplies the leathery warmth of the amber accord. It also appears in some modern incense and resin blends through the global fragrance trade, though it is not a classical Chinese incense material.
 
-Labdanum's role is as a *base and fixative*. It anchors a fragrance from below, adding richness and tenacity, and is central to amber and chypre accords. It also appears in some modern incense and resin blends through the global fragrance trade — but this is a modern crossover use, not a classical Chinese one. The key framing for this encyclopedia: labdanum is a modern Western material that a Chinese-market buyer might meet through global perfumery and modern incense, and it should be understood and bought on those terms, not as a traditional Chinese incense ingredient.
+Labdanum's role is as a *base and fixative*. It anchors a fragrance from below, adding richness and tenacity, and is central to amber and chypre accords. It also appears in some modern incense and resin blends through the global fragrance trade — but this is a modern crossover use, not a classical Chinese one. The key framing for this encyclopedia: labdanum is a modern Western material that a Chinese-market reader might meet through global perfumery and modern incense, and it should be understood and bought on those terms, not as a traditional Chinese incense ingredient.
 
 ## How is it processed?
 
@@ -86,7 +86,7 @@ Processing runs from the shrub to a refined extract:
 - **Concrete** — the raw resin is solvent-extracted into a dark, semi-solid concrete.
 - **Absolute** — the concrete is washed with alcohol to yield the absolute, a more refined form.
 
-The commercial materials are the **concrete and absolute**, not the raw shrub; a buyer specifying labdanum is normally specifying one of these refined forms, and the quality marker is a deep, leathery, balsamic richness without harsh solvent notes.
+The commercial materials are the **concrete and absolute**, not the raw shrub; a reader specifying labdanum is normally specifying one of these refined forms, and the quality marker is a deep, leathery, balsamic richness without harsh solvent notes.
 
 ## What determines labdanum quality?
 
@@ -126,29 +126,6 @@ There is no single standardized ladder, but "deep, clean, and correctly identifi
 
 Labdanum's documented use is in modern perfumery, not in classical Chinese medicine or incense. We make no medical claims and do not fabricate a classical Chinese pedigree.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should recognize 岩蔷薇 as a modern Western material, not a classical Chinese incense ingredient — buy it for modern amber or resin accords, not as an "authentic Chinese" material. Then judge the extract form and quality: a deep, leathery, balsamic richness without harsh solvent notes. And note that "rock rose" is not a true rose.
-
-For a buyer:
-
-- **Category honesty** — 岩蔷薇 is a modern Western material; buy it for modern amber or resin accords, not as a classical Chinese incense ingredient.
-- **Form** — concrete vs absolute, matched to the application.
-- **Quality** — a deep, leathery, balsamic richness without harsh solvent or off-notes.
-- **Naming** — "rock rose" is not a true rose (*Rosa*); Cistaceae is unrelated to Rosaceae.
-
-## Our Industry View
-
-> **Direct answer:** Labdanum's commercial lesson is category honesty. It is a base-and-fixative material whose value is functional — it holds a blend together and supplies amber warmth — and whose provenance is modern Western perfumery, not classical Chinese incense. A buyer should specify it by function and form, and never accept it dressed up as a "classical Chinese" material.
-
-From a manufacturing perspective, labdanum teaches a discipline this encyclopedia values: **category honesty**. Three points follow:
-
-- **It is an infrastructure material.** Labdanum's value is functional — a base and fixative that anchors a composition and supplies amber warmth — not a character to lead with. A buyer or formulator should specify it by function (base, fixative) and form (concrete, absolute), not by a "top note" description it does not deliver.
-- **Provenance is honest.** The material is a modern Western perfumery resin. In a Chinese-market context, the honest framing is "a modern crossover resin from the global fragrance trade," not "a classical Chinese incense material." Dressing it up as the latter would be a category error — and a buyer should reject that framing if it is offered.
-- **The amber note is constructed, not extracted.** The "amber" character labdanum helps build is an accord (labdanum–vanilla–benzoin), not amber the fossil. Keeping that distinction straight prevents confusion between a natural resin, a constructed accord, and a fossilized resin.
-
-In our view, labdanum is a fine base-and-fixative resin for modern amber and chypre work — buy it by form and function, prefer a clean, rich extract, and keep its modern-Western provenance clearly labeled.
-
 ## Summary
 
 Labdanum (岩蔷薇, "rock rose") is the resinous exudate of *Cistus ladanifer*, a Cistaceae shrub of the western Mediterranean, whose deep, leathery, amber-like character made it a cornerstone base and fixative of modern Western perfumery — the natural backbone of the labdanum–vanilla–benzoin amber accord. It is a modern crossover material with no classical Chinese incense pedigree, included here for completeness and comparison. It makes no medical claims, and "rock rose" is not a true rose.
@@ -157,7 +134,7 @@ Labdanum (岩蔷薇, "rock rose") is the resinous exudate of *Cistus ladanifer*,
 
 **What is labdanum (岩蔷薇)?** The resinous exudate of *Cistus ladanifer*, the gum rockrose, a shrub of the rockrose family (Cistaceae) native to the western Mediterranean. It is a deep, balsamic, leathery, amber-like resin used in modern perfumery as a base and fixative. The Chinese name 岩蔷薇 means "rock rose," and the resin is also called 劳丹脂 or 赖百当.
 
-**Is labdanum a classical Chinese incense material?** No. Labdanum comes from a Mediterranean shrub and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market buyers may meet through the global fragrance trade — not as a claim of classical Chinese origin.
+**Is labdanum a classical Chinese incense material?** No. Labdanum comes from a Mediterranean shrub and its documented use is in modern Western perfumery, not in the historical 香谱 or 香乘 tradition of Chinese incense. This encyclopedia includes it for completeness and comparison — as a modern resin that Chinese-market readers may meet through the global fragrance trade — not as a claim of classical Chinese origin.
 
 **What does labdanum smell like?** Deep and resinous, with a balsamic sweetness over a leathery, smoky, amber-like base — sometimes called the "ambergris of the plant world" for its animalic warmth. It is a base note and fixative that anchors a blend from below, adding richness and tenacity, and is a cornerstone of amber and chypre accords in Western perfumery.
 

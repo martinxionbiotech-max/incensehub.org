@@ -31,7 +31,7 @@ related: ["borneol", "pine-resin"]
 
 > **Direct answer:** Borneol oil (龙脑油, *lóngnǎo yóu*) is the liquid aromatic extract of the Borneo camphor tree, *Dryobalanops aromatica*, known classically as 婆律膏 (*pólǜ gāo*). It is the oil companion to crystalline borneol (龙脑 / 冰片) — the same tree yields both, but the crystal and the oil are separate materials with separate histories and uses.
 
-Borneol oil is best understood as the *liquid* half of a two-part material family. The Borneo camphor tree (*Dryobalanops aromatica*) is the classical source of both crystalline borneol — the solid "dragon brain" (龙脑 / 冰片) that crystallizes from the tree's resin — and borneol oil, the liquid aromatic extract of the same tree. The two are not interchangeable: one is a solid monoterpene crystal, the other a broader liquid extract carrying borneol alongside related volatile constituents. In modern trade, the term "borneol" on a label may also mean leaf-distilled or synthetic material, so the oil/crystal/synthetic distinction is the buyer's first question.
+Borneol oil is best understood as the *liquid* half of a two-part material family. The Borneo camphor tree (*Dryobalanops aromatica*) is the classical source of both crystalline borneol — the solid "dragon brain" (龙脑 / 冰片) that crystallizes from the tree's resin — and borneol oil, the liquid aromatic extract of the same tree. The two are not interchangeable: one is a solid monoterpene crystal, the other a broader liquid extract carrying borneol alongside related volatile constituents. In modern trade, the term "borneol" on a label may also mean leaf-distilled or synthetic material, so the oil/crystal/synthetic distinction is the reader's first question.
 
 ## Botanical identity
 
@@ -51,7 +51,7 @@ The naming sorts cleanly by material form:
 - **婆律膏 (pólǜ gāo)** — the classical name, "paste/oil of 婆律国 (Borneo)," recorded in the *Xiangcheng* (香乘) and *Bencao Gangmu* (本草纲目) for the *oil* of the tree.
 - **龙脑 (lóngnǎo)** and **冰片 (bīngpiàn)** — the broad name and the refined *crystal*, respectively, a distinct material from the oil.
 
-The same tree thus carries two name families — one for the crystal, one for the oil — and a buyer who knows only "borneol" has not yet identified which form is meant.
+The same tree thus carries two name families — one for the crystal, one for the oil — and a reader who knows only "borneol" has not yet identified which form is meant.
 
 ## Where does borneol oil come from?
 
@@ -144,43 +144,21 @@ Two distinct issues:
 
 See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the "one name, several materials" pattern.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 龙脑油 (the oil) and 龙脑 / 冰片 (the crystal) are different materials from the same tree — do not confuse them.
 - "Borneol" on a modern label can also be *synthetic* (机制冰片) or leaf-distilled (艾片, l-borneol from *Blumea balsamifera*) — see our [borneol](/ingredients/borneol/) page for the full source problem.
 - Natural borneol oil from *Dryobalanops aromatica* is historically documented but uncommon in modern trade; most commercial "borneol" today is the crystal or synthetic forms.
 
-## What buyers should look for
-
-> **Direct answer:** Ask which material the label means — oil, crystal, or synthetic — and which botanical source. For the oil specifically, expect a clean camphor-balsam aroma and be aware that genuine natural borneol oil is rare, so source documentation matters more than the word "borneol."
-
-For an incense maker or sourcing buyer:
-
-- **Form** — confirm whether "borneol" means the oil (龙脑油), the crystal (龙脑 / 冰片), or a synthetic/leaf-distilled form; they are not interchangeable.
-- **Source** — *Dryobalanops aromatica*, camphor tree (*Cinnamomum camphora*), leaf-distilled, or synthetic; a credible seller can name it.
-- **Aroma** — a clean, cooling, camphor-balsam character with no solvent off-notes.
-- **Documentation** — because natural borneol oil is uncommon, a repeatable source matters more than a nominal grade.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter; burn in a well-ventilated space and avoid inhaling concentrated smoke. Borneol oil is potent and is not for consumption. Keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, "borneol" is a name that hides several materials — oil, crystal, leaf-distilled, synthetic — so the working variable is the source, not the label. A formula built on a named, consistent form will reproduce; an unqualified "borneol" will not.
-
-From a manufacturing perspective, borneol oil's commercial reality is a **naming problem**: the same word covers materials that behave differently in a formula.
-
-- **Source is the identity.** Natural oil, crystal, leaf-distilled, and synthetic borneol differ in isomer composition, aroma register, and price. A formula built on the oil's soft camphor-balsam will not reproduce if the buyer is shipped synthetic crystal instead, even though both are "borneol."
-- **The oil is a soft accent, used sparingly.** It supplies cooling lift without the crystal's sharpness, but it is potent, so dose matters — and the right level **depends on formulation** (the other ingredients and the target profile), not on a universal figure.
-
-In our view, the commercial value is a **documented, consistent single-source material with the form stated explicitly** — not an unqualified "borneol" label, and certainly not a natural-oil claim that the supply chain cannot verify.
-
 ## Summary
 
-Borneol oil (龙脑油, *lóngnǎo yóu*; classical 婆律膏) is the liquid aromatic extract of the Borneo camphor tree, *Dryobalanops aromatica*, the oil companion to crystalline borneol (龙脑 / 冰片) from the same tree. The Ming-dynasty *Xiangcheng* records the distinction — thin trees yield the crystal, fat trees the oil — and the oil's import from 佛誓国 and tribute from 大食国, marking it as a high-status imported aromatic. Its aroma is a softer, more balsamic camphor note than the crystal's sharp cooling. In modern trade, natural borneol oil is rare, and "borneol" on a label usually means crystal or synthetic material, so the source — not the name — is the buyer's real question.
+Borneol oil (龙脑油, *lóngnǎo yóu*; classical 婆律膏) is the liquid aromatic extract of the Borneo camphor tree, *Dryobalanops aromatica*, the oil companion to crystalline borneol (龙脑 / 冰片) from the same tree. The Ming-dynasty *Xiangcheng* records the distinction — thin trees yield the crystal, fat trees the oil — and the oil's import from 佛誓国 and tribute from 大食国, marking it as a high-status imported aromatic. Its aroma is a softer, more balsamic camphor note than the crystal's sharp cooling. In modern trade, natural borneol oil is rare, and "borneol" on a label usually means crystal or synthetic material, so the source — not the name — is the reader's real question.
 
 ## FAQ
 
@@ -190,7 +168,7 @@ Borneol oil (龙脑油, *lóngnǎo yóu*; classical 婆律膏) is the liquid aro
 
 **Where does borneol oil come from?** Classically, from the Borneo camphor tree, *Dryobalanops aromatica* — called the 婆律 tree in Chinese sources, growing in 婆律国 (Borneo). The *Xiangcheng* (香乘) records that borneol oil was imported from 佛誓国 and sent as tribute by 大食国 (the Abbasid caliphate). Related camphor-tree (*Cinnamomum camphora*) sources also yield borneol-family oils.
 
-**Is borneol oil natural?** Historically, yes — borneol oil was the natural liquid extract of *Dryobalanops aromatica*. In modern trade, however, "borneol" is usually the crystal or synthetic forms (机制冰片), and genuine natural borneol oil is uncommon. The same "borneol" label can hide synthetic material or a mixture of isomers, so the source — not just the name — determines what you are getting. See our [borneol](/ingredients/borneol/) page.
+**Is borneol oil natural?** Historically, yes — borneol oil was the natural liquid extract of *Dryobalanops aromatica*. In modern trade, "borneol" is usually the crystal or synthetic forms (机制冰片), and genuine natural borneol oil is uncommon. The same "borneol" label can hide synthetic material or a mixture of isomers, so the source — not just the name — determines what you are getting. See our [borneol](/ingredients/borneol/) page.
 
 **What does borneol oil smell like?** Borneol oil carries the same camphoraceous, cooling family as crystalline borneol, but as a liquid balsam it is softer, more woody-balsamic, and less piercing. Where the crystal 冰片 is a sharp, cooling top note, the oil reads as a rounder camphor-balsam — historically valued as a fine aromatic in its own right.
 

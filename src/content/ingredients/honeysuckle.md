@@ -77,11 +77,11 @@ This page makes **no claim** that honeysuckle is a classical incense-canon mater
 
 > **Direct answer:** Honeysuckle flowers are processed by harvesting the blossoms and drying them — the standard materia-medica preparation. For incense and fragrance, the dried flowers are used whole or ground; the sweet scent is delicate and best preserved by careful, low-heat drying.
 
-The essential step is harvesting the **flower buds and open blossoms** and drying them — the same preparation used in materia medica. The sweet scent is delicate, so careful, low-heat drying preserves it better than aggressive drying. From there the dried flowers are used whole or ground. For powder buyers, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula**. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and floral-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
+The essential step is harvesting the **flower buds and open blossoms** and drying them — the same preparation used in materia medica. The sweet scent is delicate, so careful, low-heat drying preserves it better than aggressive drying. From there the dried flowers are used whole or ground. For powder, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula**. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and floral-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
 
 ## What determines honeysuckle quality?
 
-> **Direct answer:** Quality turns on clean, whole buds/blooms that retain a sweet, slightly green fragrance. Browned or musty blooms are lower grade. There is no standardized numerical grading; the buyer evaluates the physical condition of the lot.
+> **Direct answer:** Quality turns on clean, whole buds/blooms that retain a sweet, slightly green fragrance. Browned or musty blooms are lower grade. There is no standardized numerical grading; the lot is judged by its physical condition.
 
 The practical quality factors, in rough order:
 
@@ -129,37 +129,13 @@ They are distinct flowers in different families (and different registers of swee
 
 Honeysuckle is an inexpensive flower, so adulteration is not the same concern as with agarwood. The real risk is **naming**: 金银花 and 忍冬 are the same species, and "honeysuckle" is a genus-wide English name. Specifying *Lonicera japonica* resolves the identity.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Lonicera japonica*) and the flower form, and check for clean, sweet, green-scented blooms with no browning or mustiness. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Lonicera japonica*; "honeysuckle" spans the whole *Lonicera* genus.
-- **Form** — whole flowers or powder; each behaves differently in a blend.
-- **Physical condition** — clean, sweet, green-scented blooms with no browning or mustiness.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, honeysuckle is a light sweet-floral top note, not a base — and a modern crossover material, not a classical canon ingredient. Its value is a clean, honeyed lift, but because its scent is delicate, dose and blend context matter more than the nominal name.
-
-From a manufacturing perspective, honeysuckle's defining traits are **lightness** and **modern crossover status**. It supplies a clean, honeyed floral lift that heavier materials cannot, but its scent is delicate and its incense use is modern rather than classical.
-
-Two points follow:
-
-- **It is a top note, not a base.** Honeysuckle lifts a floral blend but cannot anchor it. A buyer who expects it to lead a fragrance will be disappointed, while one who doses it as a sweet-floral accent gets real value.
-- **Delicacy is the formulation variable.** Because the scent is light, the practical dose and blend context — which **depend on formulation** — matter more than the nominal name, so a figure that works in one factory does not transfer to another.
-
-In our view, honeysuckle's commercial value lies in its role as a **correctly identified, clean, sweet-floral accent** used to lift modern floral blends — a supporting flower whose real value is its clean honeyed character, not intensity.
-
 ## Summary
 
-Honeysuckle (金银花) is the flower of *Lonicera japonica*, a twining, semievergreen Caprifoliaceae vine Flora of China records with ovate-lanceolate leaves 3–8 cm and fragrant, paired, white-to-yellow bilabiate flowers 3–5 cm long. The vine is called 忍冬, the flower 金银花 — one species, two names. It is a documented materia-medica flower whose sweet, honeyed, green scent has crossed over into modern incense as a light floral top note, not a classical 香乘 ingredient. Its main identification risk is the genus-wide "honeysuckle" name; commercially, correct identification and clean, fresh blooms outweigh intensity.
+Honeysuckle (金银花) is the flower of *Lonicera japonica*, a twining, semievergreen Caprifoliaceae vine Flora of China records with ovate-lanceolate leaves 3–8 cm and fragrant, paired, white-to-yellow bilabiate flowers 3–5 cm long. The vine is called 忍冬, the flower 金银花 — one species, two names. It is a documented materia-medica flower whose sweet, honeyed, green scent has crossed over into modern incense as a light floral top note, not a classical 香乘 ingredient. Its main identification risk is the genus-wide "honeysuckle" name; in trade, correct identification and clean, fresh blooms outweigh intensity.
 
 ## FAQ
 

@@ -121,17 +121,6 @@ The quality factors, in rough order:
 - **Historical Record** — the *Bencao Gangmu* (本草纲目) 草之三 record of 当归 with its classical names 乾归, 山蕲, and 文无, and the naming story behind 当归.
 - **Scientific Evidence** — the botanical identity of *Angelica sinensis* (Apiaceae) is documented. We present no clinical or medical efficacy claims.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species first — 当归 is *Angelica sinensis*, not 白芷 (*Angelica dahurica*) — then judge a warm, sweet, herbal aroma and clean, well-dried root. Remember it is a sachet herb and materia-medica root, not a burned incense material or a classical 香乘 staple.
-
-For a buyer or formulator:
-
-- **Species** — 当归 is dong quai (*Angelica sinensis*); distinguish it from 白芷 (*Angelica dahurica*), same genus but different species, aroma, and role.
-- **Aroma** — a warm, sweet, herbal, slightly spicy note; reject faded root.
-- **Form** — whole root, sliced, or powder, depending on sachet or blending use.
-- **Role clarity** — it is a sachet herb and materia-medica root, not a burned incense material.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -148,18 +137,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Key point | Sachet herb, not a burn material | The incense-use *Angelica* |
 
 See [angelica (白芷)](/ingredients/angelica/), [atractylodes](/ingredients/atractylodes/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 当归's commercial lesson is a category boundary: it is a famous medicine root whose aromatic role is modest and sachet-based, not a burned incense material. A buyer should not pay an incense-grade premium for a root whose real value is medicinal — and should never let the medicinal fame bleed into an incense claim.
-
-From a manufacturing perspective, 当归 is a lesson in **keeping a material's fame separate from its actual aromatic function**:
-
-- **Medicinal fame is not aromatic value.** 当归 is one of the most famous roots in Chinese medicine, but that renown does not translate into incense value. Its scent is a quiet, warm root note useful in sachets and blends — not a driving fragrance, and not a burned 香材. A buyer who prices 当归 by its medicinal reputation is paying for the wrong attribute.
-- **The sachet-versus-burn boundary matters.** 当归 works by proximity in a cloth 香囊, not by combustion. For a stick or cone formula it is at best a minor, warm depth note; for a sachet product it is genuinely useful. Matching the material to the right format is the practical skill.
-- **Identity discipline is the entry ticket.** With two *Angelica* species sharing the English name "angelica," the first check is always species — 当归 versus 白芷 — because they differ in aroma, role, and price.
-
-In our view, 当归 is a warm, sweet sachet root whose commercial value sits in its medicinal tradition, not its fragrance: buy it by species, use it by proximity, and keep the medicine and the incense claims strictly apart.
 
 ## Summary
 

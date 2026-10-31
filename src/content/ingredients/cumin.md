@@ -73,7 +73,7 @@ The ripe fruits are harvested and dried, producing the small, ridged, brown seed
 
 > **Direct answer:** Cumin quality turns on volatile-oil richness and freshness. A good cumin is clean, dry, and strongly warm-earthy-pungent on crushing, without a musty or stale edge. The whole fruit retains its aroma far longer than ground powder, so whole seed is the reference form for quality checks.
 
-For a buyer, the practical checks are: **oil richness** (a strong, warm, earthy, penetrating aroma on crushing — not a faint or stale note), **freshness** (dry, aromatic fruit rather than musty seed), and **form** (whole fruit retains its scent far longer than pre-ground powder). The distinctive cuminaldehyde-driven character should be present in full; a cumin that smells merely "dusty" has lost the volatile oils that are its whole point.
+The practical checks are: **oil richness** (a strong, warm, earthy, penetrating aroma on crushing — not a faint or stale note), **freshness** (dry, aromatic fruit rather than musty seed), and **form** (whole fruit retains its scent far longer than pre-ground powder). The distinctive cuminaldehyde-driven character should be present in full; a cumin that smells merely "dusty" has lost the volatile oils that are its whole point.
 
 ## Common forms
 
@@ -103,9 +103,9 @@ The distinction between whole and ground is a shelf-life point, not a quality st
 
 The culinary use is unambiguous and well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Apiaceae placement, and the Western-Regions culinary role — with the loanword provenance as the page's distinctive factual point.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 孜然 is cumin (*Cuminum cyminum*); expect a warm, spicy, earthy, slightly bitter, penetrating aroma.
 - It is a Western-Regions spice, not a classical Chinese incense material — its Chinese name 孜然 is a Central-Asian loanword.
@@ -124,18 +124,6 @@ Practical points for buyers:
 | Key buying note | Savory-penetrating; roast to deepen | Sweet anethole note | Seed ≠ leaf; linalool note |
 
 The three share the carrot family but not the register: fennel and coriander seed lean aromatic-sweet, while cumin sits alone on the savory-earthy side. See [fennel](/ingredients/fennel/), [coriander-seed](/ingredients/coriander-seed/), [dill](/ingredients/dill/), [fenugreek](/ingredients/fenugreek/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Cumin is a "provenance-in-the-name" case — the loanword 孜然 is itself the historical record of a Silk-Road trade import, and the honest editorial move is to let that name tell the story rather than to retrofit cumin into a Chinese incense antiquity it never had. Its savory-earthy register makes it the outlier of the carrot-family seed spices.
-
-From a sourcing and editorial perspective, cumin is most interesting for what its *name* — rather than any classical text — proves about its route into China. Three points follow:
-
-- **The loanword is the provenance record.** 孜然 transcribes a Central/West Asian source word, not a Chinese description. This is the same pattern as asafoetida (阿魏) and long pepper (荜茇): foreign-origin aromatics entered Chinese with phonetic names, and the name itself documents the trade route. For a knowledge resource built on the difference between classical 香材 and later imports, the 孜然 name is a clean, self-contained piece of evidence that cumin is the latter, not the former.
-- **The savory-earthy register is a real division, not a nuance.** Within the carrot family, fennel and coriander seed read aromatic-sweet, while cumin reads savory-earthy. A formulator who treats the Apiaceae seed spices as one "family" flavor is already collapsing a genuine sensory divide. Cumin is the outlier, and that is exactly its value when a warm, food-adjacent, "grilled" depth is wanted.
-- **Absence is itself a finding.** Cumin's absence from the 香乘 and the 本草 under 孜然 is documented, not assumed. For a buyer or researcher, this matters: a Chinese-sourced material labeled 孜然 is a modern trade spice, not a classical 香材, and any claim that cumin is "traditional Chinese incense" should be treated as a retrofitted story rather than a record.
-
-In our view, cumin is best understood as a **Western-Regions trade spice whose name is its own provenance record** — a savory-earthy carrot-family outlier that entered Chinese kitchens through the Silk Road, never entered the classical incense canon, and should be described exactly as that.
 
 ## Summary
 

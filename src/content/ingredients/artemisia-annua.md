@@ -67,7 +67,7 @@ The boundary is strict:
 
 - **The drug is not the herb.** Artemisinin is a purified pharmaceutical compound used in a medical context. The dried herb, burned or carried as an aromatic, is a different material with no established incense efficacy.
 - **Incense use is aromatic, not medicinal.** This page describes 青蒿's fresh, camphoraceous aroma and its classical aromatic/sachet role. It makes no claim that burning or carrying the herb does anything medical.
-- **Fame is not fragrance.** The artemisinin story is about chemistry and medicine, not scent. A buyer should not pay an incense premium because the plant produced a famous drug.
+- **Fame is not fragrance.** The artemisinin story is about chemistry and medicine, not scent. A reader should not pay an incense premium because the plant produced a famous drug.
 
 This is the honest framing: record the modern fame, and keep it out of the aromatic claim.
 
@@ -123,17 +123,6 @@ The quality factors:
 - **Historical Record** — the *Bencao Gangmu* (本草纲目) 草之四 record of 青蒿 ("草蒿…北人呼為青蒿"), with the aliases 草蒿 and 香蒿, distinct from the mugwort entry 艾.
 - **Scientific Evidence** — the botanical identity of *Artemisia annua* (Asteraceae) and the modern chemical fact of artemisinin are documented. This page records the latter as context and presents no clinical or medical efficacy claims for the herb or its incense use.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm species — 青蒿 is *Artemisia annua*, distinct from 艾草 (*Artemisia argyi*) — then judge freshness and the light, green, camphoraceous note. It is lighter and greener than mugwort, and its value is a fresh aromatic herb, not a burned resin or wood.
-
-For a buyer or formulator:
-
-- **Species** — 青蒿 (*Artemisia annua*), not 艾草 (mugwort, *Artemisia argyi*), nor tarragon (*Artemisia dracunculus*).
-- **Freshness** — a fresh, green, camphoraceous, slightly sweet note; reject faded herb.
-- **Condition** — clean, well-dried aerial herb.
-- **Role clarity** — a light aromatic/sachet herb, not a lead 香材; and its modern artemisinin fame says nothing about incense value.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -150,18 +139,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Role | Sachet/materia-medica herb | Moxibustion; 艾 incense | Culinary/fragrance crossover |
 
 See [mugwort](/ingredients/mugwort/), [tarragon](/ingredients/tarragon/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** 青蒿's commercial lesson is a two-sided boundary: distinguish it from mugwort by species and lifecycle, and keep its modern artemisinin fame out of the incense claim. It is a light, fresh, annual aromatic herb whose value is its crisp green note — not a drug, and not a substitute for the heavier perennial mugwort.
-
-From a manufacturing perspective, 青蒿 is a case in **keeping two boundaries clean at once**:
-
-- **The species boundary.** 青蒿, 艾草, and 龙蒿 share a genus and a green register, but an annual and a perennial are different materials with different harvest rhythms and characters. A buyer who orders "artemisia" without pinning the species is ordering an unknown herb. The lifecycle is the practical clue: an annual gives a fresh, light green note; a perennial gives a denser, more persistent one.
-- **The fame boundary.** The artemisinin story is real and important, but it is a pharmaceutical fact, not an incense fact. A manufacturer should neither inflate 青蒿's aromatic value by pointing at a drug, nor — worse — imply any medical property in an incense product. The disciplined move is to keep the chemistry out of the fragrance claim entirely.
-- **A supporting herb, priced as one.** 青蒿 is a fresh green accent, not a precious material. Its commercial value is modest and seasonal, and it should be bought and priced that way.
-
-In our view, 青蒿 is a light, fresh, annual *Artemisia* herb whose real procurement questions are species (versus mugwort and tarragon) and freshness — and whose modern fame must be kept firmly out of the incense claim.
 
 ## Summary
 

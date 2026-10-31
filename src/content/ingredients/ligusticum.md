@@ -68,7 +68,7 @@ Ligusticum's incense role is best understood through its classical formula appea
 
 > **Direct answer:** Ligusticum root is harvested, cleaned, dried, and then roasted or ground for blending. No extraction step is involved in the root form; the dried root is the commercial material.
 
-The root and rhizome are **harvested, cleaned, and dried**, then either roasted or dried and **ground** for use in blended incense. No extraction step is involved in the dried-root form. For powder buyers, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line (see Our Industry View below). The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+The root and rhizome are **harvested, cleaned, and dried**, then either roasted or dried and **ground** for use in blended incense. No extraction step is involved in the dried-root form. For powder, particle size and moisture are the practical variables — but the exact target depends on the formula, binder, and production line . The grinding and forming mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines ligusticum quality?
 
@@ -81,7 +81,7 @@ The quality factors, in rough order:
 3. **Root maturity** — a sound, mature rootstock (recalling the botanical "swollen at nodes" rootstock) reads richer than thin material.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is **no standardized grading system**; the buyer evaluates the physical condition and aroma of the lot.
+There is **no standardized grading system**; the lot is judged by its physical condition and aroma.
 
 ## Common forms
 
@@ -128,54 +128,19 @@ Ligusticum is not a heavily faked, expensive aromatic; its risk is a **naming an
 
 The Chinese drug name (藁本 vs 川芎) or the full botanical name resolves the matter. See the [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Sustainability & sourcing
+## Sustainability
 
 > **Direct answer:** *Ligusticum sinense* is recorded by Flora of China as wild and "also cultivated," with no equivalent CITES-style scarcity concern to spikenard or agarwood; the sourcing question is species verification and root quality rather than conservation.
 
-藁本 is recorded both wild and cultivated, and carries no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm the species (藁本 vs 川芎, and against true lovage) and evaluate the root's aroma and soundness. See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Modern commercial applications
-
-> **Direct answer:** Ligusticum is used in traditional materia medica and in classical-style blended incense as a herbal middle note. Its commercial weight is niche — a specialist aromatic root rather than a mass-market ingredient.
-
-Ligusticum reaches the market through two channels:
-
-- **Materia medica** — 藁本 is a standard dried root of the Chinese herbal trade.
-- **Classical-style blended incense** — 藁本 is a herbal middle note in formulas such as the plum-incense accord.
-
-This is a **specialist, niche material**, not a mass-market ingredient; its commercial relevance is tied to classical 合香 reproduction and materia medica rather than to any mainstream fragrance channel.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (藁本 vs 川芎, and against true lovage), then judge the root's aroma, soundness, and cleanliness — and, for powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Ligusticum sinense* (藁本) rather than *L. chuanxiong* (川芎) or true lovage (*Levisticum officinale*); a real seller names the species or the Chinese drug name.
-- **Aroma** — the root should be herbal, aromatic, and slightly spicy when warmed.
-- **Soundness and cleanliness** — freedom from rot, mold, and foreign matter.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
+藁本 is recorded both wild and cultivated, and carries no CITES-style or wild-harvest scarcity concern of the kind attached to spikenard or agarwood. The sourcing question is therefore **identity and quality**, not conservation: confirm the species (藁本 vs 川芎, and against true lovage) and evaluate the root's aroma and soundness. 
 
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, 藁本 is a niche middle-note ingredient whose value is authentic classical character, not volume. Its role depends on consistency — of aroma, particle size, moisture, and batch-to-batch variation — more than on any rare or premium grading.
-
-From a manufacturing perspective, 藁本 is a **niche ingredient whose value is authenticity, not scale**. It will not carry a formula the way sandalwood or agarwood can; its job is to supply a herbal middle register that reproduces a classical accord — which is exactly the role most sensitive to batch drift, since a slightly stale or differently ground lot changes the blend's herbal character without announcing itself.
-
-Two points follow:
-
-- **It is a supporting note, so consistency is the specification.** A formula that relies on 藁本 for its herbal middle needs the *same* register every batch. A single fragrant lot proves little; what matters is that the next lot smells and behaves like the last.
-- **Particle size and moisture affect behavior, not just aroma.** In powder, particle size changes how the material packs, draws air, and burns; moisture changes how it grinds and how the finished stick dries. The right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **consistent, correctly identified 藁本 with a steady herbal profile**, used as a supporting middle note — a niche root whose value is that it makes a classical formula reproducible.
-
 ## Summary
 
-Ligusticum (藁本, *gǎoběn*) is the dried root and rhizome of *Ligusticum sinense*, an Apiaceae herb of central and western China. It is a classical herbal middle note in Chinese 合香 — best known as a named ingredient of the Shouyang princess's plum incense (寿阳公主梅花香) — valued for a herbal, slightly spicy, faintly woody root character. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risks are confusion with true lovage and with chuanxiong (川芎, *Ligusticum chuanxiong*). In incense it is a niche supporting note; commercially, species verification and batch consistency outweigh volume.
+Ligusticum (藁本, *gǎoběn*) is the dried root and rhizome of *Ligusticum sinense*, an Apiaceae herb of central and western China. It is a classical herbal middle note in Chinese 合香 — best known as a named ingredient of the Shouyang princess's plum incense (寿阳公主梅花香) — valued for a herbal, slightly spicy, faintly woody root character. Its quality rests on aromatic intensity, soundness, and consistency rather than a formal grade, and its naming risks are confusion with true lovage and with chuanxiong (川芎, *Ligusticum chuanxiong*). In incense it is a niche supporting note; in trade, species verification and batch consistency outweigh volume.
 
 ## FAQ
 

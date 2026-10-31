@@ -35,7 +35,7 @@ related: ["ligusticum", "angelica", "atractylodes"]
 
 ## Botanical identity
 
-> **Direct answer:** Asarum is the root and rhizome of *Asarum sieboldii* (Aristolochiaceae), a shade-loving woodland herb native to China, Korea, and Japan. A closely related species, *Asarum heterotropoides*, is also gathered as 细辛 in northern China — a regional identity point worth noting for sourcing.
+> **Direct answer:** Asarum is the root and rhizome of *Asarum sieboldii* (Aristolochiaceae), a shade-loving woodland herb native to China, Korea, and Japan. A closely related species, *Asarum heterotropoides*, is also gathered as 细辛 in northern China — a regional identity point that matters for sourcing.
 
 *Asarum sieboldii* is a low, shade-loving woodland herb in the birthwort family (Aristolochiaceae), native to China, Korea, and Japan. Flora of China records the species (细辛), alongside the closely related *Asarum heterotropoides*, which is also gathered as 细辛 in northern China. The part used is the slender, aromatic root and rhizome, dug and dried. See [Asarum sieboldii in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006671) and [Asarum sieboldii on GBIF](https://www.gbif.org/species/7313629).
 
@@ -62,7 +62,7 @@ The *Bencao Gangmu* (本草纲目), 草之二, quotes Shen Kuo's *Mengxi Bitan*:
 
 > **Direct answer:** Asarum grows in the shaded woodland understory across China, Korea, and Japan — a forest-floor herb, not a field crop. The classical benchmark for true 细辛 was Mount Hua (華州), though the species ranges more broadly, with *A. heterotropoides* gathered as 细辛 in the north.
 
-*Asarum sieboldii* is a woodland-understory plant, growing in shade rather than open cultivation — a botanical fact that shapes its sourcing. The classical record names Mount Hua (華州) as the benchmark source for true 细辛, but the species ranges across China, Korea, and Japan, and northern China also gathers the related *Asarum heterotropoides* under the same name. This dual-source situation means "细辛" is not a single-species guarantee; the region and the species together determine what the buyer is getting.
+*Asarum sieboldii* is a woodland-understory plant, growing in shade rather than open cultivation — a botanical fact that shapes its sourcing. The classical record names Mount Hua (華州) as the benchmark source for true 细辛, but the species ranges across China, Korea, and Japan, and northern China also gathers the related *Asarum heterotropoides* under the same name. This dual-source situation means "细辛" is not a single-species guarantee; the region and the species together determine what the reader is getting.
 
 ## Why is it (not) used in incense?
 
@@ -111,36 +111,11 @@ The documented, non-medical facts are botanical identity, the Aristolochiaceae p
 
 We did **not** find 细辛 documented as a classical 香囊 or incense ingredient in the incense manuals and materia-medica records consulted here. Its classical role is materia medica, and its pungent root scent is medicinal rather than a fragrance for sachets or burning. This is stated honestly: **no sachet or incense origin is claimed.** The boundary is a useful one to hold for the whole encyclopedia — being aromatic does not make a plant an incense material.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm the species (细辛 = *Asarum sieboldii*, not the look-alike 杜衡 *Asarum forbesii*), expect an intensely pungent, camphoraceous root, and understand it as a medicinal aromatic, not a sweet incense 香材. The slender deep-purple form and extreme pungency are the classical identity checks.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — 细辛 is *Asarum sieboldii* (with *A. heterotropoides* gathered under the same name in the north); distinguish it from 杜衡 (*Asarum forbesii*).
-- **Form and color** — slender, straight, deep-purple roots, not the curved, brittle, yellow-white roots of the look-alike.
-- **Pungency** — extremely acrid and camphoraceous; the intensity is the identifying trait.
-- **Role** — a sharp aromatic root, not a sweet incense 香材; its classical role is materia medica, and it carries dosing cautions.
-
-Related aromatic roots with their own entries sit nearby in the materia-medica family: [ligusticum (藁本)](/ingredients/ligusticum/) and [angelica (白芷)](/ingredients/angelica/) — distinct roots, distinct roles, and not interchangeable with 细辛.
-
 ## Safety
 
 > **Direct answer:** Asarum belongs to the birthwort family (Aristolochiaceae), a group with documented chemical-safety cautions, and its classical record carries dosing cautions (used in small amounts). It is framed here as a potent medicinal aromatic, not a burning-fragrance material; no medical use is recommended.
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. 细辛's classical record carries dosing cautions, and its family placement (Aristolochiaceae) carries a documented safety context; this page is about fragrance identification, not use. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Asarum is the encyclopedia's clearest illustration of a boundary that generic content often blurs: "aromatic" and "incense material" are not the same thing. An intensely fragrant root can be firmly medicinal, with no fragrance-canon standing at all — and stating that negative honestly is more useful to a buyer than inventing an incense role the record does not support.
-
-From a sourcing and editorial perspective, 细辛 matters precisely because of what it is *not*. Three points follow:
-
-- **The negative finding is the analysis.** Most ingredient write-ups default to finding a fragrance use. 细辛's value here is that we state, plainly, that no classical sachet or incense use is documented — its pungent root belongs to materia medica, not to the 香材 canon. In an industry where aromatic roots are routinely swept into "incense ingredient" lists, holding that line is itself the original contribution.
-- **Pungency is not the same as fragrance.** 细辛 is intensely aromatic, but its hot, camphoraceous, almost pepper-like character is a *medicinal* pungency, not a *fragrance* note. The distinction — a scent that acts on the palate and sinuses versus one that perfumes — is the reason a buyer should not treat it as a drop-in aromatic for a blend.
-- **Safety context is part of the identity.** The Aristolochiaceae placement and the classical dosing cautions are not peripheral footnotes; they are central to why 细辛 is handled carefully and dosed small. For a material whose family carries documented safety cautions, the responsible framing is to lead with that context, not bury it.
-
-In our view, 细辛 is best understood as a **medicinal aromatic root whose honest description is "not an incense material"** — and the commercial discipline it teaches is transferable: verify whether an aromatic's classical standing is medicinal or fragrant, and do not blur the two for the sake of a fuller-sounding page.
 
 ## Summary
 

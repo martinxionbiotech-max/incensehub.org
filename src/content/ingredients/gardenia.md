@@ -42,7 +42,7 @@ Gardenia is a rich, creamy, heady white-floral — sweet and almost tropical, in
 - **栀子花 (zhīzihuā)** — the flower, used for its fragrance in floral incense and tea scenting.
 - **栀子 (zhīzi)** — the fruit, a source of yellow dye and a materia-medica item.
 
-This matters for a buyer: gardenia is a light floral material, structurally unlike the woods and resins it is often blended with, and the flower and fruit are two different products. See [Gardenia jasminoides in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022091) and [Gardenia jasminoides on GBIF](https://www.gbif.org/species/5335125).
+This matters for the reader: gardenia is a light floral material, structurally unlike the woods and resins it is often blended with, and the flower and fruit are two different products. See [Gardenia jasminoides in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022091) and [Gardenia jasminoides on GBIF](https://www.gbif.org/species/5335125).
 
 ## Chinese name and terminology
 
@@ -76,7 +76,7 @@ The flower and fruit take different paths:
 - **Flowers** — used fresh for tea scenting, or dried for storage and grinding into floral-incense powder.
 - **Fruit (栀子)** — a separate material, processed for its yellow dye and materia-medica use.
 
-For powder buyers, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line (see Our Industry View below). The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, the same practical variables as any floral powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line . The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines gardenia quality?
 
@@ -90,7 +90,7 @@ The practical quality factors:
 4. **Freedom from foreign matter** — clean separation from leaves, stems, and debris.
 5. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is no standardized numerical grading system; the buyer evaluates the physical condition of the lot.
+There is no standardized numerical grading system; the lot is judged by its physical condition.
 
 ## Common forms
 
@@ -135,43 +135,13 @@ Gardenia, jasmine, osmanthus, and champaca are the core white-floral references 
 
 Gardenia is not an expensive, heavily faked aromatic; its risk is a **naming matter**. The principal confusion is between the flower (fragrance) and the fruit (dye/materia medica), which share the plant but serve different purposes. A label that specifies 栀子花 versus 栀子 resolves it.
 
-## Modern commercial applications
-
-> **Direct answer:** Gardenia reaches the market through three channels — a fragrance reference and tea-scenting flower, a yellow dye (the fruit), and a delicate floral-incense note. The flower and fruit are separate commercial products with separate buyers.
-
-Gardenia's commercial life splits by plant part. The **flower** serves fragrance and tea scenting; the **fruit (栀子)** serves the dye and materia-medica markets. Its incense role is a smaller, supporting application — a creamy white-floral accent or a named theme. For a sourcing buyer, this split matters because **the flower and fruit markets value gardenia differently**, and a buyer must be clear which part — and which grade of that part — is being offered.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the part (flower vs fruit), the form, and the physical condition — intact, white, cleanly fragrant flowers with no browning or debris. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Part** — confirm 栀子花 (flower, for fragrance) versus 栀子 (fruit, for dye); a real seller can state it.
-- **Form** — fresh, dried, powder, or fruit; each behaves differently in a blend.
-- **Physical condition** — intact, white, fragrant flowers with no browning, mold, or debris.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, gardenia is a reference floral, not a durable base. Its value is a creamy white-floral signature — but because the fresh flower is far more fragrant than the dried, a gardenia-named blend is often as much about the *theme* as the flower itself, and consistency matters more than the variety name.
-
-From a manufacturing perspective, gardenia's defining trait is the gap between its **fresh and dried** fragrance. The fresh flower is one of the richest white-florals in the canon; the dried flower is a faint echo of it. That gap shapes how gardenia is actually used commercially.
-
-Two points follow:
-
-- **It is often a theme as much as a material.** Because drying mutes the scent, many "gardenia" incense products lean on a gardenia-named character — sometimes reinforced by other florals — rather than a heavy dose of the dried flower. A buyer should understand whether a "gardenia" product is built on the flower, on a theme, or on both.
-- **Particle size and moisture affect behavior, not just aroma.** As a floral powder, gardenia is sensitive to the same grinding and drying variables as any powder; the right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clean, correctly identified gardenia flower** used as a measured white-floral accent or theme — a material whose value lies in its signature and its consistency rather than in rarity or volume.
-
 ## Summary
 
-Gardenia (栀子花) is the fragrant white flower of *Gardenia jasminoides*, an evergreen Rubiaceae shrub recorded by Flora of China at 0.3–3 m tall, valued as a creamy, heady white-floral — a classic reference in Chinese floral fragrance, a tea-scenting flower, and a delicate floral-incense accent. The same plant's fruit (栀子, zhīzi) is a separate yellow-dye and materia-medica material. Its main identification risk is the flower-vs-fruit confusion. In incense it is a reference floral and a theme, not a durable base; commercially, part identification and consistency outweigh the variety name.
+Gardenia (栀子花) is the fragrant white flower of *Gardenia jasminoides*, an evergreen Rubiaceae shrub recorded by Flora of China at 0.3–3 m tall, valued as a creamy, heady white-floral — a classic reference in Chinese floral fragrance, a tea-scenting flower, and a delicate floral-incense accent. The same plant's fruit (栀子, zhīzi) is a separate yellow-dye and materia-medica material. Its main identification risk is the flower-vs-fruit confusion. In incense it is a reference floral and a theme, not a durable base; in trade, part identification and consistency outweigh the variety name.
 
 ## FAQ
 

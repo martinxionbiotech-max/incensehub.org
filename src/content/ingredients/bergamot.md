@@ -59,7 +59,7 @@ This name-collision is the page's core value: bergamot (佛手柑) and finger ci
 
 > **Direct answer:** The name 佛手柑 (fóshǒugān) means "Buddha's-hand citrus," and it collides with the finger citron's name 佛手 (also "Buddha's hand"). The shared 佛手 element does not identify a species: bergamot is the modern essential-oil citrus (*Citrus × bergamia*), while finger citron is the classical offering fruit (*Citrus medica* var. *sarcodactylis*).
 
-The name 佛手柑 is a modern Chinese label for the bergamot orange, built from 佛手 ("Buddha's hand") + 柑 ("citrus"). But 佛手 is already the name of a different, classical plant — the finger citron (*Citrus medica* var. *sarcodactylis*), whose fingered fruit genuinely resembles a Buddha's hand and which is a classical Chinese 清供 offering fruit. This is a genuine name collision: the 佛手 element in 佛手柑 points to the modern perfume citrus, while the standalone 佛手 points to the classical offering fruit. A buyer or reader who hears "佛手" must pin down which plant is meant — they are not the same.
+The name 佛手柑 is a modern Chinese label for the bergamot orange, built from 佛手 ("Buddha's hand") + 柑 ("citrus"). But 佛手 is already the name of a different, classical plant — the finger citron (*Citrus medica* var. *sarcodactylis*), whose fingered fruit genuinely resembles a Buddha's hand and which is a classical Chinese 清供 offering fruit. This is a genuine name collision: the 佛手 element in 佛手柑 points to the modern perfume citrus, while the standalone 佛手 points to the classical offering fruit. A reader or maker who hears "佛手" must pin down which plant is meant — they are not the same.
 
 ## Why is it used in fragrance?
 
@@ -77,7 +77,7 @@ The bergamot rind is cold-pressed to yield the essential oil — a mechanical ex
 
 > **Direct answer:** Bergamot oil quality turns on the freshness and character of the cold-pressed oil — a bright, citrus-floral, faintly bitter top note with a clean, not harsh or oxidized, edge. The rind's quality and the cold-press method are the primary drivers, and freshness matters because the top note is volatile.
 
-For a buyer, the practical checks are: **freshness** (a bright, fresh, citrus-floral character, not a flat or oxidized note), **bitter-green balance** (the distinctive faintly bitter, tea-like edge, present but not harsh), and **purity** (cold-pressed bergamot oil, not a synthetic or diluted substitute). Because bergamot's value is as a volatile top note, freshness is the primary quality driver — aged oil loses the bright, sparkling lift that is its whole point.
+The practical checks are: **freshness** (a bright, fresh, citrus-floral character, not a flat or oxidized note), **bitter-green balance** (the distinctive faintly bitter, tea-like edge, present but not harsh), and **purity** (cold-pressed bergamot oil, not a synthetic or diluted substitute). Because bergamot's value is as a volatile top note, freshness is the primary quality driver — aged oil loses the bright, sparkling lift that is its whole point.
 
 ## Common forms
 
@@ -106,9 +106,9 @@ Bergamot is a one-form material in practice: the cold-pressed rind oil is the pr
 
 There is **no classical Chinese incense record** for bergamot (佛手柑); its position is entirely modern. We make **no medical claims**. The documented facts are botanical identity, the Rutaceae placement, and its modern essential-oil role — plus the name collision with the finger citron that is the page's core disambiguation.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - bergamot (佛手柑) is the essential-oil citrus *Citrus × bergamia*; expect a bright, citrus-floral, fresh, slightly bitter scent.
 - Distinguish it from the finger citron (佛手, *Citrus medica* var. *sarcodactylis*) and the citron (香橼, *Citrus medica*) — different citrus, different uses.
@@ -127,18 +127,6 @@ Practical points for buyers:
 | Classical Chinese status | None (modern crossover) | Classical 清供 fruit |
 
 The collision is in the name, not the plant: 佛手柑 and 佛手 are different species with different uses. See [finger-citron](/ingredients/finger-citron/), [citron](/ingredients/citron/), [neroli](/ingredients/neroli/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Bergamot is a "name-collision crossover" case — the shared 佛手 element between bergamot (佛手柑) and finger citron (佛手) invites exactly the conflation a careful buyer must avoid. The two plants sit on opposite sides of the classical/modern divide, and the collision is the page's real lesson.
-
-From a sourcing and editorial perspective, bergamot is most interesting for the collision its own Chinese name creates. Three points follow:
-
-- **The 佛手 name is overloaded, and the overload is meaningful.** 佛手 means "Buddha's hand," and it fits the finger citron — whose fingered fruit looks like a hand — far better than it fits the bergamot orange. Yet bergamot (佛手柑) borrowed the element. This is not a trivial mix-up: the finger citron is a classical offering fruit, and the bergamot is a modern perfume citrus, so the shared 佛手 name drags a classical association onto a modern import. The buyer's job is to strip the association and pin the species.
-- **The classical/modern divide runs through the citrus family here.** The finger citron and citron belong to the classical 清供 tradition (fragrance by presence, not combustion), while bergamot belongs to modern Western perfumery (fragrance as extracted oil). This is the same structural divide the [kumquat](/ingredients/kumquat/) and [quince](/ingredients/quince/) entries mark — classical citrus were *displayed and smelled*, modern citrus are *extracted and dosed*. Bergamot sits firmly on the modern side.
-- **Freshness is the deliverable, not the name.** Because bergamot's value is a volatile top note, the sourcing conversation turns on the freshness and character of the cold-pressed oil — not on the 佛手柑 label. A buyer who chases the name rather than the oil's freshness has already made the classic mistake the collision invites.
-
-In our view, bergamot is best understood as a **modern essential-oil citrus whose Chinese name collides with a classical offering fruit** — a bright, bitter-green top note entered through Western perfumery, carrying a 佛手 label that must be disambiguated from the finger citron it is not.
 
 ## Summary
 

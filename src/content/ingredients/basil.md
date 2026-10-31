@@ -61,7 +61,7 @@ The naming story is the entry's central, genuine classical fact:
 - **兰香 (lánxiāng)** — "orchid fragrance," a taboo-avoidance renaming of the same herb, recorded in the *Bencao Gangmu* (菜之一).
 - **香菜 (xiāngcài)** — a further renaming by Shi Hu, also recorded.
 
-The sequence — 罗勒 → 兰香 → 香菜 — is a documented philological chain, and its lesson is that *names migrate for reasons unrelated to botany or fragrance*. A buyer or researcher encountering "兰香" in an older source should read it as basil (罗勒), not as a true orchid. This is a disambiguation point, not a claim that basil is an incense material.
+The sequence — 罗勒 → 兰香 → 香菜 — is a documented philological chain, and its lesson is that *names migrate for reasons unrelated to botany or fragrance*. A reader or researcher encountering "兰香" in an older source should read it as basil (罗勒), not as a true orchid. This is a disambiguation point, not a claim that basil is an incense material.
 
 ## Where does basil come from?
 
@@ -91,7 +91,7 @@ The quality points are:
 2. **Cultivar/chemotype** — sweet (linalool) basil differs from the anise- or clove-leaning chemotypes; specify which character is wanted.
 3. **Cleanliness and dryness** — for the dried form, free of debris and properly dried.
 
-These are freshness and variety checks, consistent with a culinary garden herb. The cultivar distinction is the key commercial nuance — "basil" is a family of green-sweet chemotypes, not one scent.
+These are freshness and variety checks, consistent with a culinary garden herb. The cultivar distinction is the key distinguishing nuance — "basil" is a family of green-sweet chemotypes, not one scent.
 
 ## Common forms
 
@@ -121,34 +121,9 @@ The forms are states of the same leafy herb. The essential oil is the most conce
 
 The documented, non-medical facts are botanical identity, the Lamiaceae placement, and the classical 兰香 naming record.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should know that 罗勒 and 兰香 are the same herb (a taboo-avoidance renaming, not a different plant), specify the cultivar/chemotype (sweet vs anise/clove-leaning), and understand it as a fresh green culinary herb, not a classical burned incense material.
-
-For a sourcing buyer, the checks are:
-
-- **Name** — 罗勒 and 兰香 are the same herb; the "orchid fragrance" name is a renaming, not a different plant.
-- **Cultivar/chemotype** — sweet (linalool) basil versus the anise- or clove-leaning types; specify the character wanted.
-- **Form** — fresh (culinary) or dried/oil (aromatics).
-- **Role** — a fresh green supporting note, not a classical burned incense material.
-
-The related Lamiaceae herbs sit close by: [perilla (紫苏)](/ingredients/perilla/) is more minty and anise-like with a shiso character, and [mint](/ingredients/mint/) is cooler and more mentholated — different genera, different green notes.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Basil is the encyclopedia's clearest case of a "philological, not botanical" identity: its Chinese aromatic claim to fame is a taboo-avoidance renaming (兰香, "orchid fragrance"), not a fragrance or incense role. The lesson is that a plant's name can migrate for reasons unrelated to its chemistry — and a buyer should trace the name, not mistake it for a scent claim.
-
-From an editorial and sourcing perspective, basil offers a distinctive lesson. Three points follow:
-
-- **The name is the story, not the scent.** Basil's genuine classical claim is that its name was changed — 罗勒 → 兰香 → 香菜 — for taboo-avoidance, not for any aromatic reason. The "orchid fragrance" name is a philological accident, and mistaking it for a fragrance or botanical claim would be an error the record does not support. The correct reading is: same herb, renamed for political reasons.
-- **Culinary adjacency is a real category.** Basil sits in a band of materials — kitchen herbs like perilla and mint — whose aromatic value is fresh, green, and food-adjacent rather than deep, resinous, and temple-like. These materials lift and round a blend; they do not anchor it. A buyer should place basil in that band, not among the classical 香材.
-- **Chemotype is the real spec.** Because "basil" spans linalool-sweet, anise-leaning, and clove-leaning chemotypes, the useful commercial question is not "basil?" but "which basil?" — a point that generalizes to every aromatic herb with multiple cultivars.
-
-In our view, basil is best framed as a **culinary garden herb whose classical aromatic record is a naming curiosity, not an incense role** — and its lesson is transferable: when a plant's name carries a fragrance implication (兰香, "orchid fragrance"), trace the name before trusting the implication.
 
 ## Summary
 

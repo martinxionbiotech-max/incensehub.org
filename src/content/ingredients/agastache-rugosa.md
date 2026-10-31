@@ -59,13 +59,13 @@ This is the key disambiguation for this material. Two different plants share the
 - **藿香 (this page)** — *Agastache rugosa*, the native Chinese giant hyssop, a Lamiaceae herb with a minty-anise aroma.
 - **广藿香** — *Pogostemon cablin*, patchouli, a different Lamiaceae plant with an earthy, woody, balsamic scent (treated on this site as [patchouli](/ingredients/patchouli/)).
 
-The classical name 藿香 primarily meant *Agastache rugosa*, but because the two plants were traded together and share the name, they have been conflated for centuries. The practical consequence is the same today as it was historically: a buyer must confirm which species a "藿香" label means, because the two scents are not interchangeable.
+The classical name 藿香 primarily meant *Agastache rugosa*, but because the two plants were traded together and share the name, they have been conflated for centuries. The practical consequence is the same today as it was historically: a reader must confirm which species a "藿香" label means, because the two scents are not interchangeable.
 
 ## Where does agastache come from?
 
 > **Direct answer:** Agastache is native to East Asia and widely distributed. Flora of China records it as "widely distributed" in China and cultivated as a medicinal plant, with a range extending to Japan, Korea, Russia, and North America. It is a common garden and medicinal herb, not a scarce or restricted material.
 
-*Agastache rugosa* is a common, widely distributed herb rather than a rarity. Flora of China describes it as "widely distributed" in China and cultivated as a medicinal plant, with the species also recorded in Japan, Korea, Russia, and North America. This ubiquity matters commercially: unlike patchouli — which is a specific cultivated leaf crop with its own supply chain — agastache is an easily grown herb with no scarcity premium, which is part of why it functions as a fresh, everyday blender rather than a costly pillar note.
+*Agastache rugosa* is a common, widely distributed herb rather than a rarity. Flora of China describes it as "widely distributed" in China and cultivated as a medicinal plant, with the species also recorded in Japan, Korea, Russia, and North America. This ubiquity matters in trade: unlike patchouli — which is a specific cultivated leaf crop with its own supply chain — agastache is an easily grown herb with no scarcity premium, which is part of why it functions as a fresh, everyday blender rather than a costly pillar note.
 
 ## Why is it used in incense?
 
@@ -86,7 +86,7 @@ The mechanics of grinding and forming sit within the wider [how incense is made]
 
 ## What determines agastache quality?
 
-> **Direct answer:** Quality turns on freshness and scent retention: the dried herb should smell clean and minty-anise, without mustiness or a faded, brown appearance. The decisive commercial question is species identity — confirming it is *Agastache rugosa* (藿香), not patchouli (*Pogostemon cablin*, 广藿香), since the two are different materials.
+> **Direct answer:** Quality turns on freshness and scent retention: the dried herb should smell clean and minty-anise, without mustiness or a faded, brown appearance. The decisive identification question is species identity — confirming it is *Agastache rugosa* (藿香), not patchouli (*Pogostemon cablin*, 广藿香), since the two are different materials.
 
 The practical quality points, in rough order:
 
@@ -124,33 +124,9 @@ Agastache carries no standardized grading ladder — it is an abundant herb, not
 
 The aromatic and cultural roles are well documented. The medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should first confirm species — 藿香 (*Agastache rugosa*) vs 广藿香 (*Pogostemon cablin*, patchouli) — then check that the dried herb is clean, fresh, and minty rather than musty. For powder, confirm particle size and moisture against the formula rather than accepting a generic "藿香" label.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — agastache (藿香) vs patchouli (广藿香); ask, because the label often does not say, and the two scents are not interchangeable.
-- **Freshness** — the herb should smell clean and minty-anise, not musty or faded.
-- **Cleanliness** — freedom from stems and foreign material.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
-See the [wholesale guide](/blog/wholesale-guide/) for the general sourcing framework.
-
-## Our Industry View
-
-> **Direct answer:** The commercial issue with 藿香 is not quality but identity: the name covers two unrelated-scented plants, so the first requirement is a named species. After that, agastache behaves as a fresh, abundant top-note herb — buy it for freshness and consistency, not rarity.
-
-From a manufacturing perspective, agastache's defining problem is that **the name 藿香 does not identify the material**. It can mean the fresh, anise-minty *Agastache rugosa* or the earthy, balsamic patchouli *Pogostemon cablin* — two plants a buyer would never substitute for one another if they could smell the difference. Two points follow:
-
-- **Species is a specification, not a detail.** A formula built on the fresh minty lift of 藿香 will not reproduce if the supply switches silently to the earthy depth of 广藿香. A buyer who approves a sample of one has not approved the other.
-- **It is an abundant herb, so consistency is the real value.** Unlike patchouli, which has its own crop-and-distillation supply chain, agastache is a common garden herb with no scarcity premium. The buyer's leverage is in freshness and batch-to-batch consistency — a steady, clean, correctly named leaf beats a rare-sounding label.
-
-In our view, the commercial sweet spot is a **named species bought fresh and consistent**, used as a bright top-note blender — and never accepted on the strength of the shared name "藿香" alone.
-
 ## Summary
 
-Agastache (藿香) is *Agastache rugosa*, a mint-family perennial native to East Asia and widely cultivated, used in Chinese incense as a fresh, minty-anise blender and for scenting clothes. Its defining commercial risk is naming: it shares the 藿香 name with patchouli (*Pogostemon cablin*, 广藿香), a different plant with an earthy, balsamic scent. Its value rests on freshness and correct species rather than rarity, its Buddhist-sutra names attest to its historical importance, and its medicinal uses are traditional language, not clinical evidence.
+Agastache (藿香) is *Agastache rugosa*, a mint-family perennial native to East Asia and widely cultivated, used in Chinese incense as a fresh, minty-anise blender and for scenting clothes. Its defining identification risk is naming: it shares the 藿香 name with patchouli (*Pogostemon cablin*, 广藿香), a different plant with an earthy, balsamic scent. Its value rests on freshness and correct species rather than rarity, its Buddhist-sutra names attest to its historical importance, and its medicinal uses are traditional language, not clinical evidence.
 
 ## FAQ
 

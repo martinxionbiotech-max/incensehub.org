@@ -15,7 +15,7 @@ related: ["patchouli", "agastache-rugosa"]
 
 <img src="/images/citronella-raw-material-800x533.webp" alt="Raw Citronella (Cymbopogon citratus) botanical material, editorial still life" width="800" height="533" loading="lazy">
 
-**Technical answer:** Citronella — *xiāngmáo* (香茅) in Chinese — is the fragrant leaf of *Cymbopogon citratus*, a tropical grass of the Poaceae family, better known in English as **lemongrass**. It is a bright, citrusy, lemony aromatic used across Southeast Asian cooking, and it appears in incense as a fresh, clean top note and as a traditional insect-repelling scent. Strictly, the *essential oil* sold as "citronella oil" often comes from a close relative (*Cymbopogon nardus* or *C. winterianus*), while *Cymbopogon citratus* is the lemongrass of the kitchen — a distinction worth noting.
+**Technical answer:** Citronella — *xiāngmáo* (香茅) in Chinese — is the fragrant leaf of *Cymbopogon citratus*, a tropical grass of the Poaceae family, better known in English as **lemongrass**. It is a bright, citrusy, lemony aromatic used across Southeast Asian cooking, and it appears in incense as a fresh, clean top note and as a traditional insect-repelling scent. Strictly, the *essential oil* sold as "citronella oil" often comes from a close relative (*Cymbopogon nardus* or *C. winterianus*), while *Cymbopogon citratus* is the lemongrass of the kitchen — a distinction that matters in practice.
 
 ## Key facts
 
@@ -37,7 +37,7 @@ Lemongrass is bright and citrusy — a clean, lemony, slightly green-grassy scen
 
 > **Direct answer:** Citronella/lemongrass is *Cymbopogon citratus*, a perennial, shortly rhizomatous grass of the Poaceae (grass) family, recorded by Flora of China with robust tufted culms up to 2 m tall and glaucous leaf blades 30–90 cm long. The fragrant part is the leaf, packed with citral-rich essential oil.
 
-*Cymbopogon citratus* is a perennial, shortly rhizomatous grass of the Poaceae family. Flora of China records it with **robust, tufted culms up to 2 m tall** and **glaucous (blue-green) leaf blades 30–90 cm long**. It is the **leaf** that is used — packed with essential oil rich in **citral**, the aldehyde behind the lemony scent. This matters for a buyer: citronella is a leafy grass material, not a wood, resin, root, or flower, and its fragrance is concentrated in the fresh leaf rather than in a dense heartwood. See [Cymbopogon citratus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025088) and [Cymbopogon citratus on GBIF](https://www.gbif.org/species/2705275).
+*Cymbopogon citratus* is a perennial, shortly rhizomatous grass of the Poaceae family. Flora of China records it with **robust, tufted culms up to 2 m tall** and **glaucous (blue-green) leaf blades 30–90 cm long**. It is the **leaf** that is used — packed with essential oil rich in **citral**, the aldehyde behind the lemony scent. This matters for the reader: citronella is a leafy grass material, not a wood, resin, root, or flower, and its fragrance is concentrated in the fresh leaf rather than in a dense heartwood. See [Cymbopogon citratus in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025088) and [Cymbopogon citratus on GBIF](https://www.gbif.org/species/2705275).
 
 ## Chinese name and terminology
 
@@ -72,11 +72,11 @@ The leaf is the part used, and it branches by end use:
 - **Dried** — the stable form for storage and grinding.
 - **Distilled oil** — "lemongrass oil" or "citronella oil," a separate product from the leaf itself.
 
-For powder buyers, the same practical variables as any leafy powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line (see Our Industry View below). The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
+For powder, the same practical variables as any leafy powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula** — the binder, the other ingredients, and the production line . The drying and grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process.
 
 ## What determines citronella quality?
 
-> **Direct answer:** The strength of the lemony aroma is the main quality indicator — fresh or dried leaves should smell strongly of citral. Beyond that, buyers must distinguish 香茅 (*C. citratus*) from the other citronella grasses (*C. nardus*, *C. winterianus*), related but different species and products.
+> **Direct answer:** The strength of the lemony aroma is the main quality indicator — fresh or dried leaves should smell strongly of citral. Beyond that, readers must distinguish 香茅 (*C. citratus*) from the other citronella grasses (*C. nardus*, *C. winterianus*), related but different species and products.
 
 The practical quality factors:
 
@@ -85,7 +85,7 @@ The practical quality factors:
 3. **Freshness** — leaves should be green and aromatic, not browned or stale.
 4. **For powder** — consistent particle size and moisture, judged against the specific formula.
 
-There is no standardized numerical grading system; the buyer evaluates the lot by scent and species.
+There is no standardized numerical grading system; the lot is judged by scent and species.
 
 ## Common forms
 
@@ -129,43 +129,13 @@ All three belong to a loose "lemon-scented" family, but they are different plant
 
 Citronella is not an expensive, heavily faked aromatic; its risk is a **naming matter**. The word "citronella" slides between the culinary grass and the insect-repellent oil grasses, and the species name is the only reliable way to pin down which is meant. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/) for the general screening logic.
 
-## Modern commercial applications
-
-> **Direct answer:** Lemongrass reaches the market through three channels — culinary herb, insect-repellent oil (the "citronella" of mosquito products), and a fresh incense/fragrance top note. The culinary and repellent channels dominate its commercial weight; incense use is a smaller, modern crossover.
-
-Lemongrass' commercial life is led by cooking and by the insect-repellent oil distilled from the citronella grasses. Its incense role is a smaller, modern crossover — a fresh, zesty top note in contemporary and mosquito-repelling formulas. For a sourcing buyer, this split matters because **the culinary, repellent, and incense markets value the grass differently**: culinary buyers prize fresh, strongly aromatic leaves; oil buyers prize citral yield; incense buyers care about how the dried powder behaves in a formula.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*C. citratus* vs the citronella grasses), judge the strength of the lemony aroma, and confirm the form — fresh, dried, powder, or oil. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — confirm *Cymbopogon citratus*; a real seller can state it and distinguish it from the citronella grasses.
-- **Aroma strength** — a strong, clean lemony-citral scent is the main quality indicator.
-- **Form** — fresh leaf, dried leaf, powder, or oil; each behaves differently in a blend.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, lemongrass is a precision top note, not a base. Its value is a bright, citral-driven lift that arrives first — but top notes fade fastest, so dosage, particle size, and batch consistency matter more than the variety name, and the material must be treated as a fresh aromatic rather than a durable base.
-
-From a manufacturing perspective, lemongrass' defining trait is **brightness** — which is both its value and its constraint. It supplies a clean, zesty lift that no wood or resin can match, but top notes are, by definition, the first to fade, so the brightness must be dosed and blended deliberately rather than relied on to carry a formula.
-
-Two points follow:
-
-- **It is a top note, not a base.** Lemongrass lifts a blend but will not anchor it. Its role is to brighten the opening; a buyer who expects it to provide a lasting body will be disappointed, while one who uses it as a measured top-note accent gets real value.
-- **Particle size and moisture affect behavior, not just aroma.** As a leafy powder, lemongrass is sensitive to the same grinding and drying variables as any powder; the right target **depends on formulation** — the binder, the other ingredients, and the production line — so a figure that works in one factory does not transfer to another.
-
-In our view, the commercial sweet spot is a **clean, strongly aromatic, correctly identified lemongrass leaf** used as a measured top-note accent — not a rare or expensive ingredient, but one that rewards precision and an honest understanding of how quickly top notes fade.
-
 ## Summary
 
-Citronella (香茅) is the citral-rich leaf of *Cymbopogon citratus* — lemongrass — a perennial Poaceae grass recorded by Flora of China at up to 2 m tall, valued as a culinary herb, an insect-repelling aromatic, and a fresh, lemony top note in modern incense. It is distinct from the citronella grasses (*C. nardus*, *C. winterianus*) that supply "citronella oil," and it sits alongside lemon and lemon balm in a loose lemon-scented family of unrelated plants. In incense it is a bright top note, not a base; commercially, species confirmation, aroma strength, and consistency outweigh the variety name.
+Citronella (香茅) is the citral-rich leaf of *Cymbopogon citratus* — lemongrass — a perennial Poaceae grass recorded by Flora of China at up to 2 m tall, valued as a culinary herb, an insect-repelling aromatic, and a fresh, lemony top note in modern incense. It is distinct from the citronella grasses (*C. nardus*, *C. winterianus*) that supply "citronella oil," and it sits alongside lemon and lemon balm in a loose lemon-scented family of unrelated plants. In incense it is a bright top note, not a base; in trade, species confirmation, aroma strength, and consistency outweigh the variety name.
 
 ## FAQ
 

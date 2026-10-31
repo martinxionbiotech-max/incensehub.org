@@ -55,7 +55,7 @@ The source is zoological, not botanical. Civet comes from the perineal gland sec
 
 > **Direct answer:** 灵猫香 means "civet-cat fragrance" (灵猫 = civet/civet-cat, 香 = fragrance), naming the animal source directly. As with musk, the word's modern fate is that "civet" in fragrance now names a scent descriptor carried by synthetic civetone, not a claim of animal origin.
 
-The name 灵猫香 (língmāoxiāng) is precise in the same way musk (麝香) is: it names the animal source (灵猫, the civet) plus fragrance (香). This directness is exactly what modern usage has dissolved. In contemporary fragrance, "civet" names a *scent family* — animalic, musky, sweet-warm — now carried almost entirely by synthetic civetone (the principal odor compound of natural civet) and by musky substitutes. The word outlived the animal, as "musk" did: a modern "civet" perfume is, in the overwhelming majority of cases, a synthetic accord. For a buyer, the terminology point is the same as for musk — **"civet" on a label is a scent descriptor, not a provenance claim.**
+The name 灵猫香 (língmāoxiāng) is precise in the same way musk (麝香) is: it names the animal source (灵猫, the civet) plus fragrance (香). This directness is exactly what modern usage has dissolved. In contemporary fragrance, "civet" names a *scent family* — animalic, musky, sweet-warm — now carried almost entirely by synthetic civetone (the principal odor compound of natural civet) and by musky substitutes. The word outlived the animal, as "musk" did: a modern "civet" perfume is, in the overwhelming majority of cases, a synthetic accord. For the reader, the terminology point is the same as for musk — **"civet" on a label is a scent descriptor, not a provenance claim.**
 
 ## The animal-musk family (read this)
 
@@ -104,7 +104,7 @@ For historical reference, the quality point was maturity: a well-aged, properly 
 | Synthetic civetone | The principal odor compound, produced synthetically — the modern default |
 | Musky substitutes | Botanical or synthetic musks standing in for the animal note |
 
-The first two are historical animal forms; the last two are the modern materials that replaced them. For a contemporary buyer, "civet" means the last two.
+The first two are historical animal forms; the last two are the modern materials that replaced them. For the contemporary reader, "civet" means the last two.
 
 ## In Chinese tradition
 
@@ -122,7 +122,7 @@ The first two are historical animal forms; the last two are the modern materials
 
 The documented, non-medical facts are the animal source, the conservation status, and the historical use as a precious fixative. This page describes its aromatic and cultural role only.
 
-## Conservation and sourcing notes
+## Conservation notes
 
 > **Direct answer:** Genuine natural civet is an animal product from civets with CITES (Appendix III) and welfare implications. This encyclopedia documents it as historical and connoisseurship context only — not as a material to source. What is sold as "civet" today is almost always synthetic civetone or a musky substitute.
 
@@ -137,18 +137,6 @@ The ethical-sourcing point is inseparable from the conservation point: because t
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Note that most "civet" in modern fragrance is synthetic, which is a sourcing and animal-welfare matter, not a safety claim. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Civet is the sharpest member of the animal-fixative trio, and its defining commercial fact is that the word outlived the animal — "civet" now names a synthetic scent family, and the real issues are provenance honesty and the welfare history, not rarity. The buyer's check is to confirm the actual material (synthetic civetone), never to accept the animal name at face value.
-
-From a manufacturing and sourcing perspective, civet extends the fixative logic the musk page sets out, with its own sharp twist. Three points follow:
-
-- **The sharp end of the trio.** Where musk is sweet and skin-like and castoreum is smoky and leathery, civet is the sharpest and most fecal — the most *difficult* of the three to use, and therefore the one most dependent on extreme dilution and maturation. This is a character point, not a value judgment: civet's register is the "high-pitched" animalic note in the family, and a formulator reaches for it for that edge, not for musk's softness.
-- **The signifier outlived the signified, with a welfare footnote.** Like musk, "civet" migrated from an animal secretion to a synthetic scent family. But civet carries an additional layer: its historical collection involved captivity, which makes the ethical case for the synthetic even clearer than for musk. The substitution is not just a market convenience; it is the responsible resolution of a welfare problem.
-- **Provenance honesty is the real issue.** Because the animal source is CITES-listed and the welfare history is documented, a responsible supplier should *never* imply animal origin. The commercial risk in "civet" is not rarity but mislabeling — presenting synthetic civetone as something it is not. The buyer's check is to confirm the actual material, not to accept the scent name at face value.
-
-In our view, civet is best understood as the **sharp, welfare-charged member of the animal-fixative family** — a synthetic scent category with a historical animal name, whose professional framing is to be explicit about the substitution, because the value, the consistency, and the ethics all lie on the synthetic side.
 
 ## Summary
 

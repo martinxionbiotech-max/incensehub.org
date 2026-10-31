@@ -77,7 +77,7 @@ The kumquat needs no processing for its traditional fragrance role: the fresh fr
 
 > **Direct answer:** Kumquat quality turns on the freshness and fragrance of the rind. A good kumquat is bright, firm, and strongly sweet-citrus-floral on the rind, with an unbroken, glossy skin — the rind is the aromatic part, so its condition is the whole quality story.
 
-For a buyer, the practical checks are: **rind condition** (bright, firm, glossy, unbroken skin — the rind is the aromatic part), **fragrance** (a clear, sweet, floral, citrusy scent on the rind), and **freshness** (the fresh fruit is the aromatic form; a withered kumquat has lost both its fragrance and its display value). Because the rind carries the oil and the fruit is displayed whole, the rind's condition *is* the quality story — there is no extracted product to fall back on.
+The practical checks are: **rind condition** (bright, firm, glossy, unbroken skin — the rind is the aromatic part), **fragrance** (a clear, sweet, floral, citrusy scent on the rind), and **freshness** (the fresh fruit is the aromatic form; a withered kumquat has lost both its fragrance and its display value). Because the rind carries the oil and the fruit is displayed whole, the rind's condition *is* the quality story — there is no extracted product to fall back on.
 
 ## Common forms
 
@@ -107,9 +107,9 @@ The fresh fruit is the reference form; candied and preserved forms are culinary,
 
 The 清供, culinary, and room-fragrance use is well documented. We make **no medical claims**. The documented, non-medical facts are botanical identity, the Rutaceae placement, and the fragrant offering-fruit use — plus the kumquat's distinctive edible-rind inversion.
 
-## Quality and sourcing notes
+## Quality notes
 
-Practical points for buyers:
+Practical points:
 
 - 金橘 is the kumquat (*Citrus japonica*, syn. *Fortunella japonica*); expect a bright, sweet, floral, citrus rind scent — the rind is the eating part.
 - It is a 清供 offering fruit and edible citrus, not a burned incense material, and not a 香乘 ingredient.
@@ -128,18 +128,6 @@ Practical points for buyers:
 | Classical role | 清供 + edible citrus | 清供 + room fragrance | 清供 offering fruit |
 
 The three are distinct fruits: the kumquat is the edible one, the citron and finger citron the fragrant-display ones. See [citron](/ingredients/citron/), [finger-citron](/ingredients/finger-citron/), and the [material comparison matrix](/blog/incense-material-comparison-matrix/).
-
-## Our Industry View
-
-> **Direct answer:** Kumquat is an "edible-fragrance inversion" case — in most citrus the rind is the discarded wrapper and the pulp is the food, but in the kumquat the thin, sweet rind *is* the food. This inversion places the kumquat in the 清供 "fragrance of presence" tradition, alongside the citron and finger citron, rather than in the burned-incense canon.
-
-From a sourcing and editorial perspective, the kumquat is most interesting for the inversion it performs on the citrus category. Three points follow:
-
-- **The rind-as-food inversion is the kumquat's whole identity.** In an orange or lemon, the fragrant rind is discarded and the pulp eaten; in the kumquat, the thin, sweet rind is eaten whole and the scant pulp is incidental. This is not a trivial curiosity — it means the kumquat's fragrance and its food value are the *same part*, which is why it sits so naturally in the 清供 tradition, where a fruit is displayed and smelled for its presence.
-- **"Fragrance of presence" is a distinct mode, and the citrus family shows it clearly.** The kumquat, citron, and finger citron are all experienced by proximity and evaporation — the fruit sits on a table and scents the room — rather than by combustion. This is a genuinely different fragrance model from the burned 香材, and it is the model the whole 清供 group shares. See the [quince](/ingredients/quince/) entry for the same distinction.
-- **The *Bencao Gangmu* name gloss is a source-quality model.** The text does not merely list 金橘; it explains the name from the fruit's color ("黄熟则如金"). This is exactly the kind of in-source explanation a knowledge resource should preserve, because it converts a name from a label into a documented fact.
-
-In our view, the kumquat is best understood as the **edible-fragrance inversion of the citrus family** — a small citrus whose sweet rind is both its food and its perfume, and whose place is in the 清供 "fragrance of presence" tradition rather than in the burned-incense canon.
 
 ## Summary
 

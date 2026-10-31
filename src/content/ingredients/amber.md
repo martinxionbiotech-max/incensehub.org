@@ -76,7 +76,7 @@ Amber is obtained from fossil deposits and trade, then worked as a gemstone — 
 
 ## What determines amber quality?
 
-> **Direct answer:** Amber quality is a gemstone matter — clarity, color, and freedom from fracture — rather than an incense-grade matter. The commercial question is also one of identity: true amber (fossil resin) must be distinguished from the perfumery "amber" accord and from imitation or younger resins.
+> **Direct answer:** Amber quality is a gemstone matter — clarity, color, and freedom from fracture — rather than an incense-grade matter. The identification question is also one of identity: true amber (fossil resin) must be distinguished from the perfumery "amber" accord and from imitation or younger resins.
 
 The quality points are gemmological rather than incense-related:
 
@@ -110,27 +110,6 @@ Amber carries no incense grading ladder — it is a gemstone and fossil, so qual
 - **Scientific Evidence** — amber's geological origin (fossilized resin) is established; but we present no clinical or medical efficacy claims.
 
 The classical aromatic and ornament use is documented. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**.
-
-## What buyers should look for
-
-> **Direct answer:** Buyers should first establish what they are buying: true amber (fossil resin), the perfumery "amber" accord (labdanum, benzoin, vanilla), or an imitation. Then, for true amber, check clarity, color, and identity as a gemstone. Amber is not a bulk incense material, so the buyer's question is one of identity, not grade.
-
-For a buyer:
-
-- **Identity** — true amber (fossil resin) vs the perfumery "amber" accord vs imitation; the word "amber" alone does not identify the material.
-- **Clarity and color** — for true amber, a clear, well-colored gemstone beats cloudy or fractured material.
-- **Use** — amber is a gemstone and historical aromatic, not a bulk incense ingredient; confirm what role you intend before buying.
-
-## Our Industry View
-
-> **Direct answer:** Amber's commercial lesson is classification honesty: it is fossil resin, not a living botanical, and the word "amber" in fragrance usually means a labdanum-benzoin-vanilla accord, not the fossil. A buyer's first question is therefore "which amber?" — the geological material or the perfumery character — because the two are entirely different products.
-
-From a manufacturing perspective, amber is a material where **the name hides two different products**. Two points follow:
-
-- **"Amber" in fragrance is usually not amber.** The warm, sweet, resinous "amber" note in perfumery and incense is overwhelmingly a *accord* built from labdanum, benzoin, and vanilla — not fossil resin. A formulator asking for "amber" almost always wants the accord; a collector asking for "amber" wants the gemstone. The word must be resolved to which is meant.
-- **Classification honesty is a sourcing discipline.** Amber is fossil resin — geological, not botanical — and it belongs with the other non-botanical resins (shellac, ambergris) rather than with living plant resins like pine resin or frankincense. Stating that plainly is more useful to a buyer than filing amber under a living plant, because it changes how the material is sourced, priced, and regulated.
-
-In our view, amber is a historical aromatic and a gemstone whose chief commercial lesson is disambiguation: ask "which amber — fossil or accord?" before anything else, and keep its geological origin explicit rather than blurring it into the living-plant resins.
 
 ## Summary
 

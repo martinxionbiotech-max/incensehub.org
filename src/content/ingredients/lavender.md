@@ -131,34 +131,9 @@ The *angustifolia* vs lavandin distinction is the real quality point in lavender
 
 The oil is the concentrated fragrance material; the dried flowers are the milder sachet form. Both are modern uses, not classical 香材 forms.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species — *Lavandula angustifolia* (English lavender) rather than lavandin — and check freshness and the sweet-floral character. Expect a fresh, floral-herbal note, usually a fragrance-oil or dried-flower material in incense.
-
-For a buyer or sourcing reader:
-
-- **Species** — specify *Lavandula angustifolia* (English lavender) over the harsher lavandin.
-- **Freshness** — the fresh-floral note is volatile; a fresh oil or flower is brighter.
-- **Form** — essential oil vs dried flowers, depending on the intended use.
-- **Role** — expect a fresh, floral-herbal note, a modern addition rather than a classical 香材.
-
-Because lavender is a modern crossover and a commodity oil, the buyer is specifying **species, freshness, and form** — with *angustifolia* vs lavandin as the key quality distinction.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Lavender is the archetype of the "modern crossover" — a real, useful fragrance material whose Chinese name (薰衣草, "clothes-scenting herb") encodes its foreign, functional origin rather than any classical pedigree. The professional move is to treat it as a modern aromatherapy note and to read its name honestly, not to retrofit a Chinese history onto it.
-
-From a manufacturing and sourcing perspective, lavender is the archetype of a **modern crossover whose name tells the truth about it.** Three points follow:
-
-- **The name is a provenance record.** 薰衣草 — "the herb that scents clothes" — is a functional, descriptive name that records lavender's Western sachet use, not a Chinese history. This is honest naming: the plant arrived as a foreign, useful herb, and its name says so. A buyer who reads the name correctly understands immediately that lavender is not a 香材.
-- **The herb-flower bridge is the product.** Lavender's commercial value is its unique position between herb and flower — a soft, clean floral over a green, camphoraceous base. This duality, not any single note, is what makes it the workhorse of modern aromatherapy and home fragrance. It is a *bridge* material, and its utility follows from that position.
-- **Species is the quality lever.** The real quality distinction in lavender is *angustifolia* vs lavandin — the sweet, refined "true" lavender against the harsher, higher-yielding hybrid. This is a botanical distinction, not a marketing one, and it is where a buyer separates a refined floral note from a cheap camphoraceous one.
-
-In our view, the professional framing for lavender is a **correctly species-identified (*L. angustifolia*) modern aromatherapy note, read honestly through its descriptive Chinese name** — a material whose value is its herb-flower bridge and whose provenance is written into its name, not fabricated.
 
 ## Summary
 

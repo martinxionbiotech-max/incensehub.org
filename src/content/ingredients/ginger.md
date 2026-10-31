@@ -73,7 +73,7 @@ Dried ginger's incense role is a **sparing spice accent**:
 
 > **Direct answer:** Dried ginger is produced by drying the fresh rhizome — peeled or unpeeled — until it is hard and shelf-stable, then used whole, sliced, or ground. For incense blending it is ground to powder, with particle size and moisture depending on the formula.
 
-The essential step is drying: the fresh rhizome is **dried** to a hard, shelf-stable form, and the drying step is what converts part of its gingerol into the sharper shogaol (see Aroma profile). From there it is used whole, sliced, or ground. For powder buyers, the same practical variables as any rhizome powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula**. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and rhizome-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
+The essential step is drying: the fresh rhizome is **dried** to a hard, shelf-stable form, and the drying step is what converts part of its gingerol into the sharper shogaol (see Aroma profile). From there it is used whole, sliced, or ground. For powder, the same practical variables as any rhizome powder apply: **particle size and moisture** affect how the material packs, burns, and releases aroma, and the right target **depends on the formula**. The grinding mechanics sit within the wider [how incense is made](/blog/how-incense-is-made/) process, and rhizome-powder behavior is covered in [incense powder & resin](/blog/incense-powder-resin/).
 
 ## What determines dried ginger quality?
 
@@ -126,36 +126,13 @@ They are distinct species in one family. See [galangal](/ingredients/galangal/),
 
 Dried ginger is an inexpensive commodity spice, so adulteration is not the same concern as with agarwood. The real risk is **naming**: the 姜 element covers galangal and sand ginger as well as common ginger, and 干姜 (dried) must be distinguished from 生姜 (fresh). Specifying *Zingiber officinale* and the dried-vs-fresh qualifier resolves it.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the species (*Zingiber officinale*) and the dried-vs-fresh qualifier, and check for a clean, firm, sharply aromatic rhizome with intact pungency. For powder, test particle size and moisture against the formula.
-
-For an incense maker or sourcing buyer:
-
-- **Species and form** — confirm *Zingiber officinale* and whether the material is dried (干姜) or fresh (生姜); each behaves differently.
-- **Physical condition** — clean, firm, sharply aromatic rhizome with intact pungency, no mold or staleness.
-- **Powder consistency** — confirm particle size and moisture, and test a sample against your formula.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Dried ginger's pungency can irritate the nose if burned heavily; use sparingly. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** In manufacturing, dried ginger is a sparing spice accent, not a base. Its value is a dry, penetrating heat that sharpens spice-forward blends — but because its pungency is sharp and volatile, dose and freshness matter more than the nominal name.
-
-From a manufacturing perspective, dried ginger's defining traits are **heat** and **volatility**. It supplies a dry, penetrating warmth that sharpens spice-forward blends, but its pungent compounds are volatile, so the material fades if stored poorly or ground too long.
-
-Two points follow:
-
-- **It is a sparing accent, not a base.** Dried ginger sharpens and heats a blend but will not carry it, and overdosing makes a formula harsh. A buyer who doses it sparingly as a spice accent gets real value.
-- **Pungency is the formulation variable.** Because the heat is sharp and volatile, the practical dose and particle-size targets **depend on formulation**, so a figure that works in one factory does not transfer to another.
-
-In our view, dried ginger's commercial value lies in its role as a **correctly identified, fresh-dried, sharply aromatic rhizome** used as a measured spice accent — a supporting ginger whose real value is its pungent heat, not its price.
-
 ## Summary
 
-Dried ginger (干姜) is the dried rhizome of *Zingiber officinale*, a Zingiberaceae perennial Flora of China records with pseudostems 50–100 cm and a yellowish-green flower with a purple-striped labellum, cultivated worldwide. It is the same plant as fresh ginger (生姜), processed by drying — a step that converts gingerol into the sharper shogaol, making the dried form hotter. In Chinese tradition it is a culinary staple and a materia-medica warming aromatic, and in incense a sparing warming accent. Its main identification risk is the 姜-family naming with galangal and sand ginger; commercially, correct identification and fresh, firm rhizome condition outweigh price.
+Dried ginger (干姜) is the dried rhizome of *Zingiber officinale*, a Zingiberaceae perennial Flora of China records with pseudostems 50–100 cm and a yellowish-green flower with a purple-striped labellum, cultivated worldwide. It is the same plant as fresh ginger (生姜), processed by drying — a step that converts gingerol into the sharper shogaol, making the dried form hotter. In Chinese tradition it is a culinary staple and a materia-medica warming aromatic, and in incense a sparing warming accent. Its main identification risk is the 姜-family naming with galangal and sand ginger; in trade, correct identification and fresh, firm rhizome condition outweigh price.
 
 ## FAQ
 

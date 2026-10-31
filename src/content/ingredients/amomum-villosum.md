@@ -35,11 +35,11 @@ related: ["cardamom", "tsao-ko", "galangal"]
 
 ## Botanical identity
 
-> **Direct answer:** 砂仁 is the dried fruit and seeds of *Amomum villosum* (Zingiberaceae), native to southern China (Guangdong, Guangxi, Yunnan). Flora of China records it as *Amomum villosum*, while GBIF has recently transferred the name to *Wurfbainia villosa* — a reclassification worth noting, since older and Chinese materia-medica sources retain *Amomum villosum*.
+> **Direct answer:** 砂仁 is the dried fruit and seeds of *Amomum villosum* (Zingiberaceae), native to southern China (Guangdong, Guangxi, Yunnan). Flora of China records it as *Amomum villosum*, while GBIF has recently transferred the name to *Wurfbainia villosa* — a recent reclassification, since older and Chinese materia-medica sources retain *Amomum villosum*.
 
-*Amomum villosum* is a ginger-family (Zingiberaceae) herb native to southern China (Guangdong, Guangxi, Yunnan) and neighbouring parts of Southeast Asia. The part used is the dried, spiny-shelled fruit, whose aromatic seeds are the source of the spice. Flora of China records it as *Amomum villosum*; GBIF has recently transferred the name to *Wurfbainia villosa* — a reclassification worth noting, since older and Chinese materia-medica sources retain *Amomum villosum*. See [Amomum villosum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347) and [Wurfbainia villosa on GBIF](https://www.gbif.org/species/11082522).
+*Amomum villosum* is a ginger-family (Zingiberaceae) herb native to southern China (Guangdong, Guangxi, Yunnan) and neighbouring parts of Southeast Asia. The part used is the dried, spiny-shelled fruit, whose aromatic seeds are the source of the spice. Flora of China records it as *Amomum villosum*; GBIF has recently transferred the name to *Wurfbainia villosa* — a recent reclassification, since older and Chinese materia-medica sources retain *Amomum villosum*. See [Amomum villosum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347) and [Wurfbainia villosa on GBIF](https://www.gbif.org/species/11082522).
 
-The ginger family also includes 白豆蔻 (*Amomum kravanh*), 草果 (*Amomum tsao-ko*), and galangal (高良姜) — a cluster of related aromatic spices that share a family but not a character, and that a buyer must keep distinct.
+The ginger family also includes 白豆蔻 (*Amomum kravanh*), 草果 (*Amomum tsao-ko*), and galangal (高良姜) — a cluster of related aromatic spices that share a family but not a character, and that a reader must keep distinct.
 
 ## Chinese name and terminology
 
@@ -57,7 +57,7 @@ The *Amomum* cluster is a classic identification trap — three similar fruits, 
 - **cardamom (白豆蔻)** — *Amomum kravanh*: sweeter, more eucalyptus-bright. See [cardamom](/ingredients/cardamom/).
 - **tsaoko (草果)** — *Amomum tsao-ko* (*Lanxangia tsao-ko*): smoky, dark, "black cardamom" false friend. See [tsao-ko](/ingredients/tsao-ko/).
 
-The three share a genus and a family but are genuinely different aromatic materials. A buyer specifying "Amomum" or even "cardamom-like spice" has not specified a material; the specific species (砂仁 / 白豆蔻 / 草果) is the spec. The bitterness of 砂仁 is the quickest sensory separator from the sweeter 白豆蔻.
+The three share a genus and a family but are genuinely different aromatic materials. A reader specifying "Amomum" or even "cardamom-like spice" has not specified a material; the specific species (砂仁 / 白豆蔻 / 草果) is the spec. The bitterness of 砂仁 is the quickest sensory separator from the sweeter 白豆蔻.
 
 ## Where does sharen (砂仁) come from?
 
@@ -88,7 +88,7 @@ The quality points are:
 3. **Species** — *Amomum villosum* (砂仁), not the sweeter 白豆蔻 (*Amomum kravanh*) or the smokier 草果 (*Amomum tsao-ko*).
 4. **Dryness** — properly dried, free of mold.
 
-The fruit-integrity check is the distinctive one for 砂仁 — unlike a root or bark, the value is locked in the seeds, so a buyer should look at the fruit's fill, not just its surface.
+The fruit-integrity check is the distinctive one for 砂仁 — unlike a root or bark, the value is locked in the seeds, so a reader should look at the fruit's fill, not just its surface.
 
 ## Common forms
 
@@ -118,34 +118,9 @@ The forms are states of the same fruit-to-seed material. For incense blending, t
 
 The documented, non-medical facts are botanical identity, the Zingiberaceae placement, and the spicy camphoraceous aromatic use.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm the species (砂仁 = *Amomum villosum*, distinct from cardamom and tsaoko), prefer intact, well-filled fruits (the value is in the seeds), and expect a warm, camphoraceous, slightly bitter spice. It is a blending accent, usually part of a mixed recipe.
-
-For a sourcing buyer, the checks are:
-
-- **Species** — *Amomum villosum* (砂仁), not the sweeter 白豆蔻 (*Amomum kravanh*, cardamom) or the smokier 草果 (*Amomum tsao-ko*).
-- **Fruit integrity** — intact, well-filled fruits; the seeds are the aromatic value.
-- **Aroma** — warm, camphoraceous, slightly bitter, and clean.
-- **Role** — a blending spice accent, part of a mixed recipe rather than a solo note.
-
-The related ginger-family spices each have their own entry: [cardamom (白豆蔻)](/ingredients/cardamom/), [tsao-ko (草果)](/ingredients/tsao-ko/), and [galangal (高良姜)](/ingredients/galangal/) — the *Amomum*/ginger cluster that 砂仁 belongs to but must be distinguished from.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** 砂仁 is a case study in the *Amomum* cluster problem: three similar ginger-family fruits (砂仁, 白豆蔻, 草果) that share a genus but not a character, plus a botanical reclassification (Amomum villosum → Wurfbainia villosa) that splits the sources. The spec is the species, and the reclassification is itself a documentation point buyers should know about.
-
-From a sourcing perspective, 砂仁 illustrates two compounding identification challenges. Three points follow:
-
-- **The genus is not the spec.** The *Amomum* cluster — 砂仁, cardamom (白豆蔻), tsaoko (草果) — is a textbook case of similar-looking, different-tasting spices. 砂仁's slightly bitter, camphoraceous warmth is not interchangeable with cardamom's sweet brightness or tsaoko's smoky darkness. A buyer who specifies "Amomum" has specified a genus, not a material; the species name (and the Chinese drug name) is the actual spec.
-- **Reclassification splits the record.** Flora of China keeps *Amomum villosum*; GBIF has moved the name to *Wurfbainia villosa*. This nomenclatural split means a buyer checking two databases will see two names for the same fruit — and should recognize them as the same material, not two different ones. It is the same "pin the drug name" discipline the encyclopedia applies wherever taxonomy is in motion.
-- **Triple-use standing is a sourcing signal.** 砂仁's role as a 香药 — spice, medicine, and incense ingredient at once — is documented, which is a reminder that a material's classical standing can span categories. A buyer should read that triple use as context for why 砂仁 appears in incense recipes at all, and as a cue to verify which use the current supplier is selling against.
-
-In our view, 砂仁 is best handled as a **specific 香药 species within a confusing cluster** — and its lesson is that when a family contains several similar spices and the taxonomy is shifting, the Chinese drug name (砂仁) is the stable specifier, and the species check is the buyer's first move.
 
 ## Summary
 
@@ -163,7 +138,7 @@ Amomum villosum (砂仁) is the dried fruit and seeds of *Amomum villosum* (Zing
 
 **Is sharen (砂仁) a medicine?** It is recorded in traditional Chinese medicine as an aromatic medicine (香药). That is **traditional materia-medica language, not modern clinical evidence**, and this encyclopedia makes no medical claims. Its documented non-medical uses are the spicy aromatic and incense-recipe roles described here.
 
-**Why does sharen (砂仁) have two botanical names?** Because of a recent reclassification. Flora of China records it as *Amomum villosum*, while GBIF has transferred the name to *Wurfbainia villosa*. Both names point to the same fruit, so a buyer seeing either should recognize them as one material — a nomenclatural split worth knowing when checking sources.
+**Why does sharen (砂仁) have two botanical names?** Because of a recent reclassification. Flora of China records it as *Amomum villosum*, while GBIF has transferred the name to *Wurfbainia villosa*. Both names point to the same fruit, so a reader seeing either should recognize them as one material — a nomenclatural split worth knowing when checking sources.
 
 See also: [cardamom (白豆蔻)](/ingredients/cardamom/), [tsao-ko (草果)](/ingredients/tsao-ko/), [galangal (高良姜)](/ingredients/galangal/), [how incense is made](/blog/how-incense-is-made/) and the full [scent guide](/blog/scent-guide/).
 

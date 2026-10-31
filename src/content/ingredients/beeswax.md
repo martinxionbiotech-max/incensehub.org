@@ -111,38 +111,13 @@ There is no standardized grading ladder; the practical signal is color and clean
 
 The distinction is refinement, not a different product — the same comb wax, purified. For incense craft, the white is preferred where a clean, neutral wax is wanted.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should treat beeswax as a craft wax, not a fragrance, and specify refinement — white, purified (白蜡) over 黄蜡 (yellow). The practical checks are purity, cleanliness, and melt consistency.
-
-For a buyer or maker:
-
-- **Role** — confirm you are buying beeswax as a *wax* (molding, coating, sealing), not a fragrance and not a binder.
-- **Refinement** — specify white wax, purified (白蜡) over yellow wax (黄蜡).
-- **Cleanliness** — freedom from comb residue and foreign matter.
-- **Melt consistency** — an even, workable melt for the intended molding or coating.
-
-Because beeswax is a structural craft material, the buyer is specifying a *working property* (melt, mold, coat, seal), and refinement is the decisive quality variable.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** Beeswax is the "hardware" to honey's "binder" — the wax that molds, coats, and seals a formed incense body. Its commercial value is entirely in purity and melt behavior, which makes the white-vs-yellow refinement the real specification, not any aromatic claim.
-
-From a manufacturing perspective, beeswax is the complementary structural material to honey, and it illustrates a subtler point: **the classical incense craft had a full materials vocabulary for the physical object, not just for the scent.** Three points follow:
-
-- **The wax is the hardware of the craft.** Honey binds the powder into a dough; beeswax molds, coats, and seals the formed object. A complete incense craft needs both — the binder for the interior, the wax for the form and surface. This is a two-material structural system, and treating beeswax as "just another ingredient" misses its specific physical role.
-- **Refinement is the entire specification.** The quality of an incense beeswax is almost entirely a matter of rendering and purification: yellow wax vs white wax, clean vs residue-laden. The whiter and cleaner the wax, the more neutral and workable it is. There is no "premium varietal" here — there is only purity.
-- **It is a materials-engineering ingredient, not an aromatic.** Like honey, beeswax contributes almost nothing to the fragrance but everything to the physical integrity and finish of the object. The buyer who judges it by scent is misreading the material; the buyer who judges it by purity and melt is reading it correctly.
-
-In our view, the professional framing for beeswax is a **pure, well-rendered, workable wax** bought for its melt-and-mold behavior — the "hardware" of incense craft, and a reminder that the physical object and the scent are two different things, each with its own materials.
-
 ## Summary
 
-Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis cerana* and *Apis mellifera*), and the classical molding, coating, and sealing wax of the incense craft — distinct from honey (蜂蜜), the same bees' nectar-derived binder. The *Bencao Gangmu* records both side by side ("蜂造蜜蜡") and distinguishes white, purified (白蜡) from 黄蜡 (yellow). Its value is physical — melt, mold, coat, seal — not aromatic, and commercially its quality is a matter of purity and refinement, not scent.
+Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis cerana* and *Apis mellifera*), and the classical molding, coating, and sealing wax of the incense craft — distinct from honey (蜂蜜), the same bees' nectar-derived binder. The *Bencao Gangmu* records both side by side ("蜂造蜜蜡") and distinguishes white, purified (白蜡) from 黄蜡 (yellow). Its value is physical — melt, mold, coat, seal — not aromatic, and in trade its quality is a matter of purity and refinement, not scent.
 
 ## FAQ
 

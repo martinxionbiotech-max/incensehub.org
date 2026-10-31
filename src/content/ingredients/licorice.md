@@ -39,7 +39,7 @@ Licorice root is sweet and woody, with an earthy, slightly bitter undertone — 
 
 *Glycyrrhiza uralensis* is a leguminous perennial of the pea family (Fabaceae), native to the steppes and semi-arid regions of northern China, Mongolia, and Siberia. The part used is the dried root and rhizome, which concentrates glycyrrhizin — the compound responsible for the characteristic sweetness. It is one of several licorice species; *Glycyrrhiza uralensis* is the Chinese licorice, distinct from the Mediterranean *Glycyrrhiza glabra*, though the two share the sweetening principle. See [Glycyrrhiza uralensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012145) and [Glycyrrhiza uralensis on GBIF](https://www.gbif.org/species/7861283).
 
-The species distinction matters commercially: Chinese licorice and Mediterranean licorice are not the same crop, even though they are sold under the same English name and share glycyrrhizin. A buyer specifying "licorice" for a Chinese 合香 formula is specifying *Glycyrrhiza uralensis*, and should confirm that rather than accepting an undifferentiated "licorice root."
+The species distinction matters in trade: Chinese licorice and Mediterranean licorice are not the same crop, even though they are sold under the same English name and share glycyrrhizin. A reader specifying "licorice" for a Chinese 合香 formula is specifying *Glycyrrhiza uralensis*, and should confirm that rather than accepting an undifferentiated "licorice root."
 
 ## Chinese name and terminology
 
@@ -53,7 +53,7 @@ The name 甘草 (gāncǎo) is plain and descriptive: 甘 "sweet" + 草 "herb" �
 
 甘草 enters classical incense not for its own fragrance but for what it does to a formula. The Ming-dynasty *Xiangcheng* (香乘) treats 甘草 as one of the routine preparation ingredients alongside agastache (藿香) and 零陵香 — its sections on material preparation instruct that ingredients "such as 藿香, 甘草, 零陵香" (凡藿香甘草零陵之類) be picked clean of stems and weeds, sun-dried, and crumbled before use. Formulas in the same text list powdered licorice (甘草末) in small measured amounts — often a few *qian* against *liang* of the principal aromatics — confirming its role as a minor sweetening addition, not a principal scent.
 
-This is a documented structural role: licorice is a *harmonizer*, dosed like a seasoning rather than a substance. The pattern is worth internalizing for buyers — a material listed in small amounts against large amounts of the principal aromatics is a supporting ingredient by definition.
+This is a documented structural role: licorice is a *harmonizer*, dosed like a seasoning rather than a substance. The pattern is worth internalizing for readers — a material listed in small amounts against large amounts of the principal aromatics is a supporting ingredient by definition.
 
 ## Botanical source and origin
 
@@ -77,14 +77,14 @@ The processing is simple but was codified in the classical manuals: the root is 
 
 > **Direct answer:** Quality in licorice turns on species (Chinese *G. uralensis* vs Mediterranean *G. glabra*), the depth of the dry sweetness (glycyrrhizin content), cleanliness, and dryness. It is a supporting ingredient, so consistency and correct species matter more than aromatic intensity.
 
-For a sourcing buyer, the checks are:
+The practical checks are:
 
 1. **Species** — confirm *Glycyrrhiza uralensis* (Chinese licorice), not *Glycyrrhiza glabra* (Mediterranean); they share the sweetening principle but are different crops.
 2. **Sweetness** — the deep, dry sweetness of glycyrrhizin should be evident; it is the material's defining trait.
 3. **Cleanliness and dryness** — free of stems, weeds, soil, and excess moisture.
 4. **Consistency** — because licorice is dosed in small amounts as a harmonizer, batch-to-batch consistency matters more than any single high note.
 
-Licorice is a supporting ingredient, so the buyer's concern is less "is this the most fragrant root" and more "is this the right species, consistently prepared."
+Licorice is a supporting ingredient, so the reader's concern is less "is this the most fragrant root" and more "is this the right species, consistently prepared."
 
 ## Common forms
 
@@ -114,38 +114,13 @@ The powder is the form the classical manuals actually list in formulas (甘草�
 
 The documented, non-medical facts are botanical identity, the Fabaceae placement, and the root's long use as a minor sweetening binder in 合香.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm the species (*G. uralensis*, Chinese licorice, not Mediterranean *G. glabra*), expect a deep dry sweetness rather than a floral or spicy scent, and treat it as a small-amount harmonizer rather than a base material. Consistency and correct species are the real checks.
-
-For an incense maker or sourcing buyer:
-
-- **Species** — specify *Glycyrrhiza uralensis* (Chinese licorice), distinguishing it from the Mediterranean *Glycyrrhiza glabra*.
-- **Function** — expect a sweetening harmonizer, not a principal aromatic; dose it accordingly, in small measured amounts.
-- **Aroma** — a deep, dry sweetness, not a floral or spicy note.
-- **Consistency** — as a minor supporting ingredient, batch-to-batch consistency is what makes it reliable.
-
-A related aromatic root in the 合香 supporting cast is [spikenard (甘松)](/ingredients/spikenard-nardostachys/), and a warming spice accent with its own entry is [galangal (高良姜)](/ingredients/galangal/); they are different functions in the same blending vocabulary. A different case is the five-flavor berry [schisandra (五味子)](/ingredients/schisandra/) — a materia-medica fruit whose fame is taste, not fragrance, at the edge of the incense canon.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** Licorice is a clean illustration of a principle the encyclopedia stresses: in a blend, the ingredient whose role is relational — sweetening, harmonizing, rounding — is dosed like a seasoning, not a substance. Its value is in what it does to the other materials, not in its own aroma, which is why consistency beats intensity for this kind of supporting ingredient.
-
-From a manufacturing perspective, licorice is a useful corrective to the assumption that an incense ingredient must be valued for its *own* fragrance. Three points follow:
-
-- **Function over fragrance.** Licorice is the clearest example of a material whose job is to modify other materials. Its sweetness is a *taste-like* quality carried into a fragrance context, and its harmonizing role is relational — it makes pungent and resinous materials sit more smoothly together. A formulator reaches for licorice the way a cook reaches for a pinch of sugar: to balance, not to feature.
-- **Dosing as a structural signal.** The classical manuals list 甘草末 in small *qian* against *liang* of the principal aromatics. That ratio is itself information: when a material is consistently dosed small against large, it is a supporting ingredient by definition, and a buyer should treat it as one — specify it for consistency, not for headline intensity.
-- **Species is the real spec.** Because Chinese and Mediterranean licorice share both the English name and the sweetening compound, the meaningful commercial distinction is species. A buyer who says only "licorice" has not yet specified anything; a buyer who says *Glycyrrhiza uralensis* has. This is the same "pin the name" discipline the encyclopedia applies to every material with a shifting or shared name.
-
-In our view, licorice's commercial reality is that of a **consistent, correctly-specied harmonizer** — a small-amount ingredient whose reliability comes from the right species and steady preparation, not from aromatic intensity. Its value is structural, and that is precisely why it is under-appreciated: the most useful blending ingredients are often the ones you barely smell.
-
 ## Summary
 
-Licorice (甘草, "sweet herb") is the dried root of *Glycyrrhiza uralensis* (Fabaceae), the Chinese licorice, valued in 合香 not for its own scent but for its sweetening, harmonizing role — a minor, measured addition that rounds and softens sharper aromatics. Documented in the *Xiangcheng* (香乘) as a routine preparation ingredient (甘草末 in small amounts), it is a supporting material whose key commercial points are the species distinction (*G. uralensis* vs *G. glabra*) and the consistency that a relational, small-dose ingredient demands.
+Licorice (甘草, "sweet herb") is the dried root of *Glycyrrhiza uralensis* (Fabaceae), the Chinese licorice, valued in 合香 not for its own scent but for its sweetening, harmonizing role — a minor, measured addition that rounds and softens sharper aromatics. Documented in the *Xiangcheng* (香乘) as a routine preparation ingredient (甘草末 in small amounts), it is a supporting material whose key identifying points are the species distinction (*G. uralensis* vs *G. glabra*) and the consistency that a relational, small-dose ingredient demands.
 
 ## FAQ
 

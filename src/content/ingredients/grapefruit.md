@@ -86,7 +86,7 @@ Grapefruit's fragrance use is entirely modern, built on its cold-pressed rind oi
 
 > **Direct answer:** Grapefruit is processed by cold-pressing the rind to yield its essential oil — the bittersweet, green-woody citrus note. The oil, not the fruit or the dried peel, is the fragrance product; cold-pressing (rather than steam distillation) preserves the delicate fresh top note.
 
-The processing is a cold-press extraction: the rind is pressed to yield the essential oil, and cold-pressing (rather than steam distillation) is used precisely because it preserves the delicate, fresh, bittersweet top note that heat would degrade. The oil is the fragrance product — not the juice, not a dried peel. For a buyer, this means the relevant quality checks are on the oil (freshness, the bittersweet-green character, and the presence of the nootkatone and sulfur compounds that give it its signature), not on a dried plant part.
+The processing is a cold-press extraction: the rind is pressed to yield the essential oil, and cold-pressing (rather than steam distillation) is used precisely because it preserves the delicate, fresh, bittersweet top note that heat would degrade. The oil is the fragrance product — not the juice, not a dried peel. For the reader, this means the relevant quality checks are on the oil (freshness, the bittersweet-green character, and the presence of the nootkatone and sulfur compounds that give it its signature), not on a dried plant part.
 
 ## What determines quality?
 
@@ -110,7 +110,7 @@ These are oil-quality checks, consistent with a material whose value is a cold-p
 | Cold-pressed essential oil | Perfumery, home fragrance, aromatherapy |
 | Fruit / juice | Food product (not a fragrance form) |
 
-The forms reflect the supply chain: the fruit is a food crop, and the rind oil is the fragrance byproduct. For a fragrance buyer, the oil is the only operative form.
+The forms reflect the supply chain: the fruit is a food crop, and the rind oil is the fragrance byproduct. For fragrance, the oil is the only operative form.
 
 ## In modern use
 
@@ -128,34 +128,9 @@ The forms reflect the supply chain: the fruit is a food crop, and the rind oil i
 
 There is **no classical Chinese incense record** for grapefruit (葡萄柚); its position is entirely modern.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm it is *Citrus × paradisi* (grapefruit), distinct from the pomelo (*Citrus maxima*), and evaluate the cold-pressed oil's freshness and bittersweet-green character. Grapefruit is a modern top note, not a classical 香材, and it is usually blended rather than burned alone.
-
-For a sourcing buyer, the checks are:
-
-- **Identity** — *Citrus × paradisi* (grapefruit); distinguish it from 柚皮 (pomelo peel, *Citrus maxima*), its larger ancestor with a traditional Chinese citrus note.
-- **Product form** — a cold-pressed essential oil, not a dried peel.
-- **Oil quality** — fresh, bright, bittersweet-green, with the nootkatone/mercaptan character intact.
-- **Role** — a modern top note, usually blended rather than burned alone.
-
-The citrus family has its own cluster of entries: [pomelo peel (柚皮)](/ingredients/pomelo-peel/) (the traditional ancestor), [citron (香橼)](/ingredients/citron/), and [lemon (柠檬)](/ingredients/lemon/) — related citrus materials with distinct identities and different classical standings.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. Citrus oils can be skin-irritating at high concentration; use as directed. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Grapefruit is the clearest example in the citrus family of a "structural non-classical" material: it is a modern hybrid (pomelo × sweet orange) that arose in the 18th-century Caribbean, so its absence from the Chinese 香材 canon is not an omission but a consequence of the plant simply not existing then. The discipline it teaches is to state provenance honestly — modern is modern — rather than retrofit a classical origin.
-
-From a sourcing and editorial perspective, grapefruit offers a clean provenance lesson. Three points follow:
-
-- **The hybrid is structurally modern.** Grapefruit is a cultivated hybrid of the pomelo and the sweet orange, first described in the 18th-century West Indies. Because the plant did not exist during the centuries when the Chinese 香材 canon formed, its absence from that canon is not a gap to fill but a fact to state. This is different from a plant that *was* known and simply not used in incense — grapefruit was not known at all in classical China.
-- **Ancestry is not identity.** The grapefruit's pomelo parent gives it a genuine ancestral link to a traditional Chinese citrus note (pomelo peel 柚皮), and the name 葡萄柚 even contains 柚. But ancestry and naming do not make the hybrid a classical material: a modern Western hybrid and its traditional Chinese ancestor are different products with different standings. The buyer's job is to keep them distinct.
-- **Oil product, oil checks.** Like other modern citrus crossovers, grapefruit is an essential-oil commodity, cold-pressed to preserve the delicate bittersweet top note. The quality checks are on the oil — freshness, the nootkatone/mercaptan character — not on a dried peel or a fruit.
-
-In our view, grapefruit is best framed as a **modern citrus essential oil with an honest "no classical Chinese record" statement** — and its lesson is the discipline of provenance: when a material is modern, say so plainly, and let the classical canon stand on its own terms without retrofitting.
 
 ## Summary
 

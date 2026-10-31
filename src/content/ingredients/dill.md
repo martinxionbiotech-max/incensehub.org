@@ -61,7 +61,7 @@ The Chinese terminology is where dill's sourcing risk lives:
 - **慈谋勒 (címóulè)** — an alternate name recorded in the *Bencao Gangmu*.
 - **小茴香 (xiǎohuíxiāng)** — an alternate name that is **also the standard name for fennel** (*Foeniculum vulgare*).
 
-The alias 小茴香 is the trap: the *Bencao Gangmu* records it for both dill (莳萝) and fennel (小茴香), so the same name has pointed at two different Apiaceae plants across history. This is why a buyer must check the plant, not just the name.
+The alias 小茴香 is the trap: the *Bencao Gangmu* records it for both dill (莳萝) and fennel (小茴香), so the same name has pointed at two different Apiaceae plants across history. This is why a reader must check the plant, not just the name.
 
 ## The 茴 family entanglement (read this)
 
@@ -138,17 +138,6 @@ There is no standardized incense-grading ladder; dill is graded as a spice, not 
 
 The seed and the leaf are the same plant in different forms, with the seed the warmer, more aromatic material.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should distinguish dill (*Anethum graveolens*) from fennel (小茴香, *Foeniculum vulgare*) and anise (茴芹, *Pimpinella anisum*) — the *Bencao Gangmu* shares the name 小茴香 across dill and fennel, so check the plant, not just the name. Expect a fresh, herbal, anise-like scent, with the seed warmer than the leaf.
-
-For a culinary or sourcing buyer:
-
-- **Species** — confirm *Anethum graveolens*; distinguish it from fennel and anise.
-- **Naming awareness** — the name 小茴香 is shared with fennel; the scientific name, not the label, must carry the specification.
-- **Form** — seed (warmer, more aromatic) or leaf (greener, more delicate).
-- **Role** — understand it is a culinary spice and 香药, not a burned incense material.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -164,18 +153,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Driver | Carvone / dill ether | Anethole | Anethole |
 
 The three are different plants, and dill's character is more carvone-driven while fennel and anise are anethole-driven. See [fennel (小茴香)](/ingredients/fennel/), [anise (茴芹)](/ingredients/anise/), and [star anise (八角)](/ingredients/star-anise/).
-
-## Our Industry View
-
-> **Direct answer:** Dill's lesson is the 茴-family naming trap: one classical name (小茴香) points at two different plants, so "anise-like" is a register, not a spec. The disciplined buyer names the species and the form, and treats a shared name as a signal to check the plant — the same procedural lesson that runs through every anise-like aromatic in this encyclopedia.
-
-From a sourcing perspective, dill is the clearest case of a specific hazard in the anise-like family: **the name is shared, the plants are not.**
-
-- **One name, two plants.** The *Bencao Gangmu* gives 莳萝 the alternate name 小茴香 — the same name the fennel seed carries. A buyer who orders "小茴香" is ordering a *name*, not a plant, and will receive dill or fennel depending on the seller's region. The scientific name is the only reliable key.
-- **The register is chemistry, not identity.** Dill's fresh, anise-like character (carvone) and fennel/anise's sweeter note (anethole) share a family resemblance but are different chemistries. "Anise-like" is a register, not a spec — a point that runs through dill, fennel, anise, and star anise alike.
-- **The honest position is the editorial one.** Dill is a culinary 香药, not an incense material, and this page says so plainly rather than inventing a burned-incense role. That honesty is part of the discipline: a spice is catalogued for what it is.
-
-In our view, the useful takeaway is procedural: **name the species, name the form, and treat a shared classical name as a flag to verify the plant** — and an "anise-like" aromatic becomes fully specifiable instead of a source of confusion.
 
 ## Summary
 

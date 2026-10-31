@@ -39,7 +39,7 @@ related: ["ligusticum", "angelica-sinensis", "angelica"]
 
 *Ligusticum chuanxiong* is an aromatic perennial of the carrot family (Apiaceae), cultivated in Sichuan as the source of 川芎. Modern botanical databases treat the name as a synonym of *Conioselinum anthriscoides*; Flora of China records the lovage group under *Ligusticum*, where 藁本 (*L. sinense*) sits alongside other species. The Sichuan name 川芎 ("Sichuan lovage") reflects its place of cultivation.
 
-This nomenclatural instability is a real sourcing issue, not an academic footnote. A buyer or formulator who looks up the material in one database finds *Ligusticum chuanxiong*, in another *Conioselinum anthriscoides*, and in a Chinese materia-medica manual simply 川芎. All three point to the same cultivated Sichuan root, but the divergence means the *Chinese drug name* — 川芎, not 藁本 — is the most reliable specifier across sources. See [Ligusticum (genus) in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=118546) and [Ligusticum chuanxiong on GBIF](https://www.gbif.org/species/3639592).
+This nomenclatural instability is a real sourcing issue, not an academic footnote. A reader or formulator who looks up the material in one database finds *Ligusticum chuanxiong*, in another *Conioselinum anthriscoides*, and in a Chinese materia-medica manual simply 川芎. All three point to the same cultivated Sichuan root, but the divergence means the *Chinese drug name* — 川芎, not 藁本 — is the most reliable specifier across sources. See [Ligusticum (genus) in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=118546) and [Ligusticum chuanxiong on GBIF](https://www.gbif.org/species/3639592).
 
 ## Chinese name and terminology
 
@@ -56,13 +56,13 @@ The classical name for the lovage group is 芎藭 (xiōngqióng), under which th
 - **川芎 (chuanxiong)** — the rhizome of *Ligusticum chuanxiong*, the Sichuan lovage. This entry.
 - **藁本 (gaoben)** — the root of *Ligusticum sinense*, the Chinese lovage. Its own entry, at [ligusticum](/ingredients/ligusticum/).
 
-The *Bencao Gangmu* (本草纲目), 草之三, records them as **separate adjacent entries** — 芎藭 (with 川芎 as its Sichuan name) and 藁本 (the next item). The two are easily confused because modern taxonomy has shifted both toward *Conioselinum anthriscoides*, but Chinese materia medica keeps them distinct. **This page describes 川芎 = *Ligusticum chuanxiong*, not 藁本.** The practical consequence is that a buyer should name the Chinese drug (川芎 vs 藁本) rather than relying on a shared genus or a shifting botanical synonym.
+The *Bencao Gangmu* (本草纲目), 草之三, records them as **separate adjacent entries** — 芎藭 (with 川芎 as its Sichuan name) and 藁本 (the next item). The two are easily confused because modern taxonomy has shifted both toward *Conioselinum anthriscoides*, but Chinese materia medica keeps them distinct. **This page describes 川芎 = *Ligusticum chuanxiong*, not 藁本.** The practical consequence is that a reader should name the Chinese drug (川芎 vs 藁本) rather than relying on a shared genus or a shifting botanical synonym.
 
 ## Where does chuanxiong come from?
 
 > **Direct answer:** Chuanxiong is a cultivated crop of Sichuan, in southwestern China, where it is grown as a field herb rather than wild-harvested. Its name records this geographic anchoring — it is a Sichuan agricultural aromatic, not a foraged wild root.
 
-川芎 is fundamentally a cultivated material. Unlike many aromatic roots that are wild-harvested, 川芎 is grown as an agricultural crop in Sichuan, where the regional name and the cultivation practice are linked. This has a concrete implication for sourcing: it is a *crop* with agricultural seasonality and regional supply, not a wild-harvested botanical with the variability and conservation concerns that wild collection carries. The Sichuan identity is therefore simultaneously a provenance claim, a quality signal (the regional material being the named standard), and a documentation point — a buyer should be able to confirm the Sichuan origin rather than accepting an undifferentiated "lovage root."
+川芎 is fundamentally a cultivated material. Unlike many aromatic roots that are wild-harvested, 川芎 is grown as an agricultural crop in Sichuan, where the regional name and the cultivation practice are linked. This has a concrete implication for sourcing: it is a *crop* with agricultural seasonality and regional supply, not a wild-harvested botanical with the variability and conservation concerns that wild collection carries. The Sichuan identity is therefore simultaneously a provenance claim, a quality signal (the regional material being the named standard), and a documentation point — a reader should be able to confirm the Sichuan origin rather than accepting an undifferentiated "lovage root."
 
 ## Why is it used in incense?
 
@@ -80,7 +80,7 @@ The processing of 川芎 is straightforward: the rhizome is dug, cleaned of soil
 
 > **Direct answer:** Quality in chuanxiong is driven by aroma intensity — a good root should smell strongly pungent, herbal, and spicy — plus cleanliness, dryness, and freedom from the wrong species (藁本). Provenance (Sichuan) and the correct drug name are the identification checks that sit above the sensory ones.
 
-For a sourcing buyer, the quality checks are:
+The practical quality checks are:
 
 1. **Aroma intensity** — the pungent, spicy character should be strong and immediate; a weak-smelling root is low-grade.
 2. **Species and name** — confirm it is 川芎 (*Ligusticum chuanxiong*), not 藁本 (*Ligusticum sinense*); the drug name is the reliable specifier.
@@ -117,34 +117,9 @@ The distinction between forms is functional, not a quality statement. For incens
 
 The documented, non-medical facts are botanical identity, the Apiaceae placement, and its distinction from 藁本.
 
-## What buyers should look for
-
-> **Direct answer:** A buyer should confirm the drug name (川芎, not 藁本), the Sichuan origin, and a strong pungent aroma, and — for powder — particle size and moisture. The name and the aroma are the two checks that do most of the work, because the material is defined by both its provenance claim and its pungent root scent.
-
-For an incense maker or sourcing buyer, the practical checks are:
-
-- **Drug name** — specify 川芎 (*Ligusticum chuanxiong*), not 藁本 (*Ligusticum sinense*); the two are related but distinct, and both have been reclassified toward *Conioselinum anthriscoides* in modern taxonomy.
-- **Provenance** — the name claims Sichuan origin; a real supplier can confirm it.
-- **Aroma** — strong, pungent, herbal, spicy; a weak scent is the clearest sign of low-grade or stale material.
-- **Form and consistency** — for powder, confirm particle size and moisture against your formula rather than accepting a nominal grade.
-
-The related root [angelica-sinensis (当归)](/ingredients/angelica-sinensis/) and [angelica (白芷)](/ingredients/angelica/) sit nearby in the aromatic-root family; pinning the exact root matters because they are not interchangeable despite shared family traits.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
-
-## Our Industry View
-
-> **Direct answer:** Chuanxiong is a useful case study in a sourcing principle the encyclopedia returns to repeatedly: when a plant has a shifting botanical name and a shared genus, the *Chinese drug name* — not the Latin synonym — is the reliable specifier. Provenance and the drug name do more identification work than the modern taxonomy does.
-
-From a sourcing perspective, 川芎 illustrates a recurring problem in aromatic roots: **nomenclatural drift.** The same cultivated Sichuan root appears as *Ligusticum chuanxiong* in some databases, *Conioselinum anthriscoides* in others, and 川芎 in Chinese materia medica — while 藁本 (*Ligusticum sinense*) sits confusingly close in the same genus and is also drifting toward the same synonym. For a buyer or formulator, the lesson is practical:
-
-- **Pin the drug name, not the Latin synonym.** Because the taxonomy is in motion, "川芎" is a more stable specifier than any single botanical name. It also carries the provenance claim (Sichuan) that the Latin name does not.
-- **Aroma is the grade, because the material is an aromatic root.** In a commodity defined by its pungent, herbal-spicy scent, the intensity of that scent is the single most informative quality signal — a weak-smelling root fails the one test that matters.
-- **Its incense role is structural, not leading.** Chuanxiong is a supporting aromatic whose value in a blend is an earthy, herbal middle; it is not a material to build a formula around, and buyers should treat it accordingly — as an accent, not a centerpiece.
-
-In our view, the commercial sweet spot for a material like this is a **well-documented Sichuan 川芎 with a strong, consistent aroma and a clear drug name**, sourced and specified as 川芎 rather than as an undifferentiated lovage root — because the provenance and the name are precisely what separate it from its close relative 藁本.
 
 ## Summary
 

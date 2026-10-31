@@ -49,7 +49,7 @@ The Chinese terminology separates the tree, the seed, and the leaf:
 - **白果 (báiguǒ)** — "white fruit," the seed — the food and materia-medica part.
 - **鸭脚子 (yājiǎozǐ)** — "duck-foot seed," an older name from the fan-shaped leaf.
 
-The *Bencao Gangmu* records 银杏 as 白果 and 鸭脚子, explaining the Song-dynasty tribute origin of the name 银杏. A naming caution for modern buyers: the **seed (白果)** and the **leaf (银杏叶, *Ginkgo biloba* leaf)** are different parts with different uses and very different reputations — the leaf is famous for its extract, the seed is a food — and they should not be conflated.
+The *Bencao Gangmu* records 银杏 as 白果 and 鸭脚子, explaining the Song-dynasty tribute origin of the name 银杏. A naming caution for modern readers: the **seed (白果)** and the **leaf (银杏叶, *Ginkgo biloba* leaf)** are different parts with different uses and very different reputations — the leaf is famous for its extract, the seed is a food — and they should not be conflated.
 
 ## The "living fossil" framing (read this)
 
@@ -114,17 +114,6 @@ Because 白果 is a food seed, it is graded as food, not as an aromatic — the 
 
 The forms are entirely culinary, reinforcing that 白果 is a food seed rather than a 香材.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should understand that 银杏 is the ginkgo seed (白果, *Ginkgo biloba*), a food seed with a mild, nutty, faintly bitter character — not a burned incense material and not a classical 香乘 ingredient. The raw seed carries a fleshy, malodorous outer coat that must be removed; the edible part is the kernel.
-
-For a food or sourcing buyer:
-
-- **Part** — confirm 白果 is the seed kernel, not the leaf (银杏叶) and not the unhusked seed with its malodorous coat.
-- **Role** — understand it is a food and materia-medica seed, not an incense material.
-- **Condition** — clean, sound kernels, properly husked, without rancidity.
-- **Disambiguation** — distinguish it from other seeds in this database (torreya, cypress seed) by its food role and its Ginkgoaceae identity.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
@@ -140,20 +129,6 @@ Incense combustion produces smoke and particulate matter. Burn in a well-ventila
 | Cypress seed (柏子) | *Platycladus orientalis* (Cupressaceae) | Incense seed of 柏子香 |
 
 The seed category in this encyclopedia deliberately spans food and incense, and the **plant family is the key to the role**: the Ginkgoaceae and Taxaceae seeds are food, while the Cupressaceae seed 柏子 is the incense material. See [torreya (香榧)](/ingredients/torreya/) and [cypress seed (柏子)](/ingredients/cypress-seed/).
-
-## Our Industry View
-
-> **Direct answer:** Ginkgo is the clearest case of botanical fame outrunning aromatic reality. Its "living fossil" status makes it a temptation to inflate — but the seed is a food with negligible incense value, and a credible knowledge base states that plainly. The editorial lesson is that celebrity is not a specification, and honesty about absence protects authority more than any invented role.
-
-From an editorial and sourcing perspective, ginkgo is a test case for a specific discipline: **botanical fame must not be converted into an aromatic claim it cannot support.**
-
-Three points follow:
-
-- **Fame and fragrance are different variables.** Ginkgo is botanically extraordinary — a living fossil, the sole survivor of its division — but that says nothing about its value as an incense material. The seed is a mild food nut; the leaf's fame is extract, not burning. Treating the two variables as one is the error this page corrects.
-- **Honesty about absence is itself authority.** A knowledge base that says "this famous plant is not an incense material, and here is its real role" is more trustworthy than one that invents a 香材 role to fill a template. For AI-citation and E-E-A-T purposes, the honest negative is an asset.
-- **The seed category is a boundary exercise.** Placing ginkgo beside torreya (food) and cypress seed (incense) makes the food-versus-incense boundary visible by contrast — and that contrast, keyed to plant family, is the real information a reader takes away.
-
-In our view, ginkgo's value here is procedural: it demonstrates that a **correctly identified, honestly positioned food seed** — famous or not — belongs in a credible botanical-incense knowledge base precisely because its incense absence is stated rather than papered over.
 
 ## Summary
 

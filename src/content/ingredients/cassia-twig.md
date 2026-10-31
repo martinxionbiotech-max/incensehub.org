@@ -125,37 +125,13 @@ There is no standardized grading ladder; the part distinction and the aromatic f
 
 The distinction is part, not form: the twig (桂枝) is a different material from the bark (桂皮) of the same tree.
 
-## What buyers should look for
-
-> **Direct answer:** Buyers should confirm the material is the twig (桂枝), not the bark (桂皮) — same tree, different part — and judge a clean, dry, young twig with a warm, spicy, woody-cinnamon scent. Specify the part when sourcing.
-
-For a buyer or sourcing reader:
-
-- **Part** — confirm 桂枝 is the young twig, distinct from 桂皮 (the bark) — same tree, different parts.
-- **Condition** — clean, dry, intact twigs.
-- **Aroma** — a warm, spicy, woody-cinnamon scent, lighter and greener than the bark.
-
-Because the twig and bark are different parts with different prices and uses, the part-level specification (桂枝 vs 桂皮) is the decisive sourcing point.
-
 ## Safety
 
 Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
 
-## Our Industry View
-
-> **Direct answer:** Cassia twig is the clearest demonstration of "same tree, different part" economics: the twig and the bark of one tree trade as different materials with different prices, uses, and aromatic characters. For sourcing, part-level precision — 桂枝 vs 桂皮 — is the whole specification, not a detail.
-
-From a manufacturing and sourcing perspective, cassia twig is the cleanest example of a principle that governs many botanical materials: **part-level precision is the specification.** Three points follow:
-
-- **One tree, two markets.** The cassia tree supplies at least two distinct commodities — the bark (桂皮), a famous spice and incense material, and the twig (桂枝), a materia-medica part — which trade at different prices with different characters. Treating "cassia" as one material flattens a real split: the bark is dense and pungent, the twig lighter and greener.
-- **The part is the aroma.** The difference between 桂枝 and 桂皮 is not a quality grade but a *part* — and the part determines the aroma. The twig carries the same cinnamon warmth in a lighter, woodier register. A buyer who wants the dense pungency of the bark but receives the twig (or vice versa) has received a different material, not a lower grade.
-- **Materia-medica identity ≠ incense identity.** The twig's classical role is in materia medica, not as a lead 香材. This is an honest distinction: the twig is the *same tree's other part*, and its value lies in that precise identity, not in pretending to be the bark.
-
-In our view, the professional framing for cassia twig is a **correctly part-identified young twig of *Cinnamomum cassia*** — a material whose entire specification is the 桂枝-vs-桂皮 distinction, and a reminder that "which part" is often the single most important sourcing question in botanical materials.
-
 ## Summary
 
-Cassia twig (桂枝) is the young, slender branch of *Cinnamomum cassia* (syn. *C. aromaticum*), the same laurel-family tree whose mature bark is the cinnamon spice 桂皮. It carries a warm, spicy, sweet, woody-cinnamon scent — lighter and greener than the dense bark — and is a classical materia-medica part, distinct in the *Bencao Gangmu* from the bark. Its commercial identity is entirely part-level precision: 桂枝 (twig) vs 桂皮 (bark), one tree, two different materials.
+Cassia twig (桂枝) is the young, slender branch of *Cinnamomum cassia* (syn. *C. aromaticum*), the same laurel-family tree whose mature bark is the cinnamon spice 桂皮. It carries a warm, spicy, sweet, woody-cinnamon scent — lighter and greener than the dense bark — and is a classical materia-medica part, distinct in the *Bencao Gangmu* from the bark. Its identity is entirely part-level precision: 桂枝 (twig) vs 桂皮 (bark), one tree, two different materials.
 
 ## FAQ
 
