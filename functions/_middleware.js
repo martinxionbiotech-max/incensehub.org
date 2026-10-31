@@ -8,7 +8,7 @@ let manifestPromise = null;
 async function getManifest(env) {
   if (!manifestPromise) {
     manifestPromise = env.ASSETS
-      .fetch(new URL(MANIFEST_PATH, 'https://incenseherbs.com'))
+      .fetch(new URL(MANIFEST_PATH, 'https://incensehub.org'))
       .then((r) => {
         if (!r.ok) throw new Error(`manifest unavailable: ${r.status}`);
         return r.json();

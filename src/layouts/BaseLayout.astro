@@ -21,10 +21,8 @@ const navItems = [
   { href: '/', label: 'Home', exact: true },
   { href: '/chinese-incense/', label: 'Chinese Incense' },
   { href: '/ingredients/', label: 'Ingredients' },
-  { href: '/incense-manufacturer/', label: 'Manufacturer' },
-  { href: '/wholesale/', label: 'Wholesale' },
-  { href: '/oem/', label: 'OEM' },
-  { href: '/contact/', label: 'Contact' },
+  { href: '/blog/', label: 'Guides' },
+  { href: '/about/', label: 'About' },
 ];
 const currentPath = Astro.url.pathname;
 
@@ -117,14 +115,6 @@ const webSiteJsonLd = {
             })
           }
         </nav>
-        <a
-          class="btn btn-whatsapp"
-          href="https://wa.me/8613323237275?text=Hello%20IncenseHub"
-          target="_blank"
-          rel="noopener"
-        >
-          Chat on WhatsApp
-        </a>
       </div>
     </header>
 
@@ -140,21 +130,15 @@ const webSiteJsonLd = {
             Chinese botanical incense, documented in English with source transparency.
           </p>
         </div>
-        <nav class="footer-links" aria-label="Commercial">
-          <a href="/wholesale/">Wholesale</a>
-          <a href="/oem/">OEM</a>
-          <a href="/private-label/">Private Label</a>
-          <a href="/incense-manufacturer/">Incense Manufacturer</a>
-        </nav>
         <nav class="footer-links" aria-label="Knowledge">
           <a href="/chinese-incense/">Chinese Incense</a>
           <a href="/ingredients/">Ingredients</a>
+          <a href="/blog/">Guides</a>
           <a href="/safety/">Safety</a>
         </nav>
         <nav class="footer-links" aria-label="Company">
           <a href="/about/">About</a>
           <a href="/contact/">Contact</a>
-          <a href="/request-a-quote/">Request a Quote</a>
         </nav>
         <nav class="footer-links" aria-label="Compliance">
           <a href="/privacy-policy/">Privacy Policy</a>
