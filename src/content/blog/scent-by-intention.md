@@ -14,207 +14,198 @@ author: "Landeng Tech Team"
 <img src="/images/scent-by-intention-scenes-1200x675.webp" alt="Three calm scenes of incense use: meditation, evening rest, and a work desk." width="1200" height="675" loading="lazy">
 
 
-**Direct answer:** "Incense by intention" means choosing a smell — and a shape — to match the *state you are reaching for*: something bright for desk work, something warm for the close of the day, something clean for a room that should feel welcoming, something soft for a yoga mat. It is a map from *purpose* to *aroma*, not a promise of an effect.
+**Direct answer:** Choosing incense by intention means picking the atmosphere first and the material second. You decide what kind of hour you are trying to make — alert, settled, welcoming, quiet — and then choose a smell whose character points that way, plus a format whose length fits the hour. It is a mapping from purpose to aroma, not a claim that any fragrance produces a state of mind.
 
-**Key facts:** Incense scents fall along one line, from bright and energizing (citrus, frankincense) at one end to deep and grounding (sandalwood, agarwood) at the other. Pairing a smell with an intention is a *fragrance-and-ritual* decision — the words "calming" and "focusing" describe how an aroma reads, never a bodily result.
+**Key facts:** Think of the range as a line with brightness at one end — citrus peel, frankincense — and density at the other, where agarwood and the heaviest woods sit; soft florals and dry cedars occupy the middle. Every adjective on this page describes an impression and a habit, never a bodily outcome. Length belongs to the object: roughly half an hour for a slim stick, an hour for a heavier one, a quarter of an hour for a cone, and hours for a coil.
 
----
+## Key facts
 
-## Key Takeaways
-
-- "By intention" means picking the **atmosphere first**, then the scent.
-- Bright, focusing notes: citrus, frankincense. Warm, grounding notes: sandalwood, agarwood.
-- Match the **format** to the session (a stick runs 20–60 minutes; a cone about 10–15).
-- No incense scent is a **medical treatment** — intention is a fragrance-and-ritual choice.
-
----
-
-## What "By Intention" Actually Means
-
-Most people buy incense the way they grab an air freshener: something pleasant, whatever is close at hand. Choosing by intention reverses that order. You begin from the state you are trying to build — alert, settled, welcoming, steady, quiet — and let that state point at a smell. The smell becomes a tool for the hour rather than a decoration.
-
-**Direct answer:** Choosing by intention is choosing by the room you want, not by the note you "should" like — it swaps the question "what smells good?" for "what do I want this hour to feel like?"
-
-The point is that this is a framing habit, not a science. A bright note does not mean a sharper mind, and a warm note does not mean a sedative — the same sandalwood can anchor a work session for one person and a wind-down for another, because the meaning comes from how you use it, not from the note itself.
+- **Atmosphere is the decision; material is the execution.** Most buyers invert this and shop by note name.
+- **Aroma families are more reliable than single notes.** A family tells you how a scent behaves; a note name tells you what it is called.
+- **Format is part of the intention.** A five-minute pause and a two-hour practice do not want the same object.
+- **Repetition is the mechanism.** The same smell at the same hour becomes a cue; a rotating playlist of scents does not.
+- **No scent treats anything.** The words used here describe impressions, not outcomes.
 
 ---
 
-## The Aroma Spectrum
+## What "by intention" actually means
 
-Incense scents sit on one axis, and that axis is the whole trick.
+**Direct answer:** It is a design brief for an hour, written in smell — and like any brief, it works better when it is specific.
 
-- **Bright / energizing** — citrus, frankincense, some florals. These read fresh, clean, and lifting; they suit mornings, work, and any hour you want the room to feel awake.
-- **Warm / grounding** — sandalwood, cedar, agarwood. These read soft, steady, and enveloping; they suit evenings, rest, and long slow sessions.
+Consider two evenings. In one, you come home from a day of interruptions and want the room to feel settled before you cook. In the other, you have ninety minutes of work left and want the desk to feel like a place where work happens. The rooms are identical; the briefs are opposite. One asks for warmth and slowness, the other for clarity and edges.
 
-**Direct answer:** Bright for alert hours, deep for slow ones — and the skill worth building is placing any new smell on this single line, because once you can place it, you can guess which hours it will suit.
+An intention-led approach starts from that difference and works backwards. What is the hour for? How long is it? Who else is in the room? What is the air doing? Only then does the material question arise, and by that point it has become much easier, because most of the wrong answers have already been excluded by the brief.
 
-Between the two poles sits most of the catalog. The full character of each scent is broken down in the [scent guide](/blog/scent-guide/).
-
----
-
-## Intention → Scent Map
-
-Five common intentions map to starting scents, and the map is a set of likely fits, not a rule.
-
-| Intention | Start with | Why |
-|---|---|---|
-| Focus / deep work | Citrus, frankincense | Bright, clean, non-distracting |
-| Unwinding / evening | Sandalwood, lavender | Warm, soft, low-key |
-| Home ambiance | Cedar, sandalwood, frankincense | Clean, room-filling, welcoming |
-| Yoga / breathwork | Sandalwood, frankincense, cedar | Grounding, steady, not loud |
-| Meditation | Sandalwood, agarwood, frankincense | Calm, long-lasting, non-distracting |
-
-**Direct answer:** The map is a starting vocabulary, and the real test is always your own nose — the note that quietly drops into the background for you is the one that fits the task.
+What this approach refuses is the habit of buying a mood as a promise. A stick labelled "focus" is a stick someone decided to call that; the label is a marketing decision, not a finding. The reliable part is the pairing: a smell you associate with a particular activity, repeated in that activity, becomes part of how the activity feels. That effect is real, though it does not mean the fragrance is doing the work — the pairing is.
 
 ---
 
-## Why the Ritual Does the Real Work
+## The map: purpose to aroma family
 
-The honest value of "incense by intention" is not the aroma's chemistry but the *cue* — a repeated signal that marks the start of a particular kind of time.
+**Direct answer:** Five briefs cover most household use, and each one narrows the material choice to a family rather than a single note.
 
-**Direct answer:** A cue works by association built through repetition: **the same smell at the same kind of moment → the brain links the smell to the activity → the smell starts to trigger the shift by itself → lighting the stick becomes a small ceremony that says "this hour is for X."** The smell is the trigger; the habit is the mechanism.
-
-That is why a bright scent "suits" focus and a warm one "suits" unwinding — not because citrus chemically sharpens you, but because you have paired a bright smell with work enough times that your own routine does the rest. The cue is the honest engine, and the fragrance is the key you turn. *Editorial view: a framing claim, not a sourced fact.*
-
----
-
-## The Five Scenarios
-
-Five scenario pages turn the "by intention" idea into concrete routines — one per common use.
-
-- **[Evening unwinding](/blog/evening-unwinding/)** — a warm, low-key scent to close the day; a routine, not a sleep aid.
-- **[Study & deep work](/blog/study-deep-work/)** — a bright, non-distracting scent for focus.
-- **[Home ambiance](/blog/home-ambiance/)** — scenting a room, welcoming guests, clearing the air.
-- **[Yoga & breathwork](/blog/yoga-breathwork/)** — a grounding, steady scent for practice.
-- **[Meditation](/blog/incense-for-meditation/)** — a calm, long-lasting scent, with the "burn time as timer" framing.
-
----
-
-## Matching Format to Intention
-
-The shape of the incense is as much a part of the intention as the scent, because the shape sets the clock — and every intention has a natural session length.
-
-**Direct answer:** A ten-minute pause calls for a cone; a single focused sprint calls for a thin, short stick; an all-afternoon background calls for a coil. The format is the timer, and matching the timer to the task is half of "by intention."
-
-| Intention | Natural session length | Format that fits | Why |
+| The hour you want | Reach for | Character that does the work | Typical format |
 |---|---|---|---|
-| Focus sprint | 20–30 minutes | Thin coreless stick | Ends on its own, no tending |
-| Deep work block | 45–60 minutes | Bamboo-core stick | One stick, one long block |
-| Unwinding | 30–60 minutes | Stick or short coil | Fades as the evening does |
-| Meditation sit | 25–30 minutes | Japanese coreless stick | The burn ends when the sit does |
-| All-afternoon ambiance | Hours | Coil | Steady, no relighting |
+| Alert, clear-headed work | Citrus peel, frankincense | Bright, dry, little sweetness | Slim stick, one work block |
+| Settled evening, no rush | Sandalwood, cedar | Warm, soft, low contrast | Slim or standard stick |
+| A room that welcomes people | Frankincense, cedar, sandalwood | Clean and room-filling without perfume | Standard stick, lit before guests |
+| Practice with breath or posture | Sandalwood, cedar, frankincense | Steady, grounding, not loud | Stick matched to practice length |
+| Quiet sitting, no agenda | Agarwood, sandalwood | Deep, slow, changing with heat | Stick or small coil |
 
-The logic is a chain: **a session has a length → a format has a burn time → match the two → the stick stops when you stop, so the scent is a frame, not an interruption.** See [which incense format](/blog/which-incense-format/) for the full format rundown.
+Read the table as a set of directions rather than a set of rules. The rows describe what a family does well; they do not claim that any row will produce a mood in a person who is not already inclined toward it. A bright scent in a room where somebody is grieving is still a bright scent, and it may be the wrong brief entirely.
 
----
-
-## The Cue Habit: How to Make It Stick
-
-A scent cue only works if you keep the pairing narrow — one scent, one activity, used at a consistent time — because a smell used for everything becomes a cue for nothing.
-
-**Direct answer:** The build is simple and slow. Choose one scent for one task, use only that scent for that task, and repeat for a few weeks at roughly the same hour. The mechanism is the repetition itself: **a narrow pairing → a predictable trigger → the smell begins to pre-load the right state → the ritual of lighting becomes the on-switch.** Wider pairings dilute the signal until the smell carries no meaning at all.
-
-What this means for the user is that three scents and three habits beat a shelf of twelve and no habits. *Editorial judgment: the collection is not the practice; the repetition is.* This is a framing view, not a sourced fact.
+In practice, the column that decides most sessions is the last. Format is where intention usually collapses, because people choose the smell carefully and then light whatever is in the drawer — a coil for a ten-minute pause, or a cone for an hour of work. The material and the clock should be chosen together, since a scent that fades in twenty minutes cannot carry a two-hour session.
 
 ---
 
-## A Scent Clock for the Day
+## Reading the families as characters
 
-The same shelf of scents can serve a whole day if you read it as a clock — bright on top of the morning, warm through the evening — and the hour picks the note as much as the task does.
+**Direct answer:** Four characters cover the range, and knowing which one you are buying prevents most disappointments.
 
-**Direct answer:** Morning leans bright because the room should feel like it is opening, not closing. Citrus and frankincense fit the early stretch; afternoon can hold the middle with a clean cedar or soft sandalwood; evening drops toward the warm end, where sandalwood and agarwood settle the room for the wind-down.
+| Family | Behaves like | Strengths | Limits |
+|---|---|---|---|
+| Citrus and peel | A bright opening that fades quickly | Cuts heaviness; reads clean and awake | Short-lived; can smell like cleaning products |
+| Resinous and clean (frankincense, myrrh) | Slow, dry, slightly austere | Fills a room without sweetness; ages well in storage | Can read churchy or cold to some noses |
+| Soft woods (sandalwood, cedar) | Even, creamy, low contrast | Forgiving; blends with almost anything | Cheap stock smells of sawdust |
+| Deep resins (agarwood, high-grade woods) | Heavy, changing, sometimes bitter | Rewards attention; carries a long session | Expensive, and a weak piece is a waste of money |
 
-The clock is a heuristic, not a schedule. The useful part is the habit of asking "what hour is this?" before asking "what do I feel like?" — the hour usually has a better answer. *Editorial view: time of day is the most underused sorting key in the whole practice.* This is a framing judgment, not a sourced fact.
+The table's practical use is diagnostic. If a session felt wrong, the family usually explains why: a citrus stick chosen for a long evening will be gone before the evening is, and a deep resin chosen for a quick tidy-up will still be filling the room when you want it clear. Matching character to duration is the single most common fix.
 
----
-
-## When the Intention and the Habit Disagree
-
-Every user has a favorite smell that keeps leaking into the wrong hour: a beloved deep agarwood lit at nine in the morning, or a bright citrus left burning into a late evening. The mismatch is mild, but it is real — the room ends up pulling one way while the task pulls another.
-
-**Direct answer:** A scent you love can still fight the task you picked it for — and the honest move is to trust the task over the fondness, because intention is about the room, not about loyalty to a note.
-
-The fix is not to abandon the favorite but to give it its own hour, and let the task have the rest. The boundary is practical, not moral: **a smell suited to the hour → the room cooperates with the task → less friction → the ritual feels effortless.** A smell fighting the hour does the reverse. *Editorial judgment: fondness is for the collection; fit is for the session.* This is a framing claim, not a sourced fact.
+Buying inside a family is easier than buying by note name, because suppliers describe families consistently and note names inconsistently. "Sandalwood" on a box can mean the wood, a blend built around it, or a fragrance compound that resembles it. "Soft woody" describes behaviour, and behaviour is what you are actually buying. The [scent guide](/blog/scent-guide/) sets out the full spectrum with the individual materials.
 
 ---
 
-## Why This Hub Reads Different
+## Format is part of the brief
 
-Most "incense for [purpose]" writing hangs a health claim on the hook — "relieves stress," "boosts focus," "calms anxiety." The common misconception is that a smell can be sold as a guaranteed mood. This hub does not make that leap.
+**Direct answer:** Duration, smoke volume and setup effort are choices about the hour, not about the scent, and they belong in the plan from the start.
 
-**Direct answer:** Wellness content turns "intention" into a benefit claim; this hub keeps it honest — intention is a *fragrance-and-ritual* choice described in aroma terms, with no therapeutic promise.
+| Brief | Format that fits | Why it fits | Where it fails |
+|---|---|---|---|
+| A five-minute reset between tasks | Cone | Spent before it becomes a presence | Dense plume in a small closed room |
+| One focused work block | Slim coreless stick | Ends with the block | No grace if the block runs long |
+| A full evening at home | Standard stick | Long enough to cover the hour | Core note arrives late in the burn |
+| A long practice or a gathering | Coil | Unattended, continuous | Needs air movement or it accumulates |
+| A deliberate ritual | Seal or trail | The pattern itself times the session | Setup demands a steady hand |
 
-The honest account is simpler: a bright scent suits focus, a warm one suits unwinding, and the act of lighting gives the session a start and an end. That is defensible, useful, and true — and it needs no pharmacology.
+Two rules of thumb make this easier to apply. Choose the format whose burn ends at or just before the hour ends, so the object and the intention finish together. And choose the smallest smoke volume the room can carry, because a brief that fills the room with haze has replaced the atmosphere you wanted with a different one. The [format comparison](/blog/which-incense-format/) goes through the shapes one by one, and [how to choose incense](/blog/how-to-choose-incense/) covers the buying sequence.
 
 ---
 
-## The Author's Take
+## Building a cue on purpose
 
-**Position:** "Intention" is the right frame and the most abused one — the trade keeps bolting health claims onto what is really an atmosphere choice.
+**Direct answer:** A scent becomes associated with an activity through repetition in that activity, which means the effect is built rather than purchased.
+
+The mechanism is ordinary conditioning, and it needs three things to work:
+
+you choose one smell and one activity → you pair them repeatedly, at the same time of day → the smell starts to arrive ahead of the activity, carrying the expectation with it → the pairing becomes self-reinforcing, because the cue makes the activity easier to start.
+
+Break any link and the cue weakens. Rotating scents every evening gives the nose variety and gives the habit nothing to hold. Changing the hour means the cue has no time to attach to. Using the same scent for work and for winding down blurs the two, which is why a small collection works better as an assignment than as a menu.
+
+Three practical notes from that reasoning. Keep the work scent and the evening scent strictly separate, even if you like one much more than the other. Let the cue attach to a short session first — ten minutes repeated is stronger than an hour attempted twice. And accept that the association is yours: a scent that anchors deep work for one person may be the smell of a grandmother's house for another, and no chart can predict which.
+
+---
+
+## Keeping a small collection
+
+**Direct answer:** Three or four materials, each assigned to one hour, will out-perform a drawer of twenty that get rotated at random.
+
+The logic is the same one that makes a cue work. A collection organised by assignment is a set of tools; a collection organised by variety is a series of one-offs. Most people who say they "love incense" and still have no reliable routine own too many boxes and have assigned none of them.
+
+A workable minimum looks like this. One bright material for daytime focus — a citrus or a dry resin. One soft wood for the evening, which doubles as the neutral choice when you are unsure. One deeper resin for the occasional long sitting, bought in a small quantity because a little goes a long way. That is three purchases, three hours, three cues, and it covers nearly every ordinary week.
+
+What to resist is the sampler trap: a box of twelve miniature scents, each burned once, none repeated. Sampling is a legitimate way to choose the three, and a poor way to run a practice, because nothing in a sampler gets paired often enough to become a signal. Buy the sampler to decide, then buy the three decisions.
+
+Storage follows the same principle. Keep the assigned materials where the hour happens — the work stick near the desk, the evening stick near wherever you sit at the end of a day — because friction decides more habits than enthusiasm does. A stick that requires a trip to another room will be lit less often than one within arm's reach, and a cue that is not lit does not attach to anything.
+
+---
+
+## Where the map fails
+
+**Direct answer:** Most intention failures are mismatches of duration, volume or context rather than failures of the fragrance itself.
+
+| What went wrong | Likely cause | The correction |
+|---|---|---|
+| The scent vanished halfway | Format shorter than the session | Move one size up, or split the session |
+| The room felt stuffy | Smoke volume above what the space can absorb | Shorter format, or move air through |
+| The cue stopped working | Scent rotated, or the hour drifted | Fix one scent to one hour for a month |
+| The session felt wrong but the smell was fine | Brief was never written down | Name the hour before choosing the material |
+| Guests noticed the incense before the room | Dosed for the sitter, not for the visitor | Light earlier, and use less |
+
+The last row is worth dwelling on, because it inverts a common assumption. The person who lights a stick adapts to it within minutes and stops registering the smell; a visitor arriving an hour later meets it at full strength. A room scented for the sitter is usually over-scented for everyone else. Lighting earlier and using less produces a room that smells like itself rather than like an incense shop.
+
+---
+
+## The scenario pages
+
+**Direct answer:** Each of the five briefs above has a page of its own, and the hub exists to send you to the right one rather than to replace them.
+
+- **[Evening unwinding](/blog/evening-unwinding/)** — the close of a day, with the routine framing rather than any sleep claim.
+- **[Study and deep work](/blog/study-deep-work/)** — bright, non-distracting material for a block of concentration.
+- **[Home ambiance](/blog/home-ambiance/)** — scenting a living space, including the ventilation arithmetic.
+- **[Yoga and breathwork](/blog/yoga-breathwork/)** — steady, grounding material for a practice that has its own rhythm.
+- **[Meditation](/blog/incense-for-meditation/)** — the sitting itself, and the idea of the burn as a clock.
+
+Most buying mistakes happen at the boundary between two adjacent briefs, so read the page that matches your hour first. The others are worth reading later, because the boundaries between them are where most buying mistakes happen: a stick chosen for meditation and used for work is the same object in the wrong brief.
+
+---
+
+## The author's view
+
+**Position:** "Intention" is the right frame and the most abused word in the category. The industry uses it to smuggle in outcome claims that the product cannot support.
 
 **Reasoning:**
-- The honest version works better: a bright scent suits focus, a warm one suits unwinding.
-- The act of lighting gives the session a start and an end.
-- Fragrance is a preference, not a medicine.
 
-*This is the author's editorial view and experience — not a verified fact.*
+- The honest version is more useful anyway: a bright smell suits alert work and a warm one suits the end of a day, and most people already know which is which once they are asked.
+- The ritual is the mechanism. Lighting something marks a beginning, and its going out marks an end; that structure is what makes a routine stick.
+- Anything that promises a mood is selling the label rather than the material, and the material is the part you can actually evaluate.
 
----
-
-## Verification Notes
-
-- "Calming," "focusing," "grounding" describe aroma character and ritual association, not physiological effects.
-- Burn times are ranges; see each format page for detail.
-- No health or therapeutic claims are made.
+*Editorial position drawn from use, not a verified finding.*
 
 ---
 
 ## FAQ
 
-### Q: How do I pick incense for focus?
-Work backwards from the room you want. If the goal is an awake, uncluttered feel, reach for a clean bright note — citrus or frankincense both deliver it — and set aside anything deep or sweet that reads cozy. Then size the burn to the task: a short coreless stick for a single sprint, a longer bamboo stick for a full block. The real engine is the ritual — light it the same way each time and the smell turns into a "starting now" signal. See [study & deep work](/blog/study-deep-work/).
+### Q: How do I pick incense for focused work?
+Begin with the hour rather than the note. A work block wants low contrast and no sweetness, so citrus peel or a dry resin does the job, and a deep resin or heavy floral will pull the room the other way. Then match the length: a slim stick covers a single block, a standard stick covers a longer one. Light it at the start of the block, every time, and let the smell become the signal that work has begun. The [study and deep work](/blog/study-deep-work/) page takes the same reasoning further.
 
-### Q: Is there a scent that helps you sleep?
-IncenseHub makes no sleep claims. Nothing you burn can honestly promise to put you to sleep, and "sleep incense" is a label, not a supported effect. What a warm, low-key scent can do is live inside an evening wind-down: the same soft smell at the same hour, next to dimmed lights and a quiet task, marks that the day is over. That is a cue built by repetition, not a sedative in the fragrance. Put the stick out before bed and never leave one burning while you sleep. See [evening unwinding](/blog/evening-unwinding/) for the routine.
+### Q: Is there an incense that helps you sleep?
+The phrase is a marketing construction, not a category. What a warm, quiet scent can genuinely do is belong to a routine: same smell, same hour, lights low, marking the point at which the day stops. A cue built that way is real and useful. Sedation is a different thing, and no stick supplies it. Put out whatever you light well before bed, and never leave a coal going in a room where somebody is asleep.
 
-### Q: What works best for meditation?
-The time-tested choices are the calm woods and resins — sandalwood, agarwood, and frankincense — picked for being soft, long-lasting, and unobtrusive rather than sharp or sweet. Sandalwood is creamy and gentle, agarwood is deep and resinous and opens up as it warms, and frankincense is clean and faintly citrus. Size the burn to your sit so the stick finishes when you do: a Japanese coreless stick of about 25–30 minutes for a short sit, or a bamboo stick or coil for a longer one. See [incense for meditation](/blog/incense-for-meditation/) for the timer-anchor-cue framing in full.
+### Q: Can one scent serve two different purposes?
+It can, though the association will be weaker for both. A soft wood used for work and for winding down becomes a general marker of "indoor time" rather than a specific cue, which is fine if that is all you want from it. If you are trying to build a reliable cue for one activity, give that activity its own material and keep the other one separate. The chart on this page is a starting point, and personal association overrides it every time.
 
-### Q: Does the scent genuinely shift your mood?
-The fragrance can set a tone, and the ritual can anchor a routine, but any "mood" effect is subjective and experiential, not a measured, guaranteed result. A bright citrus may make a room feel more alert to you, and a warm sandalwood may feel more settling, but those responses are personal and learned — built by culture, memory, and repetition — not a chemical effect that lands the same way for everyone. This page reads "calming" and "focusing" as aroma descriptors, not effects. Shape the atmosphere you want, and do not buy a mood as a promise.
+### Q: Do these scent-to-purpose pairings come from tradition?
+Only partly. The classical Chinese material set was organised around woods, resins and a defined herb list, and its use was bound up with ritual, medicine and status rather than with modern productivity categories. The pairing of citrus with alertness or sandalwood with settling is a modern reading of aroma character, and should be labelled as such rather than presented as inherited doctrine. Where a traditional claim is repeated on this site, it is marked as traditional belief rather than as fact.
 
-### Q: How do I build a scent cue that actually sticks?
-Pick one scent for one activity and use only that scent for that activity, at a consistent time, for a few weeks. The repetition is what builds the link: **same scent + same activity + same hour → the brain pairs them → the smell starts to trigger the shift on its own.** Keep the pairing narrow — one scent, one task — because a scent used for everything becomes a cue for nothing. See [how to choose incense](/blog/how-to-choose-incense/) for the wider selection framework.
+### Q: What if I dislike every scent in the family my brief points to?
+Then the brief is wrong, not the chart. Aroma response is personal and often biographical: someone who grew up near a pine forest may find cedar comforting, and someone else may find it medicinal. Treat the family as a direction and the individual material as the choice. If nothing in the recommended family works, move to the neighbouring family rather than forcing a note you dislike — a scent you resent will not become a cue, no matter how well it matches a table.
 
-### Q: Can one scent serve two different intentions?
-Yes. Sandalwood can read as calming for one person and focusing for another, because aroma response is personal and shaped by memory and culture rather than fixed. The map on this page is a starting point, not a rule — it suggests bright scents for focus and warm scents for unwinding because those are the common patterns, but your own experience overrides it. What counts more than the note is how you use it: pair a scent consistently with one activity and it becomes a cue for that activity. The same sandalwood can anchor work for you and wind-down for someone else.
+### Q: Does the room change which scent works?
+Considerably. A small, warm, still room concentrates everything, so a material that reads soft in a hallway can become heavy in a bedroom. A large room with moving air dilutes, so the same stick reads faint. Since the point of an intention is the felt character of the hour, the volume of the space belongs in the decision alongside the material. The [home ambiance](/blog/home-ambiance/) page works through the arithmetic of room size and airflow.
 
 ---
 
 ## Sources
 
-- The [scent guide](/blog/scent-guide/) for the aroma-spectrum framing.
-- The scenario pages linked above for detail.
-- [American Lung Association — indoor air pollutants](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) — background on combustion particles, which is why these scenario pages stress ventilation and low-smoke formats.
-- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical Chinese incense text behind the traditional scent-to-intention mappings.
+The spectrum follows the [scent guide](/blog/scent-guide/), and each scenario page carries its own brief in detail. For the air question, the [American Lung Association](https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants) is the reference behind treating ventilation as part of the setup. The classical mappings trace to 香乘 (Xiang Cheng), readable via the [Wikisource edition](https://zh.wikisource.org/wiki/香乘).
 
 ---
 
 ## Related Resources
 
-- [Complete Scent Guide](/blog/scent-guide/)
-- [Which Incense Format Is Right for You?](/blog/which-incense-format/)
-- [Incense for Meditation](/blog/incense-for-meditation/)
-- [How to Choose Incense](/blog/how-to-choose-incense/)
+- [Complete Scent Guide](/blog/scent-guide/) — the full spectrum, material by material.
+- [Which Incense Format Is Right for You?](/blog/which-incense-format/) — shape, duration and smoke volume.
+- [Incense for Meditation](/blog/incense-for-meditation/) — the sitting, and the burn-as-clock idea.
+- [How to Choose Incense](/blog/how-to-choose-incense/) — the buying sequence from brief to first box.
+
+**Natural next step:** name your hour, then follow the page that matches it — [evening unwinding](/blog/evening-unwinding/) or [study and deep work](/blog/study-deep-work/) are the two most people start with — and read the [format comparison](/blog/which-incense-format/) before buying anything.
 
 ---
 
 ## Summary
 
-- "By intention" means choosing the atmosphere first, then the scent and the format.
-- The aroma spectrum runs bright (citrus, frankincense) to deep (sandalwood, agarwood), and each intention sits somewhere on it.
-- The ritual cue — not the aroma's chemistry — is the honest engine of the whole idea.
-- The format is the timer; match it to the session length the intention calls for.
-- No scent is a medical treatment, and no "mood" is promised — this is fragrance and routine, not pharmacology.
-
-**Natural next step:** pick your scenario — start with [evening unwinding](/blog/evening-unwinding/) or [study & deep work](/blog/study-deep-work/) — or learn the [formats](/blog/which-incense-format/) first.
+- Intention-first buying means writing the brief — hour, length, room, company — before choosing a material.
+- Five briefs cover most use; each points to a family rather than a single note.
+- Families behave predictably: citrus fades fast, soft woods stay even, deep resins change as they heat.
+- Format belongs in the brief, because a scent that ends early cannot carry the hour.
+- Repetition builds the cue. Rotation supplies variety and gives the habit nothing to hold.

@@ -12,724 +12,539 @@ author: "Landeng Tech Team"
 ---
 
 
-**Definition:** A single term printed on an incense label — "sandalwood," "agarwood," "essential oil," "benzoin" — can stand in for several unrelated substances. This reference walks through the swaps that recur most often, so a name on a box becomes something you can decode instead of a guess.
+**Direct answer:** One printed word on an incense package — sandalwood, agarwood, benzoin, "essential oil" — can name a plant, a grade, a process, or nothing more than a smell, and the sections below sort those meanings by the decision a buyer is actually about to make. Each label word is a claim with a size: some can be settled across a counter, some need paper, and some cannot be settled at all.
 
-**Key facts:** One dynamic repeats across every material family: a rare, costly substance (Indian sandalwood, kyara, genuine ambergris) carries cheaper stand-ins, and the bare words "natural" or "essential oil" never by themselves disclose which material sits in your hand.
-
----
+**Key facts:** Substitution concentrates wherever a material is slow to produce and expensive to buy, because that is where the gap between real and lookalike is widest. The words that carry the least information — "natural," "pure," "premium," "aged" — are the ones printed most often. And the words that carry the most — a binomial, a grade, a batch number — are the ones a careless seller omits.
 
 ## Key Takeaways
 
-- A name on a wrapper is a **claim, not a promise** — one word can point to several quite different substances.
-- Substitution concentrates on the **scarce, costly materials**: Indian sandalwood, kyara agarwood, genuine ambergris.
-- Two questions carry most of the weight: **which species**, and **real material versus fragrance or oil**.
-- Price works as a **hint, not proof** — a "prestige" name at a too-low price is almost always a stand-in.
-- This page stays on material facts; no health claims appear anywhere.
+**Direct answer:** Five points cover the method; the sections below supply the evidence and the exceptions.
 
----
+- A label name makes a claim about a category; it does not describe the object that sits in the box.
+- Substitution is not one act but four: a different species, a lower grade of the same species, a different physical form, or a different origin. Each needs a different check.
+- The cheapest place to catch a substitute is the **form question** — powder, tear, oil, or compound — because form changes how the product behaves under heat, and behaviour is hard to disguise.
+- Price fails at both ends: a bargain on a scarce material is a warning, and a premium price is the forger's best camouflage.
+- Smoke is a combustion product. Nothing on this page is a health claim, and ventilation matters whenever anything burns.
 
-## The One Mechanism Behind Every Substitution
+## The four decisions hidden inside "what am I buying?"
 
-**Direct answer:** Substitution follows a single economic chain — a scarce, expensive material attracts cheaper lookalikes, and the price gap between the real thing and the substitute is where the ambiguity lives.
+**Direct answer:** Four buying situations — a box of everyday sticks, one costly object, raw material for blending, and a claim you intend to print — fail in four different ways, so the checks have to change with the situation rather than with the material.
 
-The chain runs the same way in every case:
+Most writing on this subject is organised by material: a section on sandalwood, a section on agarwood, a section on resins. That order suits a catalogue. It does not suit a buyer, who arrives with one of four situations and needs a different set of checks for each. The reference below is built around those situations.
 
-a material is scarce and slow to produce → its price rises far above its lookalikes → sellers have an incentive to blur the boundary → labels keep the prestige word while selling the substitute → the buyer pays for a name, not the material.
-
-None of this has to be dishonest. Australian sandalwood stands on its own as a real product, and synthetic ambergris (ambroxide) is an ordinary perfumery building block. The trouble starts when a label *implies* the prestige material while quietly shipping the stand-in, or just leaves out which one you are holding. Agarwood shows the widest spread of all: everyday medicinal chips trade for a few RMB a gram, while top 奇楠 reaches prices measured against gold — a gap broad enough that the pull toward blurring the line is hard to resist.
-
----
-
-## 1. Sandalwood (檀香): *Santalum album* vs. substitutes
-
-**Direct answer:** "Sandalwood" can be the classic benchmark wood, a related species, or a synthetic fragrance — and the label rarely says which.
-
-| Label says | What it might be | Aroma / notes |
-|---|---|---|
-| Indian sandalwood, *Santalum album* | The reference-grade heartwood | Gentle, sweet, creamy, a "buttery" character |
-| Australian sandalwood | *S. spicatum* | Drier and woodier; a related but separate species |
-| New Caledonian sandalwood | *S. austrocaledonicum* | A Pacific-region counterpart |
-| Hawaiian sandalwood | *S. paniculatum* | A locality-specific source |
-| "Sandalwood" (cheap) | Synthetic fragrance on a neutral base | Flat, "perfumey," no true wood |
-
-The working test: when the price sits very low and the wrapper declines to name a species, what you hold is almost always scent rather than timber. See the [sandalwood guide](/blog/sandalwood-incense/).
-
----
-
-## 2. Agarwood (沉香): kyara (奇楠) vs. ordinary agarwood
-
-**Direct answer:** "Agarwood" can be the top kyara grade, ordinary resin-impregnated wood, or a synthetic/faked substitute — and it is the most heavily adulterated material in the world.
-
-| Label says | What it might be | Notes |
-|---|---|---|
-| 奇楠 / kyara | The summit grade — soft, oil-laden, fragrant without heat | The scarcest and most coveted form |
-| 沉香 / agarwood | Resin-soaked *Aquilaria* wood at a lower tier | Precious, but a rung beneath kyara |
-| "Agarwood / oud" (cheap) | Synthetic oud, or wood that is oiled or dyed | A routine form of adulteration |
-
-The counterfeiter's sequence: oil or dye goes on → the wood turns darker and heavier → it drops in water like resin-dense timber → the sink test passes → the imitation passes for a high grade. A cheap "oud" is a warning sign. See the [agarwood guide](/blog/agarwood-incense/) and the [authentication database](/blog/incense-authentication-database/).
-
----
-
-## 3. Essential oil vs. wood / resin (material vs. fragrance)
-
-**Direct answer:** "Powder," "essential oil," and "natural fragrance" name three different physical states — and oil is not the same product as the wood it is distilled from.
-
-| Label says | What it might be | Aroma behavior |
-|---|---|---|
-| "Sandalwood powder" | The genuine heartwood | Slow and unfolding, a "cooked" smell |
-| "Sandalwood essential oil" | A base that has been scented with oil | Bright, instant top notes |
-| "Natural fragrance" | Usually a factory-made accord | Smooth and "perfumey" from start to finish |
-
-Oil and wood are separate materials with separate behavior — a stick that rests on oil is not the same object as one formed from the wood. See [essential oils in incense](/blog/essential-oils-in-incense/).
-
----
-
-## 4. Benzoin (安息香): Siam vs. Sumatra
-
-**Direct answer:** "Benzoin" names two related but distinct resins — Siam (sweet, vanilla, powdery) and Sumatra (sweeter, spicier, cinnamic) — and the label should tell you which.
-
-| Label says | Species | Aroma |
-|---|---|---|
-| Siam benzoin | *Styrax tonkinensis* | Sweet, vanilla-leaning, balsamic with a powdery finish |
-| Sumatra benzoin | *Styrax benzoin* / *S. paralleloneurus* | Spicier, warmer, carrying cinnamic acid |
-
-Both work in incense; a careful wrapper tells you which one is inside. See the [benzoin entity](/ingredients/benzoin/).
-
----
-
-## 5. Bonus: the "natural vs. synthetic" material pairs
-
-**Direct answer:** A handful of prestige materials have a synthetic or cheaper relative that commonly stands in for them.
-
-| Prestige material | Common synthetic / substitute | Signal |
-|---|---|---|
-| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Question the origin; natural d-borneol is the rarer form |
-| Natural ambergris (龙涎香) | Ambroxide / ambreine | Almost all "ambergris" on sale today is synthetic |
-| Real frankincense tears | "Frankincense" fragrance oil | Seek solid tears, not oil soaked into a base |
-
-See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), and [frankincense](/ingredients/frankincense/).
-
----
-
-## More Material Pairs to Know
-
-**Direct answer:** The headline cases are sandalwood, agarwood, and ambergris — but a few more pairs round out the picture, and the pattern is identical.
-
-| Prestige / specific material | What it might actually be | Signal |
-|---|---|---|
-| Natural borneol (龙脑) | Synthetic borneol ("机制冰片") | Question the origin; natural d-borneol is scarcer and pricier |
-| Natural ambergris (龙涎香) | Ambroxide / ambreine | Nearly all "ambergris" sold now is synthetic; the natural form is rare and regulated |
-| Frankincense tears (乳香) | "Frankincense" fragrance oil | Look for visible resin tears rather than oil absorbed into a base |
-| Clove bud (丁香) | Clove leaf / stem oil | The bud is the classic spice; leaf and stem oil are a cheaper, sharper extract |
-| Ceylon cinnamon (*C. verum*) | Cassia (*C. cassia*) | Cassia is the everyday, stronger "cinnamon"; true Ceylon is rarer and softer |
-| True cedar (*Cedrus*) | Eastern redcedar (*Juniperus virginiana*) | "Cedarwood" in aromatics usually means juniper, not cedar |
-
-The same rule governs every row: the specific, scarce, or place-bound material has a cheaper or more available cousin, and the label rarely volunteers which one you hold. See [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), [cinnamon](/ingredients/cinnamon/), and [cedar](/ingredients/cedar/).
-
----
-
-## The Species-Name Anchor
-
-**Direct answer:** The single most reliable identifier in all of this is the scientific name — common names shift and mislead, but the Latin binomial does not.
-
-A short anchor table:
-
-| Common name | The species that anchors it |
-|---|---|
-| Indian sandalwood | *Santalum album* |
-| Australian sandalwood | *Santalum spicatum* |
-| Agarwood / oud / 沉香 | *Aquilaria* spp. (chiefly *A. sinensis*, *A. malaccensis*) |
-| Kyara / 奇楠 | Top grade of *Aquilaria* ("oil-wraps-wood") |
-| Siam benzoin | *Styrax tonkinensis* |
-| Sumatra benzoin | *Styrax benzoin* / *S. paralleloneurus* |
-| Frankincense | *Boswellia* spp. |
-| Myrrh | *Commiphora* spp. |
-| Makko | *Machilus thunbergii* |
-
-A wrapper that names a species has locked itself to one material; one that will not has handed you the blank as the message. The [Flora of China entries](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) give the botanical reference for these plant identities, and the [ingredients index](/ingredients/) holds the entity pages. The binomial is the single corner of a product description that no adjective can counterfeit.
-
----
-
-## How to Verify, Not Just Guess
-
-**Direct answer:** The checklist is not a substitute for verification — it narrows the field. For anything expensive or consequential, the reliable route is documentation.
-
-1. **Ask the seller to name the species and the origin.** A seller who states both without a pause earns more trust than one who stalls.
-2. **Ask cultivated versus wild** (for agarwood) or **licensed versus unlicensed** (for restricted materials).
-3. **For scarce materials, ask for paperwork** — lab certificates, CITES records, or a source you can trace back.
-4. **Price-check against the grade.** A prestige label at a bargain rate is a contradiction to sort out, not a deal to seize.
-
-None of this calls for expertise — it calls for asking the questions and being ready to walk away when the answers stay vague.
-
----
-
-## The Master Checklist
-
-**Direct answer:** The whole cross-reference condenses into four questions.
-
-1. **Which species?** — the Latin binomial is the anchor.
-2. **Material or fragrance?** — genuine wood or resin, against an oil-scented base or a synthetic accord.
-3. **Which grade or variant?** — kyara against ordinary agarwood, Siam against Sumatra benzoin, bud against leaf clove.
-4. **Does the price line up with the claim?** — a scarce material at a low price is a caution, not a deal.
-
-When all four answers are clear and consistent, the label is doing its job; when any one is vague, that is the spot to look closer.
-
----
-
-## A Worked Example: Three Labels, Decoded
-
-**Direct answer:** The same four questions land differently on three hypothetical labels — and the dodging, not the words, is what you are reading.
-
-1. **"Sandalwood incense"** — no species, no material form. The questions get no answers, so treat it as unspecified: most likely the cheapest reading, a synthetic fragrance or an unnamed *Santalum*.
-2. **"Australian sandalwood (*Santalum spicatum*) wood-powder sticks, makko binder"** — species named, material named, binder named. That is a specific, checkable claim. It may stand in for Indian sandalwood, but it is an *honest* stand-in.
-3. **"Premium kyara-grade agarwood — limited offer"** — a prestige grade with no stated origin and no price-to-grade ratio. The grade is asserted while the anchor (species, origin, documentation) stays missing. The label spends every word on prestige and none on verification.
-
-A good label answers the questions; a weak label dodges them.
-
----
-
-## "Natural" and "Pure" Are Not Proofs
-
-**Direct answer:** Two words carry almost no weight on a label — "natural" and "pure" — because neither names a species, a grade, or a material form, and neither is regulated precisely enough to mean anything steady.
-
-A synthetic fragrance can be sold as a "natural sandalwood scent," and an oil-soaked piece of wood can be described as "pure agarwood." What actually does the work is the specific, checkable claim: a Latin binomial, a material form (wood powder against oil), a grade (kyara against ordinary), a binder, and a price that fits the grade. "Natural" and "pure" are mood words; the species name and the material form are the facts. Read for the facts, and treat the mood words as decoration until a fact stands behind them.
-
-The same habit should govern your own questions. When a seller answers "is this real X?" with "it's 100% natural" or "pure and authentic," they have handed you an adjective in place of a fact. Put the question back in factual form — which species, and wood or oil? A seller who can answer the factual form earns another minute; one who can only restate the adjective does not.
-
----
-
-## The Author's Take
-
-**Position:** Turn every label into a question about species and material — never trust the noun on its own.
-
-**Reasoning:**
-- Substitution is not always dishonest — Australian sandalwood is a real product — but the ambiguity is where buyers get taken.
-- Choose an honestly labeled stand-in over a fake "prestige" material, and read a very low price on a scarce material as the strongest signal there is.
-
-*This is the author's editorial view and experience — not a verified fact.*
-
----
-
-## Verification Notes
-
-- The species identities (*Santalum album* and its relatives; *Styrax tonkinensis* against *S. benzoin*) are standard botanical facts.
-- The kyara-versus-agarwood and oil-versus-wood splits come from trade and enthusiast sources and are framed as material distinctions, never health claims.
-- "Most ambergris is synthetic" reflects how scarce and CITES-regulated the natural form is; check any specific product with the seller.
-- No health or medical claim appears anywhere on this page.
-
----
-
-**Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> complements this substitution guide with side-by-side material profiles.
-See [How to Choose Incense](/blog/how-to-choose-incense/) for the full guide.
-
-## How a Synthetic "Wood" Stick Is Actually Built
-
-**Direct answer:** A cheap "sandalwood" or "agarwood" stick is usually a neutral combustible base — charcoal or sawdust paste — that is dipped or sprayed with a fragrance oil and dried, which is why it smells loud before lighting and flat once it burns.
-
-The assembly chain explains the telltale behavior. A maker forms a plain base from charcoal powder, sawdust, and a combustible binder → the blank stick is dipped into or sprayed with a synthetic fragrance solution → the solvent dries, leaving a thin coat of aroma molecules on the surface → the finished stick now smells strongly at room temperature, because the fragrance sits on the outside → when lit, the surface coat vaporizes in the first seconds and the underlying base smolders with almost no scent of its own → the burn smells faint and "charred" while the cold stick smelled like perfume. That cold-versus-burn mismatch is the signature of a coated base, and it is the single most useful signal a buyer can learn.
-
-Real wood powder is the reverse: the aromatic material is distributed through the whole stick, so it smells quiet when cold and develops as it burns. A stick that is loud in the box and silent in the burner has told you exactly what it is — a base wearing a coat, not a material.
-
-## The Label Honesty Ladder
-
-**Direct answer:** Labels sit on a five-rung ladder from full disclosure to no information, and the rung a label occupies — not its adjectives — is what predicts how likely you are to get the real material.
-
-| Rung | What the label says | What you can actually verify | Risk of substitution |
+| Your situation | What is at risk | The claim you have to test | What goes wrong if you skip it |
 |---|---|---|---|
-| 5 — Full disclosure | Species + origin + form + grade + binder | Everything | Lowest |
-| 4 — Species named | Latin binomial, but origin or grade omitted | The material identity | Low |
-| 3 — Common name only | "Sandalwood," "agarwood," "benzoin" | Nothing specific | Moderate |
-| 2 — Prestige word | "Premium kyara," "pure ambergris" | Nothing, and the word raises the price | High |
-| 1 — No information | "Natural incense," "luxury blend" | Nothing at all | Highest |
+| Buying everyday sticks or cones by the box | The scent source: wood powder against a fragrance coat | Is the aroma a material or a compound? | You pay a wood price for a dipped base and never notice, because it smells fine cold |
+| Buying one costly object — a chip, a bead, a carving, a sealed pack | The whole profit of the fake sits on that single unit | Grade and origin, with documentation | An elaborate fake: oiled, dyed, sometimes part genuine |
+| Buying raw material for your own blending | Behaviour under heat, oil content, batch-to-batch consistency | Species, form, and batch, in that order | A formula that will not burn the same way twice, or will not burn at all |
+| Writing a claim on a product you sell | What you can defend if someone asks | Can you name species, form, grade, origin, and produce the paperwork? | A claim you cannot support, which is a liability rather than a selling point |
 
-The ladder works because a label that names a species has committed to something checkable, while a label that reaches for "premium" and "pure" has substituted an adjective for a fact. The danger zone is rungs 2 and 1, where the prestige word is doing all the work and the verifiable claim is absent. The practical rule: read for the highest rung you can find, and treat everything below it as a claim that still needs the species question asked of it.
+The four rows explain why the same question — "is this real?" — produces different answers from different people. A box buyer and a bead buyer are both exposed, but not to the same trick. A hobby blender and a small brand owner face the same materials and different consequences.
 
-## The Misconception: "A High Price Guarantees the Real Material"
+Two habits apply to all four. First, ask what kind of word the label is using, because a category word and a grade word carry different burdens (the next section sets out the five kinds). Second, decide in advance what you will accept as an answer. A buyer who has not decided that beforehand will accept an adjective, because an adjective is what will be offered.
 
-**Direct answer:** Price is exactly where the fakes live, not where they are excluded — a premium price on a scarce material is the incentive for substitution, so a high price tag buys a *stronger reason to verify*, not an assurance of authenticity.
+## The master cross-reference
 
-The instinct is that expensive equals genuine, and for many goods that holds. For scarce aromatics it inverts: the higher the price of the real thing, the more profit there is in selling the lookalike at a discount that still feels "premium." A fake kyara sold for half the real price is still a very expensive fake, and the buyer's high-spend comfort is part of the illusion → the seller can charge a lot, the buyer assumes the lot proves the grade, and no one asks the species question. The boundary worth holding: price is a signal about *which question to ask*, not an answer to it. A premium label on a scarce material is precisely the moment to demand the documentation, not the moment to relax.
+**Direct answer:** The table below collects every material family this page covers into one grid: what the label word can denote, the identity anchor that separates the possibilities, and the observation that most quickly narrows the field. Read down the middle columns for the substance, and use the last column to go deeper.
 
-*The author's view, not a verified fact.*
+| Label word | What it may denote | Identity anchor | The observation that separates them | Deeper reading |
+|---|---|---|---|---|
+| Sandalwood, 檀香 | Indian heartwood; Australian, New Caledonian, or Hawaiian species; a dyewood trading on the name; a synthetic accord | *Santalum album* for the benchmark; *S. spicatum*, *S. austrocaledonicum*, *S. paniculatum* for the relatives | Creamy and slow-developing against dry and woody against flat and perfumey; a cut face shows pale grain under any surface colour | [Sandalwood guide](/blog/sandalwood-incense/) |
+| Agarwood, oud, 沉香 | Top-grade kyara; ordinary resin-bearing *Aquilaria*; cultivated wood; oil-injected or dyed wood; a synthetic oud accord | *Aquilaria* species, chiefly *A. sinensis* and *A. malaccensis*; *Gyrinops* also carries the trade name | Resin distribution through the grain rather than on it; scent that develops under heat rather than shouting when cold | [Agarwood guide](/blog/agarwood-incense/) |
+| Kyara, 奇楠 | The scarce top grade of agarwood; frequently asserted, rarely documented | A grade of *Aquilaria*, not a separate species | Softness and oil at room temperature, plus paperwork; a mid price for the top grade is a contradiction | [Authentication database](/blog/incense-authentication-database/) |
+| "Essential oil," "natural fragrance" | A true distillate of a named species and plant part; a solvent extract; a reconstituted oil; a compounded accord | The named species plus the named plant part, neither of which the front label usually carries | Aromatics distributed through a stick behave quietly cold and open under heat; a surface coat does the reverse | [Essential oils in incense](/blog/essential-oils-in-incense/) |
+| Benzoin, 安息香 | Siam resin; Sumatra resin; a blended or cut resin | *Styrax tonkinensis* for Siam; *S. benzoin* and *S. paralleloneurus* for Sumatra | Siam leans vanilla and powder; Sumatra is sharper, warmer, more cinnamic | [Benzoin](/ingredients/benzoin/) |
+| Borneol, 龙脑, 冰片 | Natural d-borneol; synthetic borneol, sold as 机制冰片 | The natural isomer against the manufactured material | A cool, almost medicinal crystalline note in both; origin is the only separator, so ask for the source | [Borneol](/ingredients/borneol/) |
+| Ambergris, 龙涎香 | The natural marine material; ambroxide or ambreine | Natural ambergris is scarce and trade-regulated; the substitutes are standard perfumery materials | Abundance itself: a cheap, freely available "ambergris" is a laboratory product | [Ambergris](/ingredients/ambergris/) |
+| Frankincense, 乳香 | *Boswellia* resin tears; reconstituted resin; a fragrance oil on a base | *Boswellia* species; the physical form of a tear | Irregular exuded lumps against uniform pellets, discs, or a liquid | [Frankincense](/ingredients/frankincense/) |
+| Clove, 丁香 | Bud; leaf oil; stem oil | *Syzygium aromaticum*, with the plant part stated | Bud is the classic spice note; leaf and stem oils are sharper, harsher, and cheaper | [Ingredients index](/ingredients/) |
+| Cinnamon | True Ceylon cinnamon; cassia | *Cinnamomum verum* against *C. cassia* | Cassia is stronger and more everyday; Ceylon is softer, layered, and rarer | [Cinnamon](/ingredients/cinnamon/) |
+| Cedarwood | True cedar; a juniper traded under the name | *Cedrus* species against *Juniperus virginiana* | Aromatics usually mean the juniper; the pencil-sharp note belongs to it | [Cedar](/ingredients/cedar/) |
+| Makko, 抹香 | The bark binder used in Japanese-style sticks; a substitute binder | *Machilus thunbergii* | Not a scent substitution but a functional one: the binder decides how the stick burns, not how it smells | [How to choose incense](/blog/how-to-choose-incense/) |
 
-## Reading a Certificate of Analysis Without a Lab
+Three notes on reading that grid. The middle column is descriptive, not accusatory: every row contains legitimate products alongside deceptive ones, and an Australian sandalwood stick that says so is an honest object. The fourth column matters more than the third, because a binomial on a package is still a claim — it becomes evidence only when someone can tie it to the material. And the last row is a reminder that substitution also happens in the parts of a product nobody markets: the binder, the base, the solvent.
 
-**Direct answer:** A certificate of analysis is only as useful as the claims it ties to the product in your hand — look for the species, the form, the batch link, and the issuing body, and treat a vague certificate as no certificate at all.
+## Five kinds of label words, five different burdens
 
-| COA element | What it should say | Red flag if it says |
+**Direct answer:** Label vocabulary is not one thing. A category word, a grade word, an origin word, a form word, and a mood word each commit the seller to a different amount, and only the first three can be checked against an object at all.
+
+| Word type | Examples | What it commits the seller to | How a buyer checks it | What it costs to fake |
+|---|---|---|---|---|
+| Category word | "Sandalwood," "agarwood," "benzoin," "frankincense" | Membership in a plant group or material family — not a single species | Ask for the binomial; a category word is answered by a name or by silence | Almost nothing: the word is free and no one can disprove it from the box |
+| Grade word | "Kyara," "Mysore," "老山檀," "superior," "first grade" | A rank inside a species, which implies scarcity and price | Documentation plus physical grade markers; the object alone rarely settles it | Expensive to fake well, trivial to print |
+| Origin word | "Hainan," "Assam," "Cambodia," "New Caledonia," "Mysore" | A place of harvest or production | Traceable paperwork naming the region and the supplier chain | Cheap to inflate, hard to disprove, and it raises the price immediately |
+| Form word | "Powder," "tears," "oil," "distillate," "absolute," "cone" | A physical state, and usually a process behind it | Behaviour under heat; for oils, the named plant part; for resins, the shape | Moderate: form can be changed, but the change shows in behaviour |
+| Mood word | "Natural," "pure," "premium," "aged," "vintage," "handmade," "traditional" | Nothing checkable | Nothing; there is no test, because there is no claim | Free, which is why these words are everywhere |
+
+The practical consequence is uncomfortable: a label can be completely true and still mislead. "Sandalwood incense" may contain genuine *Santalum* wood and still disappoint a buyer who read it as "Indian sandalwood, heartwood, high oil." Nothing false was printed. The category word did the work, and the buyer supplied the grade word from memory.
+
+The reverse also happens, and it is the more expensive error. A label crowded with Latin names, percentages, and region claims looks transparent, and detail is a format rather than a guarantee. A single false specific is worse than an honest silence, because it arrives wearing the costume of verification. The question is never how much a label says. It is whether what it says can be confirmed by something outside the label.
+
+That distinction gives a workable ladder. At the top, a label names species, origin, form, grade, and binder, and every one of those can be matched to a document or an observation. One rung down, it names the species but leaves origin or grade open: the identity is committed, the rank is not. Below that, only a common name appears, which is a category with no fixed membership. Then comes the prestige word with no anchor — the rung where the price rises and the information falls. At the bottom, "natural incense" or "luxury blend" tells you nothing at all, and the absence is the message. The useful habit is to find the highest rung a label occupies and treat everything below it as a question still to be asked. Two adjacent rungs look similar on a shelf and behave very differently in a dispute, because only one of them can be checked.
+
+## Species names and the characters that carry them
+
+**Direct answer:** A binomial is the only part of a product description that a seller cannot improve with adjectives, and on Chinese-language packaging a handful of characters name grades more precisely than the English front ever does. Both are worth carrying into a purchase, and neither is worth trusting on its own.
+
+| Common name | Anchor | What the name excludes |
 |---|---|---|
-| Identity | Latin binomial and common name | "Aromatic wood" or nothing |
-| Form | Wood powder, resin tears, oil, distillate | "Natural product" |
-| Batch / lot | A number that matches the package | No batch, or a reused number |
-| Issuer | A named lab or body | "Third-party verified" with no name |
-| Origin | Country or region of harvest | Omitted or "various" |
+| Indian sandalwood | *Santalum album* | Every other *Santalum*, and every plant that borrowed the word |
+| Australian sandalwood | *Santalum spicatum* | The Indian benchmark, and the dyewood sold as "red sandalwood" |
+| New Caledonian sandalwood | *Santalum austrocaledonicum* | The Indian and Australian species |
+| Hawaiian sandalwood | *Santalum paniculatum* | The rest of the genus, and all the borrowed names |
+| Agarwood, oud, 沉香 | *Aquilaria* species, chiefly *A. sinensis* and *A. malaccensis* | *Gyrinops*, which is regulated alongside it but is a separate genus |
+| Kyara, 奇楠 | A grade within *Aquilaria*, not a species | Everything that is not the top resin grade |
+| Siam benzoin | *Styrax tonkinensis* | Sumatra resin and blended resin |
+| Sumatra benzoin | *Styrax benzoin*, *S. paralleloneurus* | Siam resin |
+| Frankincense | *Boswellia* species | Every fragrance oil using the word |
+| Myrrh | *Commiphora* species | Frankincense, which is a different genus entirely |
+| Makko | *Machilus thunbergii* | Every other binder, and every "natural binder" claim with no name |
 
-The point of the table is that a certificate is a chain of specific claims, and each missing link weakens the whole chain. A document that names the species and the form and ties them to the batch in your hand is real verification; a document that says only "100% pure natural agarwood" is an adjective in a nicer font. The certificate does not do the work for you — it gives you the specific claims to check, which is the same discipline the whole cross-reference is built on.
+Two impostors deserve their own line, because they are the ones most often hidden by the bare word. *Pterocarpus santalinus*, sold as red sandalwood, is a dyewood with no botanical relation to *Santalum*; its colour is the reason for the borrowed name. *Osyris lanceolata*, sold as African sandalwood, sits in a different genus again. A label reading "sandalwood" without a binomial can point at either of them, or at a synthetic accord, and the buyer has no way to tell from the front of the box.
 
-## Chinese Label Terms, Decoded
+The Chinese side of a package usually carries more precision than the English side, and Western buyers skip it as ornament. 沉香 names agarwood as a material; 奇楠 names the top grade of it. 檀香 is the general word for sandalwood, while 白檀 points to a pale *Santalum* and 印度老山檀 points to the Indian heartwood that the trade treats as the benchmark. 龙脑 is natural borneol; 机制冰片 announces a manufactured substitute in its first two characters. 龙涎香 is ambergris, 安息香 is benzoin, 天然 and 纯天然 are mood words that appear on honest and dishonest packaging alike.
 
-**Direct answer:** A Chinese or East Asian label uses a set of characters that map to specific materials and grades — and reading them tells you more than the English translation on the front.
+The reason to read the characters is not that they are more honest. It is that they are more specific, and specificity is where a label becomes falsifiable. When the English front says "premium agarwood" and the characters say 沉香, the characters have quietly downgraded the claim from a grade to a category. When the English says "borneol" and the characters say 机制冰片, the characters have told you what the English left out. Read the specific side, then ask which claim the seller is actually making.
 
-| Term | Characters | What it points to | Watch for |
+## The economics: where the substitution money comes from
+
+**Direct answer:** Substitution is a margin business, and the margin exists because a slow material and a fast material can be made to look alike. Understanding the arithmetic explains why some fakes are crude, some are elaborate, and why "buy the cheaper one" is not a strategy.
+
+The chain runs the same way in every family:
+
+a plant or resin is slow to produce → supply cannot rise quickly when demand does → the price of the genuine article climbs well above any lookalike → the gap becomes an incentive to blur the boundary → the label keeps the prestige word while the contents drift → the buyer pays for a name and receives a material.
+
+Agarwood is the extreme case, and the spread explains the behaviour around it. Ordinary medicinal-grade chips have historically traded at a few renminbi per gram, while top 奇楠 has been compared with gold by weight. When the ratio between the bottom and top of a single material's range is that wide, the pressure to sell one grade as another becomes structural rather than personal. The same logic operates at a smaller scale in sandalwood, where the Indian benchmark, the Australian species, and a scented base sit at three very different costs.
+
+Four kinds of substitution come out of that pressure, and they need to be separated because they fail differently:
+
+| Type | What changes | Why it is hard to catch | What actually catches it |
 |---|---|---|---|
-| Agarwood / aloeswood | 沉香 | Resin-impregnated *Aquilaria* wood | 奇楠 vs ordinary grade |
-| Kyara grade | 奇楠 | The top, oil-rich grade of 沉香 | Often claimed, rarely verified |
-| Sandalwood | 檀香 | *Santalum* wood (species varies) | 白檀 vs 印度老山檀 |
-| Borneol | 龙脑 / 冰片 | A cool crystalline note | Natural 龙脑 vs synthetic 机制冰片 |
-| Ambergris | 龙涎香 | The scarce marine material | Almost always synthetic today |
-| Benzoin | 安息香 | Siam or Sumatra resin | Which species |
-| Natural (claim) | 天然 / 纯天然 | A marketing adjective | Proves nothing on its own |
+| Species substitution | A different plant is sold under a familiar name | The name is a category, so nothing printed is false | A binomial demand, plus behaviour under heat |
+| Grade substitution | The same species at a lower rank is sold as the top grade | Every claim about species remains true | Documentation and physical grade markers, not identity tests |
+| Form substitution | Oil or compound stands in for wood or resin | The scent can be convincing, especially cold | Burn behaviour: distribution through the material against a surface coat |
+| Origin substitution | Material from elsewhere is sold under a famous region | Region cannot be read from the object at all | Traceable paperwork, or nothing |
 
-The column worth internalizing is the last one. The characters 天然 (natural) and 纯天然 (pure natural) appear on both real and fake product alike, so they carry no information; the specific characters 奇楠, 印度老山檀, or 龙脑, by contrast, commit the label to a particular grade or material. When the Chinese label names a specific grade and the English front only says "premium," the specific characters are the ones to believe — and when neither names anything specific, that silence is the signal.
+Grade substitution deserves more attention than it usually gets. It is the most common of the four and the least discussed, because the species claim is true and an identity test will confirm it. A chip of *Aquilaria* with modest resin content, oiled to darken it and sold as kyara, passes every species check ever devised. The only questions that touch it are about rank: how the resin is distributed, how the material behaves at room temperature, and whether anyone can produce a document that names the grade. Buyers who learn one fact about agarwood usually learn the species name, and the species name is precisely the fact that grade substitution leaves intact.
 
-## Reading the Physical Object Before You Believe the Label
+### When a cheaper material is not cheaper
 
-**Direct answer:** The material itself carries signals the label may not — a resin tear, a chip of wood, or a stick in your hand can be read for texture, density, and cold-versus-warm smell, and those readings often outvote the adjectives.
+The assumption that a substitute lowers cost survives only if you count the aromatic alone. Count the whole unit and the arithmetic changes.
 
-| Object | What to look at | Genuine signal | Fake or substitute signal |
+Start with the identity that governs everything else: the saving on a finished product equals the aromatic's share of unit cost multiplied by the percentage the substitute shaves off that share. If the aromatic accounts for a modest fraction of what a stick costs to make, replacing it with something far cheaper moves the unit cost very little. The substitution still happens, because the margin on a prestige line can be large, but the saving is smaller than the price gap suggests. That is the first reason a "cheap" material is not automatically the cheaper choice.
+
+Four more reasons follow from the process rather than the price list:
+
+- **Lower odour yield.** A substitute that smells weaker needs more of it to reach the same intensity. Doubling the load to match the effect can erase the saving, and it adds material that has to burn.
+- **Process drift.** Oils need a carrier and a drying step; resins change how a powder binds; a softer wood powders differently. Each change adds handling, reject rates, or equipment time that the price comparison ignored.
+- **Burn and smoke consequences.** A formulation that burns badly produces complaints, returns, and a product nobody buys twice. The cost of a returned box is not the cost of the aromatic difference.
+- **Claim liability.** If the label implies a material the product does not contain, the saving is borrowed against a risk. That risk is not priced on the invoice, which is exactly why it gets ignored.
+
+There is a mirror case that matters more for buyers than for makers. A cheap substitute can be a better product than an expensive original: fresh, well-processed Australian sandalwood can outperform a stale, badly stored Indian chip, and an honestly labelled ambroxide material can be more consistent than a scarce natural one. Price and quality are separate axes, and honesty is a third. The only substitution that is automatically a bad buy is the one that misrepresents what it is.
+
+### Who pays for the ambiguity
+
+The cost of a substitute does not vanish when the sale completes; it moves to whoever holds the object when the truth arrives. That redistribution is worth tracing, because it explains why the practice persists in markets where everyone involved seems reputable.
+
+The buyer pays first, in the gap between price and value. The payment is invisible at the time, because the object performs adequately: it burns, it smells pleasant, it looks like what the photograph promised. The loss surfaces later as an absence — a scent that does not develop, a piece that no longer interests anyone — and absences are hard to invoice.
+
+The shop pays second, and later. A retailer that passed along a substituted lot in good faith inherits the returns, the complaints, and the quiet decision by customers not to come back. That cost arrives months after the margin it earned, which is why it gets discounted at the counter.
+
+The maker pays third, and most durably. A workshop that cannot say what it used cannot defend what it sold, and the inability becomes a ceiling on what it can charge. Documentation is expensive to build and cheap to hold, and a maker without it competes only on price against everyone who also lacks it.
+
+The asymmetry is the point: the saving is immediate and the cost is deferred, which is exactly the profile that makes a bad decision feel like a good one at the moment it is made.
+
+## What a substitute does to burn rate and smoke
+
+**Direct answer:** A stick is a small combustion system, and changing the aromatic changes the system. Substitution shows up first as a different scent curve over the burn, then as a different ash and smoke character, which is why the burn is the most useful field test available to a buyer who cannot send a sample to a laboratory.
+
+Start with how a stick is built, because the burn follows the build. A formed stick is fuel, binder, aromatic, and water, pressed into a shape. Charcoal-based blanks burn hot and steady; wood-powder sticks, bound with makko or a similar bark binder, burn cooler and slower. Many commercial blanks also carry a small amount of an oxidiser so the stick stays lit once it is going. The aromatic sits somewhere in that structure, and where it sits decides how the scent arrives.
+
+The chain for a coated stick runs like this:
+
+a plain base is formed → the blank is dipped or sprayed with a fragrance solution → the solvent flashes off and leaves a thin film on the surface → the stick smells loud in the box, because the film is exposed to air → the film volatilises in the first minutes of the burn → the rest of the stick smoulders as base, with little left to give → the scent curve is front-loaded and collapses, and the ash smells of charcoal rather than wood.
+
+A wood-powder stick runs the other way:
+
+aromatic wood is ground and distributed through the whole mass → the cold stick smells restrained, because the aroma is locked in fibre → heat drives volatiles out of the interior gradually → the scent builds through the middle of the burn and holds → the last third still carries the material, though weaker → the curve is flatter and longer, and the residue smells of the wood.
+
+Both curves are legitimate products. The problem is a front-loaded curve sold as a material claim, because the first thirty seconds are exactly what a shop sample demonstrates.
+
+| Substitution | Effect on the burn | Effect on smoke and ash | What a buyer notices |
 |---|---|---|---|
-| Resin tears | Shape, opacity, surface | Irregular, matte, slightly sticky | Uniform pellets, or glossy beads |
-| Wood chips | Grain, oil sheen, sink test | Visible grain, oily under heat | Dyed dark, sinks from oil injection |
-| Sticks | Cold smell vs burn smell | Quiet cold, develops when lit | Loud cold, flat when lit |
-| Powder | Color, texture, behavior under heat | Natural off-white to tan, uneven | Chalky, uniform, or heavily perfumed |
+| Wood powder replaced by an oil coat | Faster aroma release, steep decay, thin middle | Sharper smoke at the start, less woody residue | Impressive on a cold sniff, flat halfway down |
+| High grade replaced by oiled lower grade | Slower, denser burn with a hollow scent | Oiled material smokes heavier, ash darkens | Weight and colour promise more than the scent delivers |
+| Natural resin replaced by reconstituted resin | Melting behaviour changes; may drip or gutter | More visible smoke, less clean resin note | Even pellets, uneven melt, a waxy rather than balsamic tail |
+| Solid aromatic replaced by a compounded accord | Very even release, no development | Thin, sometimes acrid smoke; pale ash | No change across the burn, which is the tell |
+| Aromatic wood replaced by inert filler plus scent | Burns like the filler, not like the wood | Dense grey smoke, ashy smell | The stick smells of the box, not of the burn |
 
-The logic across all four rows is the same one from the assembly chain: a real material hides its scent inside and reveals it under heat, while a coated or dyed substitute wears its scent on the surface and has nothing underneath. The sink test for agarwood is the famous case — dense resin wood sinks — but it is also the easiest to defeat, because oil injection adds weight and darkens the wood, so a dyed, oil-soaked fake passes. The physical reading works best when it is combined with the species question, not used in place of it.
+Reading a burn fairly takes more care than most buyers give it. Diameter, density, moisture, the holder, and the draught in the room all move the burn rate, so two sticks compared in different rooms tell you nothing. A fair comparison holds the geometry constant: same diameter, same holder, same room, same time of day, and a note of when the scent peaks and when it fades. Marking a stick into quarters before lighting turns a vague impression into something you can write down, and the same stick tested twice, weeks apart, tells you whether the batch is consistent.
 
-## A Second Worked Example: The "Agarwood" Bracelet
+Smoke deserves a plain statement. Burning aromatic material produces smoke, fine particles, and combustion gases; those are the physical products of smouldering, not an incidental nuisance. Ventilation is part of using incense, not a sign that something went wrong, and a product that produces unusually heavy or acrid smoke has told you something about its composition as well as its air quality. Anyone who finds smoke irritating should treat that as a reason to burn less or not at all. This page makes no health claim in either direction, and "natural" does not mean "smoke-free."
 
-**Direct answer:** The substitution problem is not confined to incense sticks — bead bracelets and carved pieces are a whole second market for the same fakes, and the same four questions decode them.
+## Choosing a stand-in: a decision tree
 
-The bracelet case is instructive because the object looks easy to judge and is actually the hardest. A seller offers "奇楠 agarwood beads" at a mid price. Run the four questions: which species? — *Aquilaria*, presumably, but not stated; material or fragrance? — wood beads, at least, not oil; which grade? — 奇楠 is claimed, but kyara is the rarest, priciest grade, and true kyara beads are almost never sold cheap or in bulk; price consistent? — a mid price for the top grade is a contradiction. The likely reality: oil-injected or resin-pressed beads, or an ordinary grade sold under the 奇楠 name. The object passes a casual glance — it is wood, it is dark, it smells faintly aromatic — but it fails the four questions, and that failure, not the look of the beads, is the verdict.
+**Direct answer:** A substitution decision is a function question before it is a material question. Decide what role the original plays in the product, then pick the material that fills the role, then check that the choice survives the burn and the label.
 
-## The Supply Chain: Why Agarwood Is Scarce
+The tree, in the order the questions should be asked:
 
-**Direct answer:** Real agarwood is scarce because it is not harvested so much as *waited for* — the resin only forms after a healthy *Aquilaria* tree is wounded or infected and then left for years, so the material is the product of time, not extraction.
+1. **What is the material doing here?** Scent, fixative, binder, coolant, visual, or story. A resin that holds a blend together is doing a different job from a resin that perfumes it.
+2. **If the role is scent, which part of the scent?** Top, heart, base, or texture. A substitute that matches the base note but not the opening is a partial match, and partial matches need formula changes.
+3. **If the role is functional, what does the function need?** A binder needs to hold a stick together and burn cleanly; a fixative needs to slow evaporation without dominating. Function is easier to test than identity, which makes functional substitutions the safest kind.
+4. **Does the physical form fit the process?** Replacing a powder with an oil changes the making method, the drying time, and the burn. If the process cannot change, the form cannot change.
+5. **Does the substitute carry a legal or documentation burden?** A CITES-listed material brings paperwork with it, and a substitute that avoids the paperwork is not automatically a substitute that avoids the rules.
+6. **Does the small batch survive?** Every decision above is a hypothesis until a batch at production geometry has been burned and smelled end to end.
 
-The production chain explains the price gap at the root. An *Aquilaria* tree does not produce resin on its own → the resin (沉香) forms only after the wood is injured — by fungus, insects, or deliberate wounding — and the tree responds by secreting a dark, fragrant resin around the wound → that resin slowly saturates the surrounding wood over years → the saturated heartwood is then cut, sorted by oil content, and graded → the highest oil density is 奇楠 (kyara). Every link in that chain is slow and uncertain: a tree must first be wounded, then survive, then be given years, then be graded. That is why cultivated agarwood exists as a younger, faster alternative, and why the price spread between cultivated chips and old wild kyara is so wide — and it is the economic engine behind the substitution problem this page describes. A material that costs a decade to produce is exactly the material a cheap lookalike wants to imitate.
+For formulation work, the role-first view collapses into a short table:
 
-## CITES and the Legal Side
+| If the goal is | Reach for | Avoid | Because |
+|---|---|---|---|
+| A creamy, slow base note | A genuine sandalwood heartwood powder, or an honest *S. spicatum* if the Indian wood is out of reach | A sandalwood fragrance oil presented as wood | The oil gives an opening, not a base, and it will not carry the middle of the burn |
+| A deep resinous heart with development | Resin-bearing *Aquilaria* at a stated grade | Oil-darkened chips without documents | Colour and weight are the two properties oiling is designed to add |
+| A sweet balsamic fixative | Siam benzoin for smoothness, Sumatra for a sharper edge | A blended "benzoin" with no species named | The two resins behave differently in a blend, and the blend hides which one you have |
+| A cool, bright top note | Natural borneol if the budget allows, with the source stated | 机制冰片 sold under the bare word 冰片 | The cooling effect is similar; the origin claim is not |
+| A clean-burning binder | Makko at a tested ratio | An unnamed "natural binder" | The binder controls the burn more than most aromatics do |
+| A lower-cost sandalwood character | *Santalum spicatum*, declared | An unnamed *Santalum* or a compound | A declared species is a checkable claim; a compound is a different product category |
 
-**Direct answer:** Agarwood is regulated — *Aquilaria* and *Gyrinops* species are CITES-listed — which means trade in the real material carries paperwork, and a seller who cannot produce it is either selling a substitute or selling outside the rules.
+The boundary that matters most sits between honest and deceptive substitution, not between cheap and expensive. An honest substitution names what it is and lets the buyer decide, which is why a well-labelled *S. spicatum* stick is a better object than a "premium sandalwood" that will not say. A deceptive substitution borrows the prestige word and keeps the saving. Both may burn well. Only one survives a question.
 
-The legal layer is a verification tool as much as a conservation one. Because agarwood species are listed under CITES, legal international trade requires documentation that tracks the material's origin → a legitimate seller of genuine agarwood should be able to show that paperwork for a consequential purchase → a seller who cannot, or who dodges the question, is a signal. The same logic applies to other restricted or scarce materials, and it is the reason the verification checklist earlier named "licensed vs unlicensed" as a question to ask. The point is not that every buyer must audit paperwork on a $10 stick; it is that the *existence* of the legal framework gives you a lever when the purchase is expensive or the material is claimed to be wild and rare. A scarce, regulated material with no paper trail is two red flags wearing one coat.
+## Testing before you commit
 
-## Sandalwood Species, Expanded
+**Direct answer:** A household test can separate a material from a fragrance coat, but it cannot name a species, and it cannot rank a grade. Knowing which of those two jobs you are asking of a test is the difference between using it well and trusting it too far.
 
-**Direct answer:** "Sandalwood" covers a genus with several true species and a crowd of unrelated plants that borrow the name, and the spread is wider than most buyers realize.
+Every field test measures a property. Dye changes colour, oil changes weight, a surface fragrance changes cold smell, pressing changes shape. Because each trick targets one property, each test answers one question, and a result only means something if you know which question you asked. The table below is organised that way.
 
-| Name | Botanical identity | Notes |
+| Test | What it can show | What it cannot show | Effort | When it earns its place |
+|---|---|---|---|---|
+| Cold sniff, rested | Whether the aroma sits on the surface or inside the material | Species, grade, origin | Low | Always, as a first filter, never as a verdict |
+| Burn through a marked stick | Scent curve: front-loaded against developing; where the aroma dies | Identity, and whether a good curve came from a good material | Moderate | Any purchase you will repeat, and any sample before a bulk order |
+| Water immersion | Relative density, which correlates with resin or oil load | Whether the density came from resin or from injected oil | Low | Agarwood chips, as one signal among several |
+| Cut or broken face | Whether colour is a surface treatment; grain structure | Species on its own; grade | Low | Beads, chips, and any dark object sold on colour |
+| Resin shape and surface | Whether a tear exuded naturally or was re-formed | Whether a re-formed resin is genuine resin or a cheaper one | Low | Loose resin purchases |
+| Powder texture and behaviour | Whether a powder is uniform dust, cut with filler, or fibrous ground wood | Species | Low | Loose powder, where other checks are weakest |
+| Documentation cross-check | Whether the seller can tie a claim to a batch | Whether the document is itself honest | Moderate | Anything expensive, and anything CITES-listed |
+| Laboratory analysis | Molecular profile, species markers, adulterant detection | Nothing about the seller's honesty on other batches | High | Disputes, bulk contracts, and high-value pieces |
+
+What follows from the table is a discipline rather than a trick. Run the cheap tests first, use them to decide whether the expensive check is worth paying for, and never let a cheap test cancel a document. A chip that sinks has told you it is dense; it has not told you why.
+
+A workable sequence for a purchase you care about:
+
+1. **Write down the claim you are testing.** "Kyara-grade agarwood beads" and "agarwood beads" are different claims with different tests, and confusing them wastes the whole exercise.
+2. **Sniff cold, then rest.** Smell the object, put it down, come back after the nose has cleared. A surface coat is loud immediately and fades from your attention; a material is quieter and stays interesting.
+3. **Look at a cut face if you can.** A bead with a drilled hole has an interior already exposed. Colour that stops at the surface is the cheapest trick in the trade, and the drill hole is where it shows.
+4. **Burn a sample at fixed geometry.** Same holder, same room, same draught. Note where the scent peaks, where it thins, and what the residue smells like. A stick that peaks in the first minute and dies by the halfway mark has described its own construction.
+5. **Weigh the physical evidence against the story.** A dark, heavy, cheap "kyara" object is not a lucky find; it is three claims that do not fit together.
+6. **Ask for the document that would settle it.** The answer matters as much as the document: a seller with a batch-linked certificate behaves differently from one who changes the subject.
+7. **Repeat the purchase small before repeating it large.** Consistency across two shipments is the only cheap test of a supply chain, and it is the one most buyers never run.
+
+Two tests are best avoided at home. Solvent spot tests and flame tests on treated material produce fumes, can damage the object, and are easy to misread without a reference sample. The information they offer is not worth the risk or the false confidence.
+
+A boundary worth stating plainly: no combination of household tests establishes species. They establish behaviour, and behaviour narrows the field. The identity question is answered by a document or a laboratory, and a buyer who accepts that division of labour stops over-reading a sink test.
+
+## Documentation: what a substitution claim should carry
+
+**Direct answer:** A substitution claim should be traceable to a batch, a species, a form, and an issuer, and each of those is a separate link. A document missing any one of them is a claim in a nicer font.
+
+The document buyers ask about most is the certificate of analysis, and it is the one most often over-read. A certificate describes a sample tested at a moment in time. For it to say anything about the object in your hand, three things must line up: the species, the physical form, and the batch or lot number printed on both. A certificate naming *Aquilaria* shown beside a bottle of "oud fragrance" is a true document about a different product.
+
+| Element | What it should carry | What its absence means |
 |---|---|---|
-| Indian sandalwood | *Santalum album* | The benchmark; slow-growing, now cultivated |
-| Australian sandalwood | *Santalum spicatum* | Legitimate, distinct, less creamy |
-| New Caledonian sandalwood | *Santalum austrocaledonicum* | Pacific-region, related |
-| Hawaiian sandalwood | *Santalum paniculatum* | Regional, limited |
-| "Red sandalwood" | *Pterocarpus santalinus* | Not a *Santalum*; a dyewood, unrelated |
-| "African sandalwood" | *Osyris lanceolata* | A different genus entirely |
+| Identity | Binomial and the common name, spelled out | Nothing ties the paper to a plant |
+| Form | Powder, tears, chips, oil, distillate, with the plant part named for oils | The document may describe a different product from the one you hold |
+| Grade | The rank claimed, in the trade's own terms | The paper verifies a species and says nothing about rank |
+| Batch or lot | A number that matches the package | The certificate floats free of your unit |
+| Issuer | A named laboratory or body, with contact details | "Third-party tested" without a name is a phrase, not a check |
+| Method | How the sample was examined | You cannot judge what the result covers |
+| Date | When the sample was tested | An old certificate may describe an older batch |
+| Origin | Country or region, where the claim depends on it | A region claim rests on nothing |
 
-The last two rows are where the name does the real mischief. Red sandalwood and African sandalwood are not sandalwood in the *Santalum* sense — they are unrelated plants whose common names borrow a famous word — and a label that says "sandalwood" without the genus may be pointing at any of them, or at none. The binomial discipline applies here as everywhere on this page: *Santalum album* is a specific, checkable claim, while the bare word "sandalwood" is a family of possibilities with no fixed membership.
+The batch number is the hinge. A certificate without one describes a category, not a purchase. A package without one cannot be tied to any document at all, and the omission is easy to miss because the number is small and printed where nobody looks. On a consequential purchase, the request is simple: show me the batch number and show me the certificate that carries it.
 
-## Incense Grade vs Perfume Grade
+For CITES-listed material, documentation is not optional in either direction. *Aquilaria* and *Gyrinops* are listed, so legal international trade in genuine agarwood carries permits that track the material's movement. A seller offering wild agarwood at a serious price without paperwork is offering one of two things: a substitute, or a transaction outside the rules. Neither is what the label promised.
 
-**Direct answer:** The same named material — sandalwood, agarwood, frankincense — is prepared differently for burning than for perfumery, and the two grades are not interchangeable, even when the species matches.
+A supplier declaration is the weakest useful document and still worth having, because it puts a named party behind a claim. It should say what the material is, where it came from, which grade is being supplied, and who is warranting it. A declaration is not a test. It is a commitment, and commitments can be checked against behaviour later.
 
-The split is about how the material is consumed. Perfumery extracts the scent into oil or alcohol, so the raw material is processed for maximum volatile yield in a still or a solvent → the resulting grade is selected for distillation efficiency and a clean top note. Incense consumes the material by heat or flame, so the grade is selected for how it behaves under a slow, dry heat → a wood or resin intended for incense is often cut, powdered, or chosen for its *burn* character — how it smolders, how its resin melts and vaporizes over minutes — rather than its extraction yield. A perfumery-grade oil does not burn like an incense-grade wood, and an incense-grade powder does not distill like a perfumery-grade raw. When a label says "perfume grade" or "incense grade," it is naming the intended use, and the two are as different as firewood and kindling.
+If you are the one making the claim, the useful discipline is to write the sentence you could defend. Something in this shape: "Aromatic content: *Santalum spicatum* heartwood powder, Australian origin, declared grade; binder: makko; batch [reference]; documentation on request." Every element in that sentence is checkable, which is what makes it worth printing. A sentence that says "premium natural sandalwood" is shorter, cheaper, and worth nothing in a dispute. Whether a given market requires particular wording is a question for local rules, not for this page.
 
-## How a Lab Actually Catches a Fake
+## Traditional formulas and modern products: two different failure modes
 
-**Direct answer:** The definitive check for a suspected substitute is instrumental — gas chromatography, mass spectrometry, microscopy — and while a buyer cannot run these at home, knowing what they look for explains why the cheap, portable signals can be beaten.
+**Direct answer:** Traditional compounding judges a material by the role it plays in a formula, and modern commercial products judge it by the story the label tells. Substitution breaks the first when the role is lost and the second when the story outruns the contents.
 
-The lab tools read what the eye cannot. Gas chromatography separates a material's volatile compounds into a fingerprint → mass spectrometry identifies those compounds → a real agarwood shows the specific sesquiterpenes and marker compounds of resinous *Aquilaria*, while an oil-injected or synthetic substitute shows a mismatched or missing profile. Microscopy reads structure → real wood shows the grain and resin cells of the claimed species, while dyed or pressed material shows the intrusion. This is why the sink test and the cold smell are only ever *hints*: the sink test is defeated by oil injection, the cold smell by a surface fragrance coat, but the molecular fingerprint cannot be faked with a coat of anything. The lab is the reason the page keeps insisting on documentation — for a consequential purchase, the certificate is the proxy for a machine you do not own.
+Classical Chinese incense practice organises a blend the way a government is organised, under the principle 君臣佐使 (chief, minister, assistant, guide). The chief material carries the character of the blend; the minister supports it; the assistant moderates or extends it; the guide directs the whole. The framework is about function and proportion, and it is a traditional belief about how a blend should be composed rather than a laboratory finding.
 
-## The Misconception: "Cultivated Is a Cheap Knockoff"
+That framework makes substitution a question of role, not of name. A cheaper wood can take the minister's place if it supports the chief without changing the blend's character, and the substitution is sound. The same wood placed in the chief's position fails, because the blend now leans on a material that cannot carry it. Two blends can list identical ingredients in different proportions and be different objects entirely, which is why an ingredient list alone never describes a traditional formula.
 
-**Direct answer:** Cultivated agarwood and cultivated sandalwood are not fakes — they are the same species grown faster and younger, and the honest distinction is between *cultivated* (real, younger) and *adulterated* (not what it claims), not between cultivated and "fake."
+The historical sources treat materials through named grades and origins, and they record substitutions as matters of trade practice. The 本草纲目 is a materia medica organised around named substances; 周嘉胄's 香乘 is a Ming compilation of incense lore and recipes. Both are historical records and traditional belief, not clinical evidence, and neither can settle a question about a box bought today.
 
-The conflation muddies the whole buying decision. Cultivation is a legitimate response to scarcity: growers plant the same *Aquilaria* or *Santalum* species, sometimes inoculate to induce resin, and harvest in years instead of decades → the material is genuine, just younger, lower-oil, and cheaper → a cultivated stick labeled "cultivated agarwood" is an honest product. Adulteration is a different act entirely: dyeing, oil injection, or a synthetic accord passed off as a wild, high-grade material. The boundary worth holding: "cultivated" is a claim about *age and method*, not a claim about *authenticity*, and a buyer who treats every cultivated label as a fake ends up paying wild-grade prices for a substitute, because they have not learned to tell the honest younger material from the dishonest lookalike.
+Modern commercial products work from a different brief. A product is designed to deliver a scent experience at a price point, and the brief may specify "sandalwood" as a smell rather than as a material. That is a legitimate category: a "sandalwood fragrance" stick that says so is not deceiving anyone. The failure begins when the marketing borrows the material's prestige while the brief was written around an accord.
 
-*The author's view, not a verified fact.*
-
-## The Adulteration Playbook, Step by Step
-
-**Direct answer:** Most fakes follow one of a few repeating tricks — dyeing, oiling, pressing, or scenting — and recognizing the trick is faster than memorizing every fake product in the market.
-
-The playbook is short and repeats everywhere. Trick one, dyeing: a pale wood is stained dark to read as high-oil agarwood → the color says "grade" but the structure says "painted." Trick two, oiling: a neutral wood or low-grade chip is soaked in oil or resin solution → it gains weight and a glossy, fragrant surface → it sinks in water and passes the famous sink test → the density that is supposed to prove quality has been painted on. Trick three, pressing: wood dust and adhesive are compressed into beads or chips → they look solid but are glued, not grown. Trick four, scenting: a neutral base is sprayed with a fragrance that mimics the material → it smells right on the shelf and wrong in the burn. Each trick attacks a different sense — sight, weight, smell — which is why no single check catches them all, and why the species-and-documentation question stays the reliable fallback.
-
-## The Sink Test, and Why It Alone Is Not Enough
-
-**Direct answer:** The sink test — a chip of agarwood that sinks in water is dense with resin — is a real signal of oil content, but it is also the easiest signal to counterfeit, so it works only as one check among several, never as the verdict.
-
-The test's logic is sound and its defeat is cheap. Genuine high-resin agarwood is dense enough to sink → oil injection adds weight to a low-grade chip → the oiled fake also sinks → the test cannot tell the difference between resin that grew in the wood and oil that was pumped in. The same is true of the darker-is-better eye test: dye reproduces the color of age and oil. The lesson is not that the tests are useless but that they are *reproducible* — a forger can pass any single physical check. That is exactly why the cross-reference keeps returning to the species name and the documentation: a binomial and a batch-linked certificate are claims a forger cannot reproduce with a syringe and a bottle of dye.
-
-## The Misconception: "If It Smells Good, It's Real"
-
-**Direct answer:** Smell is the least reliable authenticity test of all, because a well-made synthetic or an oiled substitute is *designed* to smell good — the fake's job is to please your nose, and it usually succeeds.
-
-The reasoning error is trusting the very sense the fake is engineered to win. A synthetic "oud" or a sprayed "sandalwood" is formulated to smell attractive → on a cold sniff, and often on a casual burn, it can smell pleasant, even impressive → the buyer concludes that a pleasant smell means a genuine material → but the material's authenticity and its pleasantness are unrelated. The honest signals are the ones a fake cannot copy cheaply: the species name, the documentation, and the behavioral tell of a real material — quiet when cold, developing under heat, changing across the burn — versus a coated base that is loud when cold and flat when lit. Judge authenticity by the paper trail and the burn behavior, not by how much you like the first sniff.
-
-*The author's view, not a verified fact.*
-
-## A Substitution Cross-Reference for Blends and Incense Forms
-
-**Direct answer:** The substitution problem is not only about single materials — whole *formats* get mislabeled too, and a stick, a cone, a powder, and a resin each carry their own version of the trap.
-
-| Format | What the label implies | What it might actually be |
+| Dimension | Traditional formula | Modern commercial product |
 |---|---|---|
-| "Sandalwood stick" | Wood-powder stick of *Santalum album* | Charcoal base dipped in sandalwood oil |
-| "Agarwood cone" | Resin-impregnated *Aquilaria* wood | Sawdust cone with oud fragrance |
-| "Frankincense resin" | Tears of *Boswellia* resin | Reconstituted resin or oil-on-base |
-| "Ambergris powder" | The scarce marine material | Ambroxide or a synthetic accord |
+| Unit of design | The role in a blend | The scent experience and the price point |
+| What "sandalwood" means | A named material at a stated grade | A smell character, unless the material is named |
+| Substitution test | Does the replacement hold the role? | Does the smell match the reference, and does the label match the contents? |
+| Failure mode | A blend that loses its structure | A claim that outruns the material |
+| Where documentation lives | Merchant reputation, named grade, workshop practice | Batch records, certificates, supplier declarations |
+| What a buyer can check | Proportion and behaviour under heat | Species, form, batch, and the burn |
 
-The table generalizes the page's core pattern to the form level: the scarce or expensive *form* attracts a cheaper stand-in, and the label keeps the prestige word. The fix is the same four questions applied to the format as well as the material — species, material-versus-fragrance, grade, and price — because a "sandalwood stick" fails the questions just like a "sandalwood oil" does. The form does not change the discipline; it only changes which details you check first.
+The two systems meet at one point: both require a stated claim before anything can be verified. A traditional recipe that names a grade has made a claim a modern buyer can ask about. A modern label that names only a smell has made no claim at all, and the absence is the finding.
 
-## The Misconception: "Older Means Better"
+There is a practical lesson in the comparison for anyone reformulating. In the traditional frame, a substitution is evaluated after the blend is burned, because the role only shows in the finished object. In the commercial frame, a substitution is evaluated before the batch is made, because the cost and the claim are decided at the desk. Both evaluations are necessary. A formula that passes the cost review and fails the burn has saved money on a product nobody will buy twice.
 
-**Direct answer:** Age is marketed as proof of quality — "aged agarwood," "vintage sandalwood" — but age is the easiest claim to make and the hardest to verify, so it should be treated as a marketing word until it is tied to something checkable.
+## The tricks, and the objects they produce
 
-Age appeals because it sounds like scarcity, and scarcity sounds like value. The problem is that "aged" and "vintage" are adjectives with no fixed meaning on a label → there is no standard for how old something must be to earn the word → a seller can call a two-year-old batch "aged" and a buyer has no way to dispute it from the package → and unlike a species name, age cannot be read from the material in your hand. The boundary worth holding: age is a claim you can only *take on documentation*, never confirm by looking, so it carries no weight on its own. When a label leans on "aged" or "vintage," ask what specifically it means and what evidence supports it — the same factual-form question this page applies to "natural" and "pure."
+**Direct answer:** Most fakes are built from a short list of manipulations — colour, weight, shape, surface scent, and blending — and each manipulation leaves a signature in a different sense. Learning five signatures covers more of the market than memorising a hundred products.
 
-*The author's view, not a verified fact.*
+The playbook is short enough to hold in mind:
 
-## The Region Name Trap
+- **Dyeing.** Pale wood is stained to read as high-oil or aged material. The colour is a surface, so a cut or a drill hole exposes pale fibre underneath.
+- **Oiling.** A low-grade chip is soaked in oil or resin solution. It gains weight, darkens, and begins to sink, which defeats the density test and the colour test at once.
+- **Pressing.** Dust and adhesive are compressed into beads, chips, or cones. The object looks solid; the fracture face shows a glued, granular structure rather than grain.
+- **Surface scenting.** A neutral base is sprayed or dipped. The smell is loud when cold and gone early in the burn.
+- **Blending.** A small proportion of genuine material is mixed with a cheaper one, so that any single check finds the real thing somewhere in the lot.
+- **Relabelling.** A genuine material from one origin or grade is sold under a better-known name. Nothing about the substance is fake except the claim.
 
-**Direct answer:** A geographic prefix on a label — "Mysore," "Hainan," "Assam," "Kyara" — is meant to signal origin and grade, but it is the easiest part of a label to inflate, because no buyer can read a region from the material in their hand.
+| Object | The manipulation | Fast tell | Why the tell can fail |
+|---|---|---|---|
+| Dark agarwood chip | Dye plus oil | Glossy surface, uniform colour, pale interior at a broken edge | A careful forger can dye unevenly and finish matte |
+| Sinking chip | Oil injection | Sinks readily but smells thin when heated | Resin-rich genuine wood also sinks, and the two look similar |
+| Agarwood beads | Pressed dust or oiled low grade | Drill holes show granular structure; beads feel uniform in weight | High-end pressed beads can be finished convincingly |
+| Resin tears | Reconstitution | Even pellets, discs, or beads with no organic irregularity | Genuine resin can also be re-formed and sold honestly as such |
+| "Frankincense" | Fragrance oil on a base | Liquid, or a soft mass, where tears are expected | Some products are legitimately oil-based and say so |
+| "Sandalwood" stick | Charcoal base plus fragrance | Loud cold, flat by the middle, ash smells of charcoal | A well-made accord can hold a plausible curve for a while |
+| Loose powder | Coloured, scented filler | Uniform chalky texture, strong cold smell, no fibre | Fine genuine powders are also uniform to the eye |
+| "Kyara" anything | Grade word on an ordinary material | A price that does not fit the grade, plus no documents | Nothing in the object proves grade, so only paper helps |
 
-The region name borrows the authority of a famous source. "Mysore sandalwood" names the historic, now-scarce benchmark → "Hainan agarwood" names a prized Chinese source → "Assam" or "Cambodian oud" names a regional character → but the region is a claim, not a property you can verify by looking, and the famous region is precisely the one a seller will reach for to justify a higher price. The check is documentation: a region claim is only as strong as the paper that ties the material to that region → ask for it, and treat an unverifiable region name as the prestige word it is — a suggestion of quality, not a fact. The species name still does more work, because a species is falsifiable while a region is mostly not.
+The deeper point about this list is that every tell is a property, and every property can be manufactured. The tells are useful because manufacturing them costs money, and the cost changes what kind of fake you are looking at: a crude dye job is cheap and common in bulk goods, while a convincing oiled chip is expensive and appears where the unit price justifies it. Reading the effort behind a fake tells you which market you are in.
 
-## The Misconception: "CITES Listing Means Quality"
+## Reading the object: checks and their limits
 
-**Direct answer:** CITES listing is a *trade-control* status, not a quality grade — it means the material is regulated because it is scarce, and conflating "listed" with "premium" is how buyers overpay for paperwork and miss the actual grade.
+**Direct answer:** Each physical check tests a property that a process can add, so each has a known defeat. Used as a set, they narrow the field quickly; used alone, any one of them can be beaten by a seller who knows which one you will run.
 
-The confusion runs on the word "protected," which sounds like "valuable." CITES lists species whose trade needs monitoring, often because wild populations are threatened → the listing attaches to the *species*, across every grade and every specimen, not to the fine examples alone → a low-grade, cultivated agarwood chip and a top wild kyara are both *Aquilaria*, both CITES-listed, and light-years apart in quality → so the listing tells you nothing about whether a specific piece is good. The boundary worth holding: CITES is a signal about *legality and scarcity*, not about *grade*, and a seller who waves a CITES listing as proof of quality is leaning on a document that does not say what they are implying.
+| Check | The reasoning behind it | How it is defeated | What it still tells you |
+|---|---|---|---|
+| Darkness of colour | Age and resin darken wood | Dye | That the seller expects colour to sell the piece |
+| Weight in the hand | Resin and oil add density | Oil injection | That the material is dense, not why |
+| Sink test | Dense resin wood sinks | Oil injection, or a denser species | Oil content, at best, and only comparatively |
+| Gloss and sheen | Resin-rich surfaces look oily | A wipe of oil | Almost nothing on its own |
+| Cold aroma | Aromatic material smells at room temperature | Surface scenting | Whether the packaging was perfumed |
+| Burn aroma | Heat releases interior volatiles | A good accord, or a partly genuine blend | How the product was built, which is often enough |
+| Ash character | Mineral content and combustion leave a residue | Base formulation | Whether the stick was charcoal-heavy or wood-heavy |
+| Fracture face | Grain structure is hard to fake at scale | Pressing with real wood dust | Whether the object was grown or glued |
+| Resin shape | Natural exudation is irregular | Re-forming | Whether the material was processed after collection |
+| Paperwork | Ties a claim to a batch | A borrowed or reused certificate | Whether the seller can support the claim at all |
 
-*The author's view, not a verified fact.*
+Two of these deserve a warning against over-reading. The sink test is popular because it is binary and satisfying, and it is the single easiest check to defeat with a syringe. The colour test is popular because it requires no equipment, and it is the single cheapest property to manufacture. Both are filters, not findings.
 
-## A Field Guide to the Most Common Fakes, in One Table
+The check that survives is the one a forger cannot perform cheaply: a batch-linked document from a named issuer, matched to the object. It is also the least satisfying, because it requires asking a stranger for paperwork and accepting that the answer might be no. That discomfort is the price of the only test that addresses identity rather than appearance.
 
-**Direct answer:** The fakes worth knowing by heart are few — oiled agarwood, dyed sandalwood, reconstituted resin, synthetic ambergris, and "frankincense" oil — and each has one tell that gives it away faster than the others.
+## When the material is genuine but disappointing
 
-| Fake | What it pretends to be | The fast tell |
+**Direct answer:** A poor burn does not prove a substitute. Material that was right when it was packed can lose its volatiles, absorb a neighbour's smell, or dry out in storage, and the result is a genuine product that behaves like a cheap one.
+
+Three different causes produce the same disappointment: the wrong material, the right material at a lower rank, and the right material degraded by time or handling. Only the first two are substitution, and telling them apart changes what a buyer should do about it.
+
+Degradation has its own signatures. Heat and light drive off the lighter volatiles first, so a stick that spent a summer in a sunny window smells flat at the top and thin in the middle, while the interior of a cut piece can still carry aroma. Damp storage invites mould and a musty note that no amount of burning removes. A box kept beside soap, camphor, or a strong fragrance absorbs the neighbour through the packaging, and the contamination reads as a foreign top note. Oils oxidise and turn sharp at the tail. Over-dried wood burns fast and cracks, which looks like a bad binder and is often just low moisture.
+
+The cut-face comparison is the most useful discriminator between damage and disguise. On degraded material, the outside has lost what the inside still holds, so a fresh break smells stronger and more characteristic than the surface. On dyed or oiled material the reverse holds: the surface carries the colour and the aroma, and the interior is pale and weak. Same test, opposite result, and the direction of the difference is the finding.
+
+Storage discipline follows directly. Aromatic material wants a sealed container, a dark cupboard, a stable temperature, and distance from anything else that smells. Small quantities in small jars beat a large jar opened repeatedly, because every opening exchanges the headspace. None of this rescues material that was poor when it was packed, and it does slow the decline of material that was good.
+
+The editorial boundary is worth stating: a disappointing stick is not automatically a counterfeit, and treating it as one misreads the evidence. Buyers who cannot separate damage from deception end up accusing honest sellers and trusting persuasive ones. The questions sort the cases better than the disappointment does.
+
+## Formats: where the substitution hides in each
+
+**Direct answer:** Substitution changes shape with the product format, because each format exposes a different surface to inspection. A stick can be tested by burning, a resin by its outline, a powder by almost nothing at all.
+
+| Format | What the buyer can inspect | Where the substitution hides | The check that fits |
+|---|---|---|---|
+| Stick | Surface, cold smell, burn curve, ash | A coated base sold as wood powder; a low-grade powder blended with a stronger one | Burn through a marked stick and compare the middle third with the first |
+| Cone | Density, burn temperature, residue | Sawdust plus fragrance pressed with a binder | Break one open: granular and glued against fibrous and pressed |
+| Coil | Evenness of the spiral, burn rate | A base that burns too fast, scent that dies before the coil finishes | Time a section against a known product at the same draught |
+| Loose powder | Colour, texture, cold smell | Any pale wood dust, tinted and perfumed | Heat a small pinch on a hot surface and smell the residue |
+| Resin tears | Shape, surface, fracture, melt | Re-formed resin; a cheaper resin under a better-known name | Look for uniformity, then watch how it melts |
+| Oil | Viscosity, colour, the named plant part | A different plant part, a diluted oil, or a compounded accord | Ask for the part and the method; the front label rarely carries either |
+
+Powder is the format where the label does the least work and the questions do the most, because a dust has no grain, no outline, and no density worth reading. A coloured, scented powder can stand in for nearly any ground wood, and the only signals left are how it behaves when heated and what the seller will say about its source.
+
+Oil hides a chain of decisions behind one word. A true essential oil comes from a named plant part by a named method; the same plant yields different oils from bud, leaf, and stem, and steam distillation, solvent extraction, and supercritical extraction each produce a different profile. "Clove oil" could be the prized bud or the cheaper leaf, and the bottle will not say. The practical request is the same in every format: name the part, name the method, and treat a product that names neither as an unspecified material wearing a specific word.
+
+## The layers between harvest and shelf
+
+**Direct answer:** Every hand a material passes through can strip a little information from it, and the label a buyer reads is the residue of a long chain of grading decisions made by people the buyer will never meet.
+
+Aromatic wood usually travels through several stages: a collector or grower, a local grader who sorts by resin and size, a consolidator who assembles lots from many small sources, an exporter who handles permits, an importer or wholesaler, a manufacturer who grinds or forms the material, and a retailer who divides bulk into units. Each stage is a place where detail is dropped, and some of the drops are innocent.
+
+Consolidation is the most consequential. A lot assembled from dozens of small holdings cannot be traced to a single forest, so the grade becomes an average and the origin becomes a region. Grinding erases the visual evidence that a grader used. Repackaging often replaces a producer's lot code with a shop's own reference, which may record the packing date rather than the harvest. By the time a stick is in a box, the batch number may identify the retailer's afternoon rather than the material's history.
+
+What survives the chain is paperwork with a legal purpose. CITES permits follow the material across borders because a regulator requires it, and a permit therefore says something about movement that a marketing claim does not. Supplier declarations survive when a named business stands behind them. Sealed factory packaging with a producer's lot code survives better than loose stock, because the code belongs to the party that made the material rather than the party that sold it.
+
+The practical lever for a buyer is a question about position: at which layer does this seller sit, and what have they seen themselves? A shop that buys finished sticks knows the sticks; a workshop that buys wood and grinds it knows the wood. Both can be honest, and only one can answer a question about resin content with first-hand knowledge. Trust attaches to a person at a specific point in the chain, not to a brand name floating above it.
+
+That is also why the same product can be excellent in one shipment and ordinary in the next without anyone lying. The consolidator changed, the average shifted, the packing date moved. A buyer who re-asks is not being suspicious; they are reading a chain that rearranges itself between orders.
+
+## Objects that arrive without a seller
+
+**Direct answer:** A bead string inherited from a relative, a carved piece bought at an estate sale, or a gift with no receipt has no one to question, so the object becomes the only witness. That changes the method: you are no longer testing a claim, you are deciding what to believe about an object that never made one.
+
+The usual line of questioning assumes a person on the other side who will answer. Remove that person and the questions do not disappear; they move. Species becomes an inference from grain, weight, and behaviour. Form becomes visible in the object. Grade becomes a guess that the price paid, if known, can sometimes anchor. Origin becomes unavailable, full stop.
+
+Three things follow, and they run against the instincts of a collector.
+
+The first is that a story is not provenance. "It came from a family that lived in Hainan" is a memory attached to an object, and memories are not documents. Treat the story as context, not evidence, and let the object carry the argument.
+
+The second is that restoration destroys the evidence you would have used. Polishing lifts a surface layer, restringing replaces the cord that carried a seller's tag, and cleaning removes the dust that sometimes holds a workshop's mark. An object that has been lovingly restored is often harder to read than one that has been left alone, which is an uncomfortable fact for anyone who likes their possessions tidy.
+
+The third is that the honest valuation of an unverifiable piece is the value of a pleasant object, not the value of the grade it resembles. A dark, heavy, faintly aromatic bead string is worth owning on its own terms. Paying kyara money for it converts a nice object into a bad investment, and the conversion happens at the moment of purchase, not at the moment of discovery.
+
+What can still be done is worth doing. Weigh the piece and note the weight, because a later comparison needs a baseline. Photograph the drill holes and any broken face, since those surfaces are the ones that show whether colour sits on the outside. Burn one bead only if the string can spare it, and note where the aroma peaks. Keep whatever paper came with the object, even a faded receipt, because a date and a shop name are more than nothing.
+
+The boundary is the same as everywhere on this page, only sharper. Without a seller, nothing can be verified, and a buyer who cannot accept that will invent a verification out of wishful reading. The correct posture is neither suspicion nor belief but a valuation that reflects what is actually known: an attractive object of uncertain identity, priced accordingly, enjoyed for what it demonstrably is.
+
+## Four labels, worked through
+
+**Direct answer:** The method is easier to see on specific labels than in the abstract. Four cases, each with a different amount of information and a different failure, show how the same questions land.
+
+**Case one: "Sandalwood incense," no other text.** The label uses a category word and stops. Nothing printed is false, and nothing printed is checkable. Read at the category level, it means a *Santalum* species or a sandalwood accord; read at the grade level, it means nothing at all. The practical response is to buy it as a scent product at a scent price, and to stop expecting wood.
+
+**Case two: "Australian sandalwood (*Santalum spicatum*) powder, makko binder."** Three facts stand on the front — the plant, the state it is sold in, and what holds the stick together — and the origin travels inside the species name. Nothing here claims to be the Indian benchmark, and nothing needs to. This is the shape of an honest substitution: it gives the buyer the facts that would let them refuse, and it survives every question the page has proposed. It may still be a mediocre product. That is a different problem from deception, and it is solved by trying a small quantity rather than by interrogation.
+
+**Case three: "Premium kyara-grade agarwood, limited offer."** A grade word, a scarcity signal, and no anchor. Which species is not stated, though kyara implies *Aquilaria*. Which grade is asserted rather than described. Where it came from is absent. The price, whatever it is, cannot be checked against the grade because the grade is not defined. Every word here is spent on rank and scarcity, and none on anything a buyer could check. That imbalance is the finding.
+
+**Case four: "奇楠 agarwood beads" at a middle price.** The characters name the top grade; the price suggests something else; the object is dark and faintly aromatic. The questions produce: species presumed but unstated, form solid wood, grade claimed at the highest rank, price inconsistent with that rank. One of those four has to give. In practice the grade gives, and the beads are an oiled or pressed lower-grade material wearing a name. The beads may still be pleasant objects. They are not what the label says, and the gap is what a buyer is paying for.
+
+The four cases share a structure. The amount of information on the label determines the size of the question left over, and the price determines how much that leftover question costs. A cheap vague stick is a small risk taken knowingly. A costly vague claim is a large risk taken unknowingly, and that is the only real difference between them.
+
+## Beliefs that cost money
+
+**Direct answer:** Most bad purchases come from a small set of reasonable-sounding beliefs rather than from ignorance. Each belief is true often enough to be tempting and false exactly where the money is.
+
+| Belief | Why it fails | What to do instead |
 |---|---|---|
-| Oil-injected agarwood | High-resin 沉香 / kyara | Sinks, but the surface is glossy and the smell fades fast |
-| Dyed sandalwood | Dark, aged *Santalum* | Color sits on the surface; a cut reveals pale wood |
-| Reconstituted resin | Frankincense or benzoin tears | Uniform pellets or beads, no natural irregular shape |
-| Synthetic ambergris | Natural 龙涎香 | Sold cheap and abundant; the real thing is scarce and regulated |
-| "Frankincense" oil | Real resin tears | A liquid or oil-soaked base, not solid tears |
+| A high price proves authenticity | The gap between real and substitute is the forger's margin, and a high price enlarges it | Treat a premium price as a reason to ask for documents, not a substitute for them |
+| A cheap price is always a bargain | On a scarce material, the cheapest option selects for the widest price gap, which is where substitution lives | Compare against the honest price for a named species and grade |
+| A substitute is always inferior | Quality, price, and honesty are separate axes | Judge the product, then the claim |
+| "Natural" and "pure" mean something | Neither names a species, a grade, or a form | Ask for the binomial and the physical form |
+| A famous brand protects you | Brands guarantee consistency of a scent, not identity of a material | Apply the same questions to the brand's product |
+| A trusted shop's word is enough | Reputation is a prior; substitution usually happens upstream of the shop | Trust the shop to answer, not to have answered |
+| Verification is permanent | Stock changes with every shipment | Re-ask on each purchase, briefly |
+| Darker means richer | Dye is the cheapest manipulation available | Look at a cut face or a drill hole |
+| If it sinks, it is real | Oil adds the weight that makes it sink | Read density as oil content, not identity |
+| If it smells good, it is real | A good fake is designed to smell good | Judge the curve across a burn, and the paperwork |
+| The burn settles it | Burn diagnoses construction, not identity | Pair the burn with a species claim |
+| CITES listing means quality | Listing is a trade-control status attached to a species | Ask the grade question separately |
+| A region name guarantees origin | Region cannot be read from the object | Ask for traceable paperwork or discount the claim |
+| "Aged" and "vintage" mean better | Neither word has a standard behind it | Ask what the claim rests on; accept that it may rest on nothing |
+| A detailed label is an honest one | Detail is a format; a false specific is worse than a silence | Test whether the details can be confirmed |
+| The Chinese characters are decoration | They usually carry the grade the English softens | Read them, or have them read |
+| A certificate proves the product | A certificate describes a sample, not your unit | Match species, form, and batch |
+| Cultivated means fake | Cultivated material is the same species, younger and cheaper | Separate cultivated from adulterated |
+| Buying the cheapest is smart | It systematically selects the ambiguous end of the market | Buy the honest price |
 
-The table is a cheat sheet, not a substitute for the four questions — each tell can be beaten by a more careful fake. What it gives you is speed: a fast visual or weight check that narrows the field before you invest in the slower questions. Read the tell, then still ask the species and the documentation, because the tell is a first filter, not a final verdict.
+Three of these deserve more than a row, because they are the ones that survive contact with experience.
 
-## The Misconception: "A Label With a Lot of Details Is Honest"
+**The premium-price belief** is the most expensive, because it scales with the purchase. For most goods, a high price is weak evidence of quality and strong evidence of cost. For a scarce aromatic, a high price is evidence of scarcity and therefore of motive: the profit in substitution grows with the genuine price, so the incentive to substitute grows with it too. A fake sold at half the price of real kyara is still an expensive object, and the buyer's satisfaction with having spent a lot becomes part of the disguise. The belief survives because it is usually right elsewhere, which is exactly why it is dangerous here.
 
-**Direct answer:** Specificity is not honesty — a label can be covered in Latin names, percentages, and region claims while still being wrong, because detail is a *format*, not a guarantee, and the question is whether the details are checkable and true.
+**The brand belief** fails for a structural reason. A brand's promise is repeatability: the same experience in every box. That promise is easiest to keep with a compounded fragrance, which is consistent by design, and hardest to keep with a natural material, which varies by harvest. So a large brand selling affordable sandalwood is often selling a well-made scent rather than a wood, and it may be entirely honest about that in its own language. The buyer who hears "brand" and concludes "material" has added a claim the brand never made.
 
-The overreach is the mirror image of the "prestige word" trap: where one label hides behind vagueness, another hides behind abundance. A label that lists "*Santalum album*, 45%, mysore, aged 10 years, steam-distilled" *looks* transparent → but each of those specifics still needs to be true and checkable → a false specific is worse than an honest omission, because it has the shape of verification without the substance. The boundary worth holding: judge a label by whether its specific claims can be *confirmed*, not by how many there are — the honest label is the one whose details you can test, and the dishonest one is the one whose details you can only admire.
+**The verification belief** is the one that decays quietly. A shop that sourced clean material last season is not lying this season when its stock changes; the change happened upstream, at a grader or an importer, and the shop inherited it. Trust that is not re-tested is not trust, it is memory. The same few questions cost a minute, and a minute is the right price for a fresh answer.
 
-*The author's view, not a verified fact.*
+## How a material name drifts
 
-## The Bulk-vs-Piece Tension
+**Direct answer:** Some substitution is not a decision made at a counter but a slow shift in what a word means, driven by supply rather than by fraud. When the original grows scarce, the nearest available cousin inherits the name, and a generation later the name describes a family.
 
-**Direct answer:** The same substitution risk reads differently depending on whether you are buying a single costly piece or a bulk box of sticks — the piece is where the fake concentrates its profit, the bulk is where the fake hides in volume.
+The mechanism:
 
-The economics split by purchase size. A single bead, chip, or bracelet of "kyara" carries a high unit price → the forger's entire profit rests on that one piece passing → so the piece-level fake is elaborate: oiled, dyed, sometimes partly genuine. A bulk box of cheap sticks carries a low unit price → the forger's profit rests on volume and a low cost of goods → so the bulk fake is crude: a charcoal base and a fragrance dip, relying on the buyer never inspecting closely. The practical rule: for a costly single piece, demand the documentation and the physical checks; for a bulk box, read the ingredient line and the cold-versus-warm burn. The two sizes are two different games, and the verification strategy should match the game, not the material.
+a material earns prestige while it is still abundant → demand outruns the supply that made it cheap → harvesting pressure makes the original scarce and costly → the trade reaches for the nearest usable relative → the relative is sold under the famous word, because the word is what buyers recognise → the word now covers a family rather than a plant.
 
-## The Misconception: "Buying From a Big Brand Protects You"
+Sandalwood shows the pattern clearly. The name once pointed at the Indian heartwood; as that supply tightened, Australian, New Caledonian, and Hawaiian species each took a share of the word, and a dyewood unrelated to the genus rode along as "red sandalwood." Agarwood went further: the same word now covers top-grade kyara, ordinary resin-bearing wood, cultivated material, oiled chips, and a synthetic accord sold as "oud." Ambergris drifted to the point where the natural material is a rarity and the laboratory stand-in is the norm. Cedarwood in aromatics usually means a juniper.
 
-**Direct answer:** A recognized brand is a weak shield against substitution, because the brand's interest is the label, not the material — and a big name is exactly what a bulk fragrance stick hides behind.
+| Name | What it once pointed to | What it covers now |
+|---|---|---|
+| Sandalwood | Indian *Santalum album* heartwood | Several *Santalum* species plus an unrelated dyewood |
+| Agarwood, oud | Resin-bearing *Aquilaria* wood | Kyara down to synthetic oud accords |
+| Ambergris | The scarce marine material | Mostly ambroxide and similar laboratory materials |
+| Cedarwood | True *Cedrus* | Often *Juniperus virginiana* |
+| Benzoin | A balsamic resin from *Styrax* | Two species and various blends |
 
-The trust is understandable but misplaced in one specific way. A brand guarantees *consistency* and *shelf presence*, not material authenticity → a large maker of affordable "sandalwood" sticks is, by economics, almost certainly using a fragrance accord on a neutral base, because real sandalwood powder at that volume and price is not possible → the brand is honest about the scent (a consistent sandalwood *smell*) but the buyer who assumes "brand = real wood" has inferred a claim the label never made. The boundary worth holding: a brand is a guarantee of *what the product is* — a consistent, marketed scent — and it is not a guarantee of *what the material is*. For the material question, the species and the documentation still apply, brand or no brand.
+None of this makes the cousins fraudulent. Australian sandalwood is a real wood with its own character, and ambroxide is a standard perfumery material with advantages of consistency and legality. The narrower point is that a name which has drifted cannot tell you what you hold, and the only word that has not drifted is the binomial. That is why the species question keeps returning: it is the part of the description that supply cannot quietly rewrite.
 
-*The author's view, not a verified fact.*
+The drift has a practical consequence for anyone reading old writing about incense, including the classical sources cited below. A recipe that names a material in a sixteenth-century text is naming what that word meant then, which may be a narrower or a different thing than what the same word means on a package today. Reading historical recipes as if the vocabulary were stable produces confident conclusions about materials the author never saw.
 
-## A Reading Order for Any Purchase
+## An editorial position
 
-**Direct answer:** The whole cross-reference collapses into a three-step reading order — species, form, then price — and the order matters, because each step filters the field before the next question is even asked.
+**Direct answer:** An honestly declared substitute is a better purchase than an undeclared prestige word, and a very low price on a scarce material is the most reliable signal on the shelf. The whole method reduces to translating a label into questions about identity, form, and grade, and never letting the noun stand on its own.
 
-The sequence is the page's master checklist, put in order. Step one, species: ask for the Latin name → if the label names it, the material is committed and checkable → if it will not, the omission is itself the signal, and no further detail matters. Step two, form: ask wood, resin, oil, or accord → this separates the material-based products from the fragrance-based ones, the single most important split on any label. Step three, price: check the price against the grade and scarcity → a scarce material at a low price is a contradiction to resolve, not a deal to seize. Run the three in that order and most label traps resolve themselves at step one or two, long before you have to weigh price against vague adjectives. The order is the method.
+**Reasoning:** Substitution is not the enemy; ambiguity is. The market contains plenty of legitimate stand-ins that are well made, fairly priced, and clearly labelled, and refusing them on principle costs money without buying safety. What deserves refusal is the gap between what a label implies and what a seller can support. That gap is measurable in questions, which is why the method on this page is a short list of them rather than a catalogue of fakes.
 
-## The Misconception: "I Need to Become an Expert to Buy Safely"
-
-**Direct answer:** The discipline this page teaches is not expertise — it is three plain questions and a willingness to walk away, and a non-expert who asks them consistently buys more safely than an expert who stops asking.
-
-The expertise barrier is the most discouraging false premise in the whole subject. The real skill is not botanical or chemical knowledge; it is the *habit of asking* → "which species," "wood or oil," "what grade, at what price" are questions any buyer can ask, and the answers are either specific or they are not → a buyer who asks them and walks away from vague answers is protected without knowing a single Latin name by heart. The boundary worth holding: substitution is defeated by *consistency of questioning*, not by expertise — the seller who can answer three plain questions is worth another minute, and the one who cannot is not, regardless of how much you know about wood.
-
-*The author's view, not a verified fact.*
-
-## The Distillation Angle: What the Label Doesn't Say About Oil
-
-**Direct answer:** When a label says "oil" or "distillate," a whole chain of processing decisions sits behind the word — what part of the plant, what method, what yield — and none of it is visible from the front of the bottle.
-
-The word "oil" hides as much as it names. A true essential oil is obtained by distilling or pressing a specific plant part → but the same plant yields different oils from different parts (a clove bud oil is not a clove leaf oil) → and the extraction method (steam distillation, solvent, CO2) changes the profile → and the yield, the tiny fraction of oil a plant gives up, is what sets the price. So "sandalwood oil" could be heartwood distillate or a solvent extraction, and "clove oil" could be the prized bud or the cheaper leaf, and the label's single word collapses all of it. The practical read is the same discipline as elsewhere on this page: ask which part and which method, and treat an oil that names neither as an unspecified material wearing a specific word.
-
-## The Misconception: "If It's Expensive, It's Probably Genuine"
-
-**Direct answer:** The premium-price instinct fails hardest exactly where the stakes are highest — an expensive fake is the most profitable fake, so a high price is a reason to verify *more*, not a reason to relax.
-
-The reasoning is the mirror of the cheap-signal rule and worth stating separately, because people apply them inconsistently. The cheap rule — a low price on a scarce material is a red flag — everyone accepts. The expensive rule is the one people forget: a high price on a scarce material is *also* a reason to check, because the forger's profit scales with the price → a fake sold at half the price of real kyara is still very expensive, and the buyer's comfort with the spend is part of the deception → the more you are about to pay, the more documentation you should demand. The boundary worth holding: price is a signal about *risk*, not about *authenticity*, and it points the same direction at both ends — look closer.
-
-*The author's view, not a verified fact.*
-
-## The Resin Reconstitution Trap
-
-**Direct answer:** Resins are easier to fake than woods in one specific way — they can be melted down and re-formed, so a "tear" of frankincense or benzoin may be a reconstituted lump rather than an exuded drop, and the shape is the tell.
-
-Follow the chain from resin to fake. A natural resin tear forms as a drop that exudes and hardens → it carries an irregular, organic shape — a teardrop, a lump, a broken edge — and a slightly sticky, matte surface → a forger can melt genuine or substitute resin and press it into uniform shapes → the reconstituted pieces come out as even pellets, beads, or smooth discs → the uniformity is the giveaway, because nature does not exude in identical pellets. The practical read: real tears are irregular, reconstituted ones are uniform — and the distinction matters because reconstitution can be genuine resin that was re-formed (not a fake in substance) or a cheaper resin passed off as a pricier one. Either way, the shape tells you the material has been *processed*, which is the first thing a "raw tears" label should be able to deny.
-
-## A Cheat Sheet for the Four Questions in the Field
-
-**Direct answer:** The four questions compress into a pocketable field check — species, form, grade, price — and the field version of each is a single fast question you can ask any seller in one breath.
-
-| Question | The field version to ask |
-|---|---|
-| Species | "What's the Latin name?" |
-| Form | "Wood, resin, oil, or a fragrance?" |
-| Grade | "Which grade, and what makes it that grade?" |
-| Price | "How does this price compare to the real thing?" |
-
-The four field questions are the whole cross-reference, stripped to what you can say out loud at a stall or type in a chat. The point is that none of them requires expertise — they require only that you ask and that you notice whether the answer is specific. A seller who names the species, the form, and the grade, and can talk about the price honestly, has passed the field check; one who answers with "it's natural, it's pure, it's premium" has not. Carry the four questions and the page's whole method goes with you.
-
-## The Substitution Problem in Loose Powder
-
-**Direct answer:** Loose powder is the easiest form to substitute, because it has no grain, no shape, and no density to inspect — a colored, scented dust can pass for almost any ground wood, and only the burn and the smell under heat expose it.
-
-The powder case strips away every visual check. A chip shows grain; a tear shows shape; a bead shows color and density → a powder shows almost nothing — it is a uniform dust whose color is easy to dye and whose smell is easy to perfume → so a "sandalwood powder" can be any pale wood dust, scented and tinted, and a "benzoin powder" can be a reconstituted or cut resin with no way to tell from the jar. The checks that remain are the ones that survive the powder form: the cold-versus-warm smell (a scented dust is loud cold, flat warm), the burn behavior (a real wood powder smolders with a woody, developing scent), and the species-and-documentation questions. Powder is the form where the label does the least work, so the questions do the most.
-
-## The Misconception: "The Cheaper Substitute Is Always a Worse Product"
-
-**Direct answer:** Substitution and quality are different axes — a cheap substitute can be a well-made, honestly labeled product that outperforms a poorly made "prestige" material, so the question is honesty, not price or pedigree.
-
-The reflex ranks the substitute below the original automatically. But the axes are independent: Australian sandalwood is a substitute for Indian sandalwood and is a legitimate, well-made material in its own right → a poorly harvested, stale "Indian sandalwood" can smell worse than a fresh, well-processed Australian one → the substitute can be the better *product* even though it is the cheaper *material*. The boundary worth holding: judge a product by what it is and how it is made, not by its position on the prestige ladder — and the only substitution that is automatically bad is the one that lies about what it is. An honest substitute is a choice; a dishonest one is a fraud, and the two are not the same failure.
-
-*The author's view, not a verified fact.*
-
-## Reading a Batch Number and Why It Matters
-
-**Direct answer:** A batch or lot number is the most underrated line on an incense label — it ties the product to a specific production run and its documentation, and its absence is a quiet red flag the eye skips over.
-
-The batch number is the bridge between the object in your hand and the paper that verifies it. A certificate of analysis is only useful if it describes the *same* material you are holding → the batch number is what links the two → a product with a batch number can be traced back to its run, its source lot, and its paperwork → a product without one floats free of any documentation, and any certificate shown is untethered. The practical read: on a consequential purchase, ask for the batch number and check that the certificate carries the same one — and treat a missing batch number as one more link in the chain that is not there. The number is small, and it does more verification work than most of the adjectives on the front of the box.
-
-## The Misconception: "A Dark Color Means a Rich Material"
-
-**Direct answer:** Darkness is the cheapest thing to fake in all of this — dye reproduces the color of aged, oil-rich wood in seconds — so "darker is richer" is a rule that points straight at the forger's easiest trick.
-
-The eye test trusts darkness because age and oil do darken wood → real high-resin agarwood and aged sandalwood are dark → so a dark chip or bead reads as rich → but dye reproduces exactly that color on pale, low-grade wood → the visual is the first thing a fake manufactures. The boundary worth holding: color is a *surface*, and the fake's whole strategy is to make the surface match the story — so a dark color proves nothing until a cut reveals the wood beneath, and a material sold on its darkness is a material asking you to trust the one signal it can paint. Read darkness as a hint, never a verdict.
-
-*The author's view, not a verified fact.*
-
-## A Cross-Reference for the Sensible Skeptic
-
-**Direct answer:** Skepticism is a tool, not a worldview — the goal of this page is not to make you distrust every seller but to give you the questions that sort the honest ones from the rest, and the honest ones are the majority.
-
-The line between a sensible skeptic and a suspicious buyer is where the page's value lives. A sensible skeptic asks the four questions, reads the specific answers, and buys confidently when the answers are clear → a suspicious buyer treats every label as a lie and ends up either paralyzed or paying a premium for the *feeling* of safety → neither extreme is the point. The honest position is the middle: most sellers and most products are genuine, the substitution problem is concentrated in the scarce, expensive, easy-to-fake materials, and the four questions are enough to separate the two without paranoia. Use the checklist as a filter, not a shield — the goal is to buy well, not to buy fearfully.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "A Certificate Is Proof by Itself"
-
-**Direct answer:** A certificate of analysis is only as good as the link that ties it to the product in your hand — a certificate for a different batch, a different species, or a different product is a piece of paper, not a verification, and it proves nothing about what you are buying.
-
-The paper-trust reflex skips the one step that makes the paper meaningful. A COA describes a specific sample, tested at a specific time → for it to verify your purchase, it must describe the *same* material — same species, same batch, same form → a seller who shows a certificate for *Aquilaria* when the product is "oud fragrance" has shown you a certificate for a different thing → and a certificate with no batch link is untethered, describing nothing in particular. The boundary worth holding: a certificate is a claim that is only as strong as its link to the object, and the link is the batch number, the species, and the form — read the certificate for those three, not for the reassuring heading at the top.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "I Can Tell by the Burn Alone"
-
-**Direct answer:** The burn is a useful signal, but it cannot carry the whole verification — a good fake can smolder evenly and a real material can burn poorly — so the burn is one input among several, never the whole test.
-
-The burn-check trust overrates a single sense. A well-made synthetic or a coated base can be engineered to burn evenly and smell pleasant → the burn reads "fine" while the material is still a substitute → and a genuine but poorly processed wood can crack, tunnel, or smell flat → the burn reads "bad" while the material is real. So the burn is diagnostic of *how the product was made*, not of *what it is*. The boundary worth holding: use the burn for what it tells you — burn quality, the cold-vs-warm gap, the ash — and reach for the species and the documentation for what it cannot — the material's identity. The burn is a check, not a verdict.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "A Reputable Shop's Word Is Enough"
-
-**Direct answer:** A reputable shop is a better starting point than an unknown one, but reputation is a *prior*, not a proof — the shop may itself be buying substituted stock in good faith, so the four questions still apply to the product, not just the storefront.
-
-The trust is reasonable and still insufficient. A shop earns its reputation on selection, service, and honesty → but a shop that does not itself test its stock can pass along a substituted product without knowing → the substitution happens upstream, at the importer or the supplier, and the shop's good name does not reach that far back. The boundary worth holding: reputation buys you a *better place to ask the questions*, not a pass on asking them — a good shop will welcome the species and documentation questions, which is itself a sign you are in the right place, and a shop that waves off the questions is one whose reputation has outrun its sourcing.
-
-*The author's view, not a verified fact.*
-
-## The Substitution Problem at the Wholesale Level
-
-**Direct answer:** Substitution does not start at the retail counter — it starts in bulk, where large lots of "agarwood" or "sandalwood" are graded and sold, and the pressure to blur the boundary is strongest precisely where the volumes and the money are largest.
-
-The chain runs upstream from the buyer. A bulk lot of aromatic wood is graded and priced by its oil content and species → the grader's incentive is to sell the lot as high a grade as it will carry → the importer, the distributor, and finally the retailer each pass the label along → by the time it reaches a stick or a bead, the original grading decision is several hands back. The practical read: the buyer at the end is not the only one who needs to verify — the whole chain does — and the questions this page teaches are as useful to a shop owner buying a crate as to a customer buying a single stick. Substitution is a supply-chain phenomenon, not a retail one, and it is fought at every link, not just the last.
-
-## The Misconception: "The Chinese Characters on the Label Are Decoration"
-
-**Direct answer:** A Western buyer often skips the Chinese characters on an incense label as ornament, but they are usually the most specific part — 奇楠, 白檀, 龙脑 each name a precise grade or material that the English front often softens into "premium."
-
-The skip is costly because the characters do the precision work. An English front might say "premium agarwood" while the characters read 奇楠 (kyara) or, more tellingly, merely 沉香 (ordinary agarwood) → the characters are where the grade is actually asserted → and 机制冰片 (synthetic borneol) versus 龙脑 (natural borneol) is a distinction the English "borneol" erases. The practical read: learn a handful of characters — 沉香, 檀香, 奇楠, 龙脑, 安息香, 龙涎香 — and read them directly, because they are the part of the label least likely to be softened for a foreign market. The characters are not decoration; they are the fine print, in the other direction.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "A Substitute Is Always Cheaper Than the Real Thing"
-
-**Direct answer:** The price gap is the *motive* for substitution, not its signature — a substitute can be priced at or near the real material to borrow its credibility, so a high price does not rule out a fake, it just makes the fake more profitable.
-
-The assumption that a fake must be cheap is a trap the forger exploits. The profit in substitution comes from the gap between the real thing's price and the substitute's cost → but nothing forces the forger to *charge* the substitute's cost → pricing a fake at, say, 80% of the real kyara price still leaves a large margin and makes the fake look authentic → so a substitute can wear a high price as part of the disguise. The boundary worth holding: the substitute's *cost* is always lower, but its *price* may be anything — and a substitute priced like the real thing is the most convincing fake of all, which is why price alone, at either end, never settles the question.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "Once I Verify a Seller, I Can Stop Checking"
-
-**Direct answer:** Verification is not a one-time stamp — a seller's stock changes with every shipment and every supplier, so a seller who was honest last month can be carrying a substituted lot this month, and the questions stay useful every time.
-
-The stamp-of-approval mindset treats trust as a permanent state. But a seller's product is not a fixed inventory → each new shipment is a new grading decision made upstream → a shop that sourced clean sandalwood in the spring may receive a blended lot in the fall, unknowingly → so the questions the buyer asks are as much for the *current* stock as for the seller's character. The boundary worth holding: verify the *product in front of you*, every time, not the seller once — trust is a prior that each purchase re-tests, and the four questions are cheap enough to ask again.
-
-*The author's view, not a verified fact.*
-
-## The Misconception: "A Cheaper Price Always Wins"
-
-**Direct answer:** Chasing the lowest price on a scarce material is not saving money — it is buying the ambiguity, and the "saving" is usually the difference between the real material and the substitute you actually received.
-
-The bargain instinct is the substitution problem's best friend. A buyer who always takes the cheapest "agarwood" or "sandalwood" is systematically selecting the products where the price gap is widest → which is exactly where the substitution lives → the money "saved" is not savings but the cost of a substitute wearing the real name. The boundary worth holding: price is not a dial to minimize in isolation — it is a signal about risk, and the rational buyer does not take the lowest price on a scarce material, they take the *honest* price, which is the one that matches a named species and a checkable grade. The cheapest option is often the most expensive mistake.
-
-*The author's view, not a verified fact.*
+*This is the author's editorial view, based on trade practice and material reasoning. It is not a verified finding, and it makes no health claim.*
 
 ## FAQ
 
-### Q: What is the most commonly substituted incense material?
-Sandalwood and agarwood, the two precious woods — because the genuine article is costly and scarce, and that price gap invites stand-ins. Cheap "sandalwood" is usually a synthetic fragrance or a different *Santalum* species, and cheap "oud" or "agarwood" is frequently synthetic, oil-soaked, or dyed wood. Frankincense, borneol, and ambergris round out the list. The steady pattern: the scarcer and pricier a material is, the more it gets substituted, and the more the label's precision counts.
+**Direct answer:** The questions readers ask most concern the two precious woods, the fastest counter check, and how far a price or a document can be trusted.
+### Q: Which incense materials are substituted most often?
+The two precious woods lead, because their price gap is the widest: sandalwood and agarwood. Cheap sandalwood is commonly a synthetic accord or an unnamed *Santalum* species, and cheap oud is commonly a compound, an oiled chip, or dyed wood. Frankincense, borneol, ambergris, and benzoin follow, each with a cheaper relative or a synthetic counterpart. The pattern is not about which material is popular. It is about which material is expensive enough that the difference between real and lookalike pays for the effort.
 
-### Q: How can I tell if a "sandalwood" is real?
-Ask for the species (*Santalum album* against a stand-in), check whether it is wood or wood-powder against fragrance oil, and read a very low price as a sign of fragrance rather than wood. Genuine heartwood gives a slow, unfolding, cooked aroma under heat, while a synthetic gives a flat, even "perfumey" note. The scientific name is the anchor — a label that names *Santalum album* has committed to one material, while one that will not is itself information. See [natural vs synthetic](/blog/natural-vs-synthetic-incense/).
+### Q: How can I tell whether a sandalwood product is real wood?
+Ask for the species first, then ask what physical form the aromatic takes. A genuine heartwood powder gives a restrained cold smell and a slow, developing scent through the burn; a fragrance coat is loud in the box and thin by the middle of the stick. A very low price on a product that claims Indian heartwood is a contradiction rather than a bargain. The species question is the one that cannot be answered with an adjective, and the [sandalwood guide](/blog/sandalwood-incense/) goes further into the species differences.
 
-### Q: Is a substitute always a bad buy?
-No — Australian sandalwood or a Sumatra benzoin is a real product in its own right, often well made and honestly priced. Synthetic ambergris (ambroxide) is a standard, respected perfumery material. The problem is ambiguity, not substitution itself: a label that implies the prestige material while shipping the stand-in, or that omits which one you are getting, is what misleads. The healthy rule is to choose an honestly labeled stand-in over a fake "prestige" material, and to treat a very low price on a scarce material as the strongest cue to look closer.
+### Q: Is a substitute always a worse product?
+No. Substitution, quality, and honesty are three different things. An Australian sandalwood stick can be better made than a stale Indian one, and ambroxide is a respected perfumery material rather than a cheat. The problem is a product that borrows a name it cannot support. Judge the object on how it burns and how it was made, judge the claim on whether it can be checked, and keep the two judgments separate.
 
-### Q: What is the difference between Siam and Sumatra benzoin?
-Siam benzoin (*Styrax tonkinensis*) is sweet, vanilla-leaning, and balsamic, with a powdery, refined character; Sumatra benzoin (*S. benzoin* and *S. paralleloneurus*) is spicier and carries cinnamic acid, giving it a sharper, more resinous edge. They are related but distinct resins from different regions, and both find use in incense — Siam for a sweeter, smoother fixative, Sumatra for a more assertive note. The label should tell you which one you are getting, because the two behave differently inside a blend. See the [benzoin entity](/ingredients/benzoin/).
+### Q: How do Siam and Sumatra benzoin differ?
+Siam benzoin comes from *Styrax tonkinensis* and reads sweet, vanilla-like, and powdery; Sumatra benzoin comes from *S. benzoin* and *S. paralleloneurus* and reads warmer and sharper, with a cinnamic edge. Both work as fixatives in a blend, and they are not interchangeable in a formula where the balsamic sweetness is doing structural work. The label should name which one, and the [benzoin page](/ingredients/benzoin/) covers the behaviour in more detail.
 
----
+### Q: Does a certificate of analysis prove the product is genuine?
+Only if it is tied to your unit. A certificate describes a sample: species, form, batch, issuer, method, date. Check that the species and form match what you are buying, and that the batch number on the paper matches the one on the package. A certificate for a different batch, or one that names no batch at all, is a true document about something else. "Third-party tested" with no named party is a phrase rather than a check.
 
-### Q: Does a high price guarantee the real material?
-No — and for scarce materials the reverse is closer to the truth. The higher the price of the genuine article, the larger the profit in selling a lookalike at a discount that still feels premium, so a high price tag is a stronger reason to verify, not an assurance of authenticity. A fake kyara sold at half the real price is still an expensive fake, and the buyer's comfort with the spend is part of the illusion. The rule that survives this: price tells you which question to ask — on a prestige label, demand the species and the documentation — it does not answer the question for you.
+### Q: Can I test for a substitute at home without equipment?
+You can test behaviour, which is not the same as testing identity. A marked stick burned in a fixed draught shows whether the scent is front-loaded or developing. A cut face shows whether colour is a surface treatment. Water shows relative density. A resin's outline shows whether it was re-formed. None of these names a species, and two of them are easy to defeat with oil and dye. Treat them as filters that decide whether a document is worth requesting.
 
-### Q: How do I read a certificate of analysis (COA)?
-Check that the certificate ties specific claims to the product in your hand: the Latin binomial and common name (identity), the physical form (wood powder, resin tears, oil), a batch or lot number that matches the package, a named issuing lab or body, and the origin. Each of those is a link in a chain of verification, and a missing link weakens the whole document. A certificate that says only "100% pure natural agarwood" with no species, no batch, and no issuer is an adjective in a nicer font, not verification — it gives you nothing to check.
+### Q: Does substituting a material always reduce cost?
+Not reliably. The saving equals the aromatic's share of unit cost multiplied by the discount on that share, so a cheap swap in a small-cost component moves the unit price very little. Lower odour yield can require more material, form changes can add process steps, and a product that burns badly generates returns that cost more than the saving. The substitution that pays best is not the cheapest material; it is the one whose claim nobody checks.
 
-### Q: What does 奇楠 (kyara) actually mean on a label?
-奇楠 (kyara) names the top, most oil-rich grade of 沉香 (agarwood) — soft, fragrant at room temperature, and the scarcest, priciest form of the wood. Because the real grade is so valuable, 奇楠 is also one of the most over-claimed words in the trade: it is frequently stamped on ordinary resin-impregnated wood or oil-injected beads sold at a discount. The honest check is the same four questions — species, form, grade, and price — and a 奇楠 claim at a mid or low price, with no species or origin named, should be read as a prestige word doing the work of a fact.
+### Q: How should a maker word a substitution claim?
+Write the sentence you could defend, and make every element checkable: species, form, grade if claimed, origin, batch reference, and where the documentation lives. Declaring a substitute plainly is a legitimate marketing choice and often a better one than a vague prestige word, because a specific claim invites trust and survives a dispute. Whether a particular market imposes wording requirements is a matter for local rules, and this page does not offer legal advice.
 
-### Q: What is the difference between cultivated and wild agarwood?
-Cultivated agarwood is the same *Aquilaria* species grown on a plantation, often deliberately inoculated to trigger resin, and harvested in years rather than the decades wild resin takes to form. It is genuine agarwood, just younger, lower in oil, and cheaper, and a label that says "cultivated" is an honest one. Wild agarwood is the older, naturally wounded material with a higher resin density and a far higher price. The important line is between cultivated (real, younger) and adulterated (dyed, oil-injected, or synthetic) — not between cultivated and "fake." A cultivated stick is authentic; an oil-injected bead sold as wild kyara is the thing to avoid.
+### Q: Why does 奇楠 appear on so much packaging?
+Because it is the highest grade name in agarwood and the hardest claim to disprove from an object. The real grade is scarce, soft, and oil-rich, and it is priced accordingly, so a mid-priced "奇楠" object is describing a rank its economics cannot support. The word is doing the work that a document should do. When a grade word appears without a species, an origin, or a batch, treat it as a mood word wearing a grade word's clothes.
 
-### Q: Why is agarwood so much more expensive than sandalwood?
-Because of how it forms. Sandalwood is a fragrant heartwood harvested from a living tree, but agarwood resin only appears after an *Aquilaria* tree is wounded or infected and then left for years while it secretes resin around the injury. That makes agarwood a product of time and chance — wounding, survival, years of resin accumulation, then grading — while sandalwood is more directly harvestable. The oil-rich top grade (奇楠) sits at the extreme of that curve. The slow, uncertain supply chain is the economic engine behind the substitution problem: a material that takes a decade to produce is exactly what a cheap lookalike is trying to imitate.
+### Q: Is buying loose powder riskier than buying sticks?
+Different, and often riskier, because powder presents the fewest surfaces to inspect. A stick can be burned through and read across its curve; a chip can be cut; a tear has an outline. Powder has texture and smell and little else, and both are easy to adjust. Buy powder from a seller who names the species and the batch, and test a small quantity by heating it before committing to a larger one.
 
-### Q: Is it legal to buy agarwood?
-Generally yes, but with documentation, because *Aquilaria* and *Gyrinops* species are CITES-listed. Legal international trade in the real material carries paperwork that tracks its origin, so a legitimate seller of genuine agarwood should be able to produce that documentation for a consequential purchase. A seller who cannot, or who dodges the question, is a signal — either a substitute or a trade outside the rules. For a cheap everyday stick the paperwork is not the practical issue, but the existence of the framework gives you a lever when the purchase is expensive or the material is claimed to be wild and rare.
-
-### Q: Does the sink test prove agarwood is real?
-Only partly. A high-resin agarwood chip is dense enough to sink in water, which makes the sink test a genuine signal of oil content — but it is also the easiest signal to counterfeit, because oil injection adds weight to a low-grade chip and the oiled fake sinks too. The test cannot tell the difference between resin that grew in the wood and oil that was pumped in, just as dye reproduces the color of age and oil. So the sink test is one check among several, never the verdict; the claims a forger cannot cheaply copy are the species name and the batch-linked documentation.
-
-### Q: If a substitute smells good, is it still a problem?
-Smell is the least reliable authenticity test, because a good fake is engineered to please your nose and usually succeeds — a synthetic oud or a sprayed sandalwood can smell pleasant on a cold sniff and even on a casual burn. But pleasantness and genuineness are unrelated: a coated base is loud when cold and flat when lit, while a real material is quiet when cold and develops under heat. If you bought an honestly labeled substitute, enjoying it is fine; the problem is paying a prestige-material price for a smell that was designed to imitate it. Judge authenticity by the paper trail and the burn behavior, not by how much you like the first sniff.
-
-### Q: Do I need to distrust every incense seller?
-No — the discipline is questions, not paranoia. Most sellers are honest, and many substitutes (Australian sandalwood, Sumatra benzoin, synthetic ambergris) are legitimate products in their own right. The point of this cross-reference is not suspicion but literacy: ask for the species, the material form, and the grade, and treat a very low price on a scarce material as a signal to look closer. A seller who answers the specific questions is worth your money, whether the material is the prestige original or an honestly labeled substitute; a seller who only repeats adjectives is the one to be cautious with.
-
-### Q: Does a CITES listing mean the material is high quality?
-No. CITES is a trade-control status, not a grade. The listing attaches to the *species* across every specimen — a low-grade cultivated agarwood chip and a top wild kyara are both *Aquilaria*, both CITES-listed, and far apart in quality — so the listing says nothing about whether a specific piece is good. It is a signal about legality and scarcity, not about grade. A seller who waves a CITES listing as proof of quality is leaning on a document that does not say what they are implying; the grade question still has to be asked separately.
-
-### Q: What does a geographic name like "Mysore" or "Hainan" actually guarantee?
-By itself, nothing you can verify in your hand. A region name borrows the authority of a famous source — "Mysore sandalwood," "Hainan agarwood," "Cambodian oud" — but the region is a claim, not a property you can read from the material, and the famous region is exactly the one a seller reaches for to justify a higher price. The check is documentation that ties the material to that region; an unverifiable region name should be treated as a prestige word, a suggestion of quality rather than a fact. The species name still does more work, because a species is falsifiable while a region is mostly not.
-
-### Q: If a label is full of details, can I trust it?
-Specificity is not honesty. A label covered in Latin names, percentages, and region claims can still be wrong — a false specific is worse than an honest omission, because it has the shape of verification without the substance. Judge a label by whether its specific claims can be *confirmed*, not by how many there are: the honest label is the one whose details you can test against the material and its documentation, and the dishonest one is the one whose details you can only admire. The question is not "how much does it say" but "can I check what it says."
-
-### Q: Does buying from a big, recognized brand protect me from substitution?
-Not for the material question. A brand guarantees consistency and shelf presence, not material authenticity — a large maker of affordable "sandalwood" sticks is, by economics, almost certainly using a fragrance accord on a neutral base, because real sandalwood powder at that volume and price is not possible. The brand is honest about the scent it sells, but the buyer who assumes "brand equals real wood" has inferred a claim the label never made. The species and the documentation still apply, brand or no brand.
-
-### Q: Do I need to become an expert to buy incense safely?
-No. The discipline is three plain questions — which species, wood or oil, and what grade at what price — plus a willingness to walk away from vague answers. Those are questions any buyer can ask, and the answers are either specific or they are not, so a non-expert who asks them consistently buys more safely than an expert who stops asking. Substitution is defeated by the consistency of your questioning, not by botanical or chemical expertise.
-
-### Q: Is buying one expensive piece riskier than buying a bulk box?
-Different risk, not more or less. A single costly bead or chip concentrates the forger's profit on one piece, so the fake is elaborate — oiled, dyed, sometimes partly genuine — and the response is documentation plus physical checks. A bulk box of cheap sticks rests on volume and a low cost of goods, so the fake is crude — a charcoal base and a fragrance dip — and the response is reading the ingredient line and the cold-versus-warm burn. The two sizes are two different games, and the verification strategy should match the game rather than the material.
-
-### Q: What does "oil" on a label hide?
-A chain of processing decisions that the single word collapses: which plant part was used (clove bud versus clove leaf are different oils), what extraction method (steam distillation, solvent, or CO2, each giving a different profile), and what yield — the tiny fraction of oil a plant gives up, which is what sets the price. So "sandalwood oil" could be heartwood distillate or a solvent extraction, and the front of the bottle will not say which. The practical read is the same discipline as everywhere on this page: ask which part and which method, and treat an oil that names neither as an unspecified material wearing a specific word.
-
-### Q: If a material is expensive, is it probably genuine?
-No — the premium-price instinct fails hardest where the stakes are highest, because an expensive fake is the most profitable fake. The cheap rule (a low price on a scarce material is a red flag) is widely accepted; the expensive rule is the one people forget — a high price on a scarce material is also a reason to check, because a fake sold at half the price of real kyara is still very expensive and the buyer's comfort with the spend is part of the deception. Price signals risk, not authenticity, and it points the same direction at both ends: look closer the more you are about to pay.
-
-### Q: How can I tell if a resin tear is reconstituted?
-By the shape. A natural resin tear forms as a drop that exudes and hardens, so it carries an irregular, organic shape — a teardrop, a lump, a broken edge — and a slightly sticky, matte surface. A forger can melt resin and press it into uniform pellets, beads, or smooth discs, and that uniformity is the tell, because nature does not exude in identical pellets. Reconstitution is not always fraud in substance — it can be genuine resin re-formed — but the uniform shape tells you the material has been processed, which is the first thing a "raw tears" label should be able to deny.
-
-### Q: Why is loose powder the easiest form to fake?
-Because it has no grain, no shape, and no density to inspect — a colored, scented dust can pass for almost any ground wood. A chip shows grain, a tear shows shape, a bead shows color and density, but a powder shows almost nothing: its color is easy to dye and its smell easy to perfume. The checks that survive the powder form are the cold-versus-warm smell, the burn behavior, and the species-and-documentation questions — powder is the form where the label does the least work, so the questions do the most.
-
-### Q: Is a cheaper substitute always a worse product?
-No — substitution and quality are different axes. Australian sandalwood is a substitute for Indian sandalwood and is a legitimate, well-made material; a stale, poorly processed "Indian sandalwood" can smell worse than a fresh Australian one. So a substitute can be the better product even when it is the cheaper material. The only substitution that is automatically bad is the one that lies about what it is. An honest substitute is a choice; a dishonest one is a fraud, and the two are not the same failure.
-
-### Q: Why does a batch number matter on an incense label?
-Because it ties the product in your hand to the documentation that verifies it. A certificate of analysis only matters if it describes the same material you are holding, and the batch or lot number is what links the two. A product with a batch number can be traced to its production run and its paperwork; a product without one floats free of any documentation, and any certificate shown is untethered. On a consequential purchase, ask for the batch number and check the certificate carries the same one — the number is small and does more verification work than most of the adjectives on the front of the box.
-
-### Q: Does a dark color mean a richer, higher-grade material?
-No — darkness is the cheapest thing to fake. Real high-resin agarwood and aged sandalwood are dark, so a dark chip reads as rich, but dye reproduces that exact color on pale, low-grade wood in seconds, and the visual is the first thing a fake manufactures. Color is a surface, and a fake's whole strategy is to make the surface match the story. Read darkness as a hint, never a verdict — and when a material is sold on its darkness, that is the signal it is asking you to trust.
-
-### Q: Should I be suspicious of every incense seller?
-No — the goal of this page is questions, not paranoia. Most sellers and most products are genuine, and the substitution problem is concentrated in the scarce, expensive, easy-to-fake materials. A sensible skeptic asks the four questions and buys confidently when the answers are clear; a suspicious buyer treats every label as a lie and ends up paralyzed or paying a premium for the feeling of safety. Use the checklist as a filter, not a shield — the aim is to buy well, not to buy fearfully.
-
-### Q: Does a certificate of analysis prove a product is genuine?
-Only if the certificate is linked to the product in your hand. A COA describes a specific sample tested at a specific time, so it must match your purchase on species, batch, and form. A certificate for *Aquilaria* shown alongside an "oud fragrance" is a certificate for a different thing, and a certificate with no batch link is untethered. Read the certificate for the species, the batch number, and the form — not for the reassuring heading — because the paper is a claim that is only as strong as its link to the object.
-
-### Q: Can I rely on the burn alone to tell a fake from the real thing?
-No. The burn tells you how the product was made, not what it is. A well-made synthetic or a coated base can be engineered to smolder evenly and smell pleasant, while a genuine but poorly processed wood can crack, tunnel, or smell flat. So the burn is diagnostic of burn quality and the cold-versus-warm gap, but it cannot carry the whole verification — pair it with the species and the documentation for the material's identity. The burn is a check, never the whole test.
-
-### Q: Can I trust a reputable shop's word?
-Reputation is a better starting point, but it is a prior, not a proof. A shop can pass along substituted stock in good faith, because the substitution usually happens upstream — at the importer or supplier — and the shop's good name does not reach that far back. Reputation buys you a better place to ask the questions, not a pass on asking them. A good shop welcomes the species and documentation questions; a shop that waves them off is one whose reputation has outrun its sourcing.
-
-### Q: Where does substitution actually start?
-Upstream, at the wholesale level. A bulk lot of aromatic wood is graded and priced by oil content and species, and the pressure to blur the boundary is strongest where the volumes and money are largest; the importer, distributor, and retailer then pass the label along, so the original grading decision is several hands back by the time it reaches a stick or a bead. Substitution is a supply-chain phenomenon, not a retail one — which is why the four questions apply at every link, from a shop owner buying a crate to a customer buying a single stick.
-
-### Q: Are the Chinese characters on a label just decoration?
-No — they are usually the most specific part. An English front may say "premium agarwood" while the characters read 奇楠 (kyara) or merely 沉香 (ordinary agarwood), and 机制冰片 (synthetic borneol) versus 龙脑 (natural borneol) is a distinction the English "borneol" erases. Learn a handful of characters — 沉香, 檀香, 奇楠, 龙脑, 安息香, 龙涎香 — and read them directly, because they are the part of the label least likely to be softened for a foreign market. The characters are the fine print, in the other direction.
-
-### Q: Is a substitute always priced cheaper than the real material?
-Not necessarily — and that is part of the disguise. The price gap is the motive for substitution, not its signature: a forger can price a fake at 80% of the real kyara price, keep a large margin, and make the fake look authentic by its cost alone. So a substitute's *cost* is always lower, but its *price* may be anything, and a substitute priced like the real thing is the most convincing fake of all. Price alone, at either end, never settles the question.
-
-### Q: If I've verified a seller once, can I trust them going forward?
-Not as a permanent stamp. A seller's stock changes with every shipment and supplier, so a shop that sourced clean sandalwood in the spring can unknowingly receive a blended lot in the fall. Verification is re-tested on every purchase: trust is a prior, but the four questions are about the product in front of you, and they stay cheap enough to ask again each time.
-
-### Q: Is it smart to always buy the cheapest "agarwood" or "sandalwood"?
-No — chasing the lowest price on a scarce material is buying the ambiguity. The cheapest options are systematically where the price gap is widest, which is exactly where substitution lives, so the "saving" is usually the difference between the real material and the substitute you actually received. The rational move is not the lowest price but the honest one — a price that matches a named species and a checkable grade. The cheapest option is often the most expensive mistake.
-
-## The Name That Drifted: How a Material's Meaning Changes as Supply Shifts
-
-**Direct answer:** A material name that once meant one thing can quietly come to mean a whole family of substitutes, because scarcity — not fraud — is often what first moves the word.
-
-Substitution is not always a switch made at the counter. The deeper version happens over decades, and it is driven by supply, not by a dishonest seller. Follow the chain: a material gains its prestige while it is still abundant → the original source is over-harvested and grows scarce → trade reaches for the nearest available cousin → the cousin inherits the famous name because the name is what buyers recognize → a generation later, the word points to the family, not the original plant. What began as an honest shortage ends as a name that no longer means exactly one thing.
-
-Sandalwood is the clearest case. The name once pointed chiefly to *Santalum album*, the Indian heartwood; as that stock tightened, *S. spicatum* (Australian), *S. austrocaledonicum* (New Caledonian), and *S. paniculatum* (Hawaiian) each borrowed the word, and an unrelated dyewood, *Pterocarpus santalinus*, rides along as "red sandalwood." The word now names a family of woods and a few plants that are not sandalwood at all.
-
-| Name | What it once pointed to | What it points to today |
-|---|---|---|
-| Sandalwood | Indian *Santalum album* heartwood | A genus of woods, plus a dyewood that borrows the name |
-| Agarwood / oud | Resin-rich *Aquilaria* wood | Everything from kyara down to synthetic "oud" oil |
-| Ambergris | The scarce marine secretion | Mostly ambroxide, a lab-made stand-in |
-| Cedarwood | True *Cedrus* wood | Often juniper (*Juniperus virginiana*) in aromatics |
-
-The table is not a claim that the cousins are fake. Australian sandalwood is a real, usable wood, and ambroxide is a legitimate perfumery material. The point is narrower and more useful: the name has drifted, so the name alone cannot tell you which plant or which material you hold. That is exactly why the species question — the Latin binomial — is the anchor this whole cross-reference keeps returning to.
-
-The practical consequence runs through every section above. When a buyer treats "sandalwood" as one fixed thing, they read the label through a meaning the label no longer carries → the gap between the historical word and the present family is where the substitution hides → a buyer who knows the name drifted asks for the binomial, while a buyer who trusts the name accepts whatever the family contains. Scarcity moved the word; the honest fix is to ask for the name that did not move — the species.
-
-*This is the author's editorial view and experience — not a verified fact.*
+### Q: When is documentation worth the trouble?
+When the money at stake is larger than the cost of asking. A single cheap stick is not worth a certificate hunt, and the sensible response to a vague label at a low price is to buy a small quantity and judge the burn. The calculation flips as the unit price rises: on an expensive piece, the difference between an honest object and an expensive mistake dwarfs any effort spent on paperwork, and the absence of documents becomes information in its own right. A practical test is whether the purchase would still feel reasonable if the object turned out to be the cheaper grade, because that is the outcome a document is meant to exclude.
 
 ## Sources
 
-- Flora of China — the [*Aquilaria* genus entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) together with the Santalaceae pages, for the botanical identities.
-- CITES Checklist — the [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria), the trade-control record behind agarwood and ambergris regulation.
-- 本草纲目 — a historical materia-medica register of the named materials (traditional, not clinical). [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
-- 周嘉胄《香乘》(Ming) — classical material distinctions. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
-- Trade and enthusiast writing on substitution and adulteration patterns (sandalwood species, agarwood and oud fakes, benzoin types).
-- The linked entity and guide pages for deeper detail.
+**Direct answer:** The botanical and regulatory statements rest on the flora record and the CITES listing; the historical material rests on two classical Chinese texts, read as traditional records rather than as evidence.
 
----
+- Flora of China — the [*Aquilaria* genus entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387), used here for the botanical identities behind agarwood and its relatives.
+- CITES Checklist — the [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria), the trade-control record behind the permit requirements discussed above.
+- 本草纲目 — a historical materia medica that records named substances and their uses. Consulted as a traditional record, not as clinical evidence. [Full text on Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- 周嘉胄《香乘》(Ming dynasty) — a compilation of incense recipes and material distinctions. Traditional belief and historical practice, not laboratory data. [Full text on Wikisource](https://zh.wikisource.org/wiki/香乘).
+- Trade and enthusiast writing on adulteration patterns across sandalwood, agarwood, and the benzoins, used for the practical signals rather than for quantitative claims.
+- The linked entity pages and guides on this site, which carry the material-level detail behind each row of the cross-reference.
+
+Statements about grades, trade practice, and burn behaviour in this page describe craft observation and trade usage. They are not laboratory findings, and nothing here is a health claim.
 
 ## Related Resources
 
-- [Natural vs Synthetic Incense](/blog/natural-vs-synthetic-incense/)
-- [Sandalwood Incense Guide](/blog/sandalwood-incense/)
-- [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/)
-- [Incense Authentication Database](/blog/incense-authentication-database/)
+**Direct answer:** Four companion pages carry the material detail this reference compresses, and two of them take the buying decision further than a reference can.
 
-**Natural next step:** turn this into a working checklist — see [how to tell natural from synthetic](/blog/natural-vs-synthetic-incense/), or dig into the fakes in the [authentication database](/blog/incense-authentication-database/).
+- [Natural vs Synthetic Incense](/blog/natural-vs-synthetic-incense/) — the material-versus-compound distinction in more depth.
+- [Sandalwood Incense Guide](/blog/sandalwood-incense/) — species by species, with the aroma differences.
+- [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/) — grades, cultivation, and what the resin actually does.
+- [Incense Authentication Database](/blog/incense-authentication-database/) — documented cases and the checks that exposed them.
+
+**Related data asset:** the <a href="/blog/incense-material-comparison-matrix/">material comparison matrix</a> sets the same materials side by side on behaviour rather than on name. For the buying decision that follows this reference, see [how to choose incense](/blog/how-to-choose-incense/).
+
+## Summary
+
+**Direct answer:** A label word is a claim with a size, and the buyer's job is to find that size before agreeing to its price.
+
+A label word is a claim with a size. Category words are free to print and easy to hide behind; grade words raise the price and demand documents; origin words are the cheapest to inflate; form words change behaviour and can be tested; mood words mean nothing and appear everywhere. Read the label to find the highest rung it reaches, then ask the question that rung leaves open.
+
+The checks follow from the claim. A burn curve shows construction, a cut face shows colour treatment, a resin outline shows processing, and only a batch-linked document addresses identity. None of these is a verdict alone, and together they narrow the field enough to make a decision.
+
+The economics explain the rest. Substitution pays where the price gap is widest, grade substitution hides behind a true species claim, and a cheaper material is only cheaper on the invoice. Buy the honest price, ask for the name that supply cannot rewrite, and treat smoke as a combustion product that needs air.

@@ -11,222 +11,186 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
+**Direct answer:** Aromatherapy beads are **porous beads that hold essential oil and release it slowly while you wear them**. The bead is the reservoir; the oil is the scent. Nothing burns, nothing smokes, and the aroma stays within arm's reach rather than filling a room.
 
-**Direct answer:** Aromatherapy beads are small, absorbent pieces — wood, stone, or clay — that you load with fragrance oil and wear against the body, so the scent leaks out slowly at arm's length with no flame and no smoke. They are the portable, zero-combustion corner of the incense family, and the whole format rests on a single idea: a holder that soaks up oil and gives it back over days.
-
-**Key facts:** The bead is almost never the scent itself; it is a holder that you (or a maker) load with oil. The scent thins over days or weeks and comes back when you add more. This is a worn-fragrance format, not a burned one, and it carries no therapeutic claim.
+**Key facts:** The format is a carrier plus a volatile payload. Wood, lava stone, and unglazed clay are the common carriers because they absorb oil into their pores and give it back over days or weeks. When the scent fades, a drop of oil restores it — the object outlives the smell. Nothing in this description involves a physiological effect; the bead is a fragrance and comfort object, and the mechanism is evaporation.
 
 ---
 
 ## Key Takeaways
 
-- Aromatherapy beads are worn, not burned — no smoke, no open flame.
-- They are a holder for fragrance oil; the scent fades and is recharged.
-- The scent is personal — it stays near the wearer and never fills a room.
-- No physiological effect is claimed; this is a fragrance and comfort object, nothing more.
+- **Worn, not burned.** Zero flame, zero combustion particles — the format's defining difference from incense.
+- **Carrier plus oil.** The bead contributes structure and slow release, not the scent itself.
+- **Short range by design.** A bead scents the wearer and the space immediately around them; it is not a room diffuser.
+- **Fade is normal.** Days to weeks, then refresh. A bead that stops smelling has not failed; it has emptied.
+- **Porosity decides everything.** Sealed, polished, or coated beads hold almost nothing and cannot be recharged.
+- **"Sandalwood" on a bracelet usually describes a look, not heartwood.** Read the material claim the way you would read any other.
 
-## What They Actually Are
+---
 
-**Direct answer:** Aromatherapy beads are small, absorbent beads strung into bracelets or necklaces, picked for their power to soak up and slowly release fragrance oil — the material is sandalwood, other woods, lava stone, or clay, and openness of the surface is the property doing all the work.
+## What the Format Actually Is
 
-Two facts clear away most of the confusion:
+String a set of small porous beads, apply oil, wear the result. That is the whole product, and its simplicity is why the category attracts so much storytelling. The physical facts are modest: a porous solid absorbs a liquid, the liquid evaporates slowly from the surface and the pore mouths, and body warmth speeds the process slightly.
 
-1. **The oil is the scent, not the bead.** A "sandalwood bead bracelet" is usually wood that has been scented, not raw heartwood; the smell you notice is oil sitting in the pores, not the timber itself.
-2. **The scent runs out.** After days or weeks the oil has evaporated and you add a drop to refresh it. The recharge is not a flaw; it is the format's operating loop.
+The beads are usually wood, lava stone, or clay. Wood brings its own faint background scent, which can complement or fight the oil. Lava stone is openly porous and holds a lot, but it looks industrial and can leave oil marks on fabric. Clay sits in between, absorbing well and releasing slowly, though glazed clay behaves like glass and holds nothing at all.
 
-See [essential oils in incense](/blog/essential-oils-in-incense/) for the honest framing of what "aromatherapy" can and cannot mean.
+What the bead is not: a source of essential oil. A bead described as "sandalwood" is not expressing santalol from its own tissue. It is a piece of wood, sometimes sandalwood, sometimes another species, sometimes a composite, that has been scented. The distinction matters at the price level, and it matters more at the expectation level — a buyer who thinks the bead is the material will expect the smell to be permanent.
 
 ## The Evaporation Loop, Step by Step
 
-**Direct answer:** The whole format runs on a single physical chain, and spelling it out makes every buying decision easier: fragrance oil is a mix of volatile molecules → the absorbent bead pulls the liquid into its surface by capillary action → body warmth and moving air lift the lightest molecules off as vapor → the scent releases gradually at close range → the heavier molecules leave last, so the aroma thins and softens over days → a fresh drop restarts the loop.
+The behaviour of a bead follows a short chain, and almost every complaint about the format traces back to one link in it.
 
-Each arrow is a place where the format can fail or succeed. A non-absorbent bead stops the chain at the first step, because there is no surface to pull the oil in → the oil beads on top → it evaporates in hours instead of days. That single failure is why "open surface" is the first thing to look for, and why a sealed, glossy bead is usually decorative rather than functional.
+oil is applied to the bead surface → capillary action draws it into the pores → the volatile fraction migrates back to the surface → body heat and air movement lift it into the air → the light molecules leave first → what remains is the heavy, sticky fraction → the scent flattens and eventually stops → a fresh application restarts the loop
 
-## Beads vs. Burned Incense: Two Different Jobs
+Two consequences follow. First, the smell you get in the first day is not the smell you get in the second week; the oil fractionates on the bead just as it does in a bottle. Second, the residue that builds up after several cycles is not the original oil — it is the non-volatile tail, oxidized and thickened. That residue is why an old bracelet can smell muddy even after a fresh drop. Cleaning the bead, not adding more oil, is the fix.
 
-**Direct answer:** Beads trade room-filling power for zero smoke — a stick scents a space through combustion, a bead scents a person through slow evaporation, and the two solve different problems.
+The loop also explains why the format is quiet. Evaporation from a small surface at skin temperature releases a tiny mass per hour compared with a burning stick, which is converting solid material to smoke continuously. A bead cannot fill a room because it was never designed to move that much material.
 
-| | Beads | Stick / cone |
-|---|---|---|
-| How the scent reaches you | Worn, against the body | Fills the room |
-| Smoke and flame | None | Smoke plus an open flame |
-| How long it lasts | Days to weeks, then refreshed | Minutes to hours |
-| Chosen for | A personal scent, smoke-free spaces | Scenting a room |
+## Bead Material as the Mechanism
 
-Beads exist for two jobs a stick does poorly: wanting a scent on you rather than in the room, and wanting a scent where burning is unwelcome — offices, shared spaces, travel, a strictly smoke-free home. The trade-off is the mirror image of the benefit: because nothing combusts, the scent never projects far, so it stays close and quiet.
+Material choice is the main engineering decision in the format, and it is usually discussed as a style question. It is not.
 
-## The Material Is the Mechanism: A Grading Table
+| Carrier | How it holds oil | Release character | Rechargeable | Watch-outs |
+|---|---|---|---|---|
+| Open-grain wood | Absorbs into surface pores and grain | Slow, warm, slightly woody tint | Yes, until pores clog | Oil darkens the wood; water warps it |
+| Sandalwood-type wood | Fine grain, moderate absorption | Soft, steady, adds its own base | Yes, with care | Species claims are often loose |
+| Lava stone | High porosity, deep absorption | Strong early, then long tail | Yes, but residue builds | Can stain clothing; coarse surface |
+| Unglazed clay | Even porosity, good capacity | Steady, neutral | Yes | Brittle; chips at the hole |
+| Glazed or sealed bead | Almost none | Surface film only, hours at best | No | Sold as "aromatherapy" anyway |
+| Synthetic resin bead | None | None, unless coated | No | May be painted to look like stone |
 
-**Direct answer:** A good bead is absorbent and unsealed — the more open surface it presents, the more oil it holds and the longer it releases — which is why dense, finished, or synthetic beads fail the job.
+The last two rows are the ones buyers miss. A polished, glossy bead can be beautiful and completely useless as a carrier. If the product description emphasizes the finish and never mentions porosity, that is the tell.
 
-| Material | Openness | How it behaves |
-|---|---|---|
-| Lava stone | Very high | Holds a lot of oil, releases steadily, neutral scent |
-| Sandalwood / soft woods | High | Warm woody base that blends with the oil |
-| Unglazed clay | High | Absorbent, earthy, inexpensive |
-| Dense, coated, or sealed wood | Low | Repels oil, little to no release |
-| Glass / acrylic | None | Holds nothing; purely decorative |
+## Worn Scent vs Room Scent
 
-The table is a quick buying screen. A sealed or heavily finished bead sheds oil instead of absorbing it → the oil sits on the surface and evaporates in hours → the "scent" you paid for is gone almost at once. The material is the whole mechanism, which is why a plain, absorbent bead usually beats a prettier sealed one.
+| Property | Bead bracelet | Stick or cone | Diffuser |
+|---|---|---|---|
+| Delivery | Passive, at skin distance | Active, room scale | Active, room scale |
+| Smoke or flame | None | Both | None |
+| Power needed | None | None | Usually yes |
+| Typical duration | Days to weeks, refreshable | Minutes to hours, consumable | Hours per fill |
+| Refill cost | A few drops of oil | A new stick | A bottle of oil |
+| Portability | Pocket | Fragile | Not portable |
+| Best use | Personal scent, travel, shared offices | Ritual, atmosphere, timing | Whole-room scenting |
 
-## What an Open Surface Does Not Mean
+Read the table as a set of trade-offs rather than a ranking. The bead wins on portability and on settings where any smoke is unwelcome. It loses on reach and on the discipline required to keep it charged.
 
-**Direct answer:** High absorbency does not mean the bead lasts forever, holds any amount of oil, or suits every oil — it only means the surface can take in and release oil, and the rest of the picture comes from the oil and the finish.
+## Why "Sandalwood Bead" Usually Isn't Heartwood
 
-Three boundaries: absorbency controls capacity and release speed, not the oil's own evaporation rate; a very absorbent bead still runs dry once the oil is gone; and an unsealed finish is a separate question from how open the material is. A bead can be absorbent yet lacquered, which kills the very property the material offers. For a buyer, the useful habit is to treat absorbency as the entry requirement, not the whole story — a misconception that costs people more than it should.
+The naming problem in this category is structural. Sandalwood heartwood is expensive, and a bracelet needs a few dozen beads; carving them from solid heartwood would put the object in a different price class entirely. So the market supplies beads that look like sandalwood, are sometimes a cheaper wood, and are scented to smell like sandalwood. None of that is dishonest if the listing says so.
 
-*This is the author's editorial view, not a verified fact.*
+Three claims to separate when you read a listing:
 
-## How Much Oil, How Often
+- **"Sandalwood bracelet"** — may mean the wood species, may mean the colour, may mean the scent. Ask which.
+- **"Scented with sandalwood essential oil"** — a claim about the payload, and a much more specific one.
+- **"Natural fragrance"** — a marketing phrase with no fixed meaning; it does not establish that any named material is present.
 
-**Direct answer:** A single drop is usually enough for a small bracelet, and the refresh interval follows the oil — light citrus oils need recharging sooner, heavier woods and resins later — so there is no fixed schedule, only a nose check.
+The same pattern shows up across the site's [substitution cross-reference](/blog/incense-substitution-cross-reference/) — one word carrying several different products. For beads, the practical rule is to buy the carrier and the oil as separate decisions, then combine them yourself. You get a known wood, a known oil, and a rechargeable object instead of a sealed promise.
 
-In practice, put one drop on a few beads or a cloth, let it sink in, and wear it; when the scent thins to a whisper, add another drop. Overloading the bead does not make it last longer — the extra oil just sits on the surface and evaporates faster. Recharging by feel rather than by the calendar is the honest way to run the loop, and it costs nothing to learn. The point is that a bead is a rhythm to keep, not a battery to charge once.
+## Testing Porosity Before You Commit
 
-## Choosing a Bead by Where You'll Wear It
+Porosity is invisible in a product photo, which is why the format is so easy to mis-sell. Four checks, in order of how much they tell you:
 
-**Direct answer:** The right bead depends on the setting — a neutral lava-stone bead suits a shared office, a sandalwood bead suits a warm personal scent, and unglazed clay suits a budget start — and the material should match the room, not just the look.
+1. **Look into the drill hole.** The channel through each bead exposes raw material. A matte, slightly rough interior means open grain; a glossy or painted interior means the bead was finished after drilling, and the pores are sealed.
+2. **Compare weight to size.** Two bracelets of the same diameter should not weigh the same if one is dense resin and the other is open wood. A surprisingly heavy bead is usually dense, and dense means low capacity.
+3. **Tap two beads together.** A dull, soft click suggests a light, porous material; a hard, high click suggests stone, glass, or resin.
+4. **Read the finish claim.** Words like polished, lacquered, waxed, and sealed all describe a barrier. None of them are defects in a decorative bead — they are simply incompatible with the carrier function.
 
-| Setting | Good material choice | Why |
-|---|---|---|
-| Shared office / travel | Lava stone | Neutral, high hold, low odor of its own |
-| Personal warm scent | Sandalwood / soft wood | Adds a woody base to the oil |
-| Budget / daily rotation | Unglazed clay | Cheap, absorbent, easy to swap |
-| Looks only, no scent | Glass / acrylic | Decorative; holds nothing |
+A seller who cannot say whether the bead is sealed has probably not thought about the question, and that is itself information.
 
-The table joins the material to the job. A bead that looks good but is sealed will not perform in a no-smoke office, and a plain lava-stone bead will outperform it on the one axis that matters — holding the scent. In practice, matching the material to the setting is more useful than matching it to an outfit.
+Not every fragrant material behaves well on a porous carrier. The bead is an open surface exposed to air and skin, which rewards oils that are stable and penalizes those that oxidize fast or leave heavy residue.
 
-*This is the author's editorial framing, not a claim about any product.*
+| Oil type | Behaviour on a bead | Longevity | Notes |
+|---|---|---|---|
+| Citrus peel oils | Bright opening, fast fade | Short | Oxidizes quickly; keep away from light |
+| Light floral absolutes | Distinct, expensive, small dose | Medium | Can turn syrupy as the top leaves |
+| Woods and resins | Slow, steady, base-heavy | Long | Residue builds; clean between charges |
+| Synthetic fragrance oils | Consistent, strong, cheap | Medium to long | Not essential oils; label honestly |
+| Diluted blends | Easier on skin, softer throw | Medium | Carrier oil can leave the bead greasy |
 
-## Beads vs. a Diffuser
+The trade-off is always the same: the materials that smell best in the first hour are usually the ones that disappear fastest. A wood or resin note will still be detectable in a fortnight; a citrus note will not. If you want a bright opening and a lasting base, the practical answer is a blend rather than a single oil, applied in small amounts.
 
-**Direct answer:** Both are smoke-free, but a bead diffuses passively at close range while a diffuser pushes oil into a whole room — the bead is personal and portable, the diffuser is a room-level appliance.
+## Dose and Refresh
 
-| | Beads | Diffuser |
-|---|---|---|
-| How it works | Passive evaporation from a worn object | Active mist, heat, or fan |
-| Reach | Close to the wearer | The whole room |
-| Power and refill | None; re-oil by hand | Needs power and refills |
-| Best for | A scent that travels with you | Filling a space evenly |
+There is no universal schedule, because bead mass, porosity, oil volatility, and wear time all move the number. What can be said is the shape of the cycle:
 
-The split is a matter of scale, not quality. Want a scent on you that moves when you move? A bead fits. Want a scent throughout a room, quickly and evenly? A diffuser is the better tool, and it trades portability for reach and a power cord.
+1. **Start small.** A drop or two on a few beads is enough to judge the throw. Over-oiling produces a greasy surface that attracts dust and transfers to clothing.
+2. **Apply to the inner surface, not the outer.** Oil on the side that faces away from the skin releases more slowly and stains less.
+3. **Let it rest before wearing.** A few hours of equilibration spreads the oil through the pores and avoids a wet patch against the wrist.
+4. **Refresh when the scent reads flat, not when it vanishes.** The tail of a charge is thin and dull; that is the signal.
+5. **Clean periodically.** A dry wipe, or a lightly damp cloth followed by thorough drying, removes the oxidized residue that makes old beads smell muddy.
 
-## The Recharge Habit
+Water is the enemy of wood and clay beads. A bracelet worn into the shower will swell, crack, or grow mould in the grain, and no amount of oil will fix that. Take it off before washing.
 
-**Direct answer:** Treating the bead as a small ritual — a single drop, a brief wait, a whiff test — keeps the scent honest and costs less than chasing a "stronger" bead.
+## The Skin Question
 
-The loop is a habit, not a one-time setup. Put one drop on a low-visibility spot, wait a few minutes for it to soak in rather than smear off, then bring the bead near your nose to check the sillage — the close, personal trail the bead puts out. If the whiff is faint the next day, add another drop; if it is still strong, leave it alone. Overloading is the common mistake: extra oil pools on the surface and leaves fast, so a heavy hand shortens the scent rather than lengthening it. The rhythm — a drop, a wait, a check — is the whole format, and it is the same no matter what the bead costs.
+A bead is a better carrier than bare skin for concentrated oils, but it is not a licence to ignore dose. Essential oils are concentrated plant extracts; some are common skin sensitizers, and repeated exposure to the same material raises the risk rather than lowering it.
 
-*This is the author's editorial view, not a verified fact.*
+Practical boundaries:
 
-## Beads in the Wider Incense Family
+- **Do not drip neat oil onto skin and call it aromatherapy.** Apply to the bead, let it settle, then wear.
+- **Patch-test a new oil** on a small area before committing a bracelet to it, particularly if you have reacted to fragrances before.
+- **Keep beads away from small children and pets.** Beads are small enough to swallow, and pets groom their fur, which means they ingest whatever lands on it.
+- **Stop if the skin under the bracelet reddens or itches.** That is a reaction to the oil or to the carrier, and the answer is removal rather than a different scent.
 
-**Direct answer:** Beads sit at one end of a family that runs from combustion to pure evaporation — sticks and cones burn, powder and resin heat, and beads only evaporate — so their one real edge is the absence of heat and smoke.
+None of this is a therapeutic protocol. It is handling guidance for a fragrance object, which is the correct frame for the entire category. The [essential oils in incense](/blog/essential-oils-in-incense/) page covers the material side in more depth.
 
-Place the format on a line. Sticks and cones combust, which fills a room fast and produces smoke. Loose resin and powder are warmed rather than burned, trading some reach for less smoke. Beads drop the heat entirely, which removes the smoke question but also removes the reach — a personal scent is all they produce. The trade is not a ranking; it is a choice of which cost you accept. Pick beads when smoke and flame are the problem; pick a heated or burned format when a room-level scent is the goal. Knowing where the format sits on that line is what stops a buyer from expecting a bead to do a stick's job.
+## What the Bead Does Not Do
 
-*This is the author's editorial view, not a verified fact.*
+The category's marketing routinely promises mood effects, calm, balance, and sleep. Those are therapeutic claims, and this page does not make them. A scent can be pleasant; a scent can be associated with a memory; an object can be reassuring to wear. None of that is a physiological effect, and none of it requires a bracelet.
 
-## Picking an Oil for a Bead
-
-**Direct answer:** The oil you load matters as much as the bead — light, volatile oils such as citrus fade in a day, while heavier resins and woods linger for weeks — so the scent's lifespan is chosen at the bottle, not at the bead.
-
-Volatility is the switch. Citrus and other light, sharp notes are small molecules that leave fast, which suits a fresh, short-lived scent but demands frequent recharging. Resins, woods, and earthy notes are heavier and hang around longer, so a sandalwood or frankincense oil will outlast a lemon one on the same bead. Dilution also counts: an oil already cut with a neutral carrier reads softer and fades sooner than a concentrated one. The practical rule is to match the oil to how often you want to re-scent — bright and light for daily touch-ups, deep and heavy for a scent you set and forget.
-
-*This is the author's editorial view, not a verified fact.*
-
-## Keeping a Bead Clean and Ready
-
-**Direct answer:** A bead lasts longest when it is kept away from sunlight, dust, and other scents between wears — a soft pouch or closed drawer keeps the surface clear so the next drop of oil has somewhere to go.
-
-Storage shapes how well a bead takes its next charge. Sunlight and open air dry out any leftover oil and, over time, can dull the surface; dust clogs the pores the way a sealed finish would. A soft cloth pouch or a closed drawer solves both, and it also stops the bead from picking up neighboring smells — wood beads in particular will absorb whatever sits nearby, which is how a bracelet ends up smelling like a drawer of linens rather than its oil. Before recharging, a quick wipe with a dry cloth clears the surface so a fresh drop soaks in instead of pooling on grime. None of this is complicated, and it is the difference between a bead that holds a scent for weeks and one that fades in days.
-
-*This is the author's editorial view, not a verified fact.*
-
-## The Compliance Line: What This Page Does Not Claim
-
-**Direct answer:** Aromatherapy marketing is packed with claims that scents "reduce anxiety," "balance moods," or "heal" — IncenseHub makes none of those claims, because beads are a fragrance and comfort object, and the aroma's effect is subjective, not physiological.
-
-The distinction is not pedantry. "Calming," "grounding," and "uplifting" are words people reach for to describe a pleasant smell, and that is fine as description — it is not fine as a medical claim. This page describes the holder-and-oil mechanic and the fade-and-refresh reality, and stops there. The scent is real; the experience is personal; no physiological effect is asserted. See [essential oils in incense](/blog/essential-oils-in-incense/) for the fuller honest framing.
-
-## Why This Page Reads Different
-
-**Direct answer:** Most "aromatherapy bead" content sells healing; this page sells the mechanism — an absorbent holder plus an oil, with a fade-and-refresh loop — and treats wellness language as the marketing layer it usually is.
-
-My position, plainly: beads are the format most prone to being oversold, because "aromatherapy" is a word that inflates a simple evaporation device into a wellness product at a markup. The value here is the mechanism, not the mystique — and a $40 "healing" bracelet is usually the same absorbent bead with a nicer story. The mechanism being simple does not mean the product is worthless; it means the worth lives in the mechanism, not the story.
-
-## Common Mistakes
-
-1. **Thinking the bead is the scent.** It is the holder; the oil is what you smell.
-2. **Thinking the scent is permanent.** It fades and asks to be refreshed — that is the design, not a defect.
-3. **Putting undiluted oil straight on skin.** Oils are concentrated; a bead is a gentler holder than bare skin, but still treat the oil with care around skin, children, and pets.
-4. **Reading "sandalwood bead" as real sandalwood.** It usually means scented wood, not heartwood.
-
-## The Author's Take
-
-**Position:** Beads do a real job — scent where smoke is unwelcome — but they are the format easiest to oversell, and the honest move is to buy the mechanism, not the marketing.
-
-**Reasoning:**
-- A "sandalwood" bead bracelet is normally a scented holder rather than heartwood, and its scent fades in days — so the premium paid for a name is often for the story, not the material.
-- Between a plain absorbent bead with a good oil and a "healing" bracelet at a markup, the plain setup gives the same mechanic for less money, and that is the one worth buying.
-- The value lives in the evaporation loop, not in the wellness promise wrapped around it.
-
-*This is the author's editorial view and experience — not a verified fact.*
-
-## Verification Notes
-
-- The "holder plus fragrance oil, fading and refreshed" mechanic is a standard, uncontroversial description of the format.
-- No therapeutic, mood, or health claim is made anywhere on this page.
+The honest version is still worth buying. A bead bracelet is a portable, smoke-free way to carry a smell you like, refreshable for as long as the carrier lasts, and quiet enough for an open-plan office. That is a real set of properties. It simply is not medicine.
 
 ## FAQ
 
-### Q: Do aromatherapy beads produce smoke?
-No. They are worn and let the oil's scent out slowly — no flame, no burning, no smoke, which is the whole point of the format. Since nothing combusts, none of the particulates a burning stick puts out are produced. The trade is reach: the scent stays near the wearer instead of filling a room.
+### Q: Will these beads smoke at all?
 
-### Q: How long does the scent last?
-Days to weeks, thinning as it goes, then renewed with another drop. The material does not wear out — the oil does — so a wood, stone, or clay bead can be re-scented repeatedly while it stays clean and absorbent. Lighter citrus leaves faster than heavier woods and resins. The fade-and-refresh cycle is the design, not a bug.
+No. There is no combustion at any point in the format — the oil evaporates from a porous surface at body temperature, which is a physical process rather than a fire. That is why beads suit offices, shared flats, hotels, and any household where burning is banned or unwelcome. The absence of smoke also means the absence of the fine particles a burning stick produces, which is the main air-quality objection to incense. The trade-off is range: without heat and airflow to carry it, the scent stays close to the wearer.
 
-### Q: What are aromatherapy beads made of?
-Absorbent materials — wood (sandalwood among it), lava stone, or clay — chosen to drink oil in and let it out slowly. Openness of the surface is what matters; a dense, non-absorbent piece will not hold the oil. Keep the holder-versus-scent split in mind: a "sandalwood" bracelet is usually scented wood rather than raw heartwood.
+### Q: How long does one charge of oil last?
 
-### Q: Are aromatherapy beads the same as incense?
-Same family, different format. Incense burns and fills a room, making smoke as it scents the space; beads are worn and give a personal scent at close range only. A stick lasts minutes to hours, a bead fades over days to weeks and can be refreshed. See [which incense format](/blog/which-incense-format/).
+Days to a few weeks per charge, depending on the oil and the carrier. Citrus notes are gone fastest; woods and resins linger. The bead itself does not expire — it is a reservoir that empties — so the lifetime of the object is set by the material's condition, not by the scent. A bracelet worn daily in a warm climate will need refreshing more often than one worn occasionally indoors.
 
-### Q: Can I refresh aromatherapy beads?
-Some take new oil easily; others are sealed or sold as single-use. Wood, lava stone, and unglazed clay usually refresh well with a few drops. A coated or heavily finished bead may refuse new oil, so check the material and whether the seller calls it refreshable before buying.
+### Q: What material are the beads?
 
-### Q: Are aromatherapy beads safer than burning incense?
-In the narrow air-quality sense, yes: no smoke means no combustion particulates. But that is about smoke, not any health benefit — oils are concentrated and still need care around skin, children, and pets. "Safer" means "no smoke, no flame," not "medically beneficial."
+Usually open-grain wood, lava stone, or unglazed clay. The common requirement is porosity: the material must have connected pore space that oil can enter and leave. Polished, lacquered, glazed, or resin beads fail this test, even when they are sold as aromatherapy. Check the listing for a porosity claim and, if possible, look at an unpolished cut face or the inside of the drill hole.
 
-### Q: Do aromatherapy beads work like a diffuser?
-Sort of. A bead diffuses passively right next to you; a diffuser actively pushes oil into a whole room with mist, heat, or a fan. Beads are personal and portable; a diffuser is a room appliance that needs power. Scent that travels with you? Beads. Scent that fills a room? A diffuser.
+### Q: Can any bead bracelet be recharged?
 
-### Q: How do I choose a bead that will hold a scent?
-Look for an open, unsealed surface. Touch a drop of oil to it and watch whether it soaks in or sits on top — if it beads up, the piece is sealed or too dense. Lava stone and unglazed clay are the easiest starting points, and a plain uncoated wood bead beats a lacquered one.
+Only if the carrier is porous and unsealed. Wood, lava, and unglazed clay can take fresh oil repeatedly, though the pores slowly clog with oxidized residue and the bead becomes less responsive over years. Glazed or varnished beads cannot be recharged at all; the oil sits on the surface and disappears within hours. If a seller does not describe the bracelet as rechargeable, assume it is not.
 
-### Q: Why does a bead stop smelling even though I never washed it?
-Because the oil finished evaporating — the bead has not "gone off." A bead with no smell has simply run out of oil, and the fix is one fresh drop. If it refuses to take the drop, the surface is sealed or coated, not worn out.
+### Q: Why does my bracelet smell sour after a few weeks?
+
+Oxidation, plus accumulated residue. The light, pleasant fraction of the oil leaves first; what stays behind reacts with air and skin oils and turns heavy, waxy, or sour. Adding more oil on top of that residue produces a muddled smell rather than a fresh one. Wipe the beads, let them dry fully, and start again with a smaller dose. Storing the bracelet in a closed pouch when not worn slows the process.
+
+### Q: Is a bead safer than a burning stick?
+
+For indoor air, they avoid combustion entirely, so they produce none of the particles and gases a burning stick creates. That is a real advantage in a sealed room. It is not a claim that the oil is harmless: concentrated essential oils can irritate skin and should be kept away from children and pets, and repeated exposure to a sensitizing oil can become a problem over time. "No smoke" and "no risk" are different statements.
+
+### Q: How is a bead different from a diffuser?
+
+A diffuser moves oil into the air actively — with a fan, a heater, or an ultrasonic plate — so it can scent a room in minutes. A bead releases passively from a small warm surface, so it scents a person. Diffusers need power and periodic cleaning; beads need neither, but they also cannot fill a space. Choose by the question you are asking: "what should the room smell like" points to a diffuser, "what should I smell like" points to a bead.
 
 ## Sources
 
-- Standard descriptions of the holder-bead + fragrance-oil mechanic.
-- [Lavandula in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757) — the botanical record for lavender, a common bead-scent oil.
-- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — beads are a zero-combustion option, which is their air-quality distinction from burned incense.
-- The [essential oils in incense](/blog/essential-oils-in-incense/) guide for the honest aromatherapy framing.
+- Standard trade descriptions of the porous-carrier principle and the fade-and-refresh cycle.
+- [Lavandula in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019757) — the botanical record for lavender, an oil often used in this format.
+- [EPA indoor air quality](https://www.epa.gov/indoor-air-quality-iaq) — context for why a zero-combustion format matters indoors.
+- [Essential Oils in Incense](/blog/essential-oils-in-incense/) — material behaviour and handling guidance followed here.
 
 ## Related Resources
 
-- [Which Incense Format Is Right for You?](/blog/which-incense-format/)
-- [Essential Oils in Incense](/blog/essential-oils-in-incense/)
-- [Incense Powder & Resin](/blog/incense-powder-resin/)
-- [Incense Gift Guide](/blog/incense-gift-guide/)
+- [Which Incense Format Is Right for You?](/blog/which-incense-format/) — where beads sit among sticks, cones, coils, and heaters.
+- [Essential Oils in Incense](/blog/essential-oils-in-incense/) — what the oils are and how they behave.
+- [Incense Powder & Resin](/blog/incense-powder-resin/) — the other low-tech formats.
+- [Incense Gift Guide](/blog/incense-gift-guide/) — beads as a gift, and what to check first.
 
-**Natural next step:** see [how to choose incense](/blog/how-to-choose-incense/) for the full selection framework.
+**Natural next step:** the broader selection logic is in [how to choose incense](/blog/how-to-choose-incense/), which treats format, scent family, and setting as three separate decisions.
 
 ## Summary
 
-- Aromatherapy beads are worn, not burned — zero smoke, zero flame, a personal scent at close range.
-- The bead is an absorbent holder for fragrance oil; the oil is the scent, and the loop is fade-and-refresh.
-- Openness is the whole mechanism — a sealed bead sheds oil and fails the job.
-- No therapeutic claim is made; the aroma's effect is subjective, not physiological.
-- Buy the mechanism, not the marketing: a plain absorbent bead plus good oil outperforms a "healing" bracelet at a markup.
+- Aromatherapy beads are a porous carrier plus essential oil, worn rather than burned.
+- The bead supplies slow release; the oil supplies the smell; neither supplies a health effect.
+- Porosity is the whole specification — sealed beads cannot hold or recharge oil.
+- The scent fades in days to weeks and is restored with a drop or two, provided the residue is cleaned away.
+- The format's real advantage is smoke-free personal scent; its real limit is range.

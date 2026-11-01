@@ -12,560 +12,399 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Agarwood powder and agarwood chips are the same resin-impregnated *Aquilaria* wood in two physical forms. Chips are cut pieces warmed whole — the classic form for appreciation (品香). Powder is ground resin wood blended into sticks and cones — the form for incense making (制香). The form follows the job, and both carry the same authenticity risk: agarwood is one of the most heavily faked aromatics on the market.
+**Direct answer:** Cutting and milling are two exits from the same room. A block of resin-loaded heartwood either leaves as pieces destined for a warm plate, or as grains destined for a mixing tray — and the choice is made on commercial grounds long before it reaches you. Whole pieces belong to the practice of attending to a single material (品香). Grains belong to the practice of building a formula (制香). Once you know which of those two you are doing, the rest of the buying question collapses into a short list of things to check.
 
-**Key facts:** The split between the two forms happens at processing, not in the tree. The form changes which authentication checks work — chips can be inspected by eye, while powder hides fillers behind a uniform grind.
 
----
 
-## Key Takeaways
+**Key facts:** Form is chosen at the mill and the bench, not in the tree; the same heartwood can become either. What changes is what you can verify — a visible piece can be read for resin, weight and burn behaviour, while a ground lot hides its composition behind uniformity. The top grade, 奇楠 (qínán), is identified by properties that exist only in a whole piece, which is why powder sold under that name is treated in the trade as a warning rather than a product.
 
-- **Chips = appreciation** (品香); **powder = making** (制香) — the same wood, two jobs.
-- Chips can be **inspected by eye**; powder needs a **particle-size and moisture specification**.
-- Both forms are heavily faked — see [agarwood](/ingredients/agarwood/) for the adulteration map.
-- The top grade, [qinan (奇楠)](/blog/qinan-kyara/), is almost always kept whole. **"Qinan powder" is a fraud signal by itself** — no seller who holds genuine 奇楠 grinds it away, because the grind destroys the features that identify it.
-- Authenticity checks (burn test, gentle heat, water test) reveal different things depending on the form.
+## Key facts
 
----
-
-## The Same Wood, Two Forms
-
-**Direct answer:** Chips and powder are not different materials — they are the same resin-saturated *Aquilaria* heartwood processed two ways. The branching happens at the workbench, not in the tree.
-
-Agarwood — *chenxiang* (沉香) in Chinese — is the resin-bearing heartwood of *Aquilaria* trees, produced when the tree responds to wounding by depositing resin. It is a condition of the wood, not a species; the fragrant part is the resin-saturated heartwood, separated from the pale, scentless sapwood. See [agarwood](/ingredients/agarwood/) for the full identity and [*Aquilaria sinensis* on eFloras](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) for the botanical record.
-
-From that one material, processing branches by intended use:
-
-- **Chips and slivers** — cut pieces for warming on charcoal or an electric heater; small, even pieces heat most uniformly.
-- **Powder** — ground resin wood for blending into sticks and cones; particle size affects packing, burn, and aroma release.
-
-The form is a processing decision, not a quality statement — though, as the next sections explain, the form changes what you can verify and what is worth verifying.
+- **Two shapes, one substance.** Cutting and milling are decisions taken after the wood is graded, not qualities inherent in it.
+- **The buyer's job decides the shape.** Attending to a warming piece and building a repeatable formula are different trades.
+- **Ground lots conceal more.** A visible grain argues for itself; a uniform bag argues through paperwork.
+- **奇楠 cannot be shown in a bag.** The grade is read from softness, curl and cold scent — all properties of a whole piece.
+- **Species and origin are asked of both.** Protection status, wild versus planted, and paperwork apply either way.
 
 ---
 
-## Why Chips Win for Appreciation (品香)
+## The fork in the road
 
-**Direct answer:** Chips are the classic appreciation form because they keep the resin intact and release the aroma in stages — top note, body, dry-down — as heat penetrates. A powder cannot reproduce that staged unfolding.
+**Direct answer:** Every agarwood product you can buy has already passed one decision point — whether the wood was cut or ground — and that decision was made for a commercial reason, not an aesthetic one.
 
-Agarwood's defining trait is that it develops in stages as it warms rather than emitting a single flat scent. A chip reveals this because only its outer surface warms at first, and the resin inside is drawn out gradually. The mechanism runs:
+Picture the bench. A piece of heartwood has come in, dark-veined and heavy, and someone has to decide what it will become. Cut it into slivers and it can be sold by weight to people who own small heaters and charcoal beds; they will warm one piece at a time, over an hour, and pay for the ritual as much as for the material. Mill it and it can be sold to people who make things: blenders, incense workshops, a factory that needs a scent to sit in a paste at two or three percent and carry through a hundred thousand sticks.
 
-gentle heat touches the chip surface → the outer resin volatilizes first → the ember of heat works inward → deeper resin releases later → the aroma opens in a top-note → body → dry-down sequence.
+The two customers want incompatible things. The first wants the material to stay legible — visible veins, a weight that feels like wood, a smell that changes while it warms. The second wants it to disappear: a consistent particle that mixes without streaks, packs without gaps, and behaves the same on Tuesday as it did last month. Those are not quality preferences. They are specifications, and they pull in opposite directions.
 
-The refined method is 隔火焚香 — resting the chip above charcoal buried in ash, or on an electric heater, so it releases aroma below combustion. See [indirect-fire incense](/blog/gehuo-fenxiang-setup/).
+Once that is clear, the rest of the comparison becomes a series of practical consequences rather than a ranking:
 
-A powder, by contrast, exposes most of its surface at once, so its aroma releases quickly and uniformly — useful for blending, but it does not unfold the way a whole chip does. For tasting a single material, chips are the working form.
+the wood is graded → the grade sets a price band → the price band decides the customer → the customer decides the form → the form decides which checks are possible → and those checks decide what the buyer can actually prove.
 
----
-
-## Why Powder Wins for Making (制香)
-
-**Direct answer:** For making incense, agarwood is used as powder — a small proportion blended into a stick or cone formula, where it lifts and deepens the whole. Only a fine powder distributes evenly through a paste.
-
-In commercial and craft incense making, agarwood rarely stands alone. It is a premium anchor: a small amount of agarwood powder blended into a formula lifts the entire stick. The mechanism that makes this possible:
-
-fine, uniform particles → they disperse through the wet paste with the binder and other ingredients → every point of the stick carries a little resin → the burn releases an even agarwood lift rather than a concentrated pocket → the finished stick reads as a blended whole.
-
-A chip cannot be spread through a formed product, which is why powder is the form of 制香. The practical variable for a maker is **particle size and moisture**: they change how the powder packs, draws air, burns, and how the finished stick dries and stores. No single grind transfers across formulas. See [how incense is made](/blog/how-incense-is-made/) and the [makko binder](/blog/makko-natural-binders/) for the mechanics.
+Note where the logic ends: at what can be proven, not at what is best. That is the honest shape of this question, and it is why "which is better" is a less useful question than "which job am I doing, and what can I check afterwards".
 
 ---
 
-## The Comparison, as a Functional Map
+## Chips: the form built for attention
 
-**Direct answer:** The chip-versus-powder table is a map of jobs, not a ranking — the same piece of agarwood can be cut or ground depending on the end use.
+**Direct answer:** A chip is the only form that lets agarwood do what it is famous for — change character as it heats, in stages, over a sitting.
 
-| Criterion | Agarwood chips | Agarwood powder |
+What makes a piece interesting is a race between heat and depth. Put a sliver on a warm plate and only its skin is hot at first; the scent that reaches you is whatever boils off easiest — the light, sweet, occasionally floral fraction. Keep the heat on and the warmth creeps inward. Deeper resin begins to move, and the register drops: heavier, more balsamic, sometimes with a bitter or medicinal edge. By the end there is nothing volatile left, and what you smell is dry wood and a trace of smoke.
+
+That progression only exists because the object has an inside. A whole piece offers a small hot face and a large cool middle, so the release is staggered by simple physics:
+
+warmth touches the outside only → the outer resin leaves early → heat needs time to travel → the inner resin leaves late → your nose gets three distinct phases instead of one.
+
+Reduce the same wood to grains and the geometry reverses. Nearly every particle is surface, so the whole charge arrives at temperature almost together and delivers everything it has in one long push. For a manufacturer that is a feature. For someone listening to a material, it is a performance that ends before it begins.
+
+Heat arrives from above, never from a flame. The old arrangement beds charcoal in sifted ash, sets a plate or a sheet of mica over it, and lays the specimen on top: conduction and radiant warmth do the work, and the material never touches fire. A modern heater replaces the charcoal with a dial and keeps everything else. [Indirect-fire setup](/blog/gehuo-fenxiang-setup/) shows the apparatus; the rule to carry away is that agarwood is warmed and never lit.
+
+---
+
+## Warming a chip: a first session
+
+**Direct answer:** The first attempt usually fails in one of two ways — too much heat, or too much material — and both are correctable in a minute.
+
+Set up before you light anything. A heatproof dish, a bed of fine ash if you are using charcoal, a plate or a mica sheet to sit above it, tweezers, and somewhere to put the spent piece. If you are using an electric heater, the setup is a dial and a plate; the rest of the sequence is the same.
+
+Start cool. Put one small sliver on the plate and let it sit for a minute or two before you expect anything. Good material will begin to give scent at a temperature well below anything that produces smoke, and the first note is usually light, sweet and slightly floral. If nothing happens, raise the heat a little and wait again. The mistake to avoid is chasing the first note with a big turn of the dial, which pushes the piece past its useful range and produces the one thing you cannot undo: char.
+
+Watch for the change rather than the strength. A piece that is working will move through its stages over ten or twenty minutes, becoming deeper and more balsamic as the heat penetrates. A piece that is not working will smell roughly the same at every temperature and then turn acrid — a sign of treatment rather than of a stubborn material.
+
+Know when to stop. When the note flattens and the smoke begins to smell of scorched wood rather than resin, the piece is finished; the remainder is charcoal and cellulose. Lift it off, let the plate cool, and wipe it before the next session. Ash beds are for the charcoal, not for the piece — the piece never touches fire, and that is the entire discipline of the method. [Indirect-fire incense](/blog/gehuo-fenxiang-setup/) covers the apparatus in detail.
+
+## Powder: the form built for distribution
+
+**Direct answer:** Powder exists because a formula is a mixture, and a mixture needs a component that can be spread evenly through it.
+
+Consider what a maker is actually doing. A stick is a paste: aromatic powders, a binder, water, sometimes a fixative or a second aromatic, worked until it holds together and then formed and dried. The aromatic charge is usually small — a few percent of the total mass — and its job is to colour the whole stick rather than to be the stick. That only works if the aromatic component is fine enough to disperse without streaks and consistent enough that the next batch matches.
+
+Two variables dominate the maker's attention. The first is particle size, because it sets how the powder packs, how much air is trapped between particles, and how the coal front advances through the finished stick. A coarse grind packs loosely, draws more air, and burns faster and hotter; a fine grind packs tight and burns slower, sometimes struggling to stay lit without a stronger binder. The second is moisture, because a damp powder weighs heavy, clumps in the mix, and dries unpredictably — a batch that leaves the workshop at one moisture can arrive at another.
+
+A photograph shows neither number, and a grade name captures neither. This is why a workshop with a working recipe will not casually swap suppliers even when the sacks look identical: the new material packs differently, and packing governs how the coal travels. [How incense is made](/blog/how-incense-is-made/) walks through the sequence, and the [makko binder](/blog/makko-natural-binders/) page explains the binder's share of the burn.
+
+---
+
+## The functional comparison
+
+**Direct answer:** The two forms differ in what they are for, how they release aroma, and what a buyer can inspect — and only the last of those has anything to do with honesty.
+
+| | Chips | Powder |
 |---|---|---|
-| Material form | Cut pieces, resin veins visible | Ground resin wood, uniform particle |
-| Aroma release | Slow, layered, develops in stages | Fast, blends into a formula |
-| Heating / use | Warmed whole (隔火焚香), appreciation | Blended into sticks and cones |
-| Quality check | Inspect resin content, density, burn test | Check particle size, moisture, contamination |
-| Adulteration risk | Harder to fake convincingly; inspectable | Easier to cut with fillers; hidden by the grind |
-| Typical user | Appreciator, collector, authenticator | Incense maker, manufacturer |
+| Purpose | A piece to warm and follow | A component to disperse |
+| Release | Staggered, as warmth travels inward | Simultaneous, across the whole charge |
+| Sold as | An object, weighed | A specification, weighed |
+| Visible evidence | Grain, veining, heft, cut face | Colour and feel, little else |
+| Test available | Warm it and watch it change | Burn a sample beside a reference |
+| Characteristic failure | A treated piece that smells of scorch | A dilution that only shows in the plume |
+| Natural buyer | Someone with a heater and an hour | Someone with a formula and a deadline |
 
-The table describes behavior; it does not crown one form as more authentic. The next section explains where the distinction turns into a fraud signal.
+Read the table as a division of labour rather than a verdict. A collector who buys powder has bought a material they cannot inspect the way their habits expect; a workshop that buys chips has bought a raw material it will have to mill anyway, at a loss, with its own dust and its own inconsistency.
 
----
-
-## Authenticity: The Risk Looks Different by Form
-
-**Direct answer:** Both forms are faked, but the risk presents differently — chips can be checked by eye and by burn, while powder hides fillers behind a uniform grind.
-
-Because genuine agarwood is expensive, it is heavily adulterated. Common fakes include dyed or oil-soaked white wood, unrelated woods dressed up with fragrance, and oil-injected low-grade material. See [agarwood](/ingredients/agarwood/) and the [authentication database](/blog/incense-authentication-database/) for the full map.
-
-The form shifts what you can verify:
-
-- **Chips** — resin veins, density (the 沉水 water test), and the burn test are visible or practical. Genuine agarwood gives white smoke with visible oil seepage and a clean sweet aroma; a fake gives black smoke and a burnt-wood or perfume smell. These are screening checks, not laboratory proofs.
-- **Powder** — the uniform grind hides fillers, so the checks differ: examine a sample, confirm particle size and moisture, and burn a small amount against a known reference.
-
-Neither form is automatically safe, and a sophisticated fake exists in either — but a visible, resin-veined chip is harder to disguise than a bag of uniform brown powder.
+Those final two rows carry the commercial weight. A piece fails in public — a treated specimen usually gives itself away once warm, through smoke colour, a harsh or perfumed note, or a total absence of movement between one temperature and the next. A ground lot fails in private, because whatever was added to it looks like what it was added to.
 
 ---
 
-## The Qinan (奇楠) Exception
+## What the form does to authentication
 
-**Direct answer:** 奇楠 (qinan / kyara), the top agarwood grade, is almost always sold and used whole — not as powder. Genuine 奇楠 is so resin-saturated it is soft and kneadable, and grinding it destroys the very features that identify it, which is why "奇楠 powder" is a strong fraud signal.
+**Direct answer:** Chips can be screened by eye and by nose; powder can only be screened by specification and comparison, which is a weaker kind of evidence.
 
-奇楠 (qínán) is structurally different from ordinary agarwood: "oil wraps wood" (油包木) rather than "wood wraps oil" (木包油), so the fiber is so resin-saturated it shaves into curls and kneads into pellets, and is fragrant even unheated. See [奇楠 (qinan / kyara)](/blog/qinan-kyara/).
+Start with the piece. Genuine resin-bearing heartwood shows dark, irregular veining against paler fibre, and the distribution is never tidy — resin follows the injury that produced it, so it pools, streaks and thins. Weight is a rough proxy for resin load, and the familiar water test formalises it: a piece dense enough with resin displaces more than its own weight and sinks. Warmth is the third check, and the most informative, because a real piece changes as it heats while a treated one tends to deliver one flat note, often with a burnt or chemical edge.
 
-This grade belongs in chip or whole-piece form, and for a practical reason. The features that identify 奇楠 — softness, curl-shaving, room-temperature fragrance — are only visible or testable in a whole piece. Grinding runs the identification chain in reverse:
+A ground lot has none of that. There is no grain to follow, no shape whose weight means much, and no whole piece to warm twice. What is left is paperwork and comparison: whether the supplier will state a sieve and a moisture, whether the lot looks and feels the same from the top of the bag to the bottom, whether a sample burns like the reference burned, and whether the price is coherent with the claim. Only a laboratory can identify composition rather than infer it, and most buyers never send a sample anywhere.
 
-soft pliable fiber + room-temperature fragrance → the identifiers live in the whole piece → the grind erases them → the buyer has no way to confirm the grade → the label becomes an uncheckable assertion.
-
-So "奇楠 powder" is widely treated as a red flag in the trade. If a seller offers it, the burden is on them to prove the grade. See [how to authenticate qinan](/blog/qinan-buying-authentication/).
+This asymmetry has a commercial consequence that buyers underestimate. Because powder is easy to extend, the cheapest lots in any market tend to be powder, and the honest suppliers of powder compete on specification rather than on price. A lot offered well below the going rate for its stated grade is not a bargain; it is a claim about composition that the form makes hard to test. The [authentication database](/blog/incense-authentication-database/) sets out the screening logic, and the [agarwood guide](/ingredients/agarwood/) covers the adulteration patterns in detail.
 
 ---
 
-## A Verification Checklist by Form
+## What the mill takes away
 
-**Direct answer:** For chips, verify resin content, density, and aroma on gentle heat; for powder, verify particle size, moisture, and purity against your own formula. The provenance question — species, origin, wild-vs-cultivated — is identical for both.
+**Direct answer:** Grinding destroys two things at once — the material's identity as a piece, and the aromatic top of the wood.
 
-| Check | Chips | Powder |
+The first loss is physical and permanent. Once a lot is powder, no amount of inspection recovers the grain pattern, the density gradient, or the way a particular piece would have warmed. An authenticator working from powder is working from a claim plus a sample, not from an object.
+
+The second loss is aromatic, and it is less discussed. Grinding exposes an enormous amount of fresh surface to air, and the most volatile fraction of the resin begins to leave immediately. A freshly milled lot smells vivid and slightly sharp; the same lot after months in a open container smells flatter, and the first thing to go is the bright, floral top that makes good agarwood interesting. This is why serious workshops buy powder in quantities they will use, keep it sealed, and treat the milling date as part of the specification.
+
+There is a third, quieter cost: heat. Mills generate friction, and friction warms the material. A slow, cool grind preserves more of the volatile fraction than a fast one, which is one reason small-batch powder can cost more than the arithmetic of the wood alone would suggest.
+
+---
+
+## 奇楠 and the powder question
+
+**Direct answer:** 奇楠 is identified by properties that only exist in a whole piece, so a listing that offers it as powder has removed the evidence along with the form.
+
+This rank is a different substance rather than the top of one ladder. Ordinary agarwood is fibre that has drunk resin — wood holding oil, 木包油. In 奇楠 the soaking runs the other way, 油包木: tissue so loaded that it behaves like oil holding a little timber. The consequences are physical rather than aesthetic. A blade shaves it into soft curls, fingers press it into a pellet, and it gives off scent with no heat at all.
+
+Each of those signs belongs to a whole specimen. Reduce it to grains and softness means nothing, shaving is impossible, and the cold scent becomes one more note in a bag. What is left is brown meal with a figure attached and no way to test the claim. That is why the trade reads such a listing as a warning, and why the seller offering it carries a burden they cannot discharge: the form has deleted the evidence.
+
+The honest version of the same offer is a powder described by what it actually is — a blend, an ordinary grade, a cultivated material — at a price that matches. [奇楠 grading and identification](/blog/qinan-kyara/) covers the tests in full, and [qinan authentication](/blog/qinan-buying-authentication/) covers how to buy a piece without being taken.
+
+---
+
+## The maker's specification
+
+**Direct answer:** For a workshop, the useful questions are about consistency and behaviour, not about prestige — and they can all be asked before money moves.
+
+Ask for the particle size and the sieve it passed. Ask for the moisture at packing, and how it is measured. Ask whether the lot is a single grind or a blend of grinds, because blends are normal and undisclosed blends are not. Ask for the date of milling. Ask whether the material is wild or cultivated, and which species, since both answers carry legal and price consequences — *Aquilaria* is listed under CITES, and the paperwork trail is part of what you are buying.
+
+Then run the only test that matters for your own product: make a small batch with the new powder and compare it against a batch made with your reference material, side by side, same binder, same drying. Burn both. If the new lot needs a different proportion to reach the same intensity, you have learned something more useful than any grade name — you have learned the exchange rate between the two lots.
+
+None of that is exotic. It is the same discipline any blended-formula workshop applies to any aromatic, and the [powder and resin reference](/blog/incense-powder-resin/) covers the general case for materials beyond agarwood.
+
+---
+
+## Sampling a powder lot
+
+**Direct answer:** A powder cannot be judged from a bag, so the only meaningful test is a control batch made beside your current material.
+
+Ask for enough to make two small batches. Make one with your established material and one with the candidate, using the same binder, the same water, the same forming method and the same drying conditions. Anything that varies between the two batches other than the powder will contaminate the comparison.
+
+Then compare four things. First, the amount needed to reach the same intensity — if the new lot needs half again as much to register, the price per kilo is not the price per unit of scent. Second, how the paste behaves: a powder that drinks water differently will change your forming time and your breakage rate. Third, the burn: does the coal advance at the same rate, does the ash hold, does the stick stay lit to the end. Fourth, what is left in the room after the stick is out — the tail is where a diluted lot usually reveals itself.
+
+Write the result down against the lot number. A workshop that samples without recording has tested its own memory rather than the material, and the next purchase will begin from zero.
+
+## A decision path
+
+**Direct answer:** Five questions, asked in order, will route almost any buyer to the right form without a detour through grading theory.
+
+| If your answer is… | Then the form is… | Because |
 |---|---|---|
-| Resin / density | Visible veins, 沉水 water test | Not visible — rely on sample burn |
-| Aroma | Gentle-heat release, staged | Burn against a known reference |
-| Contamination | Inspect the piece | Test for fillers, foreign wood |
-| Specification | Resin content, origin | Particle size, moisture, purity |
-| Provenance | Species, origin, wild vs cultivated | Species, origin, wild vs cultivated |
+| "I want to sit with one material for an hour" | Chips | Only a whole piece unfolds |
+| "I am building or matching a formula" | Powder | Only a particle disperses evenly |
+| "I need to inspect what I am buying" | Chips | Grain and weight are evidence |
+| "I need the next lot to behave like the last" | Powder, with a written spec | Consistency is the product |
+| "Someone offered me 奇楠 powder" | Neither | The form has removed the proof |
 
-For a maker, consistency is the overriding concern: a steady, well-documented powder with known particle size beats an irreproducible top grade. The particle-size and moisture discipline is the same one any blended-formula maker applies; see the [form-and-use](/blog/incense-powder-vs-wood-chips/) reference for the general pattern.
+The table is deliberately blunt, and it produces one answer that surprises people: a buyer who wants both experiences does not need to choose a favourite form, because the two purchases are not alternatives. They are a piece for the heater and a bag for the bench, and the only thing they share is a tree.
 
 ---
 
-## The Grind's Cost: What Pulverizing Destroys
+## How each form fails in the hand
 
-**Direct answer:** Grinding agarwood into powder does not change the chemistry — it changes the *evidence*, and for appreciation the evidence is the point.
+**Direct answer:** The failure modes are different enough that experience with one form teaches you little about the other.
 
-Walk the loss step by step. A whole chip carries its resin in visible veins and its density in its weight → those two are the buyer's first authentication checks → grinding shatters the veins into a uniform brown dust → the veins, the color contrast, and the heft all vanish into the pile → every visual check the eye could run is now gone. What survives is the burn test alone: a powder still releases its true character under gentle heat, and a fake still smells of perfume or charred filler.
+A chip fails physically. It can be scorched by impatience, which leaves a bitter note that no amount of gentle reheating repairs. It can take up moisture in a humid room and refuse to warm properly, or bloom a pale mould along the softer fibre if it was stored badly. It can also be a convincing treated fake whose tell only appears at temperature. None of these are subtle once you have warmed a few genuine pieces, and all of them are visible in the hand before the heater is switched on.
 
-So the grind is a trade, not a crime. Powder gives up inspection in exchange for blendability — it disperses through a paste and can be metered by the gram. That trade is perfect for a maker and ruinous for an authenticator. The rule that falls out: **buy powder for the formula, buy chips for the verdict.** When you want to know what you actually have, reach for the piece you can still see.
+Powder fails chemically and invisibly. It clumps when damp, which shows up as an uneven burn and a stick that goes out on one side. It loses its top notes in storage, so a lot that tested well in spring reads dull by autumn. It can be extended with material that behaves almost identically in the paste and differently in the plume. And it can be mismatched to the binder, which is nobody's fault and still ruins the batch.
 
-## A Grading Ladder for Powder: What the Label Hides
+The practical asymmetry is worth naming: a chip failure is usually your mistake or the seller's, and you can tell which. A powder failure is often neither, and it can take a season to appear.
 
-**Direct answer:** Powder grades are claims about particle size, moisture, and purity — and this ladder turns each claim into a check you can run yourself.
+## On the bench: what each form asks of a workspace
 
-| Stated grade | What it should mean | How to test it | Red flag |
+**Direct answer:** A chip asks for a clean, still surface and a heat source you can control. A powder asks for scales, labels, sealed containers and a draught-free corner where a paste can dry.
+
+The chip corner is small and quiet. A ceramic dish, a bed of sifted ash, a pair of tweezers, a plate, a lighter for the charcoal and a lid to smother it afterwards. Everything within reach, because the session is short and the point is not to be hunting for equipment halfway through. Add a soft brush for the ash and a cloth for the plate, and the kit is complete.
+
+The powder corner is a workshop. A scale that reads to a tenth of a gram, because the aromatic charge in a stick is small and a careless scoop changes the formula. Sealed jars, labelled with material, lot and date, because the whole point of a specified powder is that it can be traced to a purchase. A tray with a lip for the mixing, so that what spills can be recovered rather than swept. A hygrometer is worth the small expense if the room swings between seasons. And somewhere to dry formed sticks that is not in the path of a door, because a draught during drying produces a bent stick and a cracked surface.
+
+The difference in temperament is real. Chip work rewards patience and a good nose; powder work rewards bookkeeping and consistency. Someone who loves one often dislikes the other, and that is a useful thing to know before investing in either.
+
+---
+
+## Documents and the paper trail
+
+**Direct answer:** For a protected material, paperwork is not an afterthought — it is part of what makes a purchase legitimate, and it differs between a piece and a lot.
+
+A whole-piece sale is usually a small transaction between two people who can inspect the thing in front of them. Documents still matter — species, origin, and whether the material is wild or cultivated — but the buyer's main instrument is their own eyes and nose.
+
+A lot sale is a commercial transaction between businesses, and it generates a file: an invoice that names the species and the grade, a packing list that matches the weight, a statement of origin, and any permit required for a protected species. *Aquilaria* is listed under CITES, which means cross-border movement of the material is regulated and the paperwork has to be consistent with the shipment. A supplier who cannot produce a coherent file is telling you something about how the material was obtained, whatever the material itself smells like.
+
+For a buyer, the practical habit is to keep the file with the retained sample. Six months later, the only way to connect a smell to a claim is the lot number on both. The [authentication database](/blog/incense-authentication-database/) covers what the checks can and cannot establish.
+
+---
+
+## A comparison you can run at home
+
+**Direct answer:** Two pieces of the same claimed material, one warmed and one ground, will show you the difference in an afternoon.
+
+Take a small chip and hold it above a controlled heat source — an electric heater on its lowest setting, or charcoal under ash. Note when the scent appears, what it smells like in the first minute, and how it changes over the next twenty. Write down three moments: opening, middle, end.
+
+Then take a small quantity of powder from the same claimed source, place it on a mica sheet or a piece of foil over the same heat, and repeat. Most people find that the powder arrives almost immediately and then holds one note, while the chip takes longer and moves through several. That is the geometry of surface area, and it is visible in a single afternoon with no equipment beyond a heater and a notebook.
+
+The exercise has a second use. If the two samples do not resemble each other at all — different sweetness, different smoke, one acrid where the other is clean — you have learned that at least one of them is not what it claims. That is not proof of which, but it is a reason to stop and ask.
+
+---
+
+## Where each form ends up
+
+**Direct answer:** Chips go to people who warm them, and powder goes into products — and the end use shapes everything from packaging to price.
+
+Chips travel to collectors, to temples, to teachers, and to practitioners who keep a heater on a side table. They are sold in small quantities, often in boxes or pouches, sometimes with a certificate and sometimes with nothing but a story. The market is personal, slow and heavily relationship-based.
+
+Powder travels to workshops, factories, and the formulators who supply them. It moves in kilos, in sealed bags or drums, with a specification sheet and a lot number. The market is commercial, repeat-driven, and intolerant of inconsistency — a supplier who cannot hold a specification loses the account regardless of how good the material is.
+
+Between those two worlds sits the awkward middle: the small incense maker who buys a few hundred grams of powder and cannot command a factory's terms, and the collector who wants a specific piece and has to wait for one to appear. Most of the frustration in this corner of the trade comes from people applying the norms of one world to the other — expecting a workshop to sell single pieces at collector prices, or expecting a collector's market to guarantee the consistency a formula needs.
+
+---
+
+## The same fork, in other materials
+
+**Direct answer:** Agarwood is not unusual in splitting into a warming form and a blending form. Most aromatics do, and seeing the pattern elsewhere makes the agarwood question easier to think about.
+
+| Material | Whole form, warmed | Ground form, blended | Why the split exists |
 |---|---|---|---|
-| "Premium agarwood powder" | Fine, even, real resin wood | Burn a pinch against a known sample | A perfume or chemical smell |
-| "Fine / 80 mesh" | Small, uniform particles | Rub between fingers, check for grit | Coarse, mixed grain |
-| "Low moisture" | Dry, free-flowing | Press a pinch; it should not clump | Cakes or feels damp |
-| "Pure, no filler" | One material, nothing cut in | Compare color and burn residue | Foreign wood or sawdust flecks |
+| Agarwood 沉香 | Slivers and small blocks on a plate | Fine powder in pastes | Resin content is uneven; grinding averages it out |
+| Sandalwood 檀香 | Chips for carving and for gentle warming | Powder as the base of countless sticks | The wood is workable and the powder is forgiving |
+| Frankincense 乳香 | Tears warmed on charcoal | Ground resin in masala blends | The tears melt before they burn, which suits gentle heat |
+| Myrrh | Tears, often blended with other resins | Powder in compound incense | Bitterness needs proportioning by weight |
+| Clove and cassia | Whole buds and bark in simmering pots | Ground spice in paste | The whole form releases slowly; the powder releases at once |
 
-The ladder's value is that it converts a label into a procedure. A seller who says "fine mesh" is making a claim you can feel; a seller who says only "premium" is making a claim you cannot. Test the claims you can feel, and treat the claims you cannot as unproven until a burn says otherwise.
+The pattern is consistent across all five: whole forms are for attention, ground forms are for distribution. Where agarwood differs is in price and in the sophistication of the faking, not in the underlying logic.
 
-## "Powder Is Inferior" Is a Form Error
+The general case, for readers comparing powdered aromatics with whole pieces across the whole repertoire, is worked through in [powder versus wood chips](/blog/incense-powder-vs-wood-chips/). A second difference matters commercially. Sandalwood powder can be made from plantation material at a price that supports mass production; agarwood powder cannot, because the material's formation is slow and the supply is constrained. That is why other aromatic powders are used to extend agarwood blends, and why a maker's skill lies partly in knowing how little of the expensive component can carry the formula.
 
-**Direct answer:** Ranking chips above powder is like ranking flour above bread — the two are not competing, they are different stages of the same material, and only 奇楠 breaks the symmetry.
+---
 
-The misconception runs deep in hobbyist circles. Because chips are what a collector warms and savors, powder gets treated as the downgraded, second-choice form — the scraps nobody wanted whole. The truth is the reverse of that framing for a maker: powder is the *intended* form for 制香, metered precisely and blended deliberately, and a maker who insists on chips for a stick recipe is the one making an error. Form follows job, and for the job of building a stick, powder is not the fallback — it is the requirement.
+## Grading words do not transfer between forms
 
-The single exception is the one the page already flags, and it is worth holding separate. 奇楠 is identified by features that only survive whole — softness, curl-shaving, room-temperature fragrance → grinding erases every identifier → a "qinan powder" cannot be verified → it is a fraud signal, not a product. That is not powder being inferior; it is one grade whose identity is the whole piece. *The author's view, not a verified fact.*
+**Direct answer:** The vocabulary used to sell a piece and the vocabulary used to sell a lot describe different things, and mixing them is where buyers get lost.
 
-## The Botany That Sits Behind Both Forms
+A piece is described by appearance and behaviour: the density that decides whether it sinks, the visible distribution of dark resin against pale fibre, the way it changes on the plate, the region it came from, whether it grew wild or in a plantation. Those words describe an object you can hold.
 
-**Direct answer:** Powder and chips trace back to the same wound-response chemistry inside a tree, and knowing the botany explains why the material is scarce enough to be worth faking.
+A lot is described by specification: mesh, moisture, species, the mill that produced it, the date it was ground, the grade of the wood that went in, and the proportion of that grade in the blend. Those words describe a repeatable input.
 
-Agarwood forms when an *Aquilaria* tree — a member of the Thymelaeaceae family, alongside *Gyrinops* — responds to injury. A branch breaks, an insect bores in, or a grower drills and inoculates the trunk with a specific fungus → the living tree secretes a dark, fragrant resin into its heartwood as a defense → over months or years the resin saturates the inner wood → the pale, scentless sapwood stays separate from the dark, resin-laden core. That resin-laden core is the only part anyone collects; everything else is trimmed away as waste.
+The confusion arises because both vocabularies use the same adjectives — premium, high grade, wild, sinking. On a piece, "sinking" is a physical test you can run in a glass of water. In a bag of powder, "sinking grade" is a claim about the wood that was ground, and the powder itself will sink or float depending on how it is packed. The adjective survived the transition; the test did not.
 
-This is why wild agarwood is a matter of chance and age, not a crop you plant and harvest on schedule. A tree may live for decades before enough resin accumulates, and most trees never produce any. Plantation agarwood exists — growers wound and inoculate seedlings to hurry the process — but plantation wood is generally lighter in resin than old wild stock, which is precisely why grades and prices spread so wide. The form a piece arrives in, powder or chip, is a processing choice made *after* all of that botany has already happened.
+A buyer who understands that will ask different questions of each seller: to the piece seller, "may I warm it"; to the lot seller, "what sieve, what moisture, what date". Those are the questions each can actually answer.
 
-## Conservation and the Paper Trail
+---
 
-**Direct answer:** Agarwood is traded under an international conservation framework, and a buyer who ignores the paperwork is ignoring the one part of the sale that cannot be judged by eye.
+## A short vocabulary, because the trade runs on it
 
-*Aquilaria* species are listed under CITES, the treaty that governs trade in threatened species → international movement of agarwood requires permits tied to the species and its origin → the permit is supposed to distinguish legally harvested plantation wood from poached wild stock → a shipment without a clean paper trail may be illegal regardless of how good the chips look. [need-source] for the precise species-by-species listing status, which has shifted over time as countries update their export quotas.
+**Direct answer:** Half the confusion in this market is lexical — the words used for a piece describe its formation, while the words used for a lot describe its preparation.
 
-For a collector the practical consequence is plain: provenance is a legal question before it is a quality question. Two identical-looking chips can sit on opposite sides of the law, and the powder ground from them inherits the same legal status — grinding does not launder origin. When a seller cannot name the species or the country of export, treat that silence as a red flag on the paperwork, not just on the wood.
-
-## The Chemistry: What the Resin Actually Is
-
-**Direct answer:** The aroma people pay for is a mix of volatile compounds the tree laid down under stress, and the two forms release that mix differently only because of surface area, not chemistry.
-
-Agarwood's scent is not one molecule but a cocktail — sesquiterpenes such as agarospirol, plus chromone derivatives that form as the resin ages → these compounds are heavy and only partially volatile at room temperature → they need gentle heat to lift off the wood → warming a chip releases them in stages as the heat climbs, while a powder exposes more of its loaded surface at once and releases faster. The chemistry is identical; the kinetics differ.
-
-That one fact settles a question the page keeps circling. Powder is not "weaker" agarwood — it is the same sesquiterpenes and chromones, spread across a larger exposed area, so they escape quickly rather than in a slow staged climb. For a maker metering the material into a formula, that fast, even release is exactly the behavior wanted. For an appreciator reading the aroma as it unfolds, the chip's staged release is the behavior wanted. Same chemistry, two kinetics, two jobs.
-
-## The Sinking Test, Explained as Physics
-
-**Direct answer:** The 沉水 water test is not a piece of lore — it is a density measurement, and it works because resin is denser than water while plain wood is not.
-
-Walk the physics. Resin-soaked heartwood carries an unusual load of heavy aromatic oil → that oil raises the wood's density past the density of water → a chip that has absorbed enough resin becomes denser than water and sinks → a lightly resinated piece still floats. The test is binary in practice but graded in reality: fully sinking, half-sinking, and floating pieces mark three bands of resin load. [need-source] for any numerical density threshold; the sinking behavior is a traditional grading shorthand, not a laboratory number.
-
-What the test cannot do is identify the species or rule out a clever fake. An oil-injected chip can be made to sink → a dyed piece can look the part → the water test confirms density, and density alone. That is why the burn test and the nose remain the real gatekeepers. The sinking test is a fast first screen, a filter, not a verdict.
-
-## Distillation's Leftovers: Where the Powder Sometimes Comes From
-
-**Direct answer:** Some agarwood powder on the market is not the pristine ground heartwood a buyer imagines — it is the spent, oil-stripped residue left after the wood was distilled for its oil.
-
-Trace the supply chain. Distillers steam or soak agarwood to pull its fragrant oil → the valuable volatile fraction is collected as oil → the wood that remains has been partially exhausted → that spent wood is dried and ground → it enters the powder market as a cheaper "agarwood powder." The powder is genuinely *Aquilaria*, so the label is not strictly a lie — but it is the material after the oil has been taken, not before.
-
-The signal for a buyer is the price-to-claim gap. A powder sold far below the cost of intact agarwood, while claiming to be the whole material, is more likely the distilled remnant than the fresh grind. There is an honest market for spent powder as a base or a binder filler, but it is a different product at a different price. When the number looks too good, ask what stage of the distillation the wood was in when it was ground. *The author's view, not a verified fact.*
-
-## The Price Ladder in Concrete Terms
-
-**Direct answer:** Agarwood prices do not rise smoothly — they jump at thresholds, and knowing where those thresholds sit lets a buyer read a number as a grade rather than as a mystery.
-
-Think of the market as a staircase, not a ramp. Ordinary cultivated powder and spent distillation wood occupy the bottom steps → low-grade chips with faint resin climb one step → mid-grade chips that partially sink climb another → fully sinking 沉水 pieces climb again → 奇楠 occupies the top step, priced in a class of its own. Each step is a resin-density band, and the gap between steps can be a multiple, not a percentage. [need-source] for any specific price figure; the staircase shape is the structure, the numbers are the market's.
-
-The practical use of the staircase is defensive. A powder priced at the bottom step is unremarkable — that is where powder lives. A powder priced as if it were a top-step chip is the alarm, because powder cannot carry the top-step identifiers that justify the price. Read the number against the *step*, not against "is agarwood expensive," and most mislabeled offers expose themselves. *The author's view, not a verified fact.*
-
-## The Collector's Reference Set
-
-**Direct answer:** A serious buyer does not authenticate against a label — they authenticate against a small, known set of reference samples, and building that set is the single highest-leverage purchase in the category.
-
-Here is the boundary the whole authentication question keeps circling. Every screening check — burn, water, gentle heat — is a *comparison*, and a comparison needs a standard. A buyer with no reference is comparing an unknown against a memory; a buyer with one known-good chip is comparing an unknown against a fact. A reference set of a few samples — one confirmed low-grade, one mid, one genuine high-grade if reachable — converts every future purchase into a comparison against something real. [need-source] for any claim that a specific seller's samples are genuine.
-
-Building the set is the moment a hobby becomes a discipline. It costs more up front and saves a multiple of that amount in avoided fakes, because a buyer who owns the reference can spot an oil-injected chip or a dyed powder the way a musician spots a flat note — by ear, instantly, against the known. *The author's view, not a verified fact.*
-
-## The Chemistry of the Five Tastes
-
-**Direct answer:** Agarwood's grading flavors — the "sweet, bitter, sour, spicy, salty" of the rikkoku gomi — are not metaphors; they track real chemical families that form as the resin ages.
-
-Map the taste words to their chemistry. A sweet note tracks sugary and balsamic esters that build in older resin → a bitter note tracks oxygenated sesquiterpenes and chromones that appear late in maturation → a spicy note tracks aromatic phenolics → a sour or salty edge marks young, less-resinated wood or a specific species. The same chip can shift its balance as it warms, because the lighter molecules volatilize first and the heavier, more oxidized ones emerge later. [need-source] for any specific compound-to-taste mapping; treat it as a traditional sensory shorthand layered over chemistry no one has fully catalogued.
-
-That last caveat matters. The five tastes are a *descriptive* scheme, not a verified chemical key — a useful way to talk about differences, not a periodic table of agarwood. A buyer who reads them as poetry gets the real value; a buyer who reads them as a lab report has over-read them. The tastes help you describe what you smell; they do not authenticate the wood for you.
-
-## The Trade-Route History in One Chain
-
-**Direct answer:** Agarwood's geography — Vietnam, Cambodia, Borneo, Hainan — is not random; it is a map of ancient trade routes, and those routes still set what names appear on modern labels.
-
-Follow the material's path. Agarwood was harvested where *Aquilaria* grows, across Southeast Asia → it moved through ports and overland routes toward China, Japan, and the Middle East → each destination built its own vocabulary for the same wood → the origin names on today's labels (Vietnam, Nha Trang, Hainan, Borneo) are the surviving markers of those old supply lines → the names stuck even after the routes changed. So a "Vietnam" grade is as much a historical provenance claim as a botanical one. [need-source] for any specific route chronology; the geography is real, the dating is scholarly.
-
-The buyer's lesson is that origin names carry history, not just soil. When a seller says "Hainan," they are invoking both a place and a centuries-old reputation, and the two are hard to separate. That is why provenance is asked for *and* why it is easy to fake — a name with history is a name with resale value. Ask for origin, and then ask what the origin is being asked to prove. *The author's view, not a verified fact.*
-
-## The Grind-to-Surface Chain: Why Powder Releases Faster Than a Chip
-
-**Direct answer:** Grinding agarwood does not change its chemistry — it changes its geometry, and the new geometry multiplies the surface area so the same resin escapes in minutes instead of an hour.
-
-Follow the surface-area math. A whole chip keeps its resin sealed inside a small outer face → heat must creep inward through the wood's resistance → the resin releases slowly, in stages. Grinding shatters the wood into fine particles → every grain exposes new faces → the total surface area explodes → heat reaches the resin almost everywhere at once → the aroma releases fast and uniformly. The resin is identical; the *kinetics* are what the grind rewired.
-
-That one fact is the whole chip-versus-powder question in miniature. Powder trades the slow staged unfolding for speed and evenness — a perfect bargain for a maker blending a formula, and a dead loss for an appreciator reading the aroma as it climbs.
-
-## A Particle-Size Ladder: What the Mesh Number Actually Buys
-
-**Direct answer:** The "mesh" or particle-size number on a powder is a functional specification, not a marketing word — and this ladder maps each range to the job it fits.
-
-| Particle range | Feels like | What it is for |
+| Term | What it names | Why it matters to a buyer |
 |---|---|---|
-| Coarse (40–60 mesh) | Gritty, visible grains | Charcoal-top burning, rustic blends |
-| Medium (80–100 mesh) | Fine, slightly grainy | Standard stick and cone paste |
-| Fine (120–200 mesh) | Silky, near-dust | Smooth paste, even dispersion |
-| Ultra-fine (>200 mesh) | Powder, clings to skin | Premium blends, seal incense |
-
-The ladder's rule: the mesh is a dispersion spec, and the right number depends on the paste and the binder. A maker who picks the wrong grind gets uneven packing and a patchy burn; a buyer who reads the number as "quality" has confused a tolerance with a grade. Match the mesh to the formula, not to the price tag.
-
-## "Finer Means Better" Is a Form Error
-
-**Direct answer:** A finer powder is not a *better* powder — it is a powder for a different job, and the "finer = purer" instinct is the same category error as ranking chips above powder.
-
-This corrects a quiet misconception in the maker world. Because ultra-fine powder feels luxurious and packs smoothly, buyers read it as higher grade. The truth is that fineness is a dispersion spec: a fine powder spreads evenly through a paste and suits a smooth stick, while a coarser powder holds air and suits a charcoal-top burn that wants slower release. Neither is purer; they are two particle sizes for two deliveries.
-
-The judgment boundary: **the mesh number tells you the powder's behavior, and the material tells you its grade — and only the second one is a quality claim.** A fine mesh of spent, oil-stripped wood is still spent wood; a coarse mesh of genuine resin-rich heartwood is still the real material. Judge the material first, the mesh second. *The author's view, not a verified fact.*
-
-## The Moisture Spec: The Number Nobody Prints
-
-**Direct answer:** A powder's moisture content changes how it packs, burns, and stores — and because almost no label prints it, the maker must read it by feel before trusting a new batch.
-
-Walk the moisture chain. A damp powder clumps and cakes → the clumps pack unevenly in the paste → the finished stick burns in patches, with dense wet spots stalling the front. A bone-dry powder dusts and floats → it is hard to wet evenly → the binder must work harder to hold it → the paste dries too fast and cracks. The window between "cakes" and "dusts" is the working moisture, and it is set by the grind's surface area, not by any label.
-
-The practical move: **press a pinch between your fingers and watch whether it clumps, and burn a small amount against a known reference before committing to a batch.** Moisture is a spec you measure by hand, and it decides more about the finished stick than the mesh number does. *The author's view, not a verified fact.*
-
-## From Log to Lot: How Powder Reaches the Grading Table
-
-**Direct answer:** Agarwood powder is not ground from a single log — it is usually ground from the offcuts, trim, and lower-grade heartwood left over after the good pieces are cut into chips, and that provenance decides most of what the powder is worth.
-
-Follow the sorting line. A felled trunk is split and the pale sapwood is trimmed away → the dark, resin-laden heartwood is cut into pieces → the grader sorts the pieces by resin density, sinking behavior, and aroma → the cleanest, heaviest pieces are set aside whole for the chip and bead market → the offcuts, the light pieces, and the shavings fall into the "grind" pile → those are milled into powder. Powder, in short, is the destination for the wood that did not make the cut as a chip.
-
-That origin explains the price spread better than any label word. A powder ground from premium heartwood offcuts is a different material from one ground from low-resin sapwood-edge trim, even though both can honestly say "agarwood powder." The grade a chip carries is visible; the grade a powder carries is buried in the grind. [need-source] for any specific yield ratio; the sorting order is standard trade practice, not a published number.
-
-## The Mill's Losses: What Grinding Leaves on the Floor
-
-**Direct answer:** Grinding is not free — it loses material to dust, heat, and the mill's own surfaces, and those losses quietly shift the math a maker runs when choosing powder over chips.
-
-Walk the loss chain. Wood fed into a mill fractures into particles → the finest dust drifts out of the catch and is lost → friction heats the wood and can flash off a little of its volatile oil → a fraction of the resin clings to the mill's teeth and chamber → the recovered powder weighs less than the wood that went in. The richer and oilier the heartwood, the more it smears and sticks rather than shattering cleanly → oily agarwood is actually the most loss-prone thing to grind.
-
-That is a small part of why top-grade wood is kept whole: the grind taxes the very resin the buyer is paying for. A maker accepts the loss because the powder's even dispersion is worth it; a collector who grinds premium wood by hand is watching money become airborne dust. [need-source] for any specific loss percentage; the direction of the effect is mechanical fact, the number is not.
-
-## Grinding Your Own: What a Hand Mill Teaches You
-
-**Direct answer:** A collector who grinds a few grams by hand learns the material's density and oiliness in a way no label can teach — the resistance of the pestle is itself a reading.
-
-Trace the hand's education. A mortar and pestle crush the wood slowly → a dry, light, low-resin piece shatters easily and turns to dust with little effort → a heavy, oil-saturated piece resists, smears, and clumps against the bowl → the difference in effort and texture is a direct read of resin load → the collector's wrist performs a density test no water float can fake. A few minutes at the pestle teaches more about a powder than a week of reading descriptions.
-
-The practical rule: **if you want to know what a powder really is, grind a pinch of a known reference beside it and compare the feel.** Texture under the pestle, the way the dust settles, the cling of the oil — these are the material's own signature, and they survive the grind even when the label does not. *The author's view, not a verified fact.*
-
-## Powder in Kneaded Incense: The Form That Welcomes It
-
-**Direct answer:** Japanese nerikō is the one classical form built *around* powder — kneading ground aromatics into a soft ball — and it shows powder not as a downgrade but as the required medium for a specific, slow, near-smokeless burn.
-
-Follow the knead. Blended aromatic powders are mixed with a soft binder such as honey or plum pulp → the mass is kneaded until it holds together like dense dough → it is shaped into small balls and dried slowly → the dried ball is set on a gentle heat source, where it releases its scent over a long stretch with almost no visible smoke. Powder is not incidental here; it is the entire point, because only a fine, even particle blends into a homogeneous ball.
-
-That one form dissolves the "chips are the real agarwood" bias. In nerikō, agarwood powder is a deliberate ingredient inside a composed object, the same way agarwood is a deliberate ingredient inside a Chinese 合香 stick. The powder is not the leftover form; it is the form a whole lineage chose for a specific effect. [need-source] for the precise antiquity of the form; it is a Japanese refinement of compounding, not an imported finished object. *The author's view, not a verified fact.*
-
-## The Sensory Split: How a Powder Reads on Charcoal vs a Chip
-
-**Direct answer:** The same agarwood, in powder and chip form, gives two different aromatic experiences on the same heat — the chip climbs in stages, the powder arrives all at once.
-
-Place both on gentle heat and compare. A chip warms from its surface inward → the top note lifts first → the body follows as the heat reaches deeper → the dry-down arrives last → the nose reads a rising sequence. A powder exposes most of its surface immediately → heat reaches nearly all of it at once → the top, body, and base notes overlap and land together → the nose reads a dense, immediate blend rather than a staged climb. Neither is wrong; they are two deliveries of one resin.
-
-The choice follows the intent. An appreciator who wants to watch the aroma unfold reaches for a chip; a maker who wants an even, all-at-once release in a blend reaches for powder. The sensory difference is not a quality ranking — it is the geometry of surface area made audible to the nose. *The author's view, not a verified fact.*
-
-## Storing Powder: The Quiet Chemistry of a Ground Aroma
-
-**Direct answer:** Powder ages faster and worse than a whole chip — grinding multiplies the surface exposed to air, so the volatile oils oxidize and fade sooner unless the powder is stored airtight and dark.
-
-Walk the degradation chain. A whole chip protects most of its resin inside the wood → air touches only the outer face → the aroma fades slowly. Grinding exposes every particle's surface to air → oxygen attacks the fragrant oils across a vastly larger area → the lighter notes oxidize and dull → a powder that once smelled vivid turns flat and woody after months in an open jar. Heat and light speed the same loss.
-
-The storage rule that falls out: **treat powder like ground spice — seal it airtight, keep it dark and cool, and buy in small lots you will use within a season.** A chip forgives loose storage; a powder does not. The grind is a freshness clock, and it starts ticking the moment the wood is milled. *The author's view, not a verified fact.*
-
-## The Grain of the Wood: Why the Chip's Cut Shape Changes the Release
-
-**Direct answer:** The shape a chip is cut into — block, sliver, or shaving — changes how it warms, because a thin sliver exposes more surface and a block hoards its resin longer.
-
-Trace the geometry. A small, even sliver presents most of its resin near the surface → heat reaches it fast → the aroma releases quickly and brightly. A thick block keeps most of its resin buried deep → heat must travel inward → the release is slower and longer. A shaving is almost all surface → it releases fast but exhausts quickly. The cut shape is a knob for the *pace* of the release, not the grade.
-
-The practical note: **a collector keeps several cut shapes, not several grades — a sliver for a quick, bright appreciation and a block for a long, slow one, both from the same piece of wood.** The shape is the pace; the wood is the character. *The author's view, not a verified fact.*
-
-## The Mica Shield: What the Thin Plate Actually Does
-
-**Direct answer:** The mica or silver plate in 隔火焚香 is a buffer, not a spacer — it sits between the charcoal and the chip to soften the heat so the wood warms instead of charring.
-
-Walk the buffer's job. A buried charcoal radiates strong heat upward → a chip placed directly on that heat would char at its contact point → the thin mica plate spreads and dampens the heat → the chip warms evenly from a gentler source → the resin releases as aroma rather than igniting. The plate is the difference between heating and burning, and it is the cheapest piece of hardware that performs the whole art's core trick.
-
-The practical rule: **the plate's purpose is even, gentle heat — a beginner who skips it and lays the chip directly on the charcoal has skipped the one component that makes the refined method refined.** See [隔火焚香](/blog/gehuo-fenxiang-setup/). *The author's view, not a verified fact.*
-
-## The Two Kinds of Patience: Appreciation vs Making
-
-**Direct answer:** Chips ask for patience in the *burning*, powder asks for patience in the *making* — the two forms demand opposite disciplines, and a buyer should know which patience they are signing up for.
-
-Contrast the two waits. A chip is burned slowly, attended, and read over minutes → the patience is in the receiving, in sitting with the aroma as it unfolds. A powder is mixed, blended, dried, and test-burned → the patience is in the making, in getting the paste right before the stick even exists. One patience is contemplative, the other is technical. Neither form is more demanding; they demand different kinds of attention.
-
-The judgment boundary: **choose chips if you want to practice waiting on a smell, and powder if you want to practice building something that will later smell — the two are different hobbies wearing the same material's name.** *The author's view, not a verified fact.*
-
-## The Surface-Area Clock: Why a Sliver and a Block Release Differently
-
-**Direct answer:** The same grade of agarwood releases at different speeds depending on how it is cut — a thin sliver exposes its resin fast, a thick block hoards it longer — and the cut, not the grade, sets the pace.
-
-Trace the geometry. A thin sliver presents nearly all its resin near the surface → heat reaches the resin almost immediately → the aroma releases quickly and brightly. A thick block buries most of its resin deep → heat must travel inward through the wood's own resistance → the release is slow and long. A shaving is nearly all surface → it releases fast and exhausts quickly. The grade is constant; the cut is the knob.
-
-The collector's rule: **keep several cut shapes, not several grades — a sliver for a quick bright appreciation and a block for a long slow one, both from the same piece of wood.** The shape is the pace; the wood is the character. *The author's view, not a verified fact.*
-
-## The Ash Bed's Second Job: Why Depth Is a Dial, Not a Ritual
-
-**Direct answer:** The ash under a charcoal disc is doing temperature control, and its depth is the dial — deeper cools the wood, shallower heats it — which is why a maker treats the bed as an instrument, not a cushion.
-
-Walk the dial. A lit charcoal buried deep in ash gets less oxygen → it burns cooler and slower → the radiant heat reaching the plate above stays gentle → the wood warms below its ignition point and releases aroma. A charcoal pressed shallow gets more oxygen → it burns hotter → the wood risks charring. The depth is a temperature setting, and the same pinch of agarwood reads as two different materials at two different depths.
-
-The practical note: **the ash bed is the cheapest thermostat you own — learn the depth that holds your chip on the right side of the char line, and you have learned the whole art's core trick.** See [隔火焚香](/blog/gehuo-fenxiang-setup/). *The author's view, not a verified fact.*
-
-## The Two Patiences: What Each Form Asks of You
-
-**Direct answer:** Chips ask for patience in the *burning*, powder asks for patience in the *making* — two opposite disciplines, and a buyer should know which patience they are signing up for.
-
-Contrast the waits. A chip is burned slowly, attended, and read over minutes → the patience is in receiving, in sitting with the aroma as it unfolds. A powder is mixed, blended, dried, and test-burned → the patience is in making, in getting the paste right before the stick exists. One patience is contemplative, the other technical. Neither is more demanding; they demand different kinds of attention, and they suit different temperaments.
-
-The judgment boundary: **choose chips to practice waiting on a smell, and powder to practice building something that will later smell — two different hobbies wearing one material's name, and the choice is about which patience you actually enjoy.** *The author's view, not a verified fact.*
-
-## The Label's Unit: Why "Per Gram" Changes the Whole Question
-
-**Direct answer:** Loose material is sold by weight, and that unit changes the buying logic — a stick is a session packaged for you, a gram of powder or a chip is a material you meter yourself, and the two are not the same purchase.
-
-Walk the unit shift. A stick is one burn, one fixed length of experience → the price buys a unit of time. A gram of agarwood is a quantity of substance → you decide the dose, the heat, and the duration → the price buys a material inventory, not a session. That shift is why loose material is the collector's format: control comes with it, and with control comes the duty to learn the method. A stick is convenience with the choices pre-made; a gram is the same substance with the choices handed back.
-
-The practical rule: **decide first whether you are buying a session or a material — the stick and the gram are different purchases, and confusing them is how a beginner buys a chip they have no way to burn, or a stick they cannot meter.** *The author's view, not a verified fact.*
-
-## The Green-Wood Trap: Why Young Agarwood Is the Quiet Fake
-
-**Direct answer:** The most common agarwood deception is not dyed filler — it is young, lightly resinated wood sold as aged, and the tell is a faint, thin, flat aroma that never develops into the stages a chip should.
-
-Walk the young-wood profile. Plantation agarwood is harvested on a short schedule → it carries a thin, pale resin load → the aroma is flat and faint, without the top-to-body-to-dry-down climb → a seller dresses it up with an age story and a premium name → the buyer smells "weak" and assumes their nose or their heater is at fault. The wood is genuine *Aquilaria*; it is simply not the aged, resin-rich material the price implies. [need-source] for any specific plantation harvest schedule.
-
-The practical test: **a real aged chip climbs in stages as it warms; a young or lightly resinated chip stays flat — if the aroma never develops a body and a dry-down, the resin load is thin, whatever the label claims.** The nose reads the resin density directly; the label only reads the story. *The author's view, not a verified fact.*
-
-## The Price-Per-Gram Anchor: Reading the Staircase
-
-**Direct answer:** Agarwood prices climb a staircase, not a ramp — each resin-density band is a step, and the gap between steps is a multiple, so a price reads as a grade once you know where the steps sit.
-
-Lay out the staircase. Spent distillation wood and low-resin powder sit on the bottom step → light chips climb one step → mid-grade, partly sinking chips climb another → fully sinking 沉水 pieces climb again → 奇楠 sits alone on the top step. Each step is a resin band, and the jump between adjacent steps can be several times, not a few percent. A powder priced at the bottom step is unremarkable — that is where powder lives; a powder priced like a top-step chip is the alarm.
-
-The defensive rule: **read any agarwood price against the *step* it claims, not against "is agarwood expensive" — a number that disagrees with its claimed step is the signal to look closer.** [need-source] for any specific price figure; the staircase shape is the structure, the numbers are the market's. *The author's view, not a verified fact.*
-
-## The Sink Test's Limits: What Floating Does Not Tell You
-
-**Direct answer:** The 沉水 sinking test measures density, and density alone — a floating chip is light, but a sinking chip is not automatically genuine, and the test cannot see an oil-injected fake.
-
-Walk the test's boundary. Resin-soaked heartwood is denser than water → it sinks → a lightly resinated piece floats. But density is a single number, and a clever fake can cheat it: an oil-injected chip is loaded with weight until it sinks → the test reads "dense" and says nothing about whether the density came from the tree or from an injection. The sinking test is a fast first screen, not a verdict — it sorts by weight, and weight can be faked.
-
-The practical rule: **use the sink test as a filter, never a certificate — pair it with the burn and the nose, because a fake that sinks still smells like perfume or charred filler, and the nose is the test that cannot be weighted into passing.** *The author's view, not a verified fact.*
-
-## The After-Burn Read: What the Residue Reports
-
-**Direct answer:** What is left after a chip or powder burns is a report — the ash's color, texture, and smell encode the material, and reading the residue is a free authentication check.
-
-Trace the residue's story. Clean, resin-rich agarwood burns down to a fine, pale, soft ash → it crumbles to light dust → it smells faintly woody, not sharp. A dyed or oil-injected piece leaves a denser, darker residue → the fake's load leaves a heavier, sometimes greasy ash → the after-smell reads chemical or waxy. The ash is the material's last word, written after the flame has passed. [need-source] for any specific ash-color claim; treat it as a field observation, not a lab result.
-
-The practical habit: **read the ash of anything you are considering committing to — the residue is the material's signature, and it tells you more after one burn than the front of the box ever will.** *The author's view, not a verified fact.*
-
-## The Oil-Wraps-Wood Read: Why Qinan Sits Alone
-
-**Direct answer:** 奇楠 (qinan) is not a higher rung on the ordinary agarwood ladder — it is a structurally different material, where the resin saturates the fiber so completely the piece shaves into curls and kneads into pellets, and that difference is why it sits in a class by itself.
-
-Walk the structural reversal. Ordinary agarwood is wood holding resin in pockets and veins — "wood wraps oil." 奇楠 is the reverse — "oil wraps wood" — the fiber so saturated the resin *is* the body → the piece is soft and pliable at room temperature → it shaves into curls and kneads into pellets → it is fragrant even unheated. The identifiers — softness, curl-shaving, room-temperature scent — are features of the whole piece, which is why genuine 奇楠 is kept whole and why "qinan powder" is a fraud signal. See [奇楠 (qinan / kyara)](/blog/qinan-kyara/).
-
-The practical rule: **treat 奇楠 as a different material, not a better grade — its value lives in features that only a whole piece can show, and any form that hides those features (powder above all) should raise the question of what it is really hiding.** *The author's view, not a verified fact.*
-
-## The Burn Test, Read Close: What Smoke and Oil Reveal
-
-**Direct answer:** The burn test is a screening check, not a laboratory proof — genuine agarwood gives white smoke with visible oil seepage and a clean sweet aroma, a fake gives black smoke and a burnt-wood or perfume smell — and the difference is readable at a single glance.
-
-Walk the test's readout. A genuine piece, warmed or lightly burned, weeps a little oil at the surface → the smoke runs pale and thin → the aroma is sweet and clean. A dyed or oil-injected fake → the smoke runs dark → the smell is charred filler or chemical perfume. The test is not definitive — a sophisticated fake can pass one reading — but it is a fast, free first screen, and it catches the crude fakes that make up most of the market. [need-source] for any specific smoke-color claim; treat it as a field observation, not a lab result.
-
-The practical habit: **run the burn test as a first screen, never a verdict — pair it with the sink test and the nose, because a fake that survives one check usually trips the next.** *The author's view, not a verified fact.*
-
-## The Paper Trail as a Grade: Why Provenance Outranks Smell
-
-**Direct answer:** A seller who can name the species, origin, and wild-versus-cultivated status is making a checkable claim, and that paper trail is a higher-order signal than any single sensory test a buyer can run.
-
-Trace why the paper matters. *Aquilaria* species are listed under CITES → legal movement requires permits tied to species and origin → a shipment without a clean trail may be illegal regardless of how good the wood looks → two identical-looking chips can sit on opposite sides of the law. The paper trail is a legal question before it is a quality question, and grinding does not launder origin — powder inherits the legal status of the wood it was ground from. [need-source] for the precise species-by-species listing status.
-
-The practical rule: **ask for the species and origin before you ask anything about grade — a seller who cannot name the source is raising a red flag on the paperwork, not just on the wood.** *The author's view, not a verified fact.*
-
-## The Collector's First Chip: What to Buy Before You Know Anything
-
-**Direct answer:** A beginner's first purchase should be one known, low-grade, honestly labeled chip — not a premium piece — because the first chip is a reference standard, and a standard needs to be true, not impressive.
-
-Walk the first-purchase logic. A beginner has no reference → every future judgment compares an unknown against a memory → a memory is a weak standard. One known, low-grade, honestly labeled chip → it becomes the baseline → every later chip is compared against a real object → the difference between genuine and fake becomes audible. The point is not to start with the best; it is to start with something true, so the nose has a real anchor to build on.
-
-The judgment boundary: **a reference standard compounds — spend on one honest chip early, and every later purchase gets cheaper to judge because you already own the yardstick.** [need-source] for any claim that a specific seller's chip is genuine. *The author's view, not a verified fact.*
-
-## The Scent's Fade in Powder: What a Ground Aroma Loses First
-
-**Direct answer:** Powder loses its top notes first — grinding multiplies the surface exposed to air, so the lightest, most volatile compounds oxidize away within weeks, and a fresh-ground powder smells brighter than one that sat.
-
-Trace the fade. A whole chip protects most of its resin inside the wood → air touches only the outer face → the light top notes survive for years. Grinding exposes every particle's surface → oxygen attacks the lightest compounds across a vast area → the bright, high notes dull within weeks → the powder's character shifts toward the heavier base. The resin is still there; the *brightness* is what the grind spends first.
-
-The practical rule: **buy powder in small lots and use it fresh — a powder that once smelled vivid and now smells flat has simply aged, and the fix is a new grind, not a better brand.** *The author's view, not a verified fact.*
-
-## The Fresh-Grind Rule: Why Powder Has a Sell-By Date
-
-**Direct answer:** Powder ages faster than a chip — the grind multiplies the surface exposed to air, so the light top notes oxidize away within weeks, and a powder that once smelled vivid and now smells flat has simply aged, not changed recipe.
-
-Walk the aging clock. A whole chip keeps most of its resin sealed inside the wood → air touches only the outer face → the bright top notes survive for years. Grinding exposes every particle's surface to oxygen → the lightest, most volatile compounds oxidize across a vast area → the high notes dull within weeks → the character shifts toward the heavier base. The resin is still there; the *brightness* is what the grind spends first.
-
-The practical rule: **buy powder in small lots and use it fresh — a powder's aroma is on a countdown from the moment it is milled, and the fix for a flat powder is a new grind, not a better brand.** *The author's view, not a verified fact.*
-
-## The Whole-Piece Signature: What Powder Can Never Show
-
-**Direct answer:** Powder hides the three identifiers a whole chip wears openly — resin veins, density, and the room-temperature softness of the top grade — and that hiding is the entire reason the two forms are judged by different checks.
-
-Contrast what each form reveals. A chip shows its resin veins to the eye → its density to the hand and the water test → its top-grade softness to the fingers. A powder is a uniform brown dust → the veins are gone → the density is averaged across the pile → the softness is impossible to feel. Every visual and tactile check a collector runs on a chip is erased by the grind, which is why powder is verified by particle size, moisture, and a reference burn instead.
-
-The practical rule: **when you need the verdict, buy the piece you can still see — a chip is a material you can authenticate, a powder is a material you can only test, and the two are not the same kind of purchase.** *The author's view, not a verified fact.*
-
-## The Grade's Shadow: Why Two "Agarwood" Products Share a Name Only
-
-**Direct answer:** The word "agarwood" on two different products can name two materials an order of magnitude apart — young plantation wood and aged wild heartwood both answer to it — and the name's shadow is where most mispricing hides.
-
-Walk the name's spread. "Agarwood" names the resin-impregnated heartwood of *Aquilaria* trees → but the resin load varies from a faint trace in a young plantation tree to a saturated core in old wild stock → the aroma, density, and price track that load → two products, both honestly labeled "agarwood," can sit at opposite ends of the staircase. The name is a family, not a grade, and a buyer who reads it as a grade has already overpaid before the first sniff.
-
-The practical rule: **treat "agarwood" as a category word, not a grade word — the grade lives in the resin density, the sinking behavior, and the aroma's depth, and those are read from the piece, not from the noun on the box.** *The author's view, not a verified fact.*
-
-## The Distillation Leftover: How Spent Wood Enters the Powder Market
-
-**Direct answer:** Some "agarwood powder" is not the pristine ground heartwood a buyer imagines — it is the spent, oil-stripped wood left after the wood was distilled for its oil, and the label's honesty is a matter of stage, not of species.
-
-Trace the supply path. Distillers steam or soak agarwood to pull its fragrant oil → the valuable volatiles are collected as oil → the wood that remains is partly exhausted → that spent wood is dried and ground → it enters the powder market as a cheaper "agarwood powder." The powder is genuinely *Aquilaria*, so the label is not strictly a lie — but it is the material after the oil was taken, not before. There is an honest market for spent powder as a base or filler, but it is a different product at a different price.
-
-The practical signal: **a powder priced far below the cost of intact agarwood, while claiming to be the whole material, is more likely the distilled remnant than the fresh grind — ask what stage of the distillation the wood was in when it was ground.** *The author's view, not a verified fact.*
-
-## The Nose's Two Tests: Gentle Heat and the Burn
-
-**Direct answer:** Agarwood is authenticated by two different noses — the gentle-heat sniff for appreciation and the burn test for authenticity — and they reveal different things about the same piece.
-
-Contrast the two reads. On gentle heat, a chip releases its true character in stages → the nose reads the aroma's depth and clarity → this is the appreciation test. On a burn, the smoke and ash tell a different story → pale smoke with oil seepage reads genuine, dark smoke reads fake → this is the authentication screen. The gentle heat asks "is it good," the burn asks "is it real," and the two questions are answered by the same nose through different doors. [need-source] for any specific smoke-color claim.
-
-The practical rule: **run both tests — warm a piece to judge its quality, burn a pinch to screen its authenticity, and treat the two verdicts as separate because a real piece can be low grade and a fake can smell pleasant for a minute.** *The author's view, not a verified fact.*
-
-## Common Mistakes
-
-1. **Assuming chips are "higher quality" than powder.** They are the same wood in two forms; powder is simply processed for blending.
-2. **Trusting "qinan powder."** Genuine 奇楠 is kept whole; the grind erases the features that identify it.
-3. **Burning chips in an open flame.** Chips are warmed on charcoal or an electric heater, not lit like a stick.
-4. **Accepting a nominal powder grade without sampling.** Particle size and moisture — not the label — decide how a powder behaves in your formula.
+| 沉香 (chénxiāng) | The aromatic heartwood itself | The generic name; it says nothing about grade |
+| 奇楠 (qínán) | The oil-dominant top grade | Cannot survive grinding; powder use is a warning |
+| 品香 (pǐnxiāng) | Attending to a warming piece | The practice that whole chips exist for |
+| 制香 (zhìxiāng) | Making incense from materials | The practice that powder exists for |
+| 隔火 (géhuǒ) | Warming above heat, not in flame | The method; direct fire ruins the material |
+| 沉水 (chénshuǐ) | The sink test for resin load | A screening check, not a grade certificate |
+| 生结 / 熟结 | Formation while the tree lived, or after | A character distinction, often sold as a quality one |
+| 虫漏 | Wood altered by insect boring | A formation pattern buyers learn to recognise |
+
+None of these terms is a specification. They are the vocabulary a seller uses, and knowing them lets you hear the difference between a description and a claim.
 
 ---
 
-## Why This Page Reads Different
+## Seven questions before money moves
 
-**Direct answer:** Much agarwood content crowns chips as "more authentic" than powder — that is the wrong frame.
+**Direct answer:** The same short list works for either form, and the answers reveal more than any listing.
 
-The two forms serve two different halves of the practice, and the honest question is not "which is better" but "which job am I doing?" The one place the distinction becomes a fraud signal is genuine 奇楠 in powder form. My position: treat "chips = more authentic" as a category error unless you are talking specifically about 奇楠 — because for ordinary agarwood, a properly made powder is not inferior, just destined for a different job.
+1. **Which species?** *Aquilaria* is a genus, not a single material, and the commercial species differ in character and in price.
+2. **Wild or cultivated?** A documentation question with legal consequences, since the genus is protected under CITES.
+3. **Where was it collected or grown?** Region is a proxy for character, and a seller who cannot name one is guessing.
+4. **For a piece: may I warm it before buying?** A refusal is an answer.
+5. **For a lot: what sieve and what moisture?** Numbers, not adjectives.
+6. **When was it milled or cut?** Freshness matters more for powder than for chips, but both change.
+7. **What happens if the next lot differs?** The answer describes the supplier's process, which is what a repeat buyer is really purchasing.
 
-*The author's view, not a verified fact.*
+Ask them in that order and the conversation sorts itself: a seller who answers the first three and stumbles on the last four is a trader; one who answers all seven is a supplier.
 
 ---
 
-## The Author's Take
+## Keeping a record that is worth keeping
 
-**Position:** The powder-vs-chips question is a "making vs appreciating" question, with one sharp exception — "qinan powder" is a fraud signal, not a product category.
+**Direct answer:** Two lines per purchase, written at the time, will outperform any amount of remembered expertise a year later.
+
+A workable entry looks like this: the date, the seller, the form, the weight, the species claimed, the lot or batch reference, the price per gram, and one sentence on what it smelled like when you first used it. For powder, add mesh and moisture if the supplier stated them. For a piece, add whether it sank, half-sank or floated, and what it did on the plate at three points in the session.
+
+The discipline pays off in two situations. The first is a repeat order: you can compare the new lot against a description written before you had any reason to be generous. The second is a dispute: a note with a date and a lot number is a different kind of argument than a recollection.
+
+Two practical notes on keeping the file. Photograph the label as well as the material, because handwriting fades and sellers rename their lots. And keep the entries in one place rather than scattered across emails and photographs: a single page per material, oldest at the top, is enough. Keep the physical reference beside the note. A few grams of powder in a sealed vial, or a sliver of the piece, will outlast any memory of a smell, and the comparison takes a minute rather than an afternoon. What makes this worth doing is not diligence for its own sake — it is that agarwood is a material where small differences carry large price differences, and the only way to see a small difference is to have the earlier version in front of you.
+
+---
+
+## Packing, transit, and what actually arrives
+
+**Direct answer:** The difference between the two forms becomes physical at the packing stage, and most transit damage is predictable from the packing alone.
+
+A chip is a solid object with edges. It travels in a rigid box, cushioned so it cannot shift; foam, tissue or a fitted insert all work, and a loose piece in a padded envelope will arrive with a chipped corner and a scattering of dust that was the most aromatic part of it. Weight is verified at both ends, because a piece is sold by weight and a missing gram is a missing gram.
+
+Powder is a fluid in everything but name. It settles, it migrates into seams, and it takes on moisture from the air in a warehouse. A foil-lined bag inside a rigid container, sealed and labelled, is the minimum; a desiccant sachet helps in humid climates, and a second bag protects against the first one failing. On arrival, weigh the lot before opening it, then check the surface for caking — a crust across the top is a sign the bag breathed.
+
+Customs and courier handling sit outside either party's control, and that is precisely why the paperwork should be settled before dispatch rather than during a delay. A missing permit stops a shipment more reliably than a bad review, and the buyer is usually the one who discovers it.
+
+---
+
+## Photographing a piece for your own file
+
+**Direct answer:** A photograph is the only record of a chip's appearance that survives the chip being used up, and three shots are enough.
+
+Shoot it on a plain grey card, in daylight, with a scale rule in frame. The first shot is the whole piece, straight on. The second is a close view of the resin pattern, because the distribution of dark against pale is the most distinctive thing about a specific chip. The third is the cut or broken face, which shows the interior structure that a surface view conceals.
+
+Then write the file name with the date and the lot. In a year, the photograph will answer a question that memory cannot: whether the piece you are considering now looks like the one that pleased you before, or merely reminds you of it.
+
+---
+
+## Common mistakes
+
+**Direct answer:** Five errors account for most bad purchases in this corner of the trade, and four of them are category errors rather than judgement errors.
+
+1. **Treating form as a grade.** "Chips" is not a quality level; it is a shape. A poor chip is a poor chip.
+2. **Buying powder to inspect it.** Powder cannot be inspected the way a piece can; it can only be specified and sampled.
+3. **Accepting a grade name without a particle size.** A grade that says nothing about mesh, moisture or milling date describes a hope.
+4. **Warming a chip in a flame.** Direct fire chars the resin and delivers the one note the material was supposed to develop away from.
+5. **Believing that 奇楠 powder can be verified.** It cannot, because the identifying properties are gone.
+
+---
+
+## The author's view
+
+**Position:** The powder-versus-chips question is really a question about evidence. Chips let you check; powder makes you trust. Neither is wrong, but a buyer should know which one they have signed up for.
 
 **Reasoning:**
-- Form follows use: chips for 品香, powder for 制香, and neither is inherently better.
-- The authenticity risk is in both forms, but fillers hide more easily in powder and fakes show more readily in a visible chip.
-- 奇楠 is identified by features that only survive whole — so grinding it away should make any authenticator pause.
 
-*This is the author's editorial view and experience — not a verified fact.*
+- The form is decided at the mill, for commercial reasons that have nothing to do with which is "better".
+- A visible piece carries its own argument: veins, weight and behaviour under heat are all inspectable. A ground lot carries a document, and documents are only as good as the supplier behind them.
+- The 奇楠 powder listing is the clearest case in the whole category of a form contradicting its own claim, and it is worth remembering as a pattern rather than as an exception.
 
----
-
-## Verification Notes
-
-- The "chips for appreciation, powder for making" framing reflects standard Chinese practice (品香 vs 制香), not a quality claim.
-- Adulteration checks (burn test, water test, gentle heat) are screening methods, not laboratory proofs.
-- The "qinan powder is a fraud signal" point follows from the grade's identifying features; it is trade observation, not a certification.
+*Editorial position drawn from trade practice, not a verified finding.*
 
 ---
 
 ## FAQ
 
 ### Q: Are agarwood chips and powder the same material?
-Yes — the same resin-impregnated *Aquilaria* heartwood in two physical forms. Chips are the wood cut into pieces; powder is the wood ground to a fine, blendable particle. The split happens at processing: chips for warming whole, powder for blending into sticks and cones. Neither form is inherently higher quality — the form follows the intended use.
+Yes. Both are the resin-bearing heartwood of *Aquilaria* trees, and the difference between them is a decision made at the mill. Chips are cut so the material can be warmed whole; powder is ground so it can be spread through a paste. Neither form is a higher grade, and a piece of wood can become either depending on who buys it and what they intend to do.
 
-### Q: Which is better for appreciating agarwood, chips or powder?
-Chips. Agarwood develops in stages — top note, body, dry-down — as it warms, and a chip reveals this because only its outer surface warms at first, releasing the resin gradually. Powder exposes most of its surface at once, so it releases quickly and uniformly. For tasting a single material, warm a chip on charcoal buried in ash or on an electric heater.
+### Q: Which form is better for appreciating agarwood?
+Chips, for a structural reason rather than a sentimental one. Warmth enters a solid object from outside, so its oils come away in sequence and the character shifts across the hour. Grains present almost no interior, so everything arrives together and the sequence collapses into one long push. If the point is to follow a material as it changes, only a solid form can offer that.
 
-### Q: Is agarwood powder usually fake?
-Not automatically, but powder is the easier form to adulterate. The uniform grind hides fillers and foreign wood, so a cheap "agarwood powder" can be cut with cheaper material without being obvious to the eye. Verify a sample, confirm particle size and moisture, and burn a small amount against a known reference. See [agarwood](/ingredients/agarwood/) for the full adulteration map.
+### Q: Is agarwood powder usually adulterated?
+Not usually, but it is the form where adulteration is hardest to see, and cheap lots are where the risk concentrates. The uniform grind conceals added wood and filler far better than a visible grain conceals anything. A buyer's protection is a specification — particle size, moisture, milling date, species — plus a sample burn against a reference, and a price that is consistent with the material being claimed.
 
-### Q: Should I buy qinan (奇楠) powder?
-Be very cautious. Genuine 奇楠 is identified by features that only survive whole: it is soft, shaves into curls, kneads into pellets, and is fragrant at room temperature. Ground to powder, those features vanish, so "奇楠 powder" is widely treated as a fraud signal. If a seller offers it, the burden is on them to prove the grade. See [how to authenticate qinan](/blog/qinan-buying-authentication/) before committing.
+### Q: Why is "qinan powder" treated as a red flag?
+Because the grade is identified by properties of a whole piece. 奇楠 is soft enough to shave, pliable enough to press, and fragrant without heat — none of which survives grinding. A powder labelled that way has removed the evidence that would support the claim, so the claim rests entirely on the seller's word at a price that assumes the highest grade in the trade. That combination is why the trade reads it as a warning.
 
-### Q: How do I use agarwood chips?
-Warm them whole, not in an open flame. The refined method is 隔火焚香: rest a chip above charcoal buried in ash, or on an electric heater, so it releases aroma below combustion. A single chip or a few slivers, warmed gently, is enough. Burning the chip directly chars the resin and loses the layered aroma. See [indirect-fire incense](/blog/gehuo-fenxiang-setup/) for the setup.
-
-### Q: How fine should agarwood powder be for making sticks?
-There is no single answer — the right mesh depends on your formula, not on a universal standard. A fine, even particle disperses through the wet paste and lets the binder hold the stick together, while a coarse, mixed grain packs unevenly and can make the finished stick burn in patches. The honest way to judge is by feel and by burn: rub a pinch between your fingers for grit, press it to check it does not clump with moisture, and burn a small amount against a known reference. Consistency matters more than the label's number — a steady, well-documented powder with a particle size you can trust beats a nominally "premium" one that changes from batch to batch.
-
-### Q: Is plantation agarwood the same material as wild agarwood?
-It is the same resin-impregnated heartwood, produced by the same wound-response biology, but the two usually sit at different points on the resin-density scale. Wild agarwood forms over decades through natural injury, and it can accumulate resin far more densely than a plantation tree that a grower inoculated and harvested on a schedule of years rather than decades. Plantation wood is not a fake — it is genuine *Aquilaria* heartwood — but it tends to be lighter, and its grades and prices sit below old wild stock. The form you receive, powder or chip, inherits whichever resin density the tree actually built. See [agarwood](/ingredients/agarwood/) for the grading map.
+### Q: Can I grind my own chips into powder?
+You can, and it is instructive once. What you will learn is how much material the process costs: dust that escapes, heat that drives off the volatile top, and a grind that is far less uniform than a mill's. For a small experiment it is worth the loss. For anything resembling a production formula, the inconsistency between your grind and the next one will defeat the purpose, and buying a specified powder is both cheaper and more repeatable.
 
 ---
 
 ## Sources
 
-- [*Aquilaria sinensis* on eFloras](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) — botanical record for the agarwood source tree.
-- [*Aquilaria malaccensis* on GBIF](https://www.gbif.org/species/5524063) — the species record for the main commercial agarwood.
-- The [agarwood](/ingredients/agarwood/) and [qinan](/blog/qinan-kyara/) pages for grading, adulteration, and the 奇楠 grade.
-- Standard Chinese practice (品香 appreciation vs 制香 making) and the burn/water/gentle-heat screening methods.
+Species records sit in [eFloras](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and on [GBIF](https://www.gbif.org/species/5524063). Grading, adulteration and the sink test are covered in the [agarwood guide](/ingredients/agarwood/), and the identifying features of the top grade in the [奇楠 pages](/blog/qinan-kyara/). The 品香 / 制香 division and the burn, water and gentle-heat screens follow standard Chinese practice.
 
 ---
 
 ## Related Resources
 
-- [Agarwood (沉香)](/ingredients/agarwood/)
-- [奇楠 (Qinan / Kyara)](/blog/qinan-kyara/)
-- [Qinan Authentication](/blog/qinan-buying-authentication/)
-- [Incense Powder & Resin](/blog/incense-powder-resin/)
-- [Indirect-Fire Incense (隔火焚香)](/blog/gehuo-fenxiang-setup/)
-- [Agarwood Incense Guide](/blog/agarwood-incense/)
+- [Agarwood (沉香)](/ingredients/agarwood/) — species, grades, and what adulteration looks like.
+- [奇楠 (Qinan / Kyara)](/blog/qinan-kyara/) — the grade that sits apart, and why.
+- [Qinan Authentication](/blog/qinan-buying-authentication/) — buying a piece without being taken.
+- [Incense Powder & Resin](/blog/incense-powder-resin/) — the general case for powdered aromatics.
+- [Indirect-Fire Incense (隔火焚香)](/blog/gehuo-fenxiang-setup/) — the apparatus for warming a chip.
+- [Agarwood Incense Guide](/blog/agarwood-incense/) — the material in stick form.
 
-**Natural next step:** verifying agarwood? Read [agarwood](/ingredients/agarwood/) for the grades and fakes first, then the [authentication database](/blog/incense-authentication-database/) for the screening logic.
+**Natural next step:** if you are buying a piece, read the [agarwood guide](/ingredients/agarwood/) for grades and fakes first; if you are buying a lot for a formula, take the specification questions above to the supplier before you ask for a price.
+
+---
+
+## Summary
+
+- The material is one substance; the two products are two decisions taken at the mill.
+- A piece gives you a sequence to follow. A lot gives you a component to spread.
+- Evidence is asymmetric: a specimen argues for itself, while a bag argues through documents and a reference burn.
+- Grinding costs the piece's identity and its brightest volatile notes; time in storage costs the powder its top.
+- A top-grade name attached to a ground product has deleted the only evidence that could support it.

@@ -12,167 +12,279 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** This page is the entry point to IncenseHub's **Chinese–English incense terminology** — a canonical glossary of **249 terms** spanning materials, grades, forms, techniques, tools, and cultural vocabulary. It is not a 249-entry dictionary printed here; it is a **structured index** that sorts the vocabulary by direction, samples the important terms, and points to the two places the full set lives: the machine-readable `terminology.json` dataset and the human-readable [terminology glossary](/blog/incense-terminology-glossary/).
+
+**Direct answer:** This page opens the door to the Chinese–English vocabulary of incense: 249 terms spanning materials, grades, forms, techniques, tools, texts and trade. It is an index, not the dictionary. It sorts the vocabulary, samples representative terms, and points to the two places where the full set lives — a machine-readable dataset and two human-readable glossaries.
 
 ## Key facts
 
-- The dataset holds **249 terms**, each recorded as a structured record with a Chinese source term (the source of truth), a pinyin reading, a literal meaning, and a preferred English translation.
-- The data is licensed **CC BY-SA 4.0**, carries a version (currently 1.4), and is served from `data.incensehub.org`.
-- One Chinese word does not always map to one English word — the dataset records context rather than forcing a single gloss.
-- The 249 terms group into roughly a dozen directions: materials, grades, aroma, forms, techniques, tools, texts, manufacturing, geography, culture, and adulteration.
+- The reference set contains **249 terms**, each stored with a Chinese headword, a pinyin reading, a literal meaning and an agreed English translation.
+- The Chinese term is treated as the source of truth; the English is a decision made about it, recorded rather than assumed.
+- Licence **CC BY-SA 4.0**; edition 1.4; served from `data.incensehub.org`.
+- The terms cluster into roughly a dozen directions — materials, grades, aroma, forms, tools, texts, manufacturing, geography, ritual and counterfeit warnings among them.
+- One Chinese word can carry more than one English sense. The dataset records the context instead of forcing a single gloss.
 
-## The Shape of a Single Record
+## What This Page Is, and What It Is Not
 
-**Direct answer:** Every one of the 249 terms is stored with the same four fields — a Chinese name, a pinyin reading, a literal meaning, and a preferred English translation — so the whole set can be read by a machine or a person alike.
+**Direct answer:** It is a navigation aid for a much larger dataset, so a reader should expect orientation rather than completeness.
 
-Take 沉香 (chénxiāng), the agarwood term, as the worked example:
+A reference page of this kind usually disappoints someone. A reader looking for a specific term wants the entry; a reader browsing wants a map. This page serves the second reader and points the first to the dataset. The distinction is not a dodge. A 249-term glossary printed as prose would be unreadable and unsearchable, while a structured file is useless to someone who does not yet know what to look for.
 
-| Field | Value | The job it does |
+The useful way to read what follows is as a set of doors. Each section names a direction, gives a handful of terms that show what the direction contains, and explains why that direction exists. When a term matters to your work, follow the link to the glossary or the dataset and read the record. That two-step movement — orient here, resolve there — is the intended use.
+
+What the page does not do is settle disputes about translation. It records the choices the dataset makes and explains the reasoning behind them. Where a term has competing English renderings, the page says so rather than pretending a single answer exists.
+
+## The Record Behind Every Term
+
+**Direct answer:** Every entry uses the same four fields, which is what makes the set usable by both a person and a program.
+
+| Field | Example (沉香) | What it contributes |
 |---|---|---|
-| Chinese (name) | 沉香 | Anchors the term to its origin |
-| Pinyin | chénxiāng | Makes it pronounceable and searchable across scripts |
-| Literal meaning | sinking fragrance | Preserves the image the characters encode |
-| Preferred English | agarwood | The agreed translation, not a literal gloss |
+| Chinese headword | 沉香 | The identity anchor; the term as it appears in source texts |
+| Pinyin | chénxiāng | A pronunciation and a search key across scripts |
+| Literal meaning | sinking fragrance | The image the characters carry |
+| Preferred English | agarwood | The working translation, agreed rather than automatic |
 
-The four fields each carry a distinct job. The Chinese name pins the term to its source; the pinyin makes it speakable and searchable; the literal meaning keeps the imagery alive (沉香 literally reads "sinking fragrance," after the density test that separates resin-heavy wood); the preferred English is the working translation. Splitting them this way lets a reader move in either direction — from a Chinese label to its English sense, or from an English word back to the Chinese it came from.
+The order matters. Starting from the Chinese keeps the entry tied to the textual tradition; the pinyin makes it usable in speech and in a search box; the literal meaning preserves why the word was chosen in the first place. 沉香 is a good example because the literal reading is not decoration. It records the old density test: resin-heavy wood sinks, and the name commemorates that observation. The English "agarwood" carries none of that image, which is exactly why the field exists.
 
-## One Word, Several Senses
+A reader can travel either direction through the record. From a Chinese label, the headword leads to pinyin, meaning and English. From an English word in a catalogue, the preferred translation leads back to the Chinese and to the literal sense that explains it. A glossary that stored only two columns would support the first journey and badly serve the second.
 
-**Direct answer:** The dataset's central editorial rule is stated in its own description — *"One Chinese word does not always map to one English word"* — and the classic demonstration is 藿香 (huòxiāng), which can name two entirely different plants depending on context.
+## Why One Word Can Carry Two Plants
 
-This is the most important idea on the page because it breaks the lazy assumption that a glossary is a two-column lookup table. The word 藿香 can mean agastache (*Agastache rugosa*) or patchouli (*Pogostemon cablin*). Which sense is meant depends on the recipe, the era, or the source text. Pin a single gloss onto the word and you quietly corrupt every reading that uses the other sense.
+**Direct answer:** The dataset's governing rule is that one Chinese word does not always map to one English word, and 藿香 is the standard demonstration: it can name agastache or patchouli depending on the setting.
 
-The dataset's remedy is to record context alongside the translation → the reader sees each plant name in its setting → the correct sense resolves instead of being guessed → downstream readers stop mistranslating classical recipes. Chinese is kept as the source of truth and English as the agreed translation, which is a deliberate stance: the Chinese term owns the identity, and the English rendering is a decision made about it, not a definition that replaces it. The [incense ingredients glossary](/blog/incense-ingredients-glossary/) applies the same principle on the ingredient side.
+The trap is easy to fall into. A translator sees 藿香 in a recipe, looks it up once, writes "patchouli," and moves on. Another recipe from a different period uses the same characters for agastache. Both readings are now fixed in English, and every later reader inherits the confusion. The word did not change; the context did.
 
-## A Map of the Directions
+The dataset's response is procedural. Record the Chinese term → record the context in which it appears → offer the English rendering that fits that context → let the reader see the choice rather than inheriting a silent one. The chain does not eliminate ambiguity; it makes ambiguity visible, which is the most a reference can honestly do.
 
-**Direct answer:** The 249 terms fall into a small set of natural directions — materials and grades, aroma and burn behaviour, forms, techniques, tools, texts, manufacturing, geography and trade, culture, and adulteration — and this overview samples each so you can find a path into the full dataset.
+This principle has a practical consequence for buyers. A product label that says "patchouli" may be translating 藿香 from a source that meant agastache, or it may be describing a genuinely different material. The English word alone cannot tell you. Asking for the Chinese term, or for the botanical name, is the only way to collapse the uncertainty.
 
-The table below is an editorial navigation aid rather than a dataset field. The counts are approximate groupings of the 249 records, offered to show where the vocabulary runs dense and where it runs thin.
+## The Twelve Directions, Mapped
 
-| Direction | Approx. count | Representative terms |
+**Direct answer:** The vocabulary divides into a dozen natural groups, and their sizes are uneven because the trade's precision is uneven — agarwood grading alone accounts for a large share.
+
+| Direction | Approx. terms | What it contains |
 |---|---|---|
-| Materials and grades | ~90 | 沉香 (agarwood), 檀香 (sandalwood), 奇楠 (qínán), 沉水 (sinking grade) |
-| Aroma and burn behaviour | ~28 | 甜 (sweet), 前调 (top note), 发烟量 (smoke output), 留香 (longevity) |
-| Forms and formats | ~25 | 线香 (stick), 盘香 (coil), 塔香 (cone), 倒流香 (backflow cone) |
-| Tools and vessels | ~27 | 香炉 (censer), 博山炉 (Boshan censer), 香匙 (spoon), 银叶 (silver leaf) |
-| Techniques and practice | ~23 | 隔火焚香 (indirect-fire), 合香 (blending), 篆香 (seal incense) |
-| Texts | ~7 | 香乘 (the Incense Compendium), 陈氏香谱 (a manual) |
-| Manufacturing | ~8 | 打粉 (grinding), 筛粉 (sieving), 含水率 (moisture content) |
-| Geography and trade | ~8 | 海南香 (Hainan agarwood), 安南香 (Vietnamese agarwood) |
-| Culture and ritual | ~9 | 香市 (incense market), 香会 (incense gathering), 手炉 (hand warmer) |
-| Adulteration and fakes | ~3 | 假货 (counterfeit), 高压灌油 (high-pressure oil injection) |
+| Materials and grades | ~90 | Ingredient names plus the agarwood grading stack |
+| Aroma and burn behaviour | ~28 | Descriptive words and physical behaviour |
+| Tools and vessels | ~27 | Censers, spoons, boxes, plates, ash |
+| Forms and formats | ~25 | Sticks, coils, cones, pills, plaques, beads |
+| Techniques and practice | ~23 | Warming, sealing, blending, appreciation |
+| Culture and ritual | ~9 | Markets, gatherings, households, warmers |
+| Manufacturing | ~8 | Grinding, sieving, particle size, moisture |
+| Geography and trade | ~8 | Source regions and foreign material |
+| Texts | ~7 | Compendia and manual traditions |
+| Adulteration and fakes | ~3 | Counterfeit and treatment terms |
 
-The shape of the table tells its own story. Materials and grades dominate because agarwood alone carries a deep grading vocabulary — sinking grade, the five colour grades of qínán, live-formed versus mature-formed, insect-bored. That density reflects a market where precise grading moves real money, so the language had to grow precise enough to keep up.
+The counts are editorial approximations for navigation, not fields in the dataset. Their value is in the shape they reveal. Materials dominate because the market needed a precise language for grading; tools and forms are similarly dense because the physical practice is varied; the fake list is tiny because the vocabulary of deception is small and blunt. A reader can use the shape as a map of where the tradition invested its attention.
 
-## Materials and Grades
+## Materials and Grades: The Dense Centre
 
-**Direct answer:** The largest direction is ingredient names and the grading vocabulary built around agarwood, where a single material carries a dozen graded states and each state has its own term.
+**Direct answer:** The largest group is the ingredient vocabulary, and inside it the agarwood grading terms form the most elaborate structure in the whole set.
 
-The ingredient names form the base layer: 沉香 (agarwood), 檀香 (sandalwood), 乳香 (frankincense), 没药 (myrrh), 麝香 (musk), 龙脑 (borneol), and 安息香 (benzoin). Around agarwood the grading terms stack upward: 沉水 (sinking grade), 奇楠 (qínán), the five colour grades 白奇楠 / 绿奇楠 / 黄奇楠 / 黑奇楠 / 紫奇楠, 半沉半浮 (semi-sinking), 生结 (live-formed), 熟结 (mature-formed), and 虫漏 (insect-bored). Each grade names a different resin-loading or formation path, and resolving one correctly is exactly where the "one word, several senses" principle pays off — 奇楠 is not interchangeable with ordinary agarwood, and 沉水 is a density claim rather than a flavour note. The [agarwood entity page](/ingredients/agarwood/) carries the full treatment.
+The base layer is a list of materials, and four carry most of the traffic: 沉香 (agarwood), 檀香 (sandalwood), 乳香 (frankincense) and 没药 (myrrh). The rest of the ingredient vocabulary follows the same pattern — a Chinese name, a pinyin reading and an agreed English rendering.
 
-## Aroma, Forms, and Techniques
+Around agarwood the vocabulary thickens into grading. 沉水 names the sinking grade, a density claim rather than a flavour description. 奇楠 (qínán) names a distinct class that is not interchangeable with ordinary agarwood, and the set recognises several colour subdivisions within it. Further terms describe formation paths, partial sinking and insect-bored pieces. The full grading stack is one of the reasons the materials direction is the largest in the dataset.
 
-**Direct answer:** The aroma vocabulary names how a burn feels, the form vocabulary names what shape the material takes, and the technique vocabulary names what the practitioner does — three layers a reader needs to keep apart.
+Why does one wood need so many words? Because grading moves money. When a buyer pays a premium for a named grade, the name has to be precise enough to argue about. The vocabulary grew to meet that need, and it remains dense because the need has not gone away. A reader who learns only 沉香 and 奇楠 has the two most useful keys; the rest is detail that matters when a specific piece is being priced.
 
-The aroma and burn-behaviour terms describe the experience: 甜 (sweet), 辛 (pungent), 清 (clear), 凉 (cooling), 醇 (mellow), and 雅 (refined), plus the note structure 前调 / 中调 / 后调 (top / middle / base note) and the physical behaviour terms 发烟量 (smoke output), 燃烧速率 (burn rate), 留香 (longevity), and 定香剂 (fixative).
+## Aroma, Form, Practice: Three Layers to Keep Apart
 
-The form terms name the physical shapes: 线香 (stick), 盘香 (coil), 塔香 (cone), 倒流香 (backflow cone), 香粉 (powder), 香丸 (pill), 香饼 (cake), 香牌 (plaque), 香珠 (bead), 竹签香 (bamboo-core stick), 微烟香 (low-smoke), and 无烟香 (smokeless). These overlap the [forms dataset](/blog/incense-materials-techniques-forms/).
+**Direct answer:** Descriptive words, shape words and action words are three different vocabularies, and mixing them is the most common way a beginner's notes become unusable.
 
-The technique terms name what the practitioner does: 隔火焚香 (indirect-fire), 篆香 (seal incense), 合香 (blending), 品香 (appreciation), 香道 (the way of incense), 空熏 (no-flame heating), 单方 (single-material), 复方 (compound formula), and 四般闲事 (the Four Leisure Arts). A reader who can hold these three layers apart — what it smells like, what shape it takes, what I do with it — already commands most of the working vocabulary.
+The descriptive layer names what a session is like: 甜 (sweet), 清 (clear), 凉 (cooling). Around these sit the note-structure words 前调, 中调 and 后调, and a few physical measures such as 发烟量 (smoke output) and 留香 (longevity).
 
-## Tools, Vessels, Texts, and the Rest
+The shape layer names what the product is. A sample is enough to show the range; the full list sits in the dataset:
 
-**Direct answer:** Beyond materials and practice sit the supporting directions — tools and vessels, classical texts, manufacturing, geography and trade, culture, and the small but important adulteration list.
+| Term | English |
+|---|---|
+| 线香 | stick |
+| 盘香 | coil |
+| 塔香 | cone |
+| 香粉 | powder |
+| 香丸 | pill |
+| 香牌 | plaque |
 
-Tools and vessels name the apparatus of the incense table: 香炉 (censer), 博山炉 (Boshan censer), 宣德炉 (Xuande censer), 香匙 (spoon), 香箸 (chopsticks), 香盒 (box), 香灰 (ash), 香几 (stand), 香铲 (spatula), 银叶 (silver leaf), and 云母 (mica).
+These are the words a catalogue uses, and they map closely onto the [forms and materials overview](/blog/incense-materials-techniques-forms/).
 
-The remaining directions are smaller but not minor. **Texts** include 香乘 (the Incense Compendium), 本草 (materia medica), and the manuals 陈氏香谱 and 洪芻香谱. **Manufacturing** covers 打粉 (grinding), 筛粉 (sieving), 粒径 (particle size), 含水率 (moisture content), 粘粉 (binder powder), and 成型 (forming). **Geography and trade** names the source regions — 海南香 (Hainan agarwood), 安南香 (Vietnamese agarwood), 真腊 (Chenla), 占城 (Champa), 渤泥 (Borneo), and 番香 (foreign incense). **Culture and ritual** holds 香市 (incense market), 香会 (incense gathering), 香户 (incense household), 香婆 (incense woman), 香界 (incense realm), 熏笼 (fumigation cage), and 手炉 (hand warmer). The **adulteration** list — 假货 (counterfeit), 高压灌油 (high-pressure oil injection), and 泡药水 (chemical/dye soaking) — is tiny but valuable precisely because it names the fakes a buyer should watch for.
+The action layer names what a person does:
 
-## Where the Full Set Lives
+| Term | English |
+|---|---|
+| 隔火焚香 | indirect-fire warming |
+| 篆香 | seal incense |
+| 合香 | blending |
+| 品香 | appreciation |
+| 单方 | single material |
 
-**Direct answer:** The complete 249-term vocabulary lives in two places — the machine-readable `terminology.json` dataset (the canonical source of truth) and the human-readable glossaries for forms and ingredients — and this page is the index that sits between them.
+Holding the layers apart is not pedantry. A note that says "sweet coil" mixes a descriptor with a shape; a note that says "sweet, coil, warmed" records three separable facts. The second note can be compared with another; the first cannot.
 
-- **Machine-readable:** [Terminology dataset](https://data.incensehub.org/datasets/terminology.json) — 249 records, CC BY-SA 4.0, version 1.4.
-- **Human-readable (forms):** [Incense Terminology Glossary](/blog/incense-terminology-glossary/) — the form and practice vocabulary in table form.
-- **Human-readable (ingredients):** [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/) — the ingredient vocabulary.
+## Tools, Vessels and the Apparatus
 
-The dataset carries a version, a `dateModified`, and a changelog, so its history is auditable rather than a silent edit — a reader can see when a term changed and trace back to the change. The full eight-dataset inventory is on the [knowledge map](/blog/landeng-knowledge-map/).
+**Direct answer:** The tool vocabulary is small but concrete, and each term names an object you could put on a table.
 
-## How to Put the Terminology to Work
+香炉 is the censer, the vessel that holds everything else. The working kit around it is small: 香匙 (spoon), 香盒 (box), 香灰 (ash), and the plate materials 银叶 (silver leaf) and 云母 (mica). Historical vessel names such as 博山炉 and 宣德炉 describe forms rather than functions, which is why they are useful to a collector and less useful to a buyer assembling a first kit.
 
-**Direct answer:** Three practical uses — pin down a Chinese name's English translation before choosing, read a classical recipe or manual, or build a Chinese–English reference against the machine-readable dataset — and the direction index above is the fastest human entry point.
+The specificity is useful. A buying list built from these terms is unambiguous in a way that "incense tools" is not. It also reveals how the practice is organised: the plate materials (silver leaf, mica) belong to the indirect method, the ash belongs to the heat bed, and the spoon and chopsticks belong to handling. The vocabulary encodes a workflow.
 
-- **For choosing** — a label or recipe name such as 白奇楠 should resolve to "white qínán (agarwood grade)," not a guess; the glossary is the resolution table.
-- **For reading** — classical manuals and 合香 recipes use 香道, 合香, 隔火焚香, and 君臣佐使; the glossary is the translation layer between the source and the reader.
-- **For building** — the JSON is licensed CC BY-SA 4.0 and carries `termCode`, `alternateName`, and `description`, so it can be consumed as a reference dataset with attribution.
+## Texts, Manufacture, Geography, Culture
+
+**Direct answer:** The supporting directions are smaller but they explain where the words come from and how the material is made.
+
+The textual group includes 香乘, the great compendium, 本草 for the materia medica tradition, and the manuals 陈氏香谱 and 洪芻香谱. These are the sources a term can be traced back to, and the reason the Chinese headword is treated as authoritative.
+
+Manufacturing terms describe the workshop — grinding, sieving, particle size, moisture — and a reader who knows them can follow a production description without guessing which step is which.
+
+Geography and trade terms name where material came from:
+
+| Term | English |
+|---|---|
+| 海南香 | Hainan agarwood |
+| 安南香 | Vietnamese agarwood |
+| 占城 | Champa |
+| 番香 | foreign incense |
+
+These are historical place-names as much as product labels, and they carry assumptions about quality that a modern buyer should treat as tradition rather than proof.
+
+Culture and ritual terms name the social setting — markets, gatherings, households, warmers — and they show incense as a practice embedded in daily life rather than a hobby isolated from it.
+
+## The Small List of Fakes
+
+**Direct answer:** Only a handful of terms cover adulteration, and their bluntness is the point: 假货, 高压灌油, 泡药水 name the tricks directly.
+
+假货 means counterfeit goods. 高压灌油 describes high-pressure injection of oil to add weight and scent. 泡药水 describes soaking in chemical or dye solutions. Three terms, no euphemism.
+
+For a buyer, this list is a compact warning set. A piece that is unusually heavy, unusually fragrant at room temperature, or unusually cheap for its stated grade is describing one of these practices rather than a natural result. The vocabulary does not tell you how to detect every fake, but it tells you which stories to be suspicious of. That is the honest limit of a glossary.
+
+## Resolving a Term in Four Steps
+
+**Direct answer:** A repeatable procedure beats a lucky lookup: find the headword, read the literal sense, check the context, then confirm against a second source.
+
+1. **Find the headword in Chinese first.** Search the characters, not the English. English searches collide across renderings; the characters do not.
+2. **Read the literal meaning before the translation.** 沉香 as "sinking fragrance" tells you what the word is doing; "agarwood" only tells you what someone decided it means.
+3. **Check the context field.** A term used in a recipe, a grade list and a poem can carry different senses. The context is where the sense is decided.
+4. **Confirm against a second source.** The dataset is a reference, not an oracle. A classical text, a museum catalogue or a named botanical source gives independent confirmation.
+
+The chain is simple: characters first → literal sense second → context third → confirmation last. Run in that order, it prevents the common failure of accepting the first English gloss and building an argument on it. Run out of order, it produces confident errors.
+
+## How the Words Are Built
+
+**Direct answer:** Most of the vocabulary is compositional rather than arbitrary: a small set of heads and modifiers combine to name objects, grades and actions, and noticing the pattern makes new terms easier to read.
+
+香 is the most productive head. It appears in the vessel (香炉), the ash (香灰), the box (香盒), the spoon (香匙) and the powder (香粉), and in each case the second character names the thing while 香 marks the domain. A reader who recognises the pattern can guess the category of an unfamiliar compound even without knowing its exact sense — which is useful, as long as the guess is treated as a hypothesis rather than a translation.
+
+Grade names lean on physical description. 沉水 records a density observation; colour terms mark subdivisions of a class; formation terms describe how the resin arrived. The vocabulary is descriptive before it is evaluative, which is worth remembering when a modern seller uses a grade word as a compliment.
+
+Action terms are usually verb-like compounds: warming, sealing, blending, appreciating. They name a practice rather than an object, and they tend to survive translation less well than material names, because the English verb carries different associations. 品香 is not simply "smelling incense"; it names a deliberate practice of attention. The gap between the two is where most translation loss happens.
+
+## What the Index Cannot Do
+
+**Direct answer:** A vocabulary reference can tell you what a term means; it cannot tell you whether the thing in front of you deserves the term.
+
+A buyer who can name 沉水 has learned a word, not a test. The word describes a density property; confirming it requires the piece, a method and some experience. That gap between vocabulary and verification is the honest limit of a glossary, and it is worth stating because the possession of terms can feel like the possession of knowledge.
+
+The same limit applies to grade names. A label that uses a precise term is making a claim; the term's precision is evidence that the claim is specific, not that it is true. What the index does is shorten the path to a good question — which grade, which formation, which source — and a good question is where verification starts.
+
+## A Note on Pinyin
+
+**Direct answer:** The pinyin field is not decoration; it is the search key, and small conventions decide whether a search finds the term or misses it.
+
+Chinese terms in the dataset carry tone-marked pinyin — chénxiāng rather than chenxiang. That is the standard scholarly form, and it is the form a library catalogue or a museum label is most likely to use. Search engines are inconsistent about tone marks, so a reader who cannot type them should search the unmarked string and expect the marked form to appear in results.
+
+Spacing is the second variable. Some transliterations join syllables, others separate them, and both appear in older English writing. The dataset standardises on the syllable-separated form, which is why 沉香 appears as chén xiāng in some contexts and chénxiāng in others. Neither is wrong; the difference is a convention, and a search should try both.
+
+Capitalisation follows the same logic. A term at the start of a sentence may be capitalised in running text while the headword field stays lowercase. A reader comparing a label with a record should compare the letters, not the case.
+
+These details look trivial until a search fails. A buyer who cannot find 奇楠 because they typed qinan instead of qínán may conclude the term is absent, when the record exists one spelling away. The pinyin field exists to prevent that failure, and using it well is part of using the dataset.
+
+## How the Dataset Is Maintained
+
+**Direct answer:** The records are versioned and changelogged, which turns a glossary from a static page into something a reader can audit.
+
+A version number tells you which edition you are citing. A modification date tells you when the edition changed. A changelog tells you what changed and, if it is well kept, why. Those three pieces are what distinguish a maintained reference from a document that was accurate once.
+
+For a researcher, the practical consequence is citation. A claim drawn from version 1.4 should say so, because a later edition may revise a rendering or add a term. For a developer, the consequence is dependency: pin the version you tested against, and record when you move. Neither habit is glamorous, and both prevent the quiet drift that makes old references unreliable.
+
+## Three Ways to Use the Index
+
+**Direct answer:** The vocabulary serves three practical jobs — buying, reading and building — and each one enters the index at a different point.
+
+**For buying.** A label or a seller's description should resolve to a specific term with a specific sense. 白奇楠 is not "white agarwood" in some loose poetic sense; it is a named grade. If the seller cannot connect the English to a Chinese term, the description is marketing rather than specification.
+
+**For reading.** Classical recipes and manuals assume the reader knows 合香, 隔火焚香 and 君臣佐使. The glossary is the translation layer, and the [hexiang blending system](/blog/hexiang-blending-system/) explains the compositional logic behind the last of those.
+
+**For building.** The JSON is licensed for reuse with attribution, and each record carries structured fields, so it can serve as a reference dataset in an application rather than being scraped from prose. A developer who needs a term list should start there, not with a page like this one.
 
 ## Common Mistakes
 
-1. **Treating one Chinese word as one English word.** Context decides the sense — 藿香 is the classic trap.
-2. **Expecting all 249 terms on one page.** This is the index; the dictionary is the dataset and the two glossaries.
-3. **Guessing a translation from a single character.** 香 compounds — 香炉, 香灰, 香几, 香盒 — share one character but name different objects.
+1. **Assuming a one-to-one dictionary.** 藿香 is the standard counterexample; context decides.
+2. **Expecting the whole 249 on one page.** This is an index; the dictionary is the dataset and the glossaries.
+3. **Translating from a single character.** 香炉, 香灰, 香几 and 香盒 share 香 and name four different objects.
+4. **Treating a historical place-name as a quality guarantee.** 海南香 and 安南香 are origins, not certificates.
+5. **Using an English gloss as evidence.** A translation is a decision; the Chinese term is the record.
 
-## The Author's Take
+## An Author's Position
 
-**Position:** Terminology is the entry fee to the whole topic — most reader confusion about Chinese incense is a translation problem, not a knowledge problem.
+**Position:** Terminology is the cheapest available upgrade to a reader's understanding of Chinese incense, because most confusion in this subject is a translation problem wearing the costume of a technical one.
 
 **Reasoning:**
 
-- A reader who can resolve 沉香 → agarwood and 奇楠 → qínán has already cleared most of the confusion; the rest is detail.
-- The direction index serves a human better than an alphabetical dump would, because the vocabulary clusters around the things a reader actually does — choose, read, build.
-- The "one word, several senses" principle is not a pedantic caveat; it is the difference between a glossary that helps and one that quietly misleads.
+- A reader who can resolve 沉香 to agarwood and 奇楠 to qínán has cleared the two terms that cause the most expensive mistakes.
+- The direction index is more useful than an alphabetical list for a human, because the vocabulary clusters around activities — choosing, reading, building — rather than around the alphabet.
+- The "one word, several senses" rule is not a caveat appended to the glossary; it is the reason the glossary is structured the way it is.
 
-*This is the author's editorial view — not a verified fact.*
+**A boundary worth stating:** having the vocabulary does not mean having the judgment. A buyer who can name 沉水 still cannot tell a genuine sinking piece from a treated one by reciting the term. The glossary shortens the path to a good question; it does not answer the question for you.
 
-## Verification Notes
-
-- The 249-record count and the per-term fields are drawn directly from `terminology.json` (version 1.4).
-- Direction groupings and their approximate counts are an editorial navigation aid, not dataset fields.
-- The "one Chinese word ≠ one English word" principle is the dataset's own stated description.
-
-## Summary
-
-- The terminology layer is a strategic asset: Chinese terms are the source of truth, and English is the agreed translation.
-- 249 terms group into roughly a dozen directions, with materials and grades the densest.
-- Every term carries four fields — Chinese name, pinyin, literal meaning, and preferred English.
-- The full set lives in `terminology.json` and the two human-readable glossaries; this page is the index between them.
-- One Chinese word does not always map to one English word, and the dataset records context rather than forcing a gloss.
+*This position is the author's editorial judgment, not a verified claim.*
 
 ## FAQ
 
-### Q: How many terms are in the IncenseHub terminology dataset?
-249. Each term is stored as a structured record with a Chinese name (the source of truth), a pinyin reading, a literal meaning, and a preferred English translation. The dataset is versioned (1.4), licensed CC BY-SA 4.0, and served from `data.incensehub.org/datasets/terminology.json`. See the [knowledge map](/blog/landeng-knowledge-map/) for the full dataset inventory.
+### Q: How many terms are in the dataset?
 
-### Q: Why does one Chinese word sometimes have multiple English meanings?
-Because context determines the translation. The word 藿香 can mean agastache (*Agastache rugosa*) or patchouli (*Pogostemon cablin*), and the dataset records context alongside the translation rather than forcing a single gloss. This is why the glossary keeps Chinese as the source of truth and English as the agreed translation rather than a one-to-one mapping.
+249. Each is a structured record with a Chinese headword, a pinyin reading, a literal meaning and a preferred English translation. The set is versioned at 1.4, licensed CC BY-SA 4.0, and served as JSON from `data.incensehub.org`. The [knowledge map](/blog/landeng-knowledge-map/) lists it alongside the other datasets in the series.
 
-### Q: Where do I find the full terminology list?
-In two places: the machine-readable [terminology.json](https://data.incensehub.org/datasets/terminology.json) dataset (the canonical 249-term source), and the human-readable glossaries — the [incense terminology glossary](/blog/incense-terminology-glossary/) for form vocabulary and the [incense ingredients glossary](/blog/incense-ingredients-glossary/) for ingredient vocabulary. This page is the index between them.
+### Q: Why can one Chinese word have several English meanings?
 
-### Q: What does 沉香 (chénxiāng) mean?
-沉香 means "sinking fragrance" — agarwood. The name records the classical density test: the most resin-saturated pieces sink in water. The preferred English translation is "agarwood." See the [agarwood entity page](/ingredients/agarwood/) for the full treatment.
+Because meaning is fixed by context, not by the word alone. 藿香 can refer to agastache or to patchouli depending on the recipe and the period. A glossary that picks one rendering without recording the context creates a false certainty that later readers inherit. The dataset's response is to store the context and show the choice.
 
-### Q: What is indirect-fire incense (隔火焚香)?
-隔火焚香 (gé huǒ fén xiāng) means "incense across fire" — the indirect-fire method of warming material over buried charcoal so it releases aroma without combusting. It is the direct ancestor of Japanese kōdō. See the [gehuo fenxiang setup](/blog/gehuo-fenxiang-setup/) and the [terminology glossary](/blog/incense-terminology-glossary/).
+### Q: Where is the full list?
+
+Two places, serving two audiences. The machine-readable [terminology.json](https://data.incensehub.org/datasets/terminology.json) holds the canonical 249 records. The human-readable side is split between the [terminology glossary](/blog/incense-terminology-glossary/) for form and practice vocabulary and the [ingredients glossary](/blog/incense-ingredients-glossary/) for materials. This page is the index between them.
+
+### Q: What does 沉香 mean?
+
+Literally "sinking fragrance," and in English, agarwood. The literal sense records an old test: resin-heavy pieces sink in water, and the name preserves that observation. The English word describes the material; the Chinese word describes a property of it. Both are useful, and they are not the same kind of statement. The [agarwood page](/ingredients/agarwood/) covers the material itself.
+
+### Q: What is 隔火焚香?
+
+It means "incense across fire" — warming aromatic material over a buried ember, with a plate between the heat and the material, so the material releases scent without combusting. The method is described in the [indirect-fire setup](/blog/gehuo-fenxiang-setup/), and the term is one of the clearest examples of a Chinese name that explains the technique rather than merely labelling it.
 
 ### Q: What is the difference between 单方 and 复方?
-单方 (dān fāng) is single-material appreciation — one wood or resin on its own. 复方 (fù fāng) is compound formula — blended incense (合香) proper, with multiple materials composed on the 君臣佐使 (chief–minister–assistant–guide) principle. Traditional Chinese incense is usually 复方. See the [hexiang blending system](/blog/hexiang-blending-system/).
 
-### Q: Can I reuse the terminology dataset in my own project?
-Yes, under its license. The dataset is CC BY-SA 4.0, which permits reuse and adaptation as long as you attribute the source and share any derivative work under the same terms. Because each record carries structured fields — a `termCode`, `alternateName`, and `description` — it can be consumed as a reference dataset rather than scraped from prose. That reusability is the reason the terminology is stored as structured data instead of a flat list.
+单方 is a single-material preparation: one wood or resin, appreciated on its own. 复方 is a compound formula, blended from several materials and composed on the 君臣佐使 principle — chief, minister, assistant and guide. Most traditional Chinese incense is 复方, which is why the blending vocabulary is so much richer than the single-material vocabulary.
+
+### Q: Can the dataset be reused?
+
+Yes, under CC BY-SA 4.0, with attribution and share-alike terms for derivative work. Each record carries structured fields, so it can be loaded as a reference dataset rather than scraped from prose. Reuse is the reason the terminology is maintained as data: a glossary trapped in a web page cannot travel, and a dataset can.
 
 ## Sources
 
-- [IncenseHub Terminology dataset](https://data.incensehub.org/datasets/terminology.json) — the canonical 249-term source.
-- The [terminology glossary](/blog/incense-terminology-glossary/) and [ingredients glossary](/blog/incense-ingredients-glossary/) — human-readable companions.
-- [Xiang Cheng (香乘) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical terminology source.
+- [IncenseHub terminology dataset](https://data.incensehub.org/datasets/terminology.json) — the canonical 249-record source, version 1.4.
+- The [terminology glossary](/blog/incense-terminology-glossary/) and the [ingredients glossary](/blog/incense-ingredients-glossary/) — the human-readable companions.
+- [Xiang Cheng (香乘) on Wikisource](https://zh.wikisource.org/wiki/香乘) — a classical source for much of the vocabulary.
 
 ## Related Resources
 
-- [Incense Terminology Glossary](/blog/incense-terminology-glossary/)
-- [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/)
-- [Incense Materials, Techniques & Forms](/blog/incense-materials-techniques-forms/)
-- [IncenseHub Knowledge Map](/blog/landeng-knowledge-map/)
+- [Incense Terminology Glossary](/blog/incense-terminology-glossary/) — form and practice terms in table form.
+- [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/) — the material vocabulary.
+- [Incense Materials, Techniques & Forms](/blog/incense-materials-techniques-forms/) — how the categories fit together.
+- [IncenseHub Knowledge Map](/blog/landeng-knowledge-map/) — the full dataset inventory.
 
-**Natural next step:** resolve form vocabulary in the [terminology glossary](/blog/incense-terminology-glossary/), or see how the whole taxonomy fits together in [materials, techniques & forms](/blog/incense-materials-techniques-forms/).
+**A natural next step:** take a term you have just resolved and follow it into the [terminology glossary](/blog/incense-terminology-glossary/), or see the whole taxonomy in [materials, techniques and forms](/blog/incense-materials-techniques-forms/).
+
+## Summary
+
+- The page indexes 249 Chinese–English incense terms; the dictionary itself lives in a JSON dataset and two glossaries.
+- Every record carries a Chinese headword, pinyin, literal meaning and preferred English translation.
+- The vocabulary divides into about a dozen directions, with materials and agarwood grading the densest.
+- One word can carry several senses — 藿香 is the standard case — so context is stored rather than assumed.
+- The glossary shortens the path to a good question; it does not replace the judgment needed to answer it.

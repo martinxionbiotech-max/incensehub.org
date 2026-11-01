@@ -11,170 +11,166 @@ brand: "IncenseHub"
 author: "Landeng Tech Team"
 ---
 
+**Direct answer:** Floral is the **blossom register** — the smell of petals rather than wood, resin, or leaf. Four materials carry it in this library: rose (玫瑰), jasmine (茉莉), osmanthus (桂花), and chrysanthemum (菊花). Three read sweet and honeyed; jasmine tips into the heady; chrysanthemum keeps a bittersweet, herbal edge.
 
-**Direct answer:** The floral family is the register of blossoms — a sugared, nectar-forward scent carried by rose, jasmine, osmanthus, and chrysanthemum, with jasmine tipping toward something close to intoxicating. Four flowers make up the family: chrysanthemum (菊花), jasmine (茉莉), osmanthus (桂花), and rose (玫瑰). Inside a tradition whose footing has always been wood and resin, floral reads as a fairly recent ornament rather than a base, and its materials usually show up as dried blooms or costly absolutes instead of as fuel to burn.
+**Key facts:** All four are catalogued as members of one family in `aroma.json`. Floral entered the Chinese incense canon late and mostly as an accent, a tea-scenting material, or a symbolic note — the burned base of the tradition is wood and resin. Genuine floral absolutes are costly enough that a great deal of commercial "rose" and "jasmine" is a rebuilt accord, which is legitimate when the label says so.
 
-**Key facts:** `aroma.json` names four `memberIngredients` for the family — chrysanthemum, jasmine, osmanthus, and rose. Three of them (jasmine, osmanthus, rose) hold a shared sugared, nectar-like heart; chrysanthemum supplies a bitter, herbaceous counter-note. Because the genuine absolutes are pricey, the word "rose" or "jasmine" on a commercial stick often points at a rebuilt note rather than a flower extract, a disclosure the entity pages state outright.
+---
 
 ## Key Takeaways
 
-- Floral is the blossom register — rose, jasmine, osmanthus, and chrysanthemum.
-- The named members are chrysanthemum, jasmine, osmanthus, and rose.
-- In the classical wood-and-resin canon, floral is mostly a recent or symbolic guest.
-- Real absolutes are expensive and get swapped for labeled synthetic notes.
-- Aroma is described, not prescribed — this page makes no health or medical claims.
+- Four members define the family: **chrysanthemum, jasmine, osmanthus, rose**.
+- The shared character is **sweet and honeyed**; jasmine adds a narcotic weight, chrysanthemum a bitter-herbal counterweight.
+- Floral behaves as a **top note** — it lifts a blend and fades early. It is a poor structural base.
+- The costly part is the **absolute**, not the flower. Dried petals are cheap; the captured volatile fraction is not.
+- A rebuilt accord is a legitimate material. Selling it as the natural absolute is the problem.
+- Nothing here is a therapeutic claim. "Headiness" describes impact on the nose, not on the body.
 
-## Why Floral Reads "Recent"
+---
 
-**Direct answer:** The classical Chinese incense library rested on wood and resin — agarwood, sandalwood, frankincense — and flowers entered mostly as bright accents and tea-scenting helpers, not as the fuel, which is why floral feels like a late arrival even though the flowers themselves are old.
+## Four Blossoms, One Register
 
-The materials that carried the tradition are agarwood, sandalwood, and frankincense. Flowers slipped in through three side doors:
+The family is small and unusually well defined, which makes it a good place to learn how aroma families work. Each member is a single flower with a single cultural home, and each one teaches a different lesson about how floral notes behave when they are burned, heated, or worn.
 
-- **As top notes** — a thin floral veil laid over a woody base (see the [scent guide](/blog/scent-guide/)).
-- **As tea scenters** — jasmine and osmanthus are layered with fresh leaves so the tea picks up the volatile scent.
-- **As symbols** — in the contemporary scent wheel, florals read as "lifting," a cultural reading rather than a medical effect.
+| Member | Chinese | Botanical source | Character in one line | Usual role |
+|---|---|---|---|---|
+| Rose | 玫瑰 | *Rosa rugosa*, *Rosa damascena* | Sweet, rounded, slightly waxy petal | Romantic middle note |
+| Jasmine | 茉莉 | *Jasminum sambac* | Heavy sweet, faintly animalic | Headline note, small dose |
+| Osmanthus | 桂花 | *Osmanthus fragrans* | Apricot and honey over a soft floral | Bright top note |
+| Chrysanthemum | 菊花 | *Chrysanthemum morifolium* | Bitter-herbal edge under the petal | Herbal-floral bridge |
 
-That is why floral behaves as a partner family, not a base: it brightens the woods and resins that anchor the canon. The full ten-family map sits on the [aroma families hub](/blog/incense-aroma-families/).
+The table is a working aid rather than a rulebook. Rose absolute and rose accord can both be "rose," and the same flower smells different depending on whether it is dried, distilled, or rebuilt from isolates.
 
-## The Four Blooms
+## Reading the Four, One at a Time
 
-### Rose (玫瑰) — sugared and romantic
+**Rose** is built from petals picked at a particular moment and handled fast, because the volatile fraction is fragile. Its yield is low enough that the oil and absolute command high prices, and that price is the single best clue when you are reading a supplier's list: a "rose" stick sold at the same price as a plain sandalwood stick is not carrying a meaningful load of rose absolute. The scent itself is round rather than sharp, sweet without being sugary, and it reads as a middle note because it takes a moment to bloom and then sits close. The [rose entity page](/ingredients/rose/) covers the material in more detail.
 
-**Direct answer:** Rose is the flower of *Rosa rugosa* (Chinese rose) and *Rosa damascena* (damask rose), with a sweet, romantic scent and two separate jobs: dried buds for tea and materia medica, and distilled or solvent-washed petals for rose oil and absolute.
+**Jasmine** is the family's heavyweight. *Jasminum sambac* absolute carries a sweetness that becomes almost thick at high dose, with a faintly animalic undertone that perfumers describe as indolic. That undertone is why jasmine divides people: at a low dose it reads luxurious, at a high dose it reads overripe. Its cultural route into everyday use runs through tea rather than smoke — fresh buds layered with leaves — and that history explains why jasmine is often encountered as a scent idea before it is encountered as an incense material. See [jasmine](/ingredients/jasmine/).
 
-What defines rose economically is a tiny yield. A very large harvest of hand-picked petals returns a very small quantity of oil, and that scarcity is what makes true rose oil and absolute expensive — and why "rose" on an incense label so often means a rebuilt note. See the [rose entity page](/ingredients/rose/).
+**Osmanthus** is the lightest of the four and the easiest to like. The tiny golden flowers of *Osmanthus fragrans* carry an apricot-honey note that reads fruit-adjacent without being fruity, and it lifts a blend in the first minute rather than unfolding slowly. In tea and pastry it is a seasonal marker; in incense it works as a bright opening over a wood base. The [osmanthus entity page](/ingredients/osmanthus/) has the material detail.
 
-### Jasmine (茉莉) — sugared and intoxicating
+**Chrysanthemum** is the outlier and the reason the family is not simply "sweet flowers." Its note is floral at the top and distinctly bitter-herbal underneath, which makes it a bridge to the herbal family rather than a pure blossom. It also behaves differently in a blend: instead of lifting, it grounds, and a small amount can pull a too-sweet composition back toward something drier. The [chrysanthemum entity page](/ingredients/chrysanthemum/) treats it as both floral and herbal, which is the honest classification.
 
-**Direct answer:** Jasmine is the flower of *Jasminum sambac*, sweet and floral with a heavy, opulent pull. It is best known through jasmine tea, where fresh buds scent the leaves, and through jasmine absolute, a pricey perfumery material that is routinely swapped for synthetic notes.
+## The Economics Behind the Smell
 
-Jasmine's signature is weight: an intense, sweet floral that reads lavish rather than clean. The absolute is costly, and the cheaper synthetic stand-in is assembled around benzyl acetate and its relatives. See the [jasmine entity page](/ingredients/jasmine/).
+The floral family has an unusually direct relationship between cost and chemistry, and understanding it explains most of what you smell on the market.
 
-### Osmanthus (桂花) — apricot-honey
+petals are harvested by hand within a short window → the volatile fraction is a tiny share of the flower's mass → capturing it requires distillation or solvent extraction → the captured absolute is expensive per gram → a commercial stick cannot carry much of it and stay cheap → the maker rebuilds the note from isolates → the label decides whether that is disclosed
 
-**Direct answer:** Osmanthus is the small golden flower of *Osmanthus fragrans*, sweet and floral with a stone-fruit, honeyed brightness, used across tea, desserts, and incense as a bright, fruity accent.
+That chain is why floral incense has a price floor that citrus and cedar do not. It is also why "floral" as a category is more honest than "rose" as a claim: the family can be delivered by an accord convincingly, while a single named flower implies a specific material.
 
-The 金桂 (gold) variety is the fragrance benchmark. As with rose and jasmine, the absolute is expensive, and synthetic osmanthus is built from ionones and related molecules. See the [osmanthus entity page](/ingredients/osmanthus/).
+The counterpoint is worth stating. A rebuilt accord is not a fake in any meaningful sense — it is a composed material, often more consistent batch to batch than a natural absolute, and many fine perfumes are built that way. The problem is not synthetic molecules. The problem is a price and a story that claim a material the stick does not contain. The [substitution cross-reference](/blog/incense-substitution-cross-reference/) tracks those naming swaps across families.
 
-### Chrysanthemum (菊花) — bitter and herbaceous
+## Absolute, Accord, or Dried Petal?
 
-**Direct answer:** Chrysanthemum is the flower of *Chrysanthemum morifolium*, floral but with a bitter, herbaceous edge — the family's bridge toward green.
+Three very different things get sold under floral names, and they behave differently in use. A buyer who can tell them apart will not be surprised by what arrives.
 
-Chrysanthemum reads less "sweet blossom" and more "bitter herb-floral," which is why it also earns a place in the herbal family. See the [chrysanthemum entity page](/ingredients/chrysanthemum/).
+| Form | What it is | Smell in use | Cost signal | Honest label would say |
+|---|---|---|---|---|
+| Absolute or oil | Volatiles captured from real petals | Dense, layered, shifts as it warms | High; small bottles | Species name, extraction method, origin |
+| Rebuilt accord | Isolates and bases composed to match | Clear, stable, sometimes flatter | Low to moderate | "Fragrance" or the note name without "absolute" |
+| Dried petals in the stick | Whole or chopped flower material | Faint, mostly masked by smoke | Low | Flower name, with no purity claim |
+| Scented tea material | Buds used to scent leaves | Soft, fleeting, food-adjacent | Moderate | Not an incense ingredient at all |
 
-## What the Chemistry Actually Says
+The fourth row matters because jasmine and osmanthus are famous as tea scenters, and the two uses get conflated in marketing. A jasmine bud that scented tea leaves has done its job through contact, not through combustion; putting the same bud in a stick adds bulk and a little plant-smoke character, not a jasmine note.
 
-**Direct answer:** Two members carry named, published chemistry — jasmine's note is described around benzyl acetate and related molecules, osmanthus's around ionones — while rose and chrysanthemum are described only as having studied volatile chemistry, with no single defining molecule attached.
+## Why Floral Works as an Accent and Fails as a Base
 
-The record is deliberately sparse:
+A base note has to survive the whole burn and hold the composition together. Floral volatiles are built to evaporate — that is their biological function in the flower — so they leave early and leave nothing behind.
 
-- **Jasmine** — the real absolute is costly; the cheaper synthetic note is built on benzyl acetate and its relatives, and jasmine carries an "indolic" heaviness.
-- **Osmanthus** — the synthetic note is built on ionones and related molecules.
-- **Rose, chrysanthemum** — described only as "studied volatile chemistry," with no named molecule.
+you load a stick with floral material → the light fraction leaves in the first minutes → the middle of the burn is carried by the wood or resin underneath → the end of the burn is the base alone → the floral exists only as an opening gesture
 
-When a molecule is not named in the corpus, this page refuses to invent one. The absence is itself a finding: rose's smell is complex enough that no single compound summarizes it, and pretending otherwise would be a fabrication.
+That is not a defect. An opening gesture is exactly what a top note is for, and a rose opening over sandalwood is one of the oldest structures in incense. The error is expecting the rose to still be there at minute forty. When a blend smells "hollow" halfway through, the usual cause is a top note asked to do a base note's work.
 
-## Sorting the Four by Function
+There is a second, subtler failure: overdosing. Because floral isolates are powerful, a maker trying to make the flower unmistakable can push the load past the point where the note reads clean. The result is the soapy, perfumey quality that puts people off floral incense entirely. The fix is dose, not material — a trace of jasmine reads expensive, a flood of it reads like laundry detergent.
 
-**Direct answer:** The four members split into three working bands — sugared flagships, a heavy accent, and an herbaceous bridge — and the band a flower sits in says more about how to use it than its scent description does.
+## Chemistry, Stated as Far as It Goes
 
-| Band | Members | Job in a blend | Register it brings |
+Published descriptions of floral chemistry are uneven, and this page will not fill the gaps with invention.
+
+**Jasmine** absolute is commonly described through **benzyl acetate** and related molecules, with an indolic character that accounts for its animalic edge. **Osmanthus** accords are commonly described through **ionones**, the same family of molecules behind the smell of violets and the "apricot" impression. For **rose** and **chrysanthemum**, the published record stops at the observation that their volatiles have been studied; no single marker molecule is singled out. Read that as a gap in the description rather than a verdict that nothing is known.
+
+What the chemistry does explain is behaviour. Benzyl acetate and ionones are relatively light, mobile molecules, which fits the observation that jasmine and osmanthus arrive fast and fade early. The heavier, waxier fraction of a rose absolute is what gives rose its slower bloom and its ability to sit in the middle of a burn rather than at the very start.
+
+## Where Floral Sits in the Canon, and on the Wheel
+
+Chinese incense tradition was built on materials that could be stored, traded, and burned as a base: agarwood, sandalwood, frankincense, and the resinous gums. Flowers entered through other doors — as tea scenters, as seasonal foods, as symbols in poetry, and later as accents in composed blends. Treating floral as a foundation is a modern habit, and it is a legitimate one, but it is not an ancient one.
+
+On the modern scent wheel the family reads as "uplifting," a word that describes direction of travel rather than any effect on a person. Florals sit near the top of the wheel because they are light and volatile; woods sit at the base because they are heavy and slow. That arrangement is a description of physics — molecular weight and evaporation rate — dressed in the language of mood.
+
+The practical consequence: floral is the natural complement to the [woody family](/blog/woody-aroma-family/), a bright accent that keeps a heavy base from reading flat. It also pairs well with the [resinous family](/blog/resinous-aroma-family/), where a small floral load softens the sweetness of a gum. The full map lives on the [aroma families hub](/blog/incense-aroma-families/), and the broader logic of blending is in the [scent guide](/blog/scent-guide/).
+
+## Blending: What Floral Does to Its Neighbours
+
+| Partner family | What the floral adds | Risk if overdosed | Best floral for the job |
 |---|---|---|---|
-| Sugared flagship | Rose, osmanthus | Carry the sweet, honeyed floral heart | Romantic, stone-fruit honey |
-| Heavy accent | Jasmine | Add an intense, opulent lift | Heavy, indolic, sweet |
-| Herbaceous bridge | Chrysanthemum | Pull the family toward green | Bitter, herb-floral |
+| Woody (sandalwood, cedar) | Lift and a soft opening | Reads perfumey against a dry wood | Rose, osmanthus |
+| Resinous (frankincense, benzoin) | Contrast to the gum's sweetness | Turns cloying; two sweets compete | Chrysanthemum, osmanthus |
+| Citrus | Rounds the sharp edge | Muddles the clarity citrus is chosen for | Osmanthus |
+| Herbal | A softer top layer | Loses the bitter accent that made the pairing work | Chrysanthemum |
+| Spicy | Cooling contrast | Clashes; spice and floral fight for the front | Rose, in small dose |
 
-The band view corrects a running misconception: a flower's fame does not mean it anchors a blend. Chrysanthemum is not a "poor rose" — it is a bridge that drags the floral register toward green, a task rose cannot perform. The band describes the behavior; the name does not. When you blend, you reach for a band, not a label, and that distinction is the practical point.
-
-## Natural Versus Rebuilt
-
-**Direct answer:** Because genuine floral absolutes are expensive, a lot of "rose," "jasmine," or "osmanthus" on commercial incense is a rebuilt note made from synthetic molecules — fair game when the label says so, a problem only when it is sold as the real extract.
-
-The buyer-facing facts, flower by flower:
-
-- **Rose** — real rose oil is costly and routinely extended; the price ought to track the claimed purity.
-- **Jasmine** — real absolute is costly; synthetic jasmine (benzyl acetate and relatives) is common.
-- **Osmanthus** — real absolute is costly; synthetic osmanthus (ionones and relatives) is common.
-
-The swap runs on an economic chain: floral absolutes begin with hand-picked petals → a large petal harvest yields very little oil → the low yield drives the natural price up → the gap invites cheaper synthetic notes → those notes flow into low-cost sticks. The synthetic is not automatically inferior — it is often steadier batch to batch — but honesty lives in the label, and no buyer should pay absolute prices for an accord. In practice, for a buyer, the label and the price matter more than the molecule. A well-made accord can out-consistency the natural extract; what it must never do is disguise what it is. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
-
-## Where Floral Sits on the Wheel
-
-**Direct answer:** Floral is a lifting family: its members read as bright accents that float above wood and resin, which makes it the natural counterpart to the woody family rather than a base in its own right.
-
-The four flowers spread across a range instead of clustering at one point:
-
-- **Sweet-romantic** — rose's sugared, romantic scent.
-- **Fruity-honeyed** — osmanthus's stone-fruit honey brightness.
-- **Heady-sweet** — jasmine's intense, heavy sweetness.
-- **Bitter-herbal** — chrysanthemum's floral edge over a bitter, herbaceous base.
-
-The "lift" has a physical driver: evaporation rate. Blossoms release light, fast-fleeing aromatics → those aromatics arrive first and clear quickly → they sit above the slow, heavy woods → the whole blend reads bright on top and deep below. A floral note opens a composition; it does not anchor it. The [woody family](/blog/woody-aroma-family/) runs the same logic in reverse, its slow-releasing woods forming the floor.
-
-## Reading a Floral Label
-
-**Direct answer:** Before you pay for a floral, ask what the label actually commits to — a flower extract, an absolute, or a rebuilt note — because the word "rose" or "jasmine" by itself promises nothing specific.
-
-Three questions separate an honest product from a vague one:
-
-1. **Is a material named, or just a mood?** A label that says "rose absolute" names a thing you can check; one that says "floral bouquet" names only an impression.
-2. **Does the price match the claim?** A true rose or jasmine absolute is expensive, so a rock-bottom price is the first clue you are buying a rebuilt note rather than an extract.
-3. **Does it admit what it is?** A rebuilt accord that says so is a legitimate product; one priced and described as the absolute is a misrepresentation.
-
-None of this is about quality in the abstract — a well-built accord can outperform a mediocre absolute on consistency. It is about the gap between what the label promises and what the product is, which is the only part a buyer can verify without a lab.
+This table is the practical heart of the family. Floral is a tool for adjusting the first two minutes of a burn, and almost every mistake with it comes from asking it to do more than that.
 
 ## The Data Layer
 
-**Direct answer:** The family is a `DefinedTerm` in [aroma.json](https://data.incensehub.org/datasets/aroma.json) with four `memberIngredients` — chrysanthemum, jasmine, osmanthus, and rose — and every member's `aroma` frontmatter field carries the floral tag next to its other families.
+In [aroma.json](https://data.incensehub.org/datasets/aroma.json) the family appears as a `DefinedTerm`, and four ingredients are listed under `memberIngredients`: chrysanthemum, jasmine, osmanthus, rose. On the entity side, the same four pages tag floral in their `aroma` field, sometimes beside a second family — chrysanthemum is tagged herbal as well, which is why it keeps turning up in two places. Where prose and dataset disagree, treat the dataset as authoritative.
 
-The canonical list and the per-entity tags line up: the floral tag lands on the four members in `aroma.json`, and each entity page's `aroma` field echoes the same character. The full ten-family map sits on the [aroma families hub](/blog/incense-aroma-families/).
+## A Short Protocol for Judging a Floral go wrong because the buyer judges the note from a cold stick sniffed in a shop. A stick smells of binder, dust, and the strongest isolate in the blend; the flower appears only once heat is applied. A better protocol, in order:
+
+1. **Smell the unlit stick at arm's length.** You are checking for a harsh solvent edge or a dusty, stale top. A clean stick should smell faintly of the flower and strongly of very little.
+2. **Burn a short piece in the room you will use.** The first two minutes tell you about the opening; minutes five to fifteen tell you whether anything sits underneath.
+3. **Wait for the fade.** A floral with a real absolute will leave a soft, slightly waxy trace after the bright part goes. A pure isolate tends to vanish cleanly and leave the base exposed.
+4. **Compare against the base.** If the stick claims rose over sandalwood, the sandalwood should be audible at the end. If the last third smells of nothing, the blend was a top note with filler beneath it.
+5. **Check the ash and the smoke.** Heavy smoke masks floral nuance; flaking ash suggests a loosely pressed stick.
+
+None of this requires expertise. It requires fifteen minutes and the willingness to notice that the opening and the middle are different smells. Buyers who do this stop paying absolute prices for accords, and they stop dismissing floral as a category after one soapy stick.
 
 ## FAQ
 
-### Q: What is the floral aroma family?
-The flower register — rose, jasmine, osmanthus, and chrysanthemum together — with a sugared, nectar-forward character that turns heavy in jasmine. Its four named members are chrysanthemum, jasmine, osmanthus, and rose, listed in [aroma.json](https://data.incensehub.org/datasets/aroma.json).
+### Q: What makes a scent "floral" rather than just sweet?
 
-### Q: Why is "rose" or "jasmine" in cheap incense often not real flower?
-Because the genuine absolutes are expensive. Real rose oil has a very low yield, and jasmine and osmanthus absolutes are costly, so budget incense often uses rebuilt notes made from synthetic molecules (benzyl acetate for jasmine, ionones for osmanthus). That is legitimate when labeled, a problem only when passed off as the natural extract. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+Floral means the smell of blossoms specifically — petals rather than resin, wood, or leaf. Sweetness is a broader register that turns up in benzoin, sandalwood, and honeyed accords with no flower involved. All four floral members read sweet, but plenty of sweet materials are not floral at all. The distinguishing note is the petal quality: slightly waxy, slightly green at the edge, and quick to fade.
 
-### Q: Is floral a traditional part of Chinese incense?
-Mostly a recent or symbolic one. The classical canon rests on wood and resin (agarwood, sandalwood, frankincense); flowers enter as bright accents and tea-scenting materials, not as the burned base. See the [scent guide](/blog/scent-guide/).
+### Q: Why does cheap "rose" incense not smell like roses?
 
-### Q: What are the representative floral materials?
-Rose (玫瑰), jasmine (茉莉), and osmanthus (桂花) — the three sugared, honeyed flagships — plus chrysanthemum (菊花), which adds a bitter, herbaceous edge. Their entity pages carry the full treatment.
+Because a genuine rose absolute is expensive and a stick at a low price cannot carry much of it. Most inexpensive rose notes are composed from isolates that reproduce the recognizable parts of the smell — the sweet, waxy, slightly green surface — without the depth of the real absolute. That is a normal commercial practice. What is not normal is charging absolute prices for an accord, or describing a composed note as the natural material.
 
-### Q: How does floral differ from sweet?
-Floral is the blossom register — sugared, nectar-like, sometimes heavy. Sweet is the wider sugared register spanning resins (benzoin), woods (sandalwood), and flowers. All four floral members are also sweet, but not every sweet material is floral.
+### Q: Is floral incense traditional in China?
 
-### Q: Can I scent tea with floral incense materials?
-Jasmine and osmanthus are the classic tea scenters — fresh buds are layered with tea leaves so the leaves absorb the volatile aroma. That is a separate use from burning. See the [jasmine entity page](/ingredients/jasmine/) and the [osmanthus entity page](/ingredients/osmanthus/).
+As a burned base, no. The classical canon is woods and resins, and flowers reached incense through tea scenting, food, poetry, and later blending rather than through the burner. As an accent in composed incense, floral has a long and entirely respectable history. The distinction matters for buyers because it explains why floral materials are usually dosed lightly and priced as accents rather than as bulk ingredients.
 
-### Q: Why does floral sit on top of a blend instead of grounding it?
-Because of evaporation rate. Flowers release light, fast-fleeing aromatics → those arrive first and clear quickly → they sit above the slow, heavy woods and resins → the blend reads bright on top and deep below. A floral note opens a composition; it does not anchor it. That is why floral pairs with the woody family rather than acting as a base.
+### Q: Why does some floral incense smell like soap?
 
-### Q: Does a rebuilt floral accord always lose to the natural extract?
-Not as a rule. A well-built accord is often steadier batch to batch than a natural absolute and can capture the flower's character at a fraction of the cost. What makes it a problem is the honesty, not the chemistry: an accord sold and priced as the absolute is a misrepresentation, while an accord labeled as such is a legitimate product. Judge the label and the price, not just the molecule.
+Usually overdose. Floral isolates are strong, and a maker trying to make the flower unmistakable can push past the point where the note stays natural. The soapy impression comes from a high load of clean, bright floral molecules with nothing underneath to anchor them. A trace reads expensive; a flood reads like detergent. The same stick at a tenth of the load would probably smell better.
 
-## Summary
+### Q: Do dried petals in an incense stick add scent?
 
-- Floral is the blossom register of rose, jasmine, osmanthus, and chrysanthemum — sugared, honeyed, sometimes heavy.
-- It is mostly a recent or symbolic guest in a canon built on wood and resin.
-- Genuine absolutes are expensive and frequently swapped for labeled synthetic accords.
-- The four members split into sugared flagships, a heavy accent, and an herbaceous bridge.
-- Floral lifts a blend by evaporating fast — it opens a composition rather than grounding it.
+Barely. Whole or chopped petals carry very little volatile material once dried, and what remains is largely masked by the smoke of the burning binder and wood base. Petals in a stick are mostly a visual and a marketing cue, and they can make the burn less even. If you want a floral note, the note has to come from an absolute, an oil, or a composed accord — not from the visible flower.
+
+### Q: Can floral materials be used to scent tea?
+
+Jasmine and osmanthus both are, and that is a separate craft from incense. Fresh buds are layered with tea leaves so the leaves absorb the volatiles by contact, then the buds are removed. The result is a scented tea, not a burned incense material. The confusion arises because the same flower serves both uses, and some suppliers market tea-grade buds as though they were incense ingredients.
 
 ## Sources
 
-- [aroma.json](https://data.incensehub.org/datasets/aroma.json) — the floral `DefinedTerm` and its four member ingredients.
-- Entity pages: [rose](/ingredients/rose/), [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/) — cross-checked for aroma character, the published chemistry, and the natural-versus-rebuilt honesty point.
+- The dataset record at [aroma.json](https://data.incensehub.org/datasets/aroma.json), which defines the family and lists its members.
+- Material pages consulted for botanical names, scent description, and chemistry wording: [rose](/ingredients/rose/), [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/).
 
 ## Related Resources
 
-- [Incense Aroma Families (hub)](/blog/incense-aroma-families/)
-- [Woody Aroma Family](/blog/woody-aroma-family/)
-- [Resinous Aroma Family](/blog/resinous-aroma-family/)
-- [Rose entity page](/ingredients/rose/)
-- [Jasmine entity page](/ingredients/jasmine/)
-- [Incense Scent Wheel](/blog/scent-wheel/)
+- [Incense Aroma Families](/blog/incense-aroma-families/) — the ten-family map this page belongs to.
+- [Woody Aroma Family](/blog/woody-aroma-family/) — the base that floral is most often paired with.
+- [Resinous Aroma Family](/blog/resinous-aroma-family/) — the other common partner, and a harder one to dose.
+- [Incense Scent Wheel](/blog/scent-wheel/) — how the families are arranged by weight and volatility.
+- [Rose](/ingredients/rose/), [jasmine](/ingredients/jasmine/), [osmanthus](/ingredients/osmanthus/), [chrysanthemum](/ingredients/chrysanthemum/) — the four entity pages.
 
-**Natural next step:** to watch a floral top note behave over a woody base, read the [scent guide](/blog/scent-guide/); to zoom back out, the [aroma families hub](/blog/incense-aroma-families/) holds the full ten-family map.
+**Natural next step:** see how floral behaves against a wood base in the [scent guide](/blog/scent-guide/), or take the family map from the [aroma families hub](/blog/incense-aroma-families/).
+
+## Summary
+
+- Floral names the blossom register; in this library it is carried by four flowers — rose, jasmine, osmanthus, chrysanthemum.
+- The family is sweet and honeyed at its core, with jasmine's headiness and chrysanthemum's bitter-herbal edge as the two poles.
+- Cost is driven by the absolute, not the flower, which is why rebuilt accords dominate the market.
+- Floral is a top note by nature: it opens a burn and leaves early, so it belongs over a base rather than under one.
+- A labeled accord is honest work; an unlabeled one sold at absolute prices is not.
