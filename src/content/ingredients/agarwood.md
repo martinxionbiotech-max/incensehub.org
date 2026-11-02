@@ -15,1148 +15,516 @@ related: ["sandalwood", "frankincense"]
 
 <img src="/images/agarwood-raw-material-800x533.webp" alt="Dark resin-veined agarwood pieces arranged on warm rice paper." width="800" height="533" loading="lazy">
 
-**Data summary:** Agarwood — known in Chinese as *chenxiang* (沉香, "the fragrance that sinks") — is the exudate-saturated heartwood of *Aquilaria* trees, produced when a living tree answers a wound or a fungal intrusion by flooding its core with scented exudate. Across Chinese incense culture, Western perfumery, and Middle Eastern fragrance traditions it stands as one of the most valuable aromatic raw substances that grows on Earth. The label points to a physical test: the densest, most exudate-heavy pieces drop to the bottom of a bowl of water.
+**Data summary:** Agarwood — *chenxiang* (沉香, "sinking fragrance") in Chinese — is the resin-loaded heartwood of *Aquilaria* trees. It is not a species and not a sap: it is what the interior of a living tree becomes after injury, when the wood floods the damaged zone with aromatic resin over years or decades. The densest pieces sink in water, which is where the Chinese name comes from. The material anchors Chinese incense, Japanese kōdō, and the Arabic oud trade, and it is among the most frequently counterfeited aromatics sold today.
 
 ## Key facts
 
 | Field | Value |
 |---|---|
-| Chinese name | 沉香 (chénxiāng), also 沉水香 (chénshuǐxiāng) |
-| Botanical origin | *Aquilaria* spp., family Thymelaeaceae; about 15–20 species |
-| Principal species | *Aquilaria sinensis* (白木香) and *Aquilaria malaccensis* |
-| What it actually is | Resin-impregnated heartwood — a condition of the timber, not a species |
-| Scent register | Woody, balsamic, sweet, layered; opens up as it warms |
-| Highest tier | 奇楠 (qínán), sometimes called "kyara-tier" |
-| Main buying hazard | Widespread adulteration — dyed, distillate-soaked, or injected substitutes |
+| Chinese name | 沉香 (chénxiāng); also 沉水香 (chénshuǐxiāng), "sinking incense" |
+| Botanical source | *Aquilaria* spp., family Thymelaeaceae; roughly 15–20 species |
+| Main commercial species | *Aquilaria sinensis* (白木香) and *Aquilaria malaccensis* |
+| What the material is | Resin-impregnated heartwood — a condition of the wood, not a species |
+| Scent register | Woody, resinous, sweet, layered; opens in stages under gentle heat |
+| Top grade | 奇楠 (qínán), sometimes rendered "kyara-grade" |
+| Main buying hazard | Dyed, oil-soaked, injected, or unrelated wood sold under the name |
+| Trade status | The genus is CITES-listed; wild supply is depleted |
 
-> **Direct answer:** The whole subject reduces to one sentence: oud is not a plant you can plant, but a state a tree's interior reaches after being damaged.
+> **Direct answer:** Agarwood is a wound product. A healthy *Aquilaria* trunk is pale, light, and nearly odorless; the dark, heavy, fragrant wood exists only because the tree answered damage with resin.
 
-## What oud is not
+## The definition that prevents most mistakes
 
-> **Direct answer:** Agarwood is not a species of tree. It is a condition the timber can attain. Uninjured *Aquilaria* timber is pale, featherweight, and almost completely without smell; the dark, dense, aromatic substance appears only after the tree has been hurt and has spent years answering that hurt with exudate.
+The useful correction is negative. Everyday speech says "agarwood trees," which suggests a species you could plant and harvest like teak. The botanical reality is stranger: an untouched *Aquilaria* trunk looks like ordinary light hardwood and smells like nothing much. The substance buyers pay for is the tree's defense response, accumulated in the heartwood after a wound, a fungal invasion, or both.
 
-The most useful correction a newcomer can absorb is a negative one. Everyday speech talks about "oud trees," which quietly plants the idea of a species. The actual situation is different: an untouched *Aquilaria* trunk looks and smells like ordinary light hardwood. The substance people pay fortunes for exists only because the tree was wounded — by a boring insect, a snapped branch, a lightning strike, or a knife held by a farmer — and responded by secreting exudate into the damaged heartwood, year after year.
+That distinction is not academic. It explains why supply cannot be expanded on demand, why the same species can produce material of wildly different density, and why the word "agarwood" on a label identifies a family of outcomes rather than a fixed grade. Two pieces from the same plantation, even the same tree, can differ by an order of magnitude in value.
 
-That single correction carries enormous weight downstream. Whoever buys this substance is not purchasing a plant. They are purchasing the aftermath of a defense reaction, and its price is a function of three variables: how much exudate pooled, over how many years, inside which tree. Every ranking word, every counterfeit trick, and every sourcing decision on this page traces back to that one fact.
+The Chinese name records the oldest field test. 沉 means "to sink," 香 means "fragrance," and the compound names wood dense enough with resin to drop below the surface of water. The name is a grading claim built into the noun, which is one reason the vocabulary feels precise even when the material in front of you is not.
 
-## Botanical identity
+## How a wound becomes agarwood
 
-> **Direct answer:** The substance forms inside *Aquilaria*, a genus of the Thymelaeaceae family counting roughly 15–20 species spread across South and Southeast Asia; the two names that dominate trade are *Aquilaria sinensis* in southern China and *Aquilaria malaccensis* across Southeast Asia.
+> **Direct answer:** Injury or fungal attack triggers a defense cascade in the heartwood; resin accumulates around the damaged zone; years of accumulation darken and densify the wood; the result is agarwood.
 
-The daphne family, Thymelaeaceae, houses the genus *Aquilaria*. Botanists count somewhere in the neighborhood of 15 to 20 species, all of them large evergreens native to a band of warm forest running from the eastern Himalaya to Indonesia. The two that matter most in commerce are *Aquilaria sinensis* (白木香, long harvested in Guangdong, Guangxi, Hainan, and Yunnan) and *Aquilaria malaccensis* (the chief commercial species of Southeast Asia, listed under CITES Appendix II). A close cousin genus, *Gyrinops*, produces comparable exudate in Sri Lanka and parts of Papua and is often folded into the same trade. Healthy trees from either genus yield pale, light, nearly odorless timber; the fragrance is entirely an injury product. The botanical references are [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063).
+The sequence matters because every quality argument later on the page traces back to it:
 
-Because several species — and a second genus — can yield the substance, the species name on an invoice is a genuine question rather than bureaucratic filler. A lot that is simply "oud" might be *A. sinensis*, *A. malaccensis*, some other *Aquilaria*, a *Gyrinops*, or — when fraud is involved — an unrelated timber dressed to imitate the real thing.
+**wound or fungal cue → defense signaling rises in the wood → sesquiterpene and chromone production switches on → resin fills the damaged vessels and fibers → the zone darkens, hardens, and gains scent → density and aroma increase with the years of accumulation.**
 
-## Chinese name and terminology
+A tree does not resinify on command. The response is local, uneven, and slow. A branch wound may produce a pocket of dark wood; a trunk wound may produce a larger column; an insect gallery may produce a thin resinous trace along the tunnel. This is why whole logs are not uniformly valuable and why carvers prize pieces with a visible resin pattern: the pattern is a map of where the tree was hurt.
 
-> **Direct answer:** 沉香 translates as "sinking fragrance," recording the density test that tiers the timber. One substance family travels under many labels — 沉香 and 沉水香 in Chinese, oud in Arabic, jinkō and kyara in Japanese — so a name alone pins down neither species nor tier.
+The classical Chinese literature already organized formation by cause rather than by species. 香乘 (Xiang Cheng, compiled by 周嘉胄 in 1641) records four types: 熟结 (ripe-formed, where resin condenses and the surrounding wood decays away), 生结 (live-formed, where resin gathers after the tree is cut or wounded), 脱落 (fallen, where resin forms as dead wood decays), and 虫漏 (insect-bored, where resin forms inside insect tunnels). The four are not botanical categories. They are descriptions of the pathway that produced the resin, and they map onto what a modern buyer sees: wound-initiated material, decay-associated material, and insect-path material.
 
-The Chinese compound 沉香 (chénxiāng) is built from two characters: 沉, "to sink," and 香, "fragrance." It is a mnemonic for the classical quality check — timber so loaded with exudate that it sinks in water. The same substance circulates under a constellation of regional labels:
+Age enters here. Resin-bearing wood is typically found in trees older than about twenty years, and the most dense material is associated with decades of accumulation rather than a single season. Plantation growers shorten the wait by wounding or inoculating farmed trees deliberately, which produces legal and renewable material but does not reproduce the slow, patchy history of an old wild tree. The difference is one reason wild and cultivated material occupy different price worlds.
 
-- **沉香 / 沉水香 (chénxiāng / chénshuǐxiāng)** — the everyday and the "sinking-grade" Chinese names.
-- **伽楠 / 伽罗 / 棋楠 (qínán / qiēluó / qínán)** — alternate Chinese writings of the top tier (treated below).
-- **Oud / oudh** — the Arabic term, now the default word in Western perfumery.
-- **Jinkō (沈香) / kyara (伽羅)** — the Japanese names, where *kyara* marks the summit grade.
+> **Direct answer:** The four classical formation terms describe how the resin arrived, not what species the tree was — which is why the same species can yield material of very different character.
 
-Japanese connoisseurship adds a whole second vocabulary layer worth knowing, because it shaped how Western collectors tier today. The classical Japanese discipline of incense appreciation, kōdō (香道), classifies fragrant timbers under the "six countries, five tastes" scheme, rikkoku gomi (六国五味). The six regional categories — kyara (伽羅), rakoku (羅国), manaka (真那伽), manaban (真南蛮), sasora (佐曽羅), and sumontara (寸聞多羅) — and the five taste descriptors (sweet, sour, hot, salty, bitter) gave early Western writers much of the vocabulary they still use to describe a fine piece.
+## The chemistry behind the staged scent
 
-The practical upshot: when a seller offers "oud," the first job is to pin down *which species* and *which tier*, because the label by itself identifies nothing at all.
+> **Direct answer:** Agarwood's fragrance comes from two large chemical families — sesquiterpenes and 2-(2-phenylethyl)chromones — whose molecules volatilize at different temperatures, so the scent unfolds in sequence rather than arriving as one note.
 
-## How oud forms
+When the tree is stressed, defense hormones such as jasmonates rise and a battery of biosynthetic genes switches on. The mevalonate pathway supplies farnesyl diphosphate, which sesquiterpene synthases convert into a family of fifteen-carbon compounds; names that recur in the analytical literature include agarospirol, agarofuran, guaiene, and eudesmane derivatives. A parallel phenylpropanoid route produces the chromones, the ring compounds associated with the deep, lasting, sometimes medicinal-sweet heart of fine material.
 
-> **Direct answer:** Undamaged *Aquilaria* timber is pale, light, and nearly odorless. The fragrant substance is a wound product: once injured, the tree saturates its damaged heartwood with exudate over years or decades, darkening and densifying it. Resin-bearing timber usually appears only in trees past roughly 20 years of age.
+The physical consequence is a boiling-point ladder. Small, light sesquiterpenes leave the wood at low warmth and read as the opening note. Mid-weight compounds follow as the temperature climbs and form the body. The heaviest fraction, including much of the chromone content, lingers and returns as the dry-down. A single chip therefore behaves like a small, slow composition rather than a scent sample.
 
-The formation is a slow causal chain that runs over years or decades. Written as a sequence: **a wound (insect boring, a snapped limb, lightning, or a deliberate cut) → the tree mobilizes a defense → exudate seeps into and fills the injured heartwood → the timber darkens, gains mass, and becomes fragrant → oud.** Because the tree needs maturity before it can mount this response at scale, exudate-rich timber typically comes from individuals older than about 20 years — one of the reasons genuine substance is slow and scarce.
+That chemistry also explains why the material is easy to fake superficially and hard to fake well. Dye can imitate color; oil can add weight and a top-note smell; neither creates the spread of compounds that produces a staged dry-down. A fake often smells strongest at the start and then flattens, while genuine wood tends to open, deepen, and leave a residue of scent after the heat is removed.
 
-The Ming dynasty compendium 香乘 records four classical formation types, each tied to how the exudate came into being: 「沈香入水即沉，其品凡四。曰熟结，乃膏凝结，自朽出者。曰生结，乃刀斧伐仆，膏结聚者。曰脱落，乃因木朽而结者。曰虫漏，乃因蠹隙而结者。」 — *sinking oud carries four origin grades: 熟结 (ripe-formed — exudate condenses and the surrounding timber rots away of itself), 生结 (live-formed — exudate gathers after the tree is felled or gashed by an axe), 脱落 (fallen — exudate sets as the timber decays), and 虫漏 (insect-bored — exudate fills the tunnels left by grubs).* The four map neatly onto the injury story: 生结 and 虫漏 are the wounding routes, 熟结 and 脱落 the decay routes.
+The same logic sets the practical limit of any home test. A burn test or a water test observes the consequences of chemistry, not the chemistry itself. It can catch crude fraud and it can flag a suspicious lot, but it cannot certify species or origin. Laboratory analysis, where it is used, looks for marker compounds and for the absence of adulterant signatures; that is a different level of evidence from anything a buyer can do at a counter.
 
-> **Botanical versus trade identity:** "oud" names a *condition*, not a species. Buyers should care because a lot labeled "oud" may come from different *Aquilaria* species, from the related *Gyrinops*, or — fraudulently — from unrelated timber doctored to look like it.
+## Aroma: top, body, and dry-down
 
-## The chemistry behind the fragrance
+> **Direct answer:** Good agarwood smells woody and resinous at the base, sweet in a way that shifts with origin and grade, and — above all — changeable: it releases a top note, a body, and a dry-down as heat is applied.
 
-> **Direct answer:** The fragrance does not come from a single molecule but from two chemical families the tree manufactures under stress — sesquiterpenes and 2-(2-phenylethyl)chromones — whose spread of boiling points is exactly what makes the fragrance unfold in stages instead of arriving all at once.
+Chinese practice names the three phases 头香 (top note), 本香 (body note), and 尾香 (dry-down). The labels are useful because they force a taster to wait. A cold chip sniffed for two seconds mainly reports the surface; a warmed chip reports the material.
 
-Agarwood's smell is a chemical construction site, not a finished single note. When the tree is stressed, it switches on a battery of biosynthetic genes and begins assembling two large families of molecules: sesquiterpenes (built on a fifteen-carbon backbone) and 2-(2-phenylethyl)chromones (a ring system that gives fine oud much of its signature). The sesquiterpene fraction includes compounds with names like agarospirol, agarofuran, guaiene, and eudesmane derivatives, each with its own volatility and its own smell. Lighter members of the family evaporate at modest warmth; heavier members hang back until the temperature climbs. That spread is the mechanical reason a good piece does not smell like a single chord but like a melody that plays out over minutes.
+Descriptor words vary by piece, but the reliable families are woody, balsamic, honeyed, leathery, and faintly camphoraceous. Fine material can also read floral or fruity in the opening, then turn earthy or animalic at the base. "Complex" in this context does not mean "strong." It means several recognizable notes appear in sequence and the sequence lasts.
 
-The biosynthesis can be sketched as a chain: **stress signal (wound or fungal cue) → jasmonate and related defense hormones rise → sesquiterpene synthase genes switch on → the mevalonate pathway feeds farnesyl diphosphate into the synthases → sesquiterpenes accumulate in the parenchyma and vessel tissue → the exudate darkens and hardens into oud.** The chromones follow a parallel phenylpropanoid route. Two pathways, one shared trigger, one balsamic result.
+Origin and grade shift the balance. Hainan and Vietnamese material has long been treated in Chinese trade as a benchmark for sweetness and depth, while material from other regions can be drier, more resinous, or more overtly woody. These are tendencies, not rules, and the same region can produce both excellent and ordinary wood. The only honest way to rank two pieces is to warm them under the same conditions and compare the three phases side by side.
 
-Understanding this chemistry also explains the ranking and the counterfeiting. Resin content is a proxy for how much of this chemistry a piece actually contains; a dyed piece of plain timber can look dark but carries none of it. This is why the burn test and the gentle-warmth test below are informative: they interrogate the chemistry indirectly, through what volatilizes.
+> **Direct answer:** The three-phase structure is the practical definition of quality: a piece that opens, develops, and finishes is worth more than a piece that states one smell loudly and then dies.
 
-## Aroma profile
+## Names across languages, and the trap inside them
 
-> **Direct answer:** Agarwood is timbered and balsamic at its base with a sweetness that shifts by origin and tier, and its defining trait is that it develops in stages — top note, body, dry-down — as warmth is applied, rather than presenting one flat smell.
+> **Direct answer:** 沉香, 沉水香, 伽楠, 棋楠, oud, jinkō, and kyara all refer to the same material family, but each name carries a different grading assumption — so the name alone never identifies species or grade.
 
-At bottom the fragrance is timbered and balsamic, with a sweetness whose exact character depends on where the timber grew and how high it tiers. What separates it from a plain timber note is that it *unfolds*. Chinese practice names the three phases 头香 (the first release), 本香 (the middle body), and 尾香 (the lasting dry-down). Top-tier pieces are aromatic even at room temperature; ordinary substance waits for gentle warmth before it will speak.
+The Chinese vocabulary distinguishes the ordinary material (沉香), the sinking grade (沉水香), and the summit grade (奇楠, also written 伽楠, 伽罗, or 棋楠). The Arabic "oud" (also oudh) became the dominant term in Western perfumery, where it often refers specifically to the distilled oil rather than the wood. Japanese uses jinkō for the wood and kyara for the top grade, a pairing that mirrors the Chinese distinction.
 
-The staged behavior is a direct consequence of the chemistry just described: **light compounds → vaporize first at low warmth → the top note; heavier compounds → release later as the temperature rises → the body and the dry-down.** That ladder of boiling points is why refined use favors slow, indirect warmth over a naked flame — and why the same piece can read as floral one moment, honeyed the next, and faintly leathery at the finish.
+The trap is that these words travel through markets with different grading systems. A seller may use "oud" for a wood chip, an oil, or a blended fragrance accord; "kyara" may be used as a quality adjective rather than a claim about a specific piece; "sinking grade" may describe a density result or a price tier. None of these usages is necessarily dishonest, but each one asks the buyer to supply an assumption.
 
-## Where does oud come from?
+The practical rule is to translate every name into three questions: which species, which form (wood, powder, oil), and which grade by density or structure. A seller who can answer all three is speaking a trade language; a seller who repeats only the romantic name is reciting a label. The naming problem is worse for agarwood than for sandalwood because the top grade has a structural definition, not just a scent reputation, and because the oil market uses the same word for a different product.
 
-> **Direct answer:** Wild *Aquilaria* grows across South and Southeast Asia — from southern China (Hainan, Guangdong, Guangxi, Yunnan) through Vietnam, Cambodia, Laos, Thailand, Malaysia, and Indonesia, reaching Bangladesh and Assam at its western edge. Wild stands are depleted and CITES-listed, so most supply now comes from inoculated plantations.
+## Where it grows, and what that means for supply
 
-This is an old-growth product of a wide belt of tropical and subtropical forest. Wild *Aquilaria* ranges from Assam and the eastern Himalaya east and south through southern China (Hainan, Guangdong, Guangxi, Yunnan), Vietnam, Cambodia, Laos, Thailand, Malaysia, Indonesia, and into Bangladesh. In classical Chinese trade, the most celebrated producing regions were Hainan and Vietnam, whose timber was long treated as the aromatic benchmark against which other origins were judged.
+> **Direct answer:** Wild *Aquilaria* grows from southern China and Vietnam through Laos, Cambodia, Thailand, Malaysia, and Indonesia to Bangladesh and Assam; wild stands are depleted and CITES-listed, so most commercial material now comes from inoculated plantations.
 
-Generations of wild harvesting have hollowed out the natural stands, which is why *Aquilaria malaccensis* — and the genus broadly — sits on the CITES lists. Today the commercial mainstream is **cultivated (plantation) substance**, made by deliberately inoculating farmed trees to trigger exudate formation. Plantation timber is legal, renewable, and generally lower-tier than the rare wild or old-growth timber that still commands the top prices.
+The belt is broad but the premium origins are narrow in reputation. Hainan, Guangdong, Guangxi, and Yunnan in southern China, together with Vietnam, have historically supplied material that Chinese buyers treated as the reference point for sweetness and complexity. Malaysia and Indonesia are major sources of commercial and plantation material, and Bangladesh and Assam mark the western edge of the range.
 
-## Grades: the sinking test
+*Aquilaria sinensis* is the species most associated with southern China; *Aquilaria malaccensis* is the main Southeast Asian commercial species and the one most often named in regulatory discussions. The genus sits on CITES Appendix II, which means international trade requires documentation. That status does not make all trade illegal; it makes paperwork part of the product. A supplier who cannot say whether material is wild or cultivated, or which species it is, is asking the buyer to carry a legal risk the supplier should have resolved.
 
-> **Direct answer:** Chinese practice tiers oud chiefly by exudate density, using a water test. 沉水 ("sinks") is the most exudate-saturated and valuable; 半沉半浮 ("half-sinks") is middling; floating substance ranks lowest. The test is a density guide, not a proof of authenticity.
+Plantation supply changed the market's shape. Inoculation lets growers induce resin in managed trees, producing predictable volumes of legal material at the lower and middle ends. It does not reproduce old-growth density or the particular depth that comes from decades of slow accumulation, and the best plantation lots are separated from ordinary ones by careful grading rather than by the word "plantation" itself. The result is a two-tier market with a wide, poorly documented middle, which is exactly where authentication problems concentrate.
 
-The classic Chinese system sorts substance by how it behaves in liquid:
+> **Direct answer:** Origin is a real signal and a weak guarantee: it tells you what a region can produce, not what this particular piece is.
 
-| Grade | Chinese | Reading |
+## The sinking grade and its limits
+
+> **Direct answer:** The classical Chinese system grades agarwood by resin density through a water test: 沉水 sinks, 半沉半浮 half-sinks, and floating material ranks lowest. The test measures density, not authenticity or origin.
+
+| Grade | Chinese | What it indicates |
 |---|---|---|
-| 沉水 (chénshuǐ) | "sinks in water" | Dense with exudate — the most prized |
-| 半沉半浮 (bànchénbànfú) | "half-sinks" | Mid-tier exudate load |
-| Floating | — | Lightest; historically 黄熟香 |
+| Sinking | 沉水 (chénshuǐ) | High resin load; dense enough to sink |
+| Half-sinking | 半沉半浮 (bànchénbànfú) | Moderate resin load; part of the piece floats |
+| Floating | — | Low resin load; historically 黄熟香 |
 
-The textual anchor is 香乘 (compiled 1641, quoting earlier works): 「木之心节，署水则沈，故名沈水，亦曰水沈。半沉者为栈香，不沉者为黄熟香……香之等凡三，曰沉、曰栈、曰黄熟是也。」 — *the knot in the timber's heart that sinks when set in liquid is called "sinking water" (沉水); the half-sinking kind is 栈香, and the non-sinking kind is 黄熟香; the grades number three: 沉, 栈, 黄熟.*
+The textual anchor is 香乘, which quotes earlier material: the knot in the heartwood that sinks when placed in water is called 沉水; the half-sinking grade is 栈香; the non-sinking grade is 黄熟香; and the classes number three — 沉, 栈, 黄熟. The passage is a grading system, not a chemical assay, and it has survived because density is easy to observe and hard to argue with.
 
-Beyond density, the trade slices the substance by **origin** (Hainan and Vietnam long favored), by **exudate color** (green, black, yellow, and other tones), and by **fragrance character** — a sweet, layered, enduring fragrance earns more than a flat or short-lived one. These are market conventions rather than one unified standard; the full breakdown lives in the [agarwood grading guide](/blog/agarwood-grading-guide/).
+Hard to argue with, not impossible to fake. Specific gravity can be engineered by soaking, injecting, or loading low-grade wood with resin or oil. A treated piece can sink while containing little of the compound range that makes good agarwood smell good. The water test is therefore a first screen and a ranking aid; it is not a certificate. The same caution applies to color: dark wood can be dyed, and pale wood can be genuinely aromatic.
 
-## 奇楠 (qínán), the top tier
+Beyond density, the trade also sorts by origin, by resin color (green, black, yellow, and other tones), and by aroma character. These are market conventions rather than a single standardized system, and they overlap imperfectly. A piece can be sinking grade and still smell thin; a floating piece can be sweet and complex. That is why experienced buyers treat the water test as one column in a ledger, not as the verdict.
 
-> **Direct answer:** 奇楠 (qínán, roughly "kyara-tier") is the summit grade of oud, structurally distinct from ordinary substance: the fiber is so thoroughly saturated with exudate that it turns soft and pliable, shaves into curls, kneads into pellets, and smells sweet even unheated.
+> **Direct answer:** Sinking is a useful first question, never the last one; a dense fake is still a fake.
 
-*Qínán* (also written 伽楠 / 伽罗 / 棋楠; loosely "kyara-tier") sits above ordinary oud because of a structural difference, not merely a finer smell:
+## 奇楠: the structural exception
 
-- Ordinary oud is **"timber wraps distillate" (木包油)** — stiff timber laced with exudate veins.
-- 奇楠 is **"distillate wraps timber" (油包木)** — the fiber itself is so transformed by exudate that it goes soft and supple. A fine specimen **shaves into curls and kneads into pellets** (削之成卷、捏之成丸) and carries fragrance even at room temperature.
+> **Direct answer:** 奇楠 (qínán) is the top grade because its structure differs, not merely because its scent is better: the fiber is so saturated with resin that it turns soft, pliable, and fragrant at room temperature.
 
-奇楠 is subdivided by exudate color into five tiers — 白/绿/紫/黄/黑 (white, green, purple, yellow, black). One caution: the ranking of these color tiers is contested across sources (some argue they are distinct tiers, others that they are aging stages), and the etymology of "qínán" itself is uncertain. The terms are offered here as *market language*, not settled taxonomy. See [qínán / kyara](/blog/qinan-kyara/) and [buying qínán without being misled](/blog/qinan-buying-authentication/).
+Ordinary agarwood is described in the trade as 木包油 — "wood wraps oil" — hard wood carrying veins of resin. 奇楠 is 油包木 — "oil wraps wood" — the fiber itself is transformed until it can be shaved into curls and kneaded into pellets (削之成卷、捏之成丸). A good piece smells sweet even before heat is applied, which is one reason it is handled and displayed as much as it is burned.
 
-## Comparing oud with other aromatics
+The grade is subdivided by color into white, green, purple, yellow, and black. The ranking among those colors is disputed: some sources treat them as distinct grades, others as stages of aging or variation within one grade. The etymology of "qínán" is also uncertain. These are genuine open questions, not marketing mysteries, and a page that pretends otherwise is overselling its certainty.
 
-> **Direct answer:** Agarwood earns its place because it is both a *balsamic* substance and a *timbered* one, and because its fragrance changes as it warms. Sandalwood, borneol, camphor, patchouli, vetiver, frankincense, and myrrh each occupy a different corner of that same aromatic map — and each fails where oud succeeds, and vice versa.
+For a buyer, the structural definition is more useful than the color hierarchy. Softness, pliability, the curl when shaved, and room-temperature scent are observable properties; a color name on a tag is not. The grade is rare enough that most material described as 奇楠 in casual trade is either mislabeled or a lesser piece promoted by association. Authentication at this tier deserves its own procedure, and the safe assumption is that the word is a claim to be tested rather than a fact to be accepted.
 
-A substance's identity in a blend or a fragrance comes from three things: where its smell sits on the spectrum, how long it lasts, and how it behaves under warmth. Placing oud next to its neighbors clarifies all three.
+> **Direct answer:** 奇楠 is defined by transformed structure — soft, pliable, fragrant unheated — and the color ranking around it remains contested market language.
 
-**Sandalwood (檀香, *Santalum album*).** The other great reference timber of Chinese incense. Its creaminess comes from santalol alcohols (α- and β-santalol) that exist in the living heartwood, not from an injury response. Sandalwood is the steady, lactonic base; oud is the darker, rarer, balsamic crown. Where sandalwood sustains a fragrance's foundation, oud provides a shifting top-to-base drama. The two complement rather than replace each other.
+## Forms, processing, and what changes
 
-**Borneol (冰片 / 龙脑, borneol).** A crystalline monoterpene alcohol rather than a timber, borneol delivers a piercing, camphoraceous, cooling note. It is loud and linear where oud is layered and evolving. Borneol appears in traditional formulas as a bright, medicinal spike; oud supplies the warm depth beneath it. Their melting and boiling profiles could hardly differ more — borneol flashes off quickly, oud lingers for an hour or more on gentle warmth.
+> **Direct answer:** Agarwood is sold as chips, powder, whole pieces and carvings, beads, and distilled oil. Chips suit warming, powder suits stick-making, whole pieces suit carving or collection, and oil is a separate distilled product.
 
-**Camphor (樟脑, from *Cinnamomum camphora*).** Another monoterpene, strongly medicinal and cooling, and again single-note. Camphor announces itself immediately and departs; oud whispers, then grows. The two are opposites in volatility, which is precisely why some formulas pair them — a camphor top over an oud body creates a two-tier structure.
+| Form | What it is for | What to watch |
+|---|---|---|
+| Chips and slivers | Warming on charcoal or an electric heater | Even size; surface contamination; true density |
+| Powder | Blending into sticks and cones | Mesh consistency; moisture; batch variation |
+| Whole pieces and carvings | Beads, sculpture, display | Resin pattern; cracks; hidden filler |
+| Distilled oil | Perfumery and scented products | Adulteration with synthetic accords; yield claims |
 
-**Patchouli (广藿香, *Pogostemon cablin*).** A leafy substance whose earthy, musty, slightly camphoraceous character comes from the sesquiterpene alcohol patchoulol. Patchouli shares oud's tenacity and its tendency to improve with age, but its register is damp soil and cellar, not warm exudate and honey. Both are fixatives; patchouli anchors the low end of a perfume, oud anchors the soul of an incense blend.
+Processing starts with separation. Resin-bearing heartwood is cut away from pale sapwood, cleaned, and dried. Chips are cut to size; powder is ground; high-grade pieces are kept whole because carving or bead-making may realize more value than grinding. Oil is a different pathway: wood is distilled, usually with steam or water, and the condensate is collected. The oil is not "concentrated agarwood" in any simple sense — it is a distillate with its own composition, its own market, and its own adulteration problems.
 
-**Vetiver (岩兰草 / 香根草, *Chrysopogon zizanioides*).** A grass root, not a timber, whose smoky, earthy, rooty smell is built on khusimol and vetiverol. Vetiver is timbered-adjacent in feel but green and smoky where oud is sweet and balsamic. A perfumer reaching for "timbered" can choose either; they pull a fragrance in opposite directions.
+Powder buyers face two variables that rarely appear on a label. Particle size changes how the powder packs, how air moves through a stick, and how the material releases scent during combustion. Moisture changes how it grinds, how it stores, and how a finished stick dries. Neither has one correct value: the right target depends on the binder, the other ingredients, and the production line. A mesh figure that works in one factory is not transferable to another, which is why a sample run against your own formula is worth more than a nominal grade.
 
-**Frankincense (乳香, *Boswellia* spp.).** A gum exudate exuded by desert trees, bright and citrusy-pine from α-pinene and limonene. Frankincense is a *exudate*, so it shares oud's balsamic spine, but it is light, dry, and airborne where oud is dense, warm, and heavy. Both come from trees answering a wound, which makes them distant cousins in formation; in the censer they occupy different altitudes.
+Processing also changes aroma. Grinding exposes fresh surfaces and can lose light volatiles; heating during forming can shift the top note; aging after production can round the edges. A buyer who approves a raw chip has approved the raw chip, not the finished stick. The sensible sequence is to approve the raw material, then the blend, then the finished batch, because each stage can move the scent.
 
-**Myrrh (没药, *Commiphora myrrha*).** Another gum exudate, but bitter, balsamic, and medicinal, darker than frankincense yet still gum-like and translucent in feel rather than timbered. Myrrh shares oud's gravitas and its ancient pedigree in incense and medicine, but none of its sweet, layered timber character.
+> **Direct answer:** The form is a functional choice, not a quality ranking, but powder and oil add variables — mesh, moisture, distillation — that the wood form does not have.
 
-The contrasts compress into one table:
+## What makes a lot good: a weighted view
 
-| Material | Source | Core note character | Volatility / tenacity | Shared ground with oud |
-|---|---|---|---|---|
-| Agarwood (沉香) | *Aquilaria* heartwood | Woody, balsamic, sweet, layered | High tenacity, stage-release | — |
-| Sandalwood (檀香) | *Santalum album* heartwood | Creamy, soft, lactonic | High tenacity, steady | Woody reference |
-| Borneol (冰片) | Crystalline monoterpene | Camphoraceous, cooling | Low tenacity, fast | Traditional incense use |
-| Camphor (樟脑) | *Cinnamomum camphora* | Medicinal, cooling | Low tenacity, fast | Bright top note |
-| Patchouli (广藿香) | *Pogostemon cablin* leaf | Earthy, musty, cellar | High tenacity | Fixative role |
-| Vetiver (岩兰草) | *Chrysopogon zizanioides* root | Smoky, rooty, green | High tenacity | "Woody" family feel |
-| Frankincense (乳香) | *Boswellia* gum exudate | Citrus, pine, dry | Medium | Resinous spine |
-| Myrrh (没药) | *Commiphora* gum exudate | Bitter, balsamic | Medium | Ancient incense lineage |
+> **Direct answer:** Resin content is the core variable because it sets density, scent intensity, and endurance; origin, formation history, aroma character, and physical condition modify that core rather than replace it.
 
-The author's view, not a verified fact: among these eight, only sandalwood can stand in for oud's *role* as a premium base in a stick, and even then it changes the blend's emotional register — sandalwood comforts, oud transports. The others are accents or fixatives, not substitutes.
+The factors are easy to list and hard to weigh. A workable order, offered as editorial judgment rather than a standardized formula, runs like this:
 
-## Why oud is used in incense
+| Factor | Why it matters | How it misleads |
+|---|---|---|
+| Resin content | Sets density, scent strength, and burn/warm behavior | Density can be engineered; high resin does not guarantee fine aroma |
+| Species and origin | Predicts the general scent family and legal status | A famous origin can be claimed for anonymous wood |
+| Formation history | Wild, plantation, wound type, and age shape complexity | "Wild" is a story until documented; plantation can be excellent |
+| Aroma character | Sweetness, complexity, and endurance decide enjoyment | A strong opening can hide a short, flat dry-down |
+| Physical condition | Cleanliness, cracks, rot, and foreign matter affect yield | A beautiful exterior can conceal a hollow or treated core |
+| Batch consistency | Determines whether a reorder will match the sample | A single good piece says nothing about the next shipment |
 
-> **Direct answer:** Agarwood earns its place in incense through its layered, evolving fragrance and its cultural standing as the most reverenced of aromatic timbers. It is usually warmed rather than burned, so the top note, body, and dry-down open in sequence instead of charring into one flat note.
+Resin content sits first because so much else follows from it. A dense piece usually has more aromatic material per gram, burns or warms longer, and carries more of the compound range that produces a dry-down. The catch is that density is the easiest property to fake, so the factor that matters most is also the one that most needs a second check.
 
-Its role flows directly from its fragrance behavior: because the fragrance unfolds in stages, it rewards **gentle, indirect warmth** over open flame. The refined method is 隔火焚香 (géhuǒ fénxiāng) — resting the substance above charcoal buried in ash so it releases fragrance without a scorched edge. In blended incense (合香), a small measure of oud functions as the premium anchor, lifting and deepening an entire formula with only a few percent of the mix. Its cultural weight matters at least as much as its chemistry: 沉香 (oud) and 檀香 (sandalwood) are the two reference timbers of Chinese incense, and oud is the rarer and more venerated of the pair. See the [agarwood incense guide](/blog/agarwood-incense/).
+Origin sits second for a different reason. It is a real signal — regions do have characteristic profiles, and legal status follows species and provenance — but it is a category, not a measurement. "Hainan" on a tag is a claim about a place; it does not tell you the age of the tree, the formation pathway, or the care taken in drying. The same is true of "wild." These words are starting points for questions, not answers.
 
-## How oud is processed
+Aroma character is where the buyer's own nose has the final say. The test is not whether the piece smells strong but whether it changes. A flat, loud opening that collapses into a burnt or soapy note is a warning; a quiet opening that deepens and lasts may be the better piece. This is why evaluation under gentle heat, in phases, is more informative than a quick sniff.
 
-> **Direct answer:** Processing separates the exudate-bearing heartwood from the pale, scentless sapwood, cleans and dries it, then routes it by end use — into chips, powder, whole pieces, or distilled distillate. The timber forms need no extraction step; only the distillate requires distillation.
+Batch consistency is the factor most often left out of buying guides because it is boring. For a manufacturer, it is the whole game: the second shipment has to match the first in mesh, moisture, density, and scent, or the finished product changes. A single exceptional lot that cannot be reordered is a sample, not a supply relationship.
 
-The first move is mechanical: strip away the sapwood that carries no exudate, then clean and dry what remains. From there the substance branches by destination:
+> **Direct answer:** Weigh the factors in order, but verify the first two with tests and the last with a reorder — because a claim about resin or origin is only as good as the evidence behind it.
 
-- **Chips and slivers** — cut pieces for warming on charcoal or an electric heater; small, uniform pieces warmth most evenly.
-- **Powder** — exudate-rich timber ground for blending into sticks and cones; particle size shapes how the powder packs, draws air, and burns.
-- **Whole pieces and carvings** — top-tier substance kept intact for beads, sculpture, and display.
-- **Oud distillate** — the essential distillate, drawn by (usually steam or liquid) distillation; a distinct product from the timber itself.
+## Fakes: a field taxonomy
 
-For powder, **particle size and moisture** are the working variables, but the correct target depends on the stick formula, the binder, and the production line, so no single figure transfers across factories. The grinding and forming steps sit inside the broader [how incense is made](/blog/how-incense-is-made/) process.
+> **Direct answer:** Agarwood fraud clusters into four families — dyed or oil-soaked white wood, unrelated woods treated with fragrance, oil-injected or boiled low-grade material, and mislabeled grades — and each family fails a different check.
 
-## What determines quality
+| Fake family | How it is made | What it exploits | First check that catches it |
+|---|---|---|---|
+| Dyed white wood | Non-resinous *Aquilaria* wood soaked in oil and dyed dark | The assumption that dark color means resin | Cut or scrape a corner; color should follow resin veins, not coat the surface |
+| Foreign wood | Unrelated timber (for example from Lauraceae or Burseraceae) scented with fragrance oil | The buyer's inability to identify species | Species documentation; heat behavior; burn residue |
+| Oil-injected or boiled | Low-grade wood loaded with resin or oil to add weight | The water test and the price-per-gram calculation | Density that is too uniform; oil weeping; a flat, perfumed smell |
+| Grade inflation | Genuine but lower-grade wood sold as sinking or 奇楠 | The prestige of a grade name | Structural checks for 奇楠; density measured on a clean piece |
 
-> **Direct answer:** Resin content is the master variable — it sets density, fragrance strength, and longevity. Around it, origin, age, formation type, and fragrance character all matter. The best substance is dense, fragrant at room temperature, and complex rather than flat.
+The dye family is the crudest and still works, because color is the first thing a buyer sees. Genuine resin darkens the wood along veins and vessel lines; dye tends to sit on the surface and in cracks. A fresh cut is more informative than the display face. The same logic applies to oil: genuine resin is integrated into the fiber, while added oil can bleed, feel greasy, or smell strongest at the surface.
 
-The quality levers, in rough order of weight:
+The foreign-wood family is harder because the material may be sold as chips or powder, where species is invisible. A burn test helps: genuine agarwood tends to give white smoke with visible oil seepage and a sweet, resinous smell, while treated substitutes often give black smoke and a sharp "burnt wood" or perfume note. The test is practical screening, not laboratory proof, and it should be run on a small piece in a ventilated space.
 
-1. **Resin content** — the decisive factor; it drives the density test and the intensity of the smell.
-2. **Origin** — Hainan and Vietnamese timber are traditionally ranked highest, though origin alone guarantees nothing.
-3. **Formation type and age** — older, naturally formed exudate reads differently from young, inoculated exudate.
-4. **Aroma character** — sweetness, complexity, and endurance; a layered, evolving fragrance beats a flat one.
-5. **Physical condition** — cleanliness, absence of rot and non-balsamic timber, and (for powder) consistent particle size.
+The injection family defeats the water test directly. Loading low-grade wood with resin or oil raises density until it sinks, which is why a sinking result alone should never be treated as authentication. The tell is often uniformity: genuine pieces vary internally, while injected pieces can feel and look too even. Weight that seems high for the visible resin pattern is a reason to slow down, not a reason to celebrate.
 
-None of these stands alone: a "sinking" piece can still be an elaborate fake, which is why authenticity checks carry as much weight as the grading vocabulary itself.
+Grade inflation is the quietest family. The wood may be genuine, the species may be correct, and the only lie is the tier. Sinking grade, wild origin, and 奇楠 are all claims that carry a price premium, and all three can be applied to material that does not meet the definition. The defense is structural and documentary: measure density on a clean piece, inspect 奇楠 for softness and pliability, and ask for the paperwork that supports a wild-origin claim.
 
-## Common forms
+None of these checks is sufficient alone. A lot that fails one may still be genuine; a lot that fails two is a reject. That rule is a heuristic, not a law, but it prevents the common mistake of building a purchase on a single reassuring signal.
 
-> **Direct answer:** Agarwood reaches buyers as chips, powder, whole pieces and carvings, beads, and distilled distillate. Chips suit warming, powder suits stick-making, whole pieces suit carving or collecting, and distillate is a separate distilled product — not ground timber.
+> **Direct answer:** The four fake families exploit four different assumptions — color, species, density, and grade — so a serious check has to test more than one of them.
 
-| Form | Typical destination |
-|---|---|
-| Chips / slivers | Warmed on charcoal or an electric heater |
-| Powder | Blended into incense sticks and cones |
-| Whole pieces / carvings | Beads, sculpture, collection |
-| Oud distillate | Perfumery and scented products |
+## A buying sequence that fails safe
 
-The chip-versus-powder distinction is functional, not a statement of quality — the same timber in two physical guises. See [incense powder & exudate](/blog/incense-powder-resin/) for how timber powder actually behaves.
+> **Direct answer:** Buy in a fixed order — application, legality, sample, reorder, price sanity — and let each step veto the next, so a bargain never overrides a missing document or a failed sample.
 
-## Adulteration: spotting a fake
+| Step | Question | Pass condition | Stop condition |
+|---|---|---|---|
+| 1. Application | What is this for: warming, stick-making, carving, or oil? | The form and grade fit the use | No clear use; buying a name alone |
+| 2. Legality | Which species, which origin, wild or cultivated, and is CITES paperwork available? | Species and provenance can be named and documented | "Agarwood" with no species or origin |
+| 3. Sample | Does a trial piece pass density, heat, and burn checks? | Aroma develops in phases; residue and smoke are clean | Flat, acrid, or perfumed; two check failures |
+| 4. Reorder | Does the second lot match the first? | Mesh, moisture, density, and scent stay within tolerance | Drift in two or more fields |
+| 5. Price sanity | Is the price consistent with the documented grade? | The price is explainable by species, grade, and form | A price far below the claimed tier |
 
-> **Direct answer:** Because genuine substance is costly, it is among the most heavily counterfeited aromatics. The common substitutes are dyed or distillate-soaked white timber, unrelated timbers treated with fragrance, and distillate-injected low-tier pieces. The practical screens are the burn test, the gentle-warmth test, and the water test — none of them a laboratory proof.
+The order is deliberate. Application comes first because the wrong grade for the use is a failure even if the material is genuine: a beautiful carving-grade piece may be wasted in a stick formula, and a consistent powder may be the wrong choice for a collector. Legality comes second because it cannot be fixed later. A missing CITES document is not a negotiating point; it is a reason to walk.
 
-High price breeds forgery. The usual fakes:
+The sample step is where the sensory work belongs. Warm a sliver on a clean heater, note the top note, raise the temperature, note the body, then let it ride to the dry-down. Burn a second small piece if the material is intended for combustion. For powder, check mesh and moisture against the formula, not against a generic ideal. A sample that passes only because it was the best piece in the lot is not a sample of the lot.
 
-- **Dyed white timber** — non-balsamic *Aquilaria* timber soaked in fragrance distillate and stained dark.
-- **Foreign timbers** — unrelated timbers (e.g., Lauraceae, Burseraceae) dressed with synthetic fragrance.
-- **Oil-injected / "boiled"** — low-tier substance pumped full of exudate or distillate to add weight and shine.
+The reorder step turns a purchase into a supply relationship. Record the lot: species, origin, wild or cultivated, density result, aroma notes, mesh, moisture, supplier, and date. When the next shipment arrives, compare against the record. A drift in one field is a prompt to retest; a drift in several is evidence of a different lot or a substitute. Memory will smooth over the difference; a written record will not.
 
-**Practical authenticity screens** (traditional and trade practice, not laboratory proof):
-- Burn a small piece: genuine substance gives **white smoke with visible distillate seepage** and a clean sweet fragrance; fakes give black smoke and a "burnt timber / perfume" smell.
-- Gentle warmth (not flame) should release a complex, evolving fragrance.
-- The water test (沉水) is a density guide, not a guarantee — skilled fakes can be made to sink.
+Price sanity is last because it is the weakest signal. A low price can be a genuine bargain, a clearance, or a fraud; a high price can be expertise, rarity, or theater. The number only becomes meaningful after the first four steps have established what the material is. Used in reverse — price first, justification after — it is the mechanism by which most bad purchases happen.
 
-These screens sit alongside the wider [incense authentication database](/blog/incense-authentication-database/) and the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
+> **Direct answer:** The sequence works because each step is cheaper than the mistake it prevents; a sample costs far less than a shipment of the wrong grade.
 
-## Traditional use versus modern evidence
+## Warming versus burning
 
-> **Direct answer:** Agarwood has a long record in Chinese materia medica, where it is described in traditional language — "moving qi and relieving pain" and warming the middle. That is traditional materia-medica phrasing, not modern clinical evidence; burning oud is an aromatic practice, not a medical treatment.
+> **Direct answer:** Warming vaporizes aromatic compounds below combustion temperature, while burning pyrolyzes the wood itself; the first gives a clean, staged scent, the second adds smoke, tar, and char.
 
-In Chinese materia medica (本草), oud is classically described as "moving qi and relieving pain" (行气止痛) and warming the middle (温中).
+The physics is simple enough to explain in one chain:
 
-- **Traditional Use** — the substance is burned in ritual, meditation, and everyday incense practice for its fragrance and its old cultural association with calm and refinement.
-- **Historical Record** — classical materia medica and incense manuals list it as a high-ranking aromatic; the 沉水 density test is documented trade practice.
-- **Scientific Evidence** — the exudate's chemistry (sesquiterpenes and chromones) is studied, but this page makes no clinical or medical efficacy claim.
+**gentle heat → volatile compounds leave the wood in order of boiling point → top note, body, and dry-down separate → a clean, changing scent; open flame → temperature passes ignition → cellulose and lignin break down → smoke and char dominate → the fine notes disappear under a burnt layer.**
 
-**This is traditional materia-medica language, not modern clinical evidence.** Nothing here repeats or implies that burning oud treats any medical condition.
+This is why the refined Chinese method is 隔火焚香 (géhuǒ fénxiāng), "incense across fire." Charcoal is buried in a bed of ash, a thin plate of mica or silver is laid over it, and the chip rests on the plate. The material never touches flame. The ash bed buffers the heat, the plate spreads it, and the chip warms slowly enough for the phases to separate.
 
-## Sustainability and sourcing
+An electric heater does the same job with a dial. It is less atmospheric and more repeatable, which makes it the better tool for evaluation and the more convenient one for a small room. The mistake to avoid is turning the dial up to get "more scent." Excess heat drives the material toward pyrolysis and produces the same burnt note as a flame, only more gradually.
 
-> **Direct answer:** Wild oud is depleted and the genus is CITES-listed, so most commercial supply is now cultivated plantation substance. Responsible sourcing verifies the species, the origin, and whether a lot is wild or cultivated — or, for distillate, whether it carries credible documentation.
+Combustion is not wrong; it is a different use. Many people want a stick or a cone that burns and fills a room, and agarwood powder can serve that role in a blend. The point is to match the method to the material. A rare chip deserves gentle heat; an ordinary powder can go into a stick. Burning a top-grade piece is not a moral failure, but it spends a material designed for slow release in a format that hides its best behavior.
 
-With *Aquilaria* CITES-listed and wild stands thin, responsible sourcing hinges on two questions: **which species**, and **wild or cultivated**. Wild old-growth substance is scarce and legally sensitive; plantation substance, made by inoculating farmed trees, is the renewable mainstream. The buyer-facing consequence is documentation: a credible supplier can name the species and origin and state whether the substance is wild or cultivated, rather than offering only a bare "oud" label.
+> **Direct answer:** Heat control is the difference between analyzing a scent and destroying it; the same chip can give a clean progression or a burnt smear depending on the temperature curve.
 
-## Sourcing strategy
+## Agarwood in a blend: the 君 seat
 
-> **Direct answer:** The sourcing decision is a trade-off among four axes — tier, legality, consistency, and price — and the rational buyer fixes three of them and negotiates the fourth, rather than chasing a perfect piece on all four at once.
+> **Direct answer:** In the classical 君臣佐使 framework, agarwood usually takes the 君 (chief) role — it sets the identity of the blend — while supporting materials lift, round, and carry it.
 
-Sourcing well is a matter of deciding which axis to sacrifice. A buyer can have, at most, three of these simultaneously: high tier, airtight documentation, batch-to-batch consistency, and a low price. Chasing all four at once is how one ends up buying an "unbeatable" lot that turns out to be dyed white timber.
+Chinese compound incense, 合香 (héxiāng), was organized on a four-role scheme borrowed from pharmacy: 君 (jūn, chief), 臣 (chén, minister), 佐 (zuǒ, assistant), and 使 (shǐ, guide). The chief ingredient defines the composition; the minister supports it; the assistant corrects or modulates; the guide directs the effect or carries the fragrance. The scheme is a design language, not a recipe, and different manuals apply it with different degrees of literalism.
 
-A defensible sequence looks like this. First, fix the application — warming chips, stick production, or distillate — because each application tolerates different tiers. Second, lock legality: confirm the species and the wild-versus-cultivated status, and for international shipments, the CITES paperwork. Third, sample before volume: a half-kilo trial against the actual formula or heater reveals more than any certificate. Fourth, re-test the reorder: the second shipment matters more than the first, because consistency is the real product a manufacturer is buying. For the commercial angle, see the [wholesale guide](/blog/wholesale-guide/).
+Agarwood in the 君 seat supplies a deep, resinous backbone. A small amount of sandalwood can act as 臣, softening the edges and adding creaminess. A spice such as clove can act as 佐, brightening the opening. A resin or a binder can act as 使, holding the blend together or carrying the scent through combustion. The proportions are formula-specific; there is no universal percentage, and any page that offers one without knowing the binder and the base is guessing.
 
-The author's view, not a verified fact: a steady, fully-documented mid-tier lot almost always serves a manufacturer better than a spectacular one-off top tier that cannot be reordered to the same specification. The former keeps a product line alive; the latter sells a single story.
+The practical consequence is that a blend built on agarwood does not need much of it. The material's tenacity and complexity spread a long shadow, which is why a premium wood can anchor a large batch and why the chief/minister logic resembles the modern perfumer's idea of a base note carrying a composition. It also explains why a blend can smell like agarwood without containing much agarwood: the supporting materials are doing more work than the label suggests.
+
+For a buyer, the framework is a reminder that "contains agarwood" is not a grade. The question is how much, in what role, and with what support. A stick with a trace of powder and a strong synthetic accord is not the same product as a stick built around a genuine chip, even if both can use the word.
+
+> **Direct answer:** The 君 role explains why agarwood is used in small amounts and why "contains agarwood" says nothing about how much or how well.
+
+## Agarwood and sandalwood side by side
+
+> **Direct answer:** Both are premium aromatic woods, but agarwood is a wound-formed resin wood with a deep, changing scent, while sandalwood is a naturally fragrant heartwood with a creamy, soft profile.
+
+| | Agarwood (沉香) | Sandalwood (檀香) |
+|---|---|---|
+| What it is | Resin-impregnated heartwood formed after injury | Fragrant heartwood whose scent is present in the living tree |
+| Botanical source | *Aquilaria* spp. | *Santalum album* |
+| Formation | Wound or fungal trigger; years of resin accumulation | Heartwood develops with age; no injury trigger required |
+| Aroma | Woody, resinous, sweet, layered, changing under heat | Creamy, sweet, soft, woody, relatively stable |
+| Main use | Base anchor in blends; warming; carving | Base anchor; carving; daily incense |
+| Buying risk | Heavy adulteration: dye, oil, injection, foreign wood | Species substitution and fragrance oil |
+| Price signal | Extremely wide, with 奇楠 at the top | High for true *S. album*, lower for other species |
+
+The two are complements rather than substitutes. Sandalwood is the gentler material: it gives a soft, creamy base that makes a room feel calm, and it is forgiving in blends. Agarwood is the deeper and more demanding material: it needs heat control to show its phases, and its price makes every purchase a risk calculation. A blend can use both, with sandalwood as the minister and agarwood as the chief, and the combination is one of the classical structures of Chinese incense.
+
+The substitution risk differs in kind. Agarwood is faked by adding something to wood; sandalwood is faked by substituting a different species or by scenting a cheaper wood. Both are problems, but the checks are different: agarwood rewards density and heat tests, while sandalwood rewards species identification and a careful look at the grain and oil content. A buyer competent in one is not automatically competent in the other.
+
+> **Direct answer:** They are not rival versions of the same thing; sandalwood is a soft foundation, agarwood a deep and variable anchor, and the choice follows the blend rather than a ranking.
+
+## Traditional use, and the line around it
+
+> **Direct answer:** Chinese materia medica describes agarwood in traditional language such as "moving qi and relieving pain" (行气止痛) and "warming the middle" (温中). That is historical terminology, not modern clinical evidence, and burning incense is not a medical treatment.
+
+The classical record matters for two reasons. It explains why agarwood carries so much cultural weight, and it explains why so many product pages drift into health claims. The traditional descriptions are part of the material's history; they are not findings from controlled trials, and they should be labeled as traditional belief when they are mentioned at all.
+
+What can be said without overreach: agarwood has a long record as a high-ranking aromatic in Chinese incense manuals; the sinking test is documented trade practice; and the resin's chemistry — sesquiterpenes and chromones — is an active subject of study. What cannot be said: that burning agarwood treats, cures, or prevents any condition. The smoke is also a respiratory irritant for some people, which is a reason for ventilation, not a reason for a health claim.
+
+This is one of the places where the editorial line matters most. A knowledge page can describe what a tradition says and what chemistry has found without collapsing the two into a promise. The useful sentence is "traditional sources describe it as…" followed by "modern evidence does not establish…". That is not hedging; it is the difference between history and marketing.
+
+> **Direct answer:** Traditional use is real history and not medical proof; the page can describe the first and must not imply the second.
+
+## Supply, sustainability, and the plantation question
+
+> **Direct answer:** Wild agarwood is depleted and the genus is CITES-listed; plantation material is the renewable mainstream, but "plantation" is a production method, not a grade, and documentation is the buyer's real protection.
+
+The sustainability argument starts with biology. A tree that only produces resin after injury, and only in useful quantity after years, cannot be harvested like a crop. Wild collection removed mature trees faster than they could regenerate, and the regulatory response — CITES listing — made international movement a paperwork exercise. Plantation growing answers the supply problem by wounding or inoculating managed trees, which shortens the cycle and makes the material legal and traceable in principle.
+
+The catch is that plantation material covers a wide range. A well-managed plot with mature trees and careful inoculation can produce dense, aromatic wood; a hurried operation can produce pale, lightly resined wood that carries the name but not the character. The word "plantation" therefore does not tell a buyer what they are getting. It tells them the material is unlikely to be wild, which is useful for legality and useless for quality.
+
+Documentation is the practical lever. A credible supplier can name the species, the country or region of origin, whether the material is wild or cultivated, and the CITES status of the shipment. A supplier who offers only "agarwood" is not necessarily selling a fake, but they are asking the buyer to absorb the uncertainty. For a manufacturer, the documentation should travel with the lot and be recorded against the batch; for a collector, it is part of the object's history.
+
+There is an uncomfortable economic point underneath the sustainability story. The premium on wild material creates an incentive to mislabel plantation wood, and the premium on 奇楠 creates an incentive to promote lesser material. Regulation can make trade legal; it cannot make a label true. That gap is why authentication is not a separate topic from sustainability — it is the same topic seen from the buyer's side.
+
+> **Direct answer:** The renewable option exists, but it does not dissolve the quality question; plantation is a supply category, and the buyer still has to verify the lot.
 
 ## Storage and aging
 
-> **Direct answer:** Agarwood stores best cool, dry, dark, and away from strong odors, and — unlike most aromatics — it often improves with years of rest, because slow oxidation of its exudate can deepen the fragrance.
+> **Direct answer:** Store agarwood cool, dry, dark, and away from strong odors; sealed glass or food-grade containers work well, and slow aging can round the scent, though improvement is not guaranteed.
 
-Storage rules are simple but specific. Keep the substance away from direct sunlight, from humidity (which invites mold and dulls the exudate), and from other strong-smelling substances, since porous timber absorbs neighboring odors. Seal chips and powder in a non-reactive container — glass or food-tier polymer — and store in a cool, dim cupboard. Do not refrigerate ordinary pieces; condensation from temperature swings risks more harm than the cold prevents.
+The storage rules follow from the material. Resin-rich wood is porous enough to absorb neighboring smells and sensitive enough to lose light volatiles when exposed to heat and light. Sunlight, humidity, and a spice cabinet are all bad neighbors. A sealed glass jar in a cool cupboard is sufficient for most pieces; a food-grade polymer container is acceptable if the material is fully dry. Refrigeration is usually a mistake because condensation during temperature swings does more harm than the cold prevents.
 
-Aging is the unusual part. Freshly cut substance can smell green or closed; over months and years, slow oxidation of the sesquiterpene and chromone fraction often rounds off the sharp edges and deepens the sweetness. This is why collectors speak of "settling" a piece and why aged substance sometimes out-prices younger stock of the same nominal tier. The mechanism: **time + trace oxygen → mild oxidation and esterification of exudate compounds → harsher top notes soften → the base becomes rounder and sweeter.** The change is gradual and not guaranteed — some pieces simply hold steady — but the direction is generally toward smoothness, not toward decay.
+Aging is the interesting part. Freshly cut or freshly dried material can smell green or closed. Over months and years, slow oxidation can soften harsh top notes and deepen the base, which is why collectors speak of letting a piece "settle." The mechanism is plausible — oxygen reacts with some of the resin compounds, and the lighter fractions gradually change — but the outcome is not guaranteed. Some pieces improve; some hold steady; some lose a little brightness. The honest claim is that aging can change the scent, not that it always improves it.
 
-## Supply chain and trade
+Storage also affects the evaluation. A piece stored with a strong-smelling material may pick up that odor and read as more complex than it is. A piece stored too dry may crack. A piece stored in a hot place may lose its top note. When a sample arrives, let it rest in a clean container for a day or two before judging, so the smell of the packaging or the journey is not mistaken for the material.
 
-> **Direct answer:** The oud trade runs from plantation or wild harvest, through distillation and ranking middlemen, into three largely separate downstream channels — incense and raw timber, perfumery distillate, and carved goods — each with its own pricing logic and its own fraud risks.
+> **Direct answer:** Good storage is boring and protective; aging is a real but uncertain process, and no container can turn ordinary wood into a top grade.
 
-The chain has several links, and value concentrates at the ranking and distillation steps where knowledge is most asymmetric. A rough path: farmers inoculate plantation trees or licensed collectors work wild concessions → exudate-bearing timber is graded by density, color, and origin → top timber is kept whole for carving, mid timber is chipped or powdered, and a portion is distilled into distillate → traders consolidate lots for export → regional distributors feed incense makers, perfume houses, and bead carvers. Each handoff is a chance for substitution, which is why documentation that travels with the lot — not just the seller's word — matters.
+## What manufacturers actually need
 
-Three distinct markets sit at the end of the chain. The **raw-timber and incense market** prices density and fragrance character. The **distillate market** prices yield and fragrance profile, and because distillate is easily adulterated with synthetic oud accords, it is the most fraud-prone of the three. The **carving and bead market** prices the visual exudate pattern and the ability of a piece to hold a polish, where appearance can outweigh fragrance. A buyer in one channel is not automatically competent in the others; the grading vocabulary does not translate cleanly across them.
+> **Direct answer:** A production buyer needs consistency before rarity: stable aroma, mesh, moisture, contamination control, and batch-to-batch matching matter more than a single exceptional piece.
 
-## Economics and pricing
+The factory view is different from the collector view. A collector can buy one beautiful piece and be satisfied. A manufacturer has to make the next batch taste like the last one, which turns every purchase into a specification problem. The relevant questions are not "is this the best agarwood in the world" but "does this lot match the approved sample, and will the next lot match this one?"
 
-> **Direct answer:** Price is set by the intersection of scarcity, exudate tier, and — increasingly — the wild-versus-cultivated distinction, with the gap between ordinary plantation substance and top-tier wild or 奇楠 substance spanning several orders of magnitude.
+Four variables carry most of the weight. Aroma consistency decides whether the finished product changes character between runs. Particle size decides how the powder packs, how the stick draws air, and how the material releases scent. Moisture decides how the powder grinds, how it stores, and how the formed stick dries. Contamination — dust, foreign wood, mold, or residual oil — decides whether the batch is saleable at all. None of these is visible in a photograph, and none is captured by a grade name.
 
-Agarwood is one of the few natural aromatics whose price range is genuinely exponential: usable plantation chips might trade at a modest per-kilogram figure, while dense wild sinking-grade timber and especially 奇楠 can reach sums that make even premium perfumery distillates look cheap. The wild-versus-cultivated split now drives most of the spread, because wild old-growth supply is nearly gone and legally constrained.
+The practical tool is a batch record. For each incoming lot, record the supplier, species, origin, wild or cultivated status, density result, mesh, moisture, aroma notes for the top, body, and dry-down, and the date. Keep a retained sample. When a new lot arrives, compare it against the retained sample and the record, not against memory. A drift in one field is a prompt to retest; a drift in several is a reason to reject.
 
-A few forces shape the curve. Scarcity pushes the top; plantation volume pushes the bottom. Adulteration pushes the *middle* up, because buyers price in the risk of being defrauded and pay more for verifiable lots. Distillation yield ties the timber and distillate markets together: a low yield means a kilogram of distillate consumes many kilograms of timber, so distillate prices move with, and above, timber prices. The author's view, not a verified fact: as synthetic oud accords improve and become cheaper, the economic floor of the commodity-tier market may soften, while the ceiling for verifiable wild and 奇楠 substance — which no synthesis can replicate for the collecting market — is likely to keep rising.
+The author's view, offered as editorial judgment: for most incense makers, a documented mid-grade lot with stable behavior is a better commercial base than an irreproducible top grade. The top grade belongs in small, special runs where the story and the scent justify the cost. The line that pays the bills is built on consistency.
 
-## Quality-control checklist
+> **Direct answer:** Consistency is the manufacturer's version of quality; a lot that cannot be repeated is a sample, not a supply.
 
-> **Direct answer:** A workable QC routine tests five things in order — species and documentation, density, fragrance under gentle warmth, burn behavior, and (for powder) particle size and moisture — and rejects any lot that fails two of them.
+## Misconceptions that cost money
 
-A factory or serious buyer can run a compact, repeatable screen. The five checks, in priority order:
+> **Direct answer:** Four beliefs recur often enough to name: density proves authenticity, sinking means wild, dark means agarwood, and a famous origin guarantees quality. Each one is false or incomplete.
 
-| Check | What to do | What a fail looks like |
-|---|---|---|
-| Species & docs | Confirm *Aquilaria* (or *Gyrinops*) name, origin, wild/cultivated, CITES paper | "Agarwood" with no species or origin given |
-| Density | Water test; record sink / half-sink / float | Sinks but feels suspiciously uniform |
-| Aroma on warmth | Warm a sliver on a heater, not flame | Flat, single-note, or "perfume" smell |
-| Burn test | Ignite a small chip; watch smoke and residue | Black smoke, no distillate seepage, acrid smell |
-| Particle & moisture (powder) | Screen the mesh size; check moisture by feel/weight | Inconsistent mesh, clumping, mustiness |
+The density myth is the most expensive. The water test measures mass per volume, and mass per volume can be engineered with oil, resin, or a denser foreign wood. A piece that sinks has passed one check; it has not proved its species or its aroma. Treating the test as a certificate is how injected wood finds buyers.
 
-Two failures, and the lot is rejected. The logic behind the rule: a genuine lot can occasionally trip one check by accident (a low-density but genuinely aromatic piece, say), but a lot that trips two is usually mislabeled or adulterated. See the [incense authentication database](/blog/incense-authentication-database/) for the full screening logic.
+The wild-versus-sinking confusion is a category error. Sinking describes resin load; wild describes provenance. Plantation wood can sink if it is dense enough, and wild wood can float if its resin is thin. The two questions are independent, and a seller who conflates them is either confused or using one prestige word to borrow credibility from another.
 
-## Sensory evaluation
+The color myth is the simplest to avoid. Dark wood is not necessarily agarwood, and agarwood is not necessarily dark. Dye is cheap, and many unrelated woods are naturally dark. Color belongs with the other surface signals, not above them.
 
-> **Direct answer:** Evaluating oud properly means smelling it the way it is meant to be experienced — on gentle, staged warmth — and recording the top, body, and dry-down separately, rather than taking one quick sniff off a raw chip.
+The origin myth is subtler. Hainan and Vietnam have produced celebrated material, and a genuine piece from either can be excellent. That does not mean every piece labeled with those names is excellent, or even from there. Origin is a category with a reputation; the piece in front of you still has to pass the density, heat, and burn checks.
 
-The single biggest evaluation mistake is sniffing a cold chip and calling it a day. The substance is designed to open under warmth, so the evaluation must follow the warmth. A sound method:
+The common thread is the substitution of one easy signal for a cluster of harder ones. Good buying is boring: it asks for documents, warms a sample, cuts a corner, and records the result. The myths are attractive because they promise a shortcut. There is no shortcut that survives contact with a determined faker.
 
-1. **Prepare a clean heater** (mica-plate electric or charcoal-in-ash) at a low starting temperature.
-2. **Warm slowly** and note the first release — the top note — for the first minute or two.
-3. **Raise the temperature gradually** and record the body as it emerges over the next several minutes.
-4. **Let it ride** to the end and note the dry-down and how long the fragrance persists after the warmth is removed.
-5. **Judge across three axes** — sweetness, complexity, and endurance — and write a short descriptor for each phase.
+> **Direct answer:** Every misconception on this list replaces several checks with one, which is exactly the trade a fraudulent seller wants the buyer to make.
 
-The discipline mirrors the perfumer's pyramid but applied to a warmed solid. **Low warmth → light compounds off first → top note; rising warmth → mid-weight compounds follow → body; residual warmth → heaviest compounds linger → dry-down.** Recording each phase separately is what separates a genuine assessment from an impression; a fake usually collapses all three phases into one unchanging smell.
+## A short cultural history
 
-## A buying decision framework
+> **Direct answer:** Agarwood's prestige is older than its botany: it moved through Chinese courts, Buddhist and Daoist ritual, Japanese ceremony, and Arabic perfumery, and each tradition built its own vocabulary around the same wood.
 
-> **Direct answer:** Buy by a fixed sequence — application, legality, sample, then reorder — and let each step gate the next, so that an attractive price never overrides a missing document or a failed sample.
+The Chinese record treats the wood as a luxury of the elite and a substance of ritual importance. It appears in incense manuals, poetry, and materia medica; the 香乘 compilation of 1641 is as much a cultural inventory as a technical one, listing grades, formation types, and the language a connoisseur was expected to command. The literati did not simply burn the wood. They compared pieces, argued about origins, wrote down which phase of the scent they preferred, and treated the whole exercise as a discipline of attention.
 
-The framework turns the earlier sourcing and QC sections into a decision ladder. At each rung, a "no" stops the purchase:
+Japan inherited the practice through Buddhist channels and formalized it into kōdō, the "way of incense." A kōdō gathering is closer to a listening session than to a perfume demonstration: small pieces are warmed on a mica plate over charcoal in ash, and participants describe what they smell, sometimes identifying woods blind. The vocabulary is deliberately restrained. The point is not to overpower the room but to notice change — the first warmth, the middle, the last trace — and to compare one piece against another in a shared, quiet setting.
 
-1. **Application** — what is this for? Chips, powder, distillate, or carving each demand a different tier and form. No clear application → do not buy.
-2. **Legality** — species, origin, wild/cultivated, and CITES paperwork if crossing borders. Missing or vague → stop.
-3. **Sample** — a trial amount run against the actual heater, formula, or carving plan. Fails the QC checklist → stop.
-4. **Reorder** — the second shipment must match the first in density, fragrance, and (for powder) mesh and moisture. It drifts → stop.
-5. **Price sanity** — a price far below the documented market for the claimed tier is itself a red flag, not a bargain.
+The Arabic tradition took a different path. Oud became a cornerstone of perfumery, associated with hospitality, celebration, and personal adornment. The oil is worn on skin and cloth; the wood is burned in majlis settings; the market developed its own grading language and its own networks of traders. Where Chinese practice often favors indirect warmth and small pieces, Gulf perfumery embraces the oil and the richer, smokier presentation of the wood.
 
-The framework's spirit is that each rung is a gate, and no later rung can rescue an earlier failure. A beautiful fragrance cannot redeem a missing CITES document, and a low price cannot redeem a lot that failed the burn test.
+Three traditions, one material, and three different ideas of what "good" means. A Chinese collector may prize a quiet, layered dry-down; a Japanese practitioner may value subtlety and repeatability across a session; a perfumer may look for projection and tenacity in an oil. None of these is wrong. The confusion starts when a word from one tradition is used as a grade in another — "kyara" as a synonym for "best," "oud" as a synonym for "wood," "sinking" as a synonym for "genuine." The cultural history explains the prestige; it does not simplify the grading.
 
-## The author's view
+There is also a quieter history of ordinary use. Agarwood was not only for courts. Smaller pieces, lower grades, and powder went into household incense, temple offerings, and medicine cabinets. The divide between the collector's specimen and the everyday stick is old, and it explains why the market has always had a wide middle: material too good to discard, not good enough for the top shelf. That middle is where most buyers actually operate, and it is where the most careful grading is needed.
 
-> **Direct answer:** Three judgments run through this page, each flagged as the author's view rather than established fact.
+> **Direct answer:** The three traditions created three vocabularies and three standards; a buyer who knows which tradition a seller is speaking can usually tell which claims are being made.
 
-- **The author's view, not a verified fact:** For most incense makers, a consistent, documented mid-tier lot beats an irreproducible top tier. The product is the *line*, not the single piece.
-- **The author's view, not a verified fact:** The wild-versus-cultivated distinction will eclipse the density test as the primary price driver, because density can be faked while a verifiable wild provenance cannot.
-- **The author's view, not a verified fact:** The sweet spot for most buyers sits at "documented plantation substance that passes the gentle-warmth test," a position that balances legality, affordability, and genuine — if not spectacular — fragrance.
+## Regional reputations, and what they cannot tell you
 
-These are working opinions formed from the trade patterns described above, and a buyer with different needs (a museum curator, a high-end perfumer, a casual hobbyist) may reasonably reach different conclusions.
+> **Direct answer:** Hainan and Vietnam carry the strongest reputations in Chinese trade, Malaysia and Indonesia dominate commercial volume, and Assam marks the western edge — but a regional name describes a possibility, not the piece in your hand.
 
-## Safety
+Hainan has long been the reference point for sweetness and depth in Chinese writing about the wood. The island's material was historically scarce, and scarcity plus reputation produced a premium that persists even when the actual supply is unclear. Vietnamese material, particularly from the central and southern forests, earned a parallel reputation for complexity and a lingering finish. These are trade reputations built over centuries, and they influence price as much as any measurable property.
 
-> **Direct answer:** Burning any aromatic produces fine particles and gases, so the safety guidance is short: ventilate, keep concentrated smoke away from the face, and keep all materials out of reach of children and pets.
+The Southeast Asian mainland and archipelago tell a different story. Cambodia, Laos, Thailand, Malaysia, and Indonesia all produce material, and the commercial market depends heavily on Indonesian and Malaysian supply. Plantation development has been extensive in these regions, and the resulting wood ranges from pale and lightly scented to dense and genuinely fine. A regional label here is less a quality claim than a description of where the tree grew.
 
-Burning any aromatic releases fine particles and gases into the air. Use a well-ventilated room, keep concentrated smoke away from the face, and store all substances out of reach of children and pets. See our [safety guide](/safety/).
+Assam and the eastern Himalaya mark the western limit of the range. The material is less discussed in Chinese trade literature than Hainan or Vietnam, but it exists, and it shares the general characteristics of the species complex rather than a single famous profile. Bangladesh and neighboring areas have their own histories of collection and trade.
 
-## A cultural journey through three traditions
+What a regional name cannot tell you is age, formation pathway, resin load, or handling. A piece labeled "Hainan" may be a genuine old wild specimen, a plantation piece from a different region, or a piece that passed through a trader who used the name loosely. The same is true of "Vietnamese." The reputation is a lead, not a finding. The practical response is to ask what the seller means by the name: species, region of harvest, or simply the style of scent the piece is supposed to resemble.
 
-> **Direct answer:** The substance sits at the center of three parallel fragrance cultures — Chinese, Japanese, and Arabic — and each one developed its own vocabulary, ritual, and way of judging quality, which is why the same timber is described so differently in Guangzhou, Kyoto, and Dubai.
+Regional reputation also changes with fashion. A origin that was celebrated in one century may be neglected in the next; plantation material from a region without a famous name can outperform a tired wild lot. The market is not a museum of reputations. It is a stream of lots, and each lot has to be judged on its own behavior under heat.
 
-Chinese incense culture (香文化, xiāng wénhuà) matured across the Tang, Song, and Ming dynasties, when the literati (文人) treated fragrance appreciation (品香, pǐnxiāng) as one of the refined arts, alongside tea, calligraphy, and painting. A gathering built around incense (香席, xiāngxí) was a social and contemplative event: timber was warmed, not burned, and the company discussed the stages of the fragrance as it opened. Song-era manuals such as 香谱 (incense compendia) — the line of texts that 香乘 later consolidated — collected recipes, ranking terms, and the etiquette of the censer. Agarwood entered China in part through tribute (进贡) and through the maritime trade routes that ran from Southeast Asia up the coast, carried on the ships of Chinese, Arab, and later European merchants.
+> **Direct answer:** Use origin to generate questions, not to close them; the name on the label is a hypothesis, and the warmed chip is the test.
 
-The Japanese discipline of kōdō (香道, "the way of fragrance") turned incense appreciation into a codified art with its own games and scoring. Its central tasting scheme, rikkoku gomi (六国五味, "six countries, five tastes"), assigns timbers to six regional classes — kyara (伽羅), rakoku (羅国), manaka (真那伽), manaban (真南蛮), sasora (佐曽羅), and sumontara (寸聞多羅) — and scores each against five taste qualities: sweet, sour, hot, salty, and bitter. A kumikō (組香) gathering is a kind of olfactory ceremony in which participants identify and discuss warmed timbers. This tradition is a major reason why Western collectors still reach for Japanese terms when they describe a fine piece.
+## Teaching the nose
 
-The Arabic and Gulf tradition uses oud in a completely different register. The timber is called oud (عود), and it is the backbone of bakhoor (بخور), the scented timber-chips-and-exudate mixture burned over charcoal in homes, shops, and gatherings, and of dahn al-oud (دهن العود), the distilled distillate worn as perfume. Mukhallat (مخلط) blends and attar (عطر) perfumes build their base on oud distillate. Here the emphasis falls on smoke, tenacity, and sillage — the trail a fragrance leaves — rather than on the quiet three-stage unfolding prized in East Asia. One substance, three vocabularies, three distinct ways of judging whether a piece is excellent.
+> **Direct answer:** Sensory skill is trainable and mostly comparative: learn a small set of reference smells, then smell agarwood in phases against those references and write down what changed.
 
-## Regional varieties: a field guide
+The first step is to build a reference shelf. Sandalwood gives a creamy, soft-woody baseline. Frankincense gives a bright, citrus-resinous lift. Myrrh gives a bitter, earthy balsamic weight. Camphor or borneol gives a cool, sharp top note. Clove gives a warm spice accent. A piece of dry cedar or a fresh pencil shaving gives a plain woody reference. These are not agarwood, and that is the point: they anchor words to smells so that a description is not just an adjective floating in air.
 
-> **Direct answer:** Origin shapes fragrance far more than most buyers assume, and the trade has a rough regional map — Vietnamese timber is classically the benchmark, Cambodian and Thai timber sweet and fruity, Indian/Assam timber animalic, and Indonesian timber varied but often milder — so origin is a genuine signal, not a marketing flourish.
+The second step is to smell the same piece at different temperatures. Start low and wait. The first impression may be faint, sweet, or woody; that is the top note. Raise the heat slightly and wait again. The body often brings a thicker, more balsamic quality, sometimes with a leathery or honeyed edge. Raise it once more, or let the heater cool, and the dry-down appears: the part that lingers after the heat is gone. Writing one or two words for each phase is enough. The record matters more than the poetry.
 
-The traditional top of the map is **Vietnam**, whose old-growth timber — often associated with places like Nha Trang (芽庄) and the wider Khanh Hoa coast — was long the aromatic standard in Chinese trade: sweet, layered, and enduring. Vietnamese ky nam (奇楠) is treated as among the finest of the summit grade. **Cambodia** (around Pursat, 菩萨, and Koh Kong, 戈公) yields sweet, honeyed, sometimes fruity timber prized for its clarity. **Thailand** (Trat, 达叻; Chanthaburi, 尖竹汶) produces timber with a distinctive sweet-and-sour fruitiness that some buyers describe as berry-like. **India and Assam** give a darker, animalic, almost leathery profile — the "Hindi" character — that perfumers value for its power and that sits at the base of many heavy oud distillates. **Indonesia** is a broad and varied region: Kalimantan (加里曼丹), Sumatra (苏门答腊), Aceh (亚齐), Papua (巴布亚), and Sumbawa (松巴哇) each contribute differently, from green and balsamic to earthy and timbered. **Malaysia** (Sarawak 沙捞越, Sabah 沙巴) and **Sri Lanka** (where the cousin genus *Gyrinops* yields Walla Patta) round out the map.
+The third step is comparison. Two pieces warmed side by side teach more than either piece alone. Which opens faster? Which has the longer finish? Which turns bitter at high heat? Which smells sweet when cold? The differences are the vocabulary. A taster who can say "piece A opens with a green note and finishes leathery; piece B opens flat and finishes sweet" is already ahead of a taster who says "A is better."
 
-Two cautions attach to this field guide. First, these are *tendencies*, not guarantees — a specific tree's exudate, age, and formation pathway can override its region. Second, origin claims are among the most abused labels in the market, so an origin is only as credible as the documentation and the nose-test that back it up.
+The fourth step is blind practice. Ask someone to label three pieces A, B, and C and warm them without telling you which is which. Try to match your notes to the pieces. The exercise is humbling, and that is useful. It exposes how much of a first impression is expectation. A collector who has never done this is vulnerable to a confident seller's story; a collector who has done it knows how easily the nose is led.
 
-## From timber to distillate: distillation science
+There is a limit to what training can do. It cannot identify species, detect oil injection, or certify legality. It can tell you whether a piece has a staged scent, whether it collapses at high heat, and whether it is worth smelling again. Those are real skills, and they are the ones that make the technical checks meaningful.
 
-> **Direct answer:** Turning balsamic timber into oud distillate is a low-yield distillation problem: the distillate is a minor fraction of the timber's mass, so distillate is expensive partly because it consumes so much timber — and the choice of distillation method shapes both the yield and the fragrance.
+> **Direct answer:** Train comparison, not vocabulary; the words become useful only when they are tied to differences you have actually smelled.
 
-The timber and the distillate are different products with different economics, and the bridge between them is distillation. Traditional **hydrodistillation** boils the wood in water, carrying volatile compounds off in the steam to a condenser; **steam distillation** passes steam through the charge instead of boiling it directly. Both are gentle and preserve the classic profile, but they are slow and low-yield. More modern routes include **supercritical carbon dioxide extraction**, which uses pressurized CO₂ as a solvent and can capture a fuller, fresher spectrum, and **solvent extraction** with hexane or a similar non-polar solvent, which produces a concrete and then an absolute. Each method trades yield against fragrance fidelity and cost.
+## Authentication beyond the home test
 
-The yield problem is the economic engine. Because the distillate is only a small percentage of the timber's mass, a kilogram of distillate can consume a great deal of timber, which is why distillate prices track timber prices from above. The mechanism is a conservation of mass: **timber mass → distillation → volatile fraction condenses as distillate → the non-volatile bulk stays behind as exhausted chips → low yield means many kilograms of timber per kilogram of distillate.** A producer's choice of method, timber tier, and still time all move the yield and the character of what comes out.
+> **Direct answer:** Laboratory methods can detect adulterants and sometimes confirm species, but they are a different level of evidence from a burn test, and a buyer should know what each method can and cannot establish.
 
-## Agarwood in perfumery
+The home tests are screening tools. A water test measures density. A burn test observes smoke, residue, and smell. A heat test observes the staged release of volatiles. These are useful because they are cheap and fast, and because crude fraud often fails them. They are limited because a determined faker can engineer density, add a convincing top note, and disguise the residue.
 
-> **Direct answer:** In perfumery, oud distillate functions as a base note and a fixative — it sits low in the pyramid, lasts for hours, and lends depth and tenacity to a composition — but its high cost and scarcity have driven a parallel industry of synthetic oud accords that approximate the smell without the timber.
+Analytical chemistry works differently. Gas chromatography can separate the volatile compounds in a sample and produce a fingerprint; mass spectrometry can help identify what the peaks represent. A laboratory can compare a sample against reference profiles and look for markers of a species or signs of an adulterant. The method is powerful, but it is not magic: the result depends on the reference library, the sample preparation, and the question being asked. A test designed to detect a specific adulterant will not necessarily detect a different one.
 
-A fragrance is conventionally described as a three-layer pyramid. The top note flashes and fades within minutes; the heart note holds the composition's main character; the base note lingers for hours and anchors everything else. Oud distillate is a quintessential base note: heavy, tenacious, and long-lasting, it also acts as a fixative, slowing the evaporation of the more volatile substances layered above it. Its sillage — the trail a wearer leaves in a room — is part of why the Gulf market prizes it so highly.
+DNA methods can, in principle, identify the species in a wood sample, but wood is a difficult material. Processing, aging, and mixing can degrade or remove the DNA, and a result from one fragment may not represent the whole lot. A species identification is also not a grade identification: knowing that a piece is *Aquilaria* does not tell you whether it is dense, wild, or old.
 
-The scarcity has consequences. Genuine oud distillate is costly and variable, so perfumers routinely build "oud accords" from a palette of substitutes — cypriol (from *Cyperus* root), nagarmotha, vetiveryl acetate, labdanum, ambrette, and timbered synthetics — that evoke the dark, balsamic, animalic register without a drop of real oud. The distinction matters commercially: a fragrance marketed on "oud" is often an accord, and a buyer who wants the real substance must read the documentation, not just the label. The author's view, not a verified fact: the accord is a legitimate and often excellent artistic tool, but it is a different product from the timber and the distilled distillate, and conflating the two in marketing is a recurring source of buyer disappointment.
+Documentation is a third kind of evidence, and it is often the most practical. CITES permits, supplier declarations, harvest records, and chain-of-custody documents do not prove that a specific piece is what the label says, but they establish that the seller is operating within a legal framework and is willing to be specific. A missing document is a signal; a consistent set of documents is a basis for trust, not a substitute for testing.
 
-## Conservation and cultivation
+The honest hierarchy runs from cheap and weak to expensive and strong: smell and density, then burn and heat behavior, then documentation, then laboratory analysis. Most buyers never need the last step. What they need is to know which step they are on and what it can support. A burn test that produces white smoke and a sweet residue supports "this is probably genuine wood." It does not support "this is wild Hainan sinking grade." The gap between those claims is where most disputes live.
 
-> **Direct answer:** Because wild stocks are depleted and CITES-listed, the industry has shifted toward induced plantation oud, produced by deliberately wounding or inoculating farmed trees — and the cultivation method itself is a story of biology applied to a tree's natural defense.
+> **Direct answer:** Use the cheapest test that can answer your question, and do not let a laboratory result or a document carry a claim it was never designed to prove.
 
-The cultivation playbook is to trigger, in a farmed tree, the same defense response that produces wild exudate. Three families of induction are in use. **Mechanical wounding** — nailing, drilling, or gashing the trunk — mimics a natural injury. **Biological inoculation** introduces a fungal culture — species of *Phialophora*, *Fusarium*, and other timber-associated fungi — as a paste or plug into drilled holes, pushing the tree's immune response into exudate production. **Chemical elicitation** applies compounds such as methyl jasmonate (茉莉酸甲酯) or sodium bisulfite (亚硫酸氢钠) to stress the tissue and switch on the exudate pathway. The biological route has become the most common, because a fungal partner sustains the stimulus over years, which is what a slow exudate-forming process needs.
+## How plantations produce resin
 
-The legal frame is CITES Appendix II, which lists *Aquilaria malaccensis* and related species and requires export permits and, in principle, a finding that trade will not harm wild survival. Plantation substance is the renewable answer, but it is not automatically problem-free: monoculture plantings raise their own disease and quality concerns, and the boundary between a licensed plantation and an illicit wild harvest is something honest paperwork is meant to prove. The mechanism that makes cultivation work is the same one that makes wild substance rare: **a living tree + a sustained stress signal → defense hormones and fungal cues → exudate biosynthesis → years of accumulation → harvestable oud.**
+> **Direct answer:** Plantation growers induce the same defense response by wounding or inoculating managed trees, then wait years for resin to accumulate; the method is legal and renewable, but it does not guarantee a particular grade.
 
-## Forensic authentication
+The basic technique is deliberate injury. Growers may cut, drill, or partially girdle the trunk; they may insert a fungal culture or a prepared inoculum into the wound; they may use a combination of physical damage and biological stimulation. The goal is to trigger the tree's defense chemistry without killing it, so that resin accumulates in the damaged zone over a period of years.
 
-> **Direct answer:** The traditional checks — burn, gentle warmth, water test — are screens, not proofs, and when the stakes are high the trade turns to laboratory methods: chromatography to profile the chemical fingerprint, and microscopy to look at the timber itself.
+The timing is the hard part. A tree needs to be old enough to have a substantial heartwood core, and the resin needs time to develop after treatment. Harvest too early and the wood is pale and lightly scented; wait too long and the tree may decline or the resin may be uneven. The best plantation material comes from mature trees, careful wounding, and a harvest schedule that respects the biology rather than the cash-flow calendar.
 
-For expensive lots, the nose is not enough. **Gas chromatography** (气相色谱) paired with **mass spectrometry** (质谱), usually written GC-MS, separates the distillate's volatile compounds and identifies them by their mass spectra, producing a fingerprint that can be compared against a reference library of authentic oud distillates. **High-performance liquid chromatography** (HPLC) is the tool of choice for the 2-(2-phenylethyl)chromones that survive in the timber itself, and **thin-layer chromatography** gives a cheaper, faster spot-check. **Microscopy** examines the timber's anatomy — exudate-filled vessels and parenchyma, the absence of injected foreign distillates — and can expose a dyed or distillate-soaked substitute that a density test would miss.
+Inoculation is not a single method. Different growers use different fungi, different wound patterns, and different waiting periods, and the results vary accordingly. Some operations produce dense, dark wood with a genuine staged scent; others produce material that looks the part but smells thin. The word "plantation" describes the origin of the wood, not its quality. A buyer who treats it as a grade is making the same mistake as a buyer who treats "wild" as a guarantee.
 
-The forensic logic is the same logic as the traditional screens, but sharper. A fake can be made dark, heavy, and even fragrant; what it cannot easily fake is the *chemical signature* of a real *Aquilaria* exudate. **Authentic oud → a specific profile of sesquiterpenes and chromones → a fingerprint that matches reference substance; a substitute → a different profile → a mismatch.** Laboratory work is overkill for a household purchase, but for a large or high-value lot it is the difference between an opinion and a measurement.
+Plantation supply has changed the economics of the middle market. It provides a legal, repeatable source that can be documented and shipped, which is valuable for manufacturers who need consistency. It also creates a new grading problem: how to distinguish a well-managed plantation lot from a poorly managed one when both carry the same species name. The answer is the same as for wild wood — density, heat behavior, aroma phases, and batch records — with the added question of whether the seller can describe the treatment and harvest schedule.
 
-## History of the trade
+There is an environmental argument for plantation material, and it is not merely marketing. If the demand for agarwood can be met from managed trees, the pressure on wild stands falls. The argument is not perfect: plantation wood does not replace the oldest wild material, and demand for the top grade can still drive illegal collection. But for the ordinary and mid-grade market, plantation supply is the realistic renewable path, and a buyer who insists on wild material for everyday use is often paying for a story rather than a difference.
 
-> **Direct answer:** Agarwood has moved along a long arc from tribute and maritime commerce to a global, plantation-fed commodity market, and that history explains both its prestige and the fraud that now shadows it.
+> **Direct answer:** Plantation is a method, not a grade; the treatment and harvest schedule matter more than the label, and the lot still has to pass the same sensory checks.
 
-For centuries the substance traveled as a luxury along overlapping trade networks — overland and maritime routes that connected the forests of Southeast Asia to the courts of China, the shrines of Japan, and the markets of the Middle East and, later, Europe. It was a tribute good, a temple offering, a medicine in the classical pharmacopoeias, and a perfume ingredient, all at once, which is why its prestige is so deeply layered. The Malay-Indonesian word *gaharu* and the Arabic *oud* both mark stops on that long commercial road.
+## From lot to market: the trade chain
 
-The modern chapter is different in kind. Depletion of wild forests pushed the species onto CITES lists, which pushed supply toward plantations, which industrialized what had been a wild harvest. That industrialization lowered the entry price and widened the market — and widened the incentive to adulterate, because the price gap between genuine and fake substance is now enormous. The author's view, not a verified fact: the very forces that made oud more available — plantation scale and global distribution — are the forces that made its authentication a full-time problem, a pattern that repeats across other high-value natural aromatics.
-## Blending: oud as 君 (chief) in 合香
+> **Direct answer:** Agarwood moves from grower or collector through grading, consolidation, distillation, and distribution, and value concentrates at the points where knowledge is most uneven.
 
-> **Direct answer:** In the classical Chinese blending framework 君臣佐使 (chief–minister–assistant–guide), oud usually plays the 君 (chief) role — the ingredient that sets a formula's identity — while supporting substances lift, round, and deliver it.
+The chain begins with the producer. A plantation harvests treated trees; a licensed collector works wild concessions; a smallholder sells a few pieces from a family plot. The first sale is often local and informal, priced by eye and reputation rather than by a written specification. This is where a great piece can enter the market cheaply, and where a buyer without knowledge can be taken.
 
-Chinese compound incense (合香, héxiāng) was traditionally organized on a four-role scheme borrowed from the pharmacopoeia: 君 (jūn, the chief or sovereign ingredient), 臣 (chén, the minister that supports it), 佐 (zuǒ, the assistant that modulates or corrects), and 使 (shǐ, the guide that directs the blend's effect or fragrance). Agarwood most often sits in the 君 seat: it supplies the deep, balsamic backbone that the other ingredients frame. A small quantity of sandalwood might act as 臣 to soften the edges, a touch of a spice as 佐 to brighten, and a binding or aromatic carrier as 使 to hold the whole together.
+The next link is grading and consolidation. A trader sorts pieces by density, color, shape, and scent, separates the carving-grade from the chip-grade, and assembles lots large enough for export. The grader's skill is the value added: a good grader finds the dense pieces in a mixed sack and prices them accordingly; a poor one lets them go at the average price. This step is also where substitution can occur, because the person doing the sorting knows more about the material than the person buying the lot.
 
-The practical consequence is that a blend built on oud does not need much of it. A few percent by weight can anchor a formula, because the substance's tenacity and complexity spread a long shadow over everything else. This is why the same premium timber can be stretched across many sticks, and why the 君/臣 logic is the intellectual ancestor of the modern perfumer's idea of a base note carrying a composition. See the [incense substance comparison matrix](/blog/incense-material-comparison-matrix/) for how this framework maps across substances.
+Distillation is a separate branch. Wood that is not suitable for carving or chips may be distilled for oil, and the oil market has its own buyers, its own grades, and its own adulteration problems. The yield matters: a low yield means many kilograms of wood for one kilogram of oil, which ties the oil price to the wood price. The distiller's skill affects the scent, and different customers want different profiles — a perfumer may want projection, an incense maker may want a softer, more resinous note.
 
-## A glossary of descriptive terms
+Export and distribution add documentation. CITES permits, phytosanitary certificates, customs declarations, and commercial invoices travel with the lot. A serious distributor keeps those documents linked to the batch, so that a buyer can trace a shipment back to a supplier and a region. A trader who cannot produce the paperwork is not necessarily selling illegal wood, but they are asking the buyer to accept a risk that should have been resolved upstream.
 
-> **Direct answer:** The vocabulary of oud appreciation is precise, and a buyer who learns two dozen descriptor words — from "tenacity" and "sillage" to "balsamic" and "animalic" — can read a tasting note and hear what the writer actually smelled.
+The retail end splits into three markets that barely overlap. The raw-wood market sells chips, powder, and whole pieces to incense makers and collectors. The oil market sells to perfumers and fragrance houses. The carving market sells beads, sculpture, and display pieces, where appearance can matter more than scent. A buyer who is expert in one market is not automatically expert in another; the grading language differs, the fraud patterns differ, and the price logic differs.
 
-Precision begins with the mechanics of fragrance. **Tenacity** is how long a fragrance persists; **sillage** is the trail it leaves in a room; **projection** is how far it radiates; **longevity** is endurance on a surface. **Fixative** names a substance that slows the evaporation of everything around it — a role oud distillate plays in perfume. The **olfactive pyramid** is the three-layer model of a fragrance: top note, heart note, base note.
+The chain explains why provenance is so hard to verify. Each handoff is a chance for a label to drift, and the final seller may be several steps removed from the person who first graded the wood. The buyer's defense is documentation plus testing, and the manufacturer's defense is a batch record plus a retained sample. Neither is perfect, but both are better than a story.
 
-Descriptor words sort into families. **Woody** and **balsamic** are the obvious starting points, but fine substance also reads **balsamic** (soft, vanillic warmth), **honeyed** (sweet and thick), **leathery** (animalic and dry), **camphoraceous** (cool and medicinal), **earthy** (damp soil), **green** (cut-leaf freshness), **marine** (briny), **mineral** (stone and flint), **lactonic** (milky), **fruity**, **floral**, **spicy**, **smoky**, and **fungal**. The same chip can show several of these across its three phases, which is exactly what "complex" means in practice: many descriptors, unfolding in sequence rather than one note stated loudly.
+> **Direct answer:** Value sits where knowledge is uneven, so the buyer's job is to move the uncertainty down the chain: ask for documents, test the lot, and record what arrived.
 
-## The physics of warming versus burning
+## Indoor air and the safety question
 
-> **Direct answer:** Warming and burning are physically different processes — one vaporizes volatile compounds below the point of combustion, the other pyrolyzes the whole substance — and that difference is why the refined method is gentle warmth, not flame.
+> **Direct answer:** Burning incense produces smoke and fine particles regardless of how natural the material is; ventilation, distance from the face, and sensible duration matter more than the romance of the ingredient.
 
-When a chip is warmed on an electric heater or above buried charcoal, its temperature climbs but stays below the ignition point of the timber. Volatile sesquiterpenes and chromones boil off one group at a time, in order of their boiling points, and drift away as vapor. Nothing catches fire, so nothing chars. When the same chip meets an open flame, the temperature jumps past ignition, and pyrolysis begins: the cellulose and lignin of the timber itself break down, releasing smoke, tar, and a scorched, acrid note that buries the finer fragrance underneath it.
+The safety issue is combustion, not agarwood specifically. Any material that smolders or burns releases a mixture of gases and particles, and fine particles are the fraction most often associated with respiratory irritation. A well-ventilated room, a source that is not directly under the nose, and a session that ends before the air becomes visibly hazy are reasonable precautions. People with asthma or other respiratory sensitivity should be especially careful, and no incense should be used as a substitute for medical care.
 
-The mechanism is a temperature ladder: **gentle warmth → volatile compounds vaporize selectively → a clean, staged fragrance; open flame → temperature passes the ignition threshold → pyrolysis of the timber matrix → smoke and char → a burnt note on top of the fragrance.** Specific warmth and thermal mass matter too: a thick ceramic or metal heater that holds a steady low temperature behaves differently from a thin surface that spikes and drops. This is why practitioners describe the ideal as slow, even, and just below the point where the timber begins to smoke.
+Indirect warming changes the exposure profile. When the wood is heated on a plate rather than burned, the material does not combust, so the smoke and tar are greatly reduced. That does not make the practice risk-free — volatile organic compounds are still released — but it is a different kind of exposure from a smoldering stick. A collector who warms small chips for a few minutes is not in the same situation as someone burning coils in a closed room for hours.
 
-## Common misconceptions
+The "natural" label is not a safety guarantee. A natural resin can still produce irritating smoke; a synthetic fragrance can be less irritating than a natural one in a particular formulation. The relevant questions are how much material is burning, how long, in what volume of air, and with what ventilation. Those questions apply to every incense material on this site, not just agarwood.
 
-> **Direct answer:** A handful of myths keep circulating — that density proves authenticity, that "sinking" means "wild," and that any dark timber is oud — and each one costs buyers money when it is taken on faith.
+Storage safety is a separate topic. Dry wood and powder are combustible, and a bag of fine powder near a heat source is a fire risk. Keep material away from open flame, store it in a closed container, and do not leave a heater unattended. The same care that preserves the scent also reduces the hazard.
 
-Three errors recur often enough to name.
+> **Direct answer:** The material's prestige does not change the physics of smoke; ventilate, keep the session modest, and treat fine powder as a combustible.
 
-The first is the **density-equals-authenticity myth**. The water test measures specific gravity, and specific gravity can be engineered. A piece of ordinary timber soaked in exudate or distillate and then dyed will sink just as readily as a genuine dense piece, because sinking reports only on mass per volume, not on what created that mass. Density is a ranking guide, never a certificate.
+## What the page is, and what it is not
 
-The second is the **"sinking means wild" myth**. The sinking grade and the wild-versus-cultivated question are orthogonal. Plantation substance can be dense enough to sink; wild substance can float if its exudate is thin. The word "sinking" describes exudate load, not provenance.
+> **Direct answer:** This is a compiled editorial account built from botanical references, a classical Chinese source, and documented trade practice; it is not original laboratory research, and its uncertain points are labeled rather than smoothed over.
 
-The third is the **"dark means oud" myth**. Darkness is a color, and color is the cheapest thing to fake with a dye bath. Many legitimate timbers are dark, and many dyed timbers are not oud. Color is one signal among several, not a verdict. See the [incense authentication database](/blog/incense-authentication-database/) for the full set of signals and how to weigh them.
+The page synthesizes three kinds of material. Botanical references establish the genus, the species, and the regulatory status. The classical Chinese source establishes the grading vocabulary and the formation categories. Trade practice supplies the adulteration patterns, the sensory language, and the commercial logic. Where these sources agree, the page states the point plainly. Where they conflict, it flags the conflict — the ranking of the 奇楠 color grades and the etymology of the name are the two clearest examples.
 
-## Incense stick formulation
+The page does not claim to settle questions that the sources leave open. It does not offer a laboratory method as a home test, a price as a valuation, or a traditional use as a medical claim. It does not pretend that a single photograph can authenticate a piece, or that a seller's reputation can substitute for a document. Those limits are not hedging; they are the difference between a useful reference and a sales pitch.
 
-> **Direct answer:** In a finished stick, oud is almost always a minority ingredient — a few percent by weight — because its job is to shape the fragrance, while the binder and a combustible base carry the structure, and the exact percentage is a formulation decision, not a fixed number.
+A reader who wants a simple answer can take the one-sentence definition and the buying sequence. A reader who wants to go deeper can follow the links to the grading guide, the authentication database, and the material comparison matrix. The page is designed to be useful at both levels, and to be honest about which level a given claim belongs to.
 
-A hand-rolled or machine-extruded stick is a composite. The combustible body is usually a fine timber powder, often a soft, neutral base such as a tabu or joss-type powder (in Japanese practice, the binder powder is called makko, made from the bark of a *Machilus* or related tree, or tabu from *Machilus thunbergii*). A binder — makko itself, or a gum such as the tuber-derived 白及 (bletilla, *Bletilla striata*) — holds the shape and provides the stick's slow, even burn. Water wets the mix for extrusion, and a thin bamboo core may run down the center in cored sticks. Agarwood powder enters as a small, potent fraction that supplies the top-to-base fragrance.
+> **Direct answer:** Treat the confident statements as sourced, the flagged statements as open, and the editorial judgments as opinions — that is the reading protocol the page is built for.
 
-The formulation is a balancing act. **Too much aromatic timber → the stick smolders unevenly or the fragrance turns acrid; too little → the binder's own smell dominates; the right percentage → the oud's three-stage fragrance rides the steady combustion of the base.** This is why a finished stick never smells identical to the raw powder, and why the binder choice matters as much as the aromatic. See [how incense is made](/blog/how-incense-is-made/) and [incense powder & exudate](/blog/incense-powder-resin/) for the mechanics.
-
-## Market data and auctions
-
-> **Direct answer:** The high end of the market behaves like a collectibles market — provenance, ranking, and scarcity drive price at auction — while the commodity end behaves like an agricultural product, with plantation volume and distillate yield setting the floor.
-
-At the top of the market, exceptional pieces trade in a way that resembles art more than agriculture: a documented wild specimen, a rare 奇楠 lot, or a historically significant bead or carving can command prices that bear little relation to its weight in exudate. Auction results are driven by provenance (who vouches for it), ranking (density, color, origin), and scarcity (how little verifiable supply exists). The author's view, not a verified fact: at this tier, the premium is for certainty and story as much as for fragrance.
-
-At the commodity end, the economics look like any tree crop. Plantation acreage matures on a schedule, inoculation costs are predictable, distillation yield sets the distillate price, and global distribution spreads the substance widely. The two tiers barely touch: a kilogram of ordinary plantation chips and a gram of documented wild 奇楠 are almost different products wearing the same name.
-
-## Building a nose: sensory training
-
-> **Direct answer:** Evaluating oud is a trainable skill, and the training is largely comparative — smelling the same descriptor across many substances until the categories become automatic, then applying them to a warmed chip phase by phase.
-
-The fastest way to build the skill is to smell deliberately and in order. Start by learning the descriptor families from the glossary above against *known* references: sandalwood for creamy-lactonic, camphor for cool-medicinal, patchouli for earthy, frankincense for balsamic-citrus, myrrh for bitter-balsamic. Once the categories are anchored to real smells, apply them to oud one phase at a time — top note first, then body, then dry-down — and write down a word or two for each. The written record is the training tool: over weeks, the notes become sharper, and a buyer can finally tell a "sweet, honeyed, long" piece from a "flat, timbered, short" one at a single sitting.
-
-The discipline mirrors the Japanese kumikō practice of identifying timbers blind, but it needs no ceremony — only a clean heater, quiet attention, and the patience to let a chip open slowly rather than judging it in the first ten seconds.
-
-## Documentary record-keeping
-
-> **Direct answer:** For anyone buying repeatedly, the single highest-value habit is a written lot record — species, origin, density result, fragrance notes, price, and supplier — because memory is no substitute for a paper trail when a reorder drifts.
-
-A buyer's best defense against batch drift is a notebook or spreadsheet, not a nose. Each purchase should be logged with at least these fields: the species name, the claimed origin, the wild-versus-cultivated status, the density result, a short fragrance note per phase, the price per gram, and the supplier. Photographs of the lot, and of the label, belong in the same record.
-
-The payoff arrives at the reorder. When the next shipment of "the same" substance arrives, the record makes drift visible — a different density, a shorter dry-down, a flatter top note — where a memory would have smoothed the difference over. **A drift of any single field → a flag to re-test; a drift of several fields → likely a different lot or a substitute.** The record turns what would otherwise be a vague feeling of "something's off" into a checkable fact.
-
-## Comparative economics across aromatics
-
-> **Direct answer:** Agarwood's price is anomalous even among precious aromatics because its supply is simultaneously slow, scarce, and fraud-prone — a combination that sandalwood, frankincense, and patchouli do not all share.
-
-Placing the price next to its neighbors shows why. Sandalwood (*Santalum album*) is expensive because mature heartwood takes decades, but the fragrance exists in the living tree, so it does not need an injury trigger and is comparatively straightforward to grow. Frankincense and myrrh are tapped as gum from living desert trees and regrow their yield season after season, so their scarcity is gentler. Patchouli and vetiver are herbaceous crops harvested in months, cheap at scale. Agarwood alone combines three pressures at once: it forms only after injury, it takes decades, and its very expense invites counterfeiting, which raises the price of the *verifiable* fraction still further. That triple squeeze is the reason a gram of top-tier substance can outprice a gram of nearly any other natural aromatic.
-
-The author's view, not a verified fact: the fraud premium — the extra a buyer pays to know a lot is genuine — is now a permanent feature of the oud market, and any serious budget should treat authentication cost as a line item rather than an afterthought.
-## Biosynthesis in detail: the tree's chemical factory
-
-> **Direct answer:** The fragrant molecules are terpenoids and chromones assembled along two distinct enzyme pathways — the mevalonate route for the sesquiterpene backbone and the phenylpropanoid route for the chromone ring — and every step is a gene the tree switches on only under stress.
-
-Terpenoid chemistry begins with a five-carbon unit called isoprene. Living cells build longer chains from two activated forms of this unit — isopentenyl diphosphate (IPP) and its isomer dimethylallyl diphosphate (DMAPP). Plants make these precursors through two independent routes: the cytosolic mevalonate (MVA) pathway and the plastidial methylerythritol phosphate (MEP) pathway. Chains are then extended by condensation: geranyl diphosphate (GPP) carries ten carbons, farnesyl diphosphate (FPP) carries fifteen, and geranylgeranyl diphosphate (GGPP) carries twenty. Sesquiterpenes, the fifteen-carbon family that anchors much of the fragrance, are built from FPP.
-
-The final step is the interesting one, because a single precursor can be folded into dozens of skeletons by enzymes called sesquiterpene synthases. Depending on which synthase grabs the FPP, the product can be a cyclic framework such as germacrene, humulene, caryophyllene, selinene, or guaiene — the last of which sits at the root of the agarofuran and agarospirol structures that give fine substance much of its character. The parallel chromone family is assembled by a different route: phenylalanine is deaminated to cinnamic acid, extended with malonyl-CoA units through the polyketide machinery, and cyclized into the 2-(2-phenylethyl)chromone skeleton that chemists use as a marker of authenticity. Compounds such as agarotetrol and the flindersia chromones are named products of this pathway.
-
-The switch that matters is regulatory, not chemical. The genes for these synthases sit silent in healthy tissue and fire only after a wound or a fungal cue, which is why the same tree is scentless one year and fragrant after decades of injury. **Stress signal → transcription of synthase genes → FPP diverted into sesquiterpenes → chromone ring closure in parallel → exudate droplets accumulate in the tissue → oud.** Two pathways, one trigger, and a slow, irreversible accumulation that no shortcut can fully reproduce.
-
-## The tree itself: botany of Aquilaria and Gyrinops
-
-> **Direct answer:** The two genera that supply the substance are broad-leaved evergreens with small, inconspicuous flowers and capsular fruits, and their anatomy — not their outward looks — is what matters, because exudate forms inside the xylem, not on the bark.
-
-*Agarwood-bearing trees are unremarkable to the eye, which is part of the identification problem.* *Aquilaria* species are medium to large evergreens with alternate, simple leaves whose veins run more or less parallel. The flowers are small, greenish or pale, clustered in axillary or terminal inflorescences, and they mature into a timbered capsule that splits to release seeds — many species carry an aril or appendage that suggests dispersal by animals or wind. The sister genus *Gyrinops*, best known from Sri Lanka (as *Gyrinops walla*) and parts of New Guinea, shares the family's general plan and contributes comparable exudate under its own regional names.
-
-What a buyer needs to understand is anatomical, not cosmetic. The exudate does not ooze from the surface like a gum; it forms deep inside the secondary xylem, filling the vessels and the surrounding parenchyma cells as the tree responds to injury or infection. That is why a healthy specimen and a exudate-bearing one can look nearly identical from the outside, and why the only reliable read is to cut, warm, or analyze a piece. The botanical references — [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — document the morphology and the distribution.
-
-## Ecology and forest context
-
-> **Direct answer:** The source trees are denizens of tropical and subtropical evergreen and monsoon forest, and their exudate-forming biology is tied to that setting — warm, humid, and shaded — which is one reason plantation agroforestry tries to imitate it.
-
-In the wild, the trees grow in mixed evergreen and seasonal monsoon forest, often in the understory or mid-canopy, where humidity is high and light is dappled. Soils tend to be well-drained loams rather than waterlogged clays. The trees associate with the soil's fungal network, and the same timber-decay fungi that can rot a fallen trunk are, in a living tree, a stimulus for the defense response that produces exudate. The ecological logic is circular: a humid, fungus-rich forest is precisely the place where a tree must invest in antimicrobial exudate to survive, and that investment is the product the market wants.
-
-Plantation managers read this ecology as a design brief. Agroforestry systems that shade young trees, maintain soil organic matter, and avoid monoculture stress tend to produce healthier, more exudate-responsive stock than bare, sun-baked rows. The author's view, not a verified fact: exudate quality is partly an ecological product, and a plantation that reproduces the forest's humidity, mycorrhizal community, and slow growth is more likely to yield substance that reads as genuine than a fast, fertilized monoculture chasing yield alone.
-
-## Analytical chemistry: reading the fingerprint
-
-> **Direct answer:** Modern authentication leans on instruments that separate and identify molecules — gas chromatography with mass spectrometry for the distillate, liquid chromatography for the chromones — and the result is a fingerprint that can be matched against reference substance with far more certainty than a nose test.
-
-The workhorse is **gas chromatography–mass spectrometry (GC-MS)**. The sample is vaporized and pushed through a long capillary column whose interior coating separates compounds by their affinity; each exits at a characteristic retention time, and a mass spectrometer then smashes the molecules into fragments whose pattern acts as a molecular fingerprint. Matching retention times and mass spectra against a library of known sesquiterpenes identifies the distillate's composition. **Liquid chromatography (HPLC)** fills the gap for the chromones, which are too heavy or too thermally fragile for easy gas analysis. An isotope measurement — **isotope ratio mass spectrometry (IRMS)** — can even read the ratio of carbon-13 to carbon-12, a signature that sometimes distinguishes wild from cultivated origin, and radiocarbon dating has been used to probe whether a piece is genuinely old.
-
-The power is in the reference library, not any single instrument. **A suspect sample → separation on a column → mass-spectral fragmentation → a list of identified molecules → comparison against known authentic profiles → a match or a mismatch.** No color, density, or smell test reaches this level of certainty, which is why the laboratory, not the censer, is where large or disputed lots are settled.
-
-## Regulation and documentation
-
-> **Direct answer:** Moving the substance across borders sits inside the CITES framework, which requires export permits and a finding that trade will not harm wild survival, and downstream rules — cosmetic and fragrance standards — add a second layer of documentation that legitimate sellers can supply and counterfeiters cannot.
-
-CITES (the Convention on International Trade in Endangered Species) places *Aquilaria* on Appendix II, which regulates rather than bans trade. A legal international shipment needs an export permit from the exporting country's management authority, based on a non-detriment finding (NDF) and, increasingly, a legal acquisition finding (LAF) that the substance was harvested lawfully. Re-export carries its own permit chain. The paperwork is not a formality; it is the mechanism that separates plantation supply from illicit wild harvest, and a seller who cannot produce it is a red flag.
-
-Downstream, the distillate and the finished goods face other regimes. Cosmetic and fragrance regulations set usage and labeling rules; an INCI name and a CAS registry number identify a substance in a way a trade name cannot. None of this changes the smell, but all of it changes what a responsible buyer can verify. The author's view, not a verified fact: for most purchasers, the documentation is worth more than the adjective — a "premium" lot with no paper is weaker than a plainly described lot with a complete permit chain.
-
-## The global value chain and trade hubs
-
-> **Direct answer:** The substance flows from forest and plantation through ranking and distillation centers, then concentrates in a handful of entrepôts — Singapore, Dubai, Hong Kong, and Guangzhou are the usual suspects — before fanning out to incense makers, perfume houses, and collectors worldwide.
-
-The geography of the trade is a map of choke points. Plantation and wild harvest happen across Southeast Asia and southern China; ranking and distillation often happen near the source or in regional centers; consolidation then funnels through trading hubs with the finance, logistics, and auction infrastructure to move high-value lots. Singapore and Dubai function as distillate-and-timber entrepôts for the Gulf and global perfume markets, while Hong Kong and Guangzhou serve the Chinese and East Asian demand, with Japan maintaining its own long-established channels for the kōdō market. An auction house or a specialist dealer at one of these nodes is where provenance gets established — and where the highest-value pieces change hands.
-
-For a buyer, the hub matters because it concentrates expertise and paperwork. A lot that has passed through a reputable hub carries a history of inspection and documentation; a lot that has not may be perfectly good, but the buyer does more of the verification work alone. The value chain is a chain of trust, and each documented link is a reason to believe the substance is what it says it is.
-
-## A working glossary of the trade's shorthand
-
-> **Direct answer:** The trade speaks in a compressed shorthand — "sinking," "kyara," "Hindi," "bakhoor," "toal," "makko" — and decoding the shorthand is half of buying well.
-
-A short field dictionary, beyond the terms already defined above:
-
-- **Sinking / floating** — the liquid-density tiers (沉水, 半沉半浮, and the lightest fraction).
-- **Kyara / ky nam / kynam** — regional spellings of the summit grade (奇楠 / 伽罗).
-- **Hindi** — the animalic, leathery Assam profile valued in heavy distillates.
-- **Bakhoor** — scented timber-chips-and-exudate mixtures burned over charcoal in Gulf households.
-- **Dahn al-oud** — the distilled distillate worn as perfume.
-- **Mukhallat / attar** — blended perfume traditions built on an oud base.
-- **Tola** — a traditional South Asian weight (about 11.66 grams) still used to price distillate.
-- **Makko / tabu** — bark-based combustible binders in Japanese stick-making.
-- **Toal / bakhoor-tier** — low-tier or residual substance used for smoking mixtures rather than direct warming.
-
-Each term is a compression of a longer fact, and fluency in the shorthand is what lets a buyer hear "Hindi profile" and know to expect something dark and animalic rather than sweet and green.
-
-## Sourcing checklist for a first purchase
-
-> **Direct answer:** A first purchase succeeds or fails on five questions asked before money moves — species, origin, wild or cultivated, form and mesh, and documentation — and the answers should all arrive before the sample, not after.
-
-For a first-time buyer, the sequence is more important than the amount spent:
-
-1. **Which species?** Demand a Latin name (*Aquilaria sinensis*, *A. malaccensis*, *Gyrinops walla*) rather than a bare trade label.
-2. **Which origin?** Ask for the region, and treat a vague "Southeast Asia" with the same suspicion as no answer.
-3. **Wild or cultivated?** This is a legal and price question, and a seller who will not say is a seller to avoid.
-4. **What form and mesh?** For powder, confirm the particle size; for chips, confirm the cut; for distillate, confirm the extraction method.
-5. **What documentation?** For any cross-border or high-value lot, ask for the CITES permit chain and any lab report before committing.
-
-The checklist's value is that it forces the seller to be specific, and specificity is the cheapest form of authentication available. See the [wholesale guide](/blog/wholesale-guide/) for the commercial version of the same discipline.
-## A compendium of the aroma chemistry
-
-> **Direct answer:** The smell is a cocktail of several dozen terpenoid and phenolic molecules, each contributing a sliver of the whole, and the named compounds below are the ones a laboratory report will actually list when it profiles a sample.
-
-Reading a lab report on this material means meeting a specific vocabulary of molecules. The sesquiterpene fraction is the largest and most characteristic. Among the cyclic alcohols and hydrocarbons routinely detected are agarospirol, agarofuran (with its α and β forms), dihydroagarofuran, guaiol, α-guaiene and δ-guaiene, bulnesene, khusimol, vetiselinenol, the selinene isomers (α, β, and γ), humulene, β-caryophyllene and its oxide, germacrene D, valencene, nootkatone, the eudesmols (α, β, and γ), eremophilene, and a cluster of molecules named for the material itself — agarol, jinkohol, jinkoheremol, and kusunol. Each name marks a specific carbon skeleton with its own boiling point and its own odor.
-
-The chromone family runs alongside. The signature structures are the 2-(2-phenylethyl)chromone skeleton and its tetrahydro relative, 5,6,7,8-tetrahydro-2-(2-phenylethyl)chromone, plus decorated variants carrying methoxy or hydroxy groups, and named members such as agarotetrol and the flindersia chromones. These are the molecules that make a profile "match" or "miss" in an authentication laboratory.
-
-A condensed reference for the most frequently cited compounds:
-
-| Compound | Chemical class | Typical contribution |
-|---|---|---|
-| Agarospirol | Sesquiterpene alcohol | Woody, spicy backbone |
-| Agarofuran | Sesquiterpene ether | Sweet, balsamic lift |
-| Guaiol | Sesquiterpene alcohol | Rosy-woody, soft |
-| α-Guaiene | Sesquiterpene hydrocarbon | Green, woody top |
-| Bulnesene | Sesquiterpene hydrocarbon | Earthy, rooty |
-| Khusimol | Sesquiterpene alcohol | Smoky, woody |
-| β-Caryophyllene | Sesquiterpene hydrocarbon | Dry, peppery |
-| Valencene | Sesquiterpene hydrocarbon | Citrus, woody |
-| Nootkatone | Sesquiterpene ketone | Grapefruit, woody |
-| γ-Eudesmol | Sesquiterpene alcohol | Sweet, woody |
-| 2-(2-Phenylethyl)chromone | Chromone | Marker of authenticity |
-| Agarotetrol | Chromone | Marker of authenticity |
-
-The point of the list is practical: a profile is a *pattern*, not a single hero molecule. **A genuine sample → a characteristic spread of sesquiterpenes and chromones → a reproducible fingerprint; a doctored sample → an unusual ratio or a missing family → a mismatch with reference material.** This is why "the chemistry" is not an abstraction but a checklist a lab can run.
-
-## The species register: Aquilaria and Gyrinops at a glance
-
-> **Direct answer:** The material is not one species but a genus-level phenomenon, and the register of names below shows how wide the source is — *Aquilaria* alone spans more than a dozen species across Asia, with *Gyrinops* adding several more.
-
-A working register of the trees that yield the resin, with the regions each name is attached to:
-
-- *Aquilaria sinensis* — southern China; the classical 白木香 source.
-- *Aquilaria malaccensis* — Southeast Asia; the main commercial and CITES-listed species.
-- *Aquilaria crassna* — Indochina, especially Vietnam, Cambodia, Laos, and Thailand; a principal source of high-grade wood.
-- *Aquilaria agallocha* — India and Bangladesh; the traditional "agar" of Assam.
-- *Aquilaria microcarpa* — Indonesia and Malaysia.
-- *Aquilaria hirta* — the Malay Peninsula.
-- *Aquilaria beccariana* — Borneo and Sumatra.
-- *Aquilaria khasiana* — northeast India.
-- *Aquilaria rostrata* — Peninsular Malaysia.
-- *Aquilaria subintegra* — Thailand.
-- *Aquilaria baillonii* — Indochina.
-- *Aquilaria cumingiana* — the Philippines.
-- *Aquilaria filaria* — the Philippines and New Guinea.
-- *Aquilaria apiculata* — the Philippines.
-- *Aquilaria urdanetensis* — the Philippines.
-- *Aquilaria yunnanensis* — Yunnan, China.
-
-The sister genus *Gyrinops* contributes its own set: *Gyrinops walla* (Sri Lanka, the source of Walla Patta), *Gyrinops versteegii* (New Guinea), *Gyrinops ledermannii* (New Guinea), *Gyrinops moluccana*, *Gyrinops caudata*, *Gyrinops salicifolia*, and *Gyrinops decipiens*, among others, distributed through the eastern end of the range.
-
-The register's lesson is the sourcing lesson repeated throughout this page: the name on the invoice should be one of these Latin binomials, and a seller who can supply it — and say where the tree grew — is already ahead of one who offers only a trade label.
-
-## Local names across the map
-
-> **Direct answer:** The same substance carries a different name in nearly every language of its range — gaharu, agar, trầm hương, jinkō, oud, bois d'aloès — and the map of names is a map of the trade routes that carried it.
-
-A short atlas of names by language and region:
-
-- **Malay / Indonesian** — gaharu.
-- **Indian / Bengali** — agar or agaru.
-- **Vietnamese** — trầm hương; the summit grade is kỳ nam (ky nam).
-- **Chinese** — 沉香 (chénxiāng); the top tier is 奇楠 (qínán).
-- **Japanese** — jinkō (沈香); the summit is kyara (伽羅).
-- **Arabic** — oud or oudh (عود).
-- **Sinhala** — kaluwara, for *Gyrinops walla*.
-- **French** — bois d'aloès (aloeswood), a name inherited from the classical confusion with aloe.
-- **English** — agarwood, aloeswood, or eaglewood, all three in circulation.
-
-The French and English "aloes" forms are a historical echo: early European writers sometimes conflated the fragrant resinous material with the unrelated succulent aloe, a confusion now fossilized in the older names. Each name in the atlas is a stop on a long commercial road, and the plurality of names is precisely why a buyer's first move is always to pin down the species, not the label.
-
-## A plantation calendar and yield data
-
-> **Direct answer:** Plantation production runs on a multi-decade clock — planting, a waiting period, induced injury, and a slow accumulation phase — and the timeline, more than any single technique, explains the economics.
-
-The cultivation schedule is the opposite of an annual crop. A rough calendar:
-
-- **Year 0–3** — seedlings or cuttings are established and shaded; mortality is managed.
-- **Year 3–6** — the canopy closes and the trees reach a size able to support inoculation.
-- **Year 6–10** — mechanical wounding or fungal inoculation begins; the tree's defense response is triggered.
-- **Year 10–20** — resin accumulates slowly; early, low-grade harvests become possible.
-- **Year 20 and beyond** — the densest, most mature resin develops; the best plantation material comes from the oldest trees.
-
-The yield story follows from the timeline. Resin forms as a small fraction of the tree's mass, and only a portion of that is harvestable as a concentrated, aromatic fraction. The economic arithmetic is therefore: **planting cost + years of carrying cost → a delayed, partial yield → a price that must amortize two decades of waiting → the gap between young and mature plantation material.** This is why cheap plantation chips are plentiful while dense, aged plantation material is not, and why "cultivated" does not automatically mean "inferior" — it means "younger," with age still doing the same slow work it always did.
-
-## Specifications and measurements
-
-> **Direct answer:** The trade quantifies the material with a handful of measurable properties — density, particle mesh, moisture, and distillation yield — and a buyer who speaks in these units can compare lots instead of impressions.
-
-The measurable specifications, in the units the trade actually uses:
-
-| Property | Common unit or scale | What it signals |
-|---|---|---|
-| Density | Sink / half-sink / float (specific gravity) | Resin load |
-| Particle mesh | Mesh number or micrometer | Powder fineness, burn behavior |
-| Moisture | Percentage by weight | Grindability, storage stability |
-| Distillation yield | Percent oil by weight of wood | Oil economics |
-| Aroma longevity | Minutes to hours on a heater | Complexity and tenacity |
-| Ash / foreign matter | Percentage | Cleanliness |
-
-The density figure is the oldest and most famous, but it is only one of several. A powder's mesh number — the count of openings per linear inch of the sieve it passes — sets how fast it burns and how evenly it packs, and a moisture percentage above a threshold invites clumping and mold. None of these numbers is a verdict on its own; together they are the specification sheet that turns a subjective "good lot" into a reproducible order.
-
-## The analytical workflow, step by step
-
-> **Direct answer:** A laboratory authentication is a sequence, not a single test — sample preparation, separation, detection, and comparison against reference data — and each step has a failure mode that a careful analyst watches for.
-
-The workflow a competent lab follows:
-
-1. **Sampling** — take a representative portion; for wood, a shaving or powder; for oil, a filtered drop. A non-representative sample invalidates everything downstream.
-2. **Preparation** — for gas analysis, dissolve or vaporize the sample; for chromones, extract into a solvent; for isotope work, combust a tiny fraction.
-3. **Separation** — a gas or liquid chromatograph spreads the mixture into its components along a column, assigning each a retention time.
-4. **Detection** — a mass spectrometer fragments each eluting molecule and records its mass spectrum.
-5. **Identification** — the retention time and spectrum are matched against a reference library of known sesquiterpenes and chromones.
-6. **Comparison** — the resulting profile is checked against authenticated reference material for a match or a discrepancy.
-
-The failure modes are as important as the steps: a contaminated column, an uncalibrated detector, or a library missing a rare compound can each produce a false reading. This is why a serious result names its method and its reference data, and why "laboratory-confirmed" without a stated method is only slightly better than no claim at all.
-
-## The sensory science of the staged aroma
-
-> **Direct answer:** The staged unfolding of the scent is a volatility gradient made audible — low-boiling compounds speak first, high-boiling compounds last — and the art of evaluation is the art of listening to that gradient in order.
-
-The physics is straightforward and the vocabulary is already in hand. Molecules leave a heated surface at a rate set by their vapor pressure, which rises with temperature. The lightest, most volatile sesquiterpenes and trace aromatics reach the nose within the first minute; the mid-weight fraction follows as the heater climbs; the heaviest chromone-bound and high-boiling fraction trails for an hour or more. The result is not three discrete bands but a continuous gradient that the evaluator brackets into top, body, and dry-down for convenience.
-
-Two practical consequences follow. First, the evaluation must be paced — a judgment made in the first ten seconds hears only the lightest fraction and will overrate a thin, flashy lot and underrate a deep, slow one. Second, the heater matters: a surface that spikes and drops scrambles the gradient, while one that climbs slowly and holds lets each band present itself in turn. **Steady, gradual warmth → an ordered release by volatility → a legible sequence of notes; erratic heat → a jumbled release → a confusing, collapsed impression.** This is the sensory-science version of the old rule that fine material is warmed, never burned.
-
-## A note on naming traps in the wider incense trade
-
-> **Direct answer:** "Agarwood" is far from the only incense ingredient whose name hides a confusion — the same word routinely denotes several different substances, and cross-referencing the name against the botanical source is a skill that transfers across the whole trade.
-
-The naming trap around this material — one word, several species, two genera, and a forest of fakes — is a specific case of a general pattern in incense. The same word can mean different things in different contexts: "sandalwood" in the marketplace often means a *Santalum* other than the prized *S. album*, and "cassia" and "cinnamon" and "borneol" each carry their own one-name-several-things problems. The defense is always the same: pin the name to a Latin binomial and a physical test, and treat a bare trade label as a question, not an answer. The [incense substitution cross-reference](/blog/incense-substitution-cross-reference/) walks through this logic material by material.
-## Weight, measure, and money: units of the trade
-
-> **Direct answer:** The material is bought and sold in a tangle of historical and regional units — grams and kilograms, tolas and mithqals, momme and liang — and converting among them is a practical skill, not a curiosity.
-
-Each trading region keeps its own measuring stick. The metric gram and kilogram dominate modern wholesale, but older units persist at the retail and auction tiers. A **tola**, the South Asian standard, is about 11.66 grams and is still the usual unit for pricing distilled oil in the Gulf and South Asian markets. The **mithqal** (about 4.25 grams) appears in older Arabic texts on perfume. Japanese practice prices fine incense in **momme** (about 3.75 grams), a unit inherited from silk and precious-metal trade. Classical Chinese measure used the **liang** (两, the tael, historically variable, often around 37–38 grams) and the **qian** (钱), and a skilled reader of old manuals must convert these to modern units before comparing prices across sources.
-
-A conversion aid:
-
-| Unit | Approximate metric value | Typical use |
-|---|---|---|
-| Gram | 1 g | Modern wholesale |
-| Mithqal | ~4.25 g | Classical Arabic perfume |
-| Momme | ~3.75 g | Japanese incense retail |
-| Tola | ~11.66 g | South Asian / Gulf oil |
-| Liang (两) | ~37–38 g (historical) | Classical Chinese |
-
-The unit matters because the price per gram sounds very different from the price per tola, and a buyer who misreads the denominator can miscalculate a deal by an order of magnitude. Always reduce a quoted price to price-per-gram before comparing lots.
-
-## A timeline of the trade
-
-> **Direct answer:** The material has been traded for well over a millennium, and its history falls into rough periods — classical tribute and maritime commerce, imperial collecting, colonial extraction, and finally the modern CITES-era shift to plantations.
-
-A condensed chronology, with the caveat that early dates are approximate and several entries rest on traditional or literary record rather than archaeology:
-
-- **Tang dynasty (7th–10th century)** — the material enters Chinese court and religious culture in volume, arriving through tribute and the maritime route.
-- **Song dynasty (10th–13th century)** — incense appreciation becomes a literati art; manuals begin to codify grades and rituals.
-- **Ming dynasty (14th–17th century)** — 香乘 (compiled 1641) consolidates the classical grading and formation vocabulary that this page quotes.
-- **Early modern period** — European traders encounter the material and record it under names such as aloeswood and eaglewood, feeding a new luxury market.
-- **19th–20th century** — colonial-era extraction and the rise of the modern perfume industry intensify demand and begin to deplete wild stands.
-- **Late 20th century** — the species are listed under CITES, and plantation cultivation scales up as the legal alternative.
-- **21st century** — a global market spans plantation commodity supply and a rarefied collectibles tier, with authentication emerging as a discipline in its own right.
-
-The timeline's arc is the page's sustainability story in miniature: a wild luxury became a depleted one, and regulation plus cultivation turned it into a managed crop — without, so far, erasing the premium on the genuinely old and wild.
-
-## Adulterants and their detection, catalogued
-
-> **Direct answer:** The counterfeiter's toolkit is finite and well documented — dyes, foreign oils, injected resins, and substitute woods — and each trick has a known tell that a buyer can learn to look for.
-
-A catalogue of the common adulterants and the check that exposes each:
-
-| Adulterant | What it is | The tell |
-|---|---|---|
-| Dyed pale timber | Non-resinous wood stained dark | Dye rubs off; color is surface-only |
-| Fragrance-soaked wood | Plain wood steeped in synthetic scent | Aroma collapses quickly; flat and "perfumey" |
-| Oil-injected wood | Low-grade wood pumped with oil or resin | Unnaturally uniform; greasy when cut |
-| Foreign substitute | Unrelated species (Lauraceae, Burseraceae) | Wrong anatomy under a lens; wrong smoke |
-| Synthetic oil | A bottled accord sold as distillate | Wrong GC-MS profile; no chromones |
-| Mixed lots | Genuine and fake blended together | Inconsistent pieces within one batch |
-
-The unifying principle is that every fake fails one of three interrogations: the density question, the gentle-warmth question, or the laboratory question. A dye fails the warmth question (no real resin to release); an injected piece fails the density question (sinks for the wrong reason); a synthetic oil fails the laboratory question (no chromone fingerprint). Learning to run all three interrogations is the whole of authentication.
-
-## The smoke, physically considered
-
-> **Direct answer:** Burning the material, like burning any organic matter, produces a stream of fine particles and gases, and the physics of that stream — particle size, combustion temperature, ventilation — is what the safety guidance is actually about.
-
-When a chip or a stick combusts, it does not simply "smell"; it releases a suspension of microscopic particles and a mixture of gases into the air. The finest particles — those small enough to reach deep into the lung — are the ones that matter for indoor air quality, and their concentration depends on how hot the material burns, how much air feeds the flame, and how well the room ventilates. A smoldering stick produces a different particle profile from a quick, hot burn, and a charcoal-buried censer differs from both.
-
-The practical rules follow directly from the physics. Ventilation dilutes the particle load; distance from the face reduces the dose; a slow, low-temperature burn produces less acrid smoke than a blazing one; and keeping the material away from children and pets removes the handling risks that have nothing to do with chemistry. None of this is unique to this material — it is true of every smoke-producing aromatic — but it is the physical reason behind the boilerplate safety line that closes this page.
-
-## Building a home quality station
-
-> **Direct answer:** A serious home evaluator needs only a few modest instruments — an adjustable electric heater, a fine scale, a loupe, and a notebook — and the discipline to use them the same way every time.
-
-A functional home station is inexpensive to assemble. The centerpiece is an electric incense heater with adjustable temperature, which gives the steady, staged warmth that a charcoal-and-ash censer only approximates. A fine digital scale (to a hundredth of a gram) allows density and yield comparisons. A jeweler's loupe or a small microscope reveals surface dye, injection marks, and wood anatomy. A notebook — or a spreadsheet — records each lot's species, origin, density result, aroma notes, and supplier, which is the single most valuable habit on this page.
-
-The station's value is repeatability, not sophistication. **The same heater, the same temperature, the same chip size → a reproducible aroma sequence → a meaningful comparison across lots; ad hoc conditions → unrepeatable impressions → no real comparison.** A hobbyist with these four items and a consistent method can, over months, develop a nose that rivals a dealer's.
-
-## Age, chromones, and the aging hypothesis
-
-> **Direct answer:** One reason aged material can smell rounder than fresh material is chemical: the chromone and sesquiterpene fraction continues to evolve slowly through oxidation, and age is a rough proxy for how far that evolution has gone.
-
-Freshly harvested pieces often smell green, sharp, or "closed," and collectors report that the same piece settles and sweetens after months or years of storage. The proposed explanation is chemical: slow oxidation and esterification of the resin's components soften the harsher top notes and deepen the base. The chromone fraction is a candidate for part of this change, since chromones are known to vary with the age and condition of the material, but the exact pathway is not fully mapped, and the effect is directional rather than guaranteed — some pieces simply hold steady.
-
-The practical upshot is the storage advice given earlier: keep the material cool, dry, dark, and sealed, and let time do its work. **Rest + trace oxygen → gradual oxidation of the resin → softer top notes and a rounder base → an aged character that younger stock cannot fake.** The aging hypothesis is a working explanation, not a laboratory certainty, and a buyer should treat "aged" as a claim to test, not a guarantee to assume.
-
-## A regional flavor-descriptor map
-
-> **Direct answer:** The trade attaches a rough flavor vocabulary to each producing region — sweet and fruity for Cambodia and Thailand, animalic for Assam, green for parts of Indonesia — and the map is a mnemonic, not a law.
-
-The descriptors below are tendencies reported in the trade, not fixed properties of every lot from a region:
-
-| Region | Frequently cited descriptors |
-|---|---|
-| Hainan, China | Sweet, layered, benchmark character |
-| Vietnam (Nha Trang) | Sweet, enduring, refined |
-| Cambodia (Pursat) | Honeyed, fruity, clear |
-| Thailand (Trat) | Sweet-sour, berry-like |
-| India / Assam | Animalic, leathery, powerful |
-| Indonesia (Kalimantan) | Earthy, woody, green |
-| Indonesia (Sumatra) | Resinous, warm |
-| Papua | Earthy, smoky |
-| Sri Lanka (Walla Patta) | Woody, soft |
-
-Two cautions attach. First, a single tree can defy its region, because resin quality reflects injury, age, and genetics at least as much as geography. Second, origin labels are among the most abused in the market, so a descriptor map is only as useful as the documentation that backs the origin claim. Treat the map as a starting hypothesis to test against the nose, never as a verdict.
-
-## Further method notes for the diligent reader
-
-> **Direct answer:** Everything on this page reduces to a method — pin the species, test the density, smell the phases, check the paper — and the diligent reader's remaining task is to practice it until it is automatic.
-
-A closing set of method notes, each a small discipline:
-
-- **Pin the species first.** Every downstream judgment depends on knowing the Latin binomial and the origin, so demand them before anything else.
-- **Test the density, but do not trust it.** The water check is a guide to resin load, never a certificate of authenticity.
-- **Smell in phases.** Judge the top note, the body, and the dry-down separately, on gentle, staged warmth, and write each one down.
-- **Check the paper.** For anything cross-border or high-value, ask for the CITES permit chain and any laboratory report, and treat silence as a red flag.
-- **Record everything.** A written lot record is the only reliable defense against batch drift at reorder time.
-
-The methods are simple to state and take a lifetime to master, which is fitting: this is a material whose whole value lies in the slow, patient accumulation that no shortcut can imitate.
-## A field glossary in four languages
-
-> **Direct answer:** A working glossary across the languages of the trade — with the Chinese characters and pinyin alongside the English, Japanese, and Arabic-derived terms — is the fastest way to stop being confused by the same substance wearing many names.
-
-The table below gathers the terms used across this page and adds the ones a buyer will meet in the field, keyed to their Chinese forms where one exists:
-
-| English | Chinese | Pinyin | Note |
-|---|---|---|---|
-| Sinking-grade wood | 沉水香 | chénshuǐxiāng | The densest, resin-richest class |
-| Half-sinking grade | 半沉半浮 | bànchénbànfú | The middle density class |
-| Floating grade | 黄熟香 | huángshúxiāng | The lightest class |
-| Summit grade | 奇楠 | qínán | The structurally distinct top tier |
-| Kyara (Japanese) | 伽羅 | (Japanese reading) | The Japanese name for the summit grade |
-| Incense appreciation | 品香 | pǐnxiāng | The literati art of scent |
-| Incense gathering | 香席 | xiāngxí | A seated incense event |
-| Indirect-heat warming | 隔火焚香 | géhuǒ fénxiāng | Warming above ash-buried charcoal |
-| Blended incense | 合香 | héxiāng | Compound incense |
-| Chief ingredient | 君 | jūn | The sovereign role in a blend |
-| Minister ingredient | 臣 | chén | The supporting role |
-| Assistant ingredient | 佐 | zuǒ | The modulating role |
-| Guide ingredient | 使 | shǐ | The directing role |
-| Sandalwood | 檀香 | tánxiāng | The other reference wood |
-| Borneol | 冰片 / 龙脑 | bīngpiàn / lóngnǎo | A crystalline cooling aromatic |
-| Camphor | 樟脑 | zhāngnǎo | A medicinal cooling aromatic |
-| Patchouli | 广藿香 | guǎnghuòxiāng | An earthy leafy fixative |
-| Vetiver | 岩兰草 | yánláncǎo | A smoky root material |
-| Frankincense | 乳香 | rǔxiāng | A citrus-pine gum resin |
-| Myrrh | 没药 | mòyào | A bitter-balsamic gum resin |
-| Materia medica | 本草 | běncǎo | The classical pharmacopoeia tradition |
-| Incense manual | 香谱 | xiāngpǔ | The Song-era compendium genre |
-| Scent of the middle | 本香 | běnxiāng | The body note |
-| Scent of the end | 尾香 | wěixiāng | The dry-down |
-
-Each row is a small bilingual anchor: the character pair and its reading pin the term to a written source, which is exactly what a buyer needs when a seller's spoken label does not match the documentation.
-
-## Botanical measurements and habit
-
-> **Direct answer:** The source trees are substantial evergreens — mature *Aquilaria* can exceed twenty meters in height — and the measurable details of their leaves, flowers, and fruit are what a botanist uses to distinguish one species from the next.
-
-A botanical description, in the measurements a flora would record:
-
-- **Habit** — evergreen tree, often 15–20 meters at maturity, with some individuals larger.
-- **Leaves** — alternate, simple, entire, with parallel or near-parallel venation, typically leathery and hairless.
-- **Flowers** — small, greenish-white or pale, borne in axillary or terminal clusters, with five lobes.
-- **Fruit** — a woody, two-valved capsule that splits at maturity to release seeds.
-- **Seeds** — often with a basal aril or hair-tuft that aids dispersal.
-
-These are the characters a taxonomist keys on, and they matter to a buyer only indirectly: a species is identified by such details, and the identification is what anchors every downstream claim about origin and legality. The botanical references — [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) and [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — record these characters in full.
-
-## The incense-maker's materials library
-
-> **Direct answer:** A stick is a small ecosystem of ingredients, and the aromatic wood sits among binders and carriers with their own botanical identities — makko and tabu from laurel-family bark, bletilla from a tuber, and a range of neutral base powders — each chosen for how it burns, not how it smells.
-
-The aromatic is only one member of a stick's cast. The supporting materials, with their botanical names:
-
-- **Makko** (抹香) — a combustible binder powder milled from the bark of *Machilus thunbergii*, a laurel-family tree; it binds the stick and provides a slow, even burn.
-- **Tabu** — another bark-based combustible powder, from a related *Machilus* or *Persea* species, serving the same role.
-- **Bletilla** (白及, *Bletilla striata*) — a tuber-derived gum used as a water-soluble binder, pairing with wood powders that need a clean adhesive.
-- **Neutral base powders** — soft, low-aroma woods such as a sandalwood substitute or a fast-burning hardwood flour, bulking the stick without competing with the aromatic.
-- **Bamboo core** — in cored sticks, a thin bamboo splint that provides rigidity and a clean burn path.
-
-The formulation logic is already familiar from earlier: the binder and base control the burn, while the aromatic controls the smell. **A balanced formula → a steady smolder that carries the aromatic's stages → a coherent scent; an unbalanced one → a sputtering burn or a buried aroma → a wasted premium ingredient.** The binder choice is thus as much a quality decision as the aromatic itself.
-
-## Numerical tolerances and acceptance criteria
-
-> **Direct answer:** A serious purchase is governed by numbers — a moisture ceiling, a mesh range, a density classification, a minimum yield — and writing those numbers down is what turns a subjective approval into a repeatable specification.
-
-A specimen acceptance sheet, with illustrative thresholds that a buyer would adjust to the application:
-
-| Parameter | Typical acceptance range | Why it matters |
-|---|---|---|
-| Moisture content | Below roughly 10–12% by weight | Prevents clumping and mold |
-| Powder mesh | A specified sieve range, e.g. 80–200 mesh | Sets burn speed and packing |
-| Density class | Sink / half-sink / float recorded | Resin-load proxy |
-| Foreign matter | Below a small percentage | Cleanliness |
-| Distillation yield | A stated oil-per-wood percentage | Oil economics |
-| Aroma longevity | A minimum minutes-to-hours on heat | Complexity and tenacity |
-
-The numbers are not universal — a stick formula, a chip-warming application, and an oil distillation each want a different mesh, moisture, and yield — but the *discipline* of writing them down is universal. A supplier who will quote a moisture figure and a mesh range is already more useful than one who offers only adjectives.
-
-## A note on the historical confusion with aloe
-
-> **Direct answer:** The older European names — aloeswood, bois d'aloès, and even "lignum aloes" — record a genuine historical confusion between this resinous timber and the unrelated succulent aloe, a confusion worth knowing because it still surfaces in old catalogues and translations.
-
-Early European writers, working from translated Arabic and Latin sources, sometimes blurred the line between the fragrant resinous timber and the bitter juice of the aloe plant (*Aloe* spp., an entirely different organism in a different family). The result was a tangle of names — aloeswood, lignum aloes, bois d'aloès — that persisted for centuries and still appears in antique inventories and old translations of Chinese and Arabic texts. The modern English "agarwood," the Arabic "oud," and the scientific *Aquilaria* all bypass the confusion, but a reader of old sources should know that "aloeswood" means this material, not the succulent.
-
-The confusion is a cautionary tale that echoes this page's central lesson: a name is a pointer, not a fact, and the same word can point at different things across time and across languages. Pin the name to a Latin binomial and a physical test, and the historical fog clears.
-
-## A final note on reading this page
-
-> **Direct answer:** This page is a synthesis of botanical reference, classical Chinese sources, and trade practice — not a laboratory report or a buying endorsement — and its claims are labeled by their confidence so a reader can tell an established fact from a market convention.
-
-The material on this page sorts into three confidence tiers, and the reader is invited to hold them apart:
-
-- **Established** — the botanical identity, the CITES listing, and the classical grading and formation vocabulary quoted from 香乘 and the floras.
-- **Trade terminology** — the density grades, the color tiers of 奇楠, and the regional descriptor map, which are market conventions rather than settled taxonomy.
-- **The author's view** — the sourcing and economics judgments flagged throughout as "the author's view, not a verified fact."
-
-Nothing here is medical advice, and nothing here is investment advice. The page's goal is narrower: to give a reader the vocabulary, the physics, and the history to ask the right questions — of a seller, of a lab, and of the material itself — before money changes hands.
-## More molecules: a second chemistry register
-
-> **Direct answer:** Beyond the handful of compounds already named, a full laboratory profile lists dozens of terpenoid and aromatic molecules, and the register below rounds out the vocabulary a buyer will meet on a real GC-MS report.
-
-A second pass through the chemical catalogue, expanding the list given earlier:
-
-**Sesquiterpene hydrocarbons and alcohols** — aristolene, calarene, cadinene (in its several isomers), cedrene, copaene, cubebene, elemene, farnesene, gurjunene, longifolene, muurulene, patchoulene, seychellene, spathulenol, viridiflorol, and the guaiane, eudesmane, and eremophilane skeletons from which many agarofuran derivatives are built.
-
-**Oxygenated and functionalized members** — agarol, dihydrokaranone, epi-γ-eudesmol, guaiazulene, jinkohol and jinkoheremol, kusunol, nor-ketoagarofuran, oxo-agarospirol, and the various dihydro and tetrahydro agarofuran derivatives that appear as the resin oxidizes with age.
-
-**Chromones and related phenolics** — the 2-(2-phenylethyl)chromone skeleton and its 5,6,7,8-tetrahydro form, the methoxy and hydroxy derivatives at the 6 and 7 positions, flindersiachromone, agarotetrol, and the dimeric and glycosylated chromones reported from aged material.
-
-**Trace and supporting compounds** — benzylacetone, vanillin and related phenylpropanoid traces, and small amounts of fatty acids and waxes that accompany the resin.
-
-The register is deliberately dense, because that density is the point: a real profile is a long list, and a short, tidy list of "agarwood oil" with a single note is, more often than not, the signature of an accord rather than a distillate.
-
-## Species and their Chinese and regional names
-
-> **Direct answer:** Each *Aquilaria* and *Gyrinops* species carries a local name in the region where it grows, and the pairing of Latin binomial with local name is a useful check on a seller's origin claim.
-
-The species encountered in trade, matched to the names used where they grow:
-
-| Latin binomial | Chinese / regional name | Principal region |
-|---|---|---|
-| *Aquilaria sinensis* | 白木香 (báimùxiāng) | Southern China |
-| *Aquilaria malaccensis* | Gaharu / agar | Southeast Asia |
-| *Aquilaria crassna* | Trầm hương (Vietnamese) | Indochina |
-| *Aquilaria agallocha* | Agar / agaru (Assam) | India, Bangladesh |
-| *Aquilaria microcarpa* | Gaharu | Indonesia, Malaysia |
-| *Aquilaria hirta* | Chandan / gaharu | Malay Peninsula |
-| *Aquilaria beccariana* | Gaharu | Borneo, Sumatra |
-| *Aquilaria khasiana* | Agar | Northeast India |
-| *Aquilaria rostrata* | Gaharu | Peninsular Malaysia |
-| *Aquilaria subintegra* | Kritsa-na | Thailand |
-| *Aquilaria baillonii* | Trầm | Indochina |
-| *Aquilaria cumingiana* | Lanete / gaharu | Philippines |
-| *Aquilaria filaria* | Gaharu | Philippines, New Guinea |
-| *Aquilaria apiculata* | Gaharu | Philippines |
-| *Aquilaria yunnanensis* | 云南沉香 (Yúnnán chénxiāng) | Yunnan, China |
-| *Gyrinops walla* | Walla Patta (Sinhala) | Sri Lanka |
-| *Gyrinops versteegii* | Gaharu | New Guinea |
-
-The table doubles as a verification aid: an invoice that names *Aquilaria crassna* and claims a Vietnamese origin is coherent, while one that pairs a Malay name with a Sri Lankan species should prompt a question. The name and the region should agree, and when they do not, the documentation — not the label — is the tiebreaker.
-
-## The geography of distillation
-
-> **Direct answer:** Oil production clusters near the source, because moving whole wood is cheaper than moving oil, and the distillation centers of Vietnam, Cambodia, Thailand, and Indonesia each developed a local character in their product.
-
-The economics of distillation favor proximity to the trees. Whole, resin-bearing wood is bulky and heavy relative to the oil it yields, so the sensible arrangement is to distill near the forest and ship the concentrated product. This is why the oil trade has long clustered around source regions — the Vietnamese coast, the Cambodian interior, the Thai east, and the Indonesian archipelago — each with its own stills, its own wood preferences, and its own house style.
-
-The local styles are real but subtle. Vietnamese oil is traditionally prized for a sweet, refined profile; Cambodian oil for a honeyed clarity; Indian and Assam oil for a dark, animalic power; Indonesian oil for a broader, more varied range. These are tendencies shaped by the local trees, the local distillation practice, and the local aging, and they are part of why the origin of an oil — like the origin of the wood — is a genuine signal rather than a garnish.
-
-## A buyer's vocabulary of fraud
-
-> **Direct answer:** The counterfeiting trade has its own jargon, and knowing the words — doctoring, loading, topping, blending-down, and the rest — helps a buyer name exactly what they suspect instead of settling for a vague "it seems off."
-
-A short lexicon of adulteration:
-
-- **Doctoring** — any treatment that makes a material pass for better than it is.
-- **Dyeing** — staining pale timber dark to imitate resin color.
-- **Loading** — injecting oil, resin, or foreign matter to add weight.
-- **Topping** — adding a small amount of genuine oil to a synthetic base to mask it.
-- **Blending-down** — cutting a genuine oil with a cheaper oil or a synthetic accord.
-- **Passing-off** — selling an unrelated species under a premium name.
-- **Rebagging** — relabeling a lower grade with a higher-grade name.
-- **Ghosting** — a lot that exists only on paper, never shipped.
-
-Each word names a specific failure mode, and naming it is the first step to testing for it. A buyer who can say "this lot looks topped" has already narrowed the question to a specific check — a GC-MS profile that should show a synthetic tail — instead of an open-ended unease.
-
-## Reading a certificate of analysis
-
-> **Direct answer:** A certificate of analysis is only as good as the method it names, and a buyer should read three things — the method, the reference data, and the stated limits — before trusting the conclusion.
-
-A credible certificate states its method in full. A gas-chromatography result should name the column and the detector; a density result should name the temperature and the liquid; a species identification should name the reference herbarium or the DNA or anatomical basis. A certificate that concludes "100% pure" without stating a method is a marketing sentence wearing a lab coat.
-
-Three questions to ask of any certificate:
-
-1. **What method?** If the method is not named, the result is not checkable.
-2. **What reference?** A "match" is only meaningful against a named, authentic reference.
-3. **What limits?** A real result carries uncertainty and detection limits; a result with none is suspiciously clean.
-
-The certificate is a tool, not a verdict. Read it the way a careful reader reads this page — by separating what is established, what is claimed, and what is simply asserted.
-
-## A note on this page's method
-
-> **Direct answer:** This page was built by cross-reading botanical references, a classical Chinese source, and trade practice, and by labeling each claim with its confidence — a method the reader can apply to any source, including this one.
-
-The method behind this page is simple to state and portable to any research task: gather the primary and secondary sources, separate the botanical facts from the market conventions, quote the classical terminology in its original characters, and flag the points where the sources disagree or where a judgment is the author's own. The result is a page that reads less like a smooth marketing narrative and more like a set of labeled claims — which is the point.
-
-The same method serves a buyer at the counter. Ask what is established, what is claimed, and what is asserted; demand the Latin name, the documentation, and the physical test; and treat every unlabeled superlative as a question rather than an answer.
-## A numerical frame of reference
-
-> **Direct answer:** A few reference numbers anchor the whole subject — the genus size, the maturity threshold, the CITES listing, and the weight units of the trade — and holding them in mind keeps a buyer oriented when a seller's claims drift from the plausible.
-
-The core figures, gathered in one place:
-
-| Quantity | Reference figure | Source / status |
-|---|---|---|
-| Species in *Aquilaria* | About 15–20 | Botanical reference |
-| Maturity for resin | Roughly 20 years and older | Trade observation |
-| CITES status | Appendix II | Regulatory |
-| 香乘 compilation | 1641 | Historical primary source |
-| Tola weight | ~11.66 g | Trade unit |
-| Momme weight | ~3.75 g | Trade unit |
-| Mithqal weight | ~4.25 g | Classical unit |
-| Liang (tael) | ~37–38 g (historical) | Classical unit |
-
-The figures are anchors, not precision instruments — the genus count is approximate, the maturity threshold is an observation, and the historical weights varied by era and region. Their value is orientation: a claim that sits far outside this frame, such as a "wild" lot at a plantation price or a "twenty-species" genus stated with false precision, should be met with the same skepticism as any unlabeled superlative.
-
-## The sensory vocabulary, practiced in sequence
-
-> **Direct answer:** The descriptor words only become useful through ordered practice — smell a known reference, name the family, then apply the name to the material's three phases — and the sequence, repeated, is what builds a reliable nose.
-
-A training sequence that turns the glossary into a working skill:
-
-1. **Anchor** — smell a reference for one family (sandalwood for creamy, camphor for cooling, patchouli for earthy) until the family has a stable mental tag.
-2. **Transfer** — apply that tag to the material's top note on gentle warmth, and write the result down.
-3. **Repeat** — work through the body and the dry-down the same way, one family at a time.
-4. **Compare** — smell two lots side by side and force a difference in words, even a small one.
-5. **Record** — keep the written notes, because the notes, not the memory, are where the skill accumulates.
-
-The sequence is unglamorous and effective for the same reason a musician practices scales: the categories become automatic, and an automatic category is what lets a buyer catch a flat, short, or "perfumed" lot in a single pass instead of three.
-
-## The history of the grading vocabulary
-
-> **Direct answer:** The density-grading vocabulary is not a modern marketing invention but a classical one — the 沉水 / 栈香 / 黄熟 three-part scheme is recorded in 香乘 in 1641 — and its persistence is itself evidence of how stable the underlying physical fact has been.
-
-The three-part density scheme quoted earlier has an unusually long pedigree. 香乘, compiled in the Ming dynasty and published in 1641, already records the division of the material into the sinking, the half-sinking, and the floating classes, keyed to the water test. The fact that a seventeenth-century manual and a modern dealer's catalogue use essentially the same vocabulary is a small marvel: it means the physical property at the heart of the grading — resin density — has not changed in four centuries, and the language for describing it has not needed to, either.
-
-The stability is instructive. Grading schemes that describe a real, stable physical variable persist; grading schemes that describe fashion or marketing sentiment do not. The sinking test persists because density is real, measurable, and tied to the value of the material, and a buyer can trust a scheme that has survived this long a little more than one invented last year.
-
-## On skepticism as a buying tool
-
-> **Direct answer:** The single most transferable skill on this page is not any fact but a stance — treat every unlabeled claim as a question, demand the species and the paper, and let the physical test be the tiebreaker.
-
-Everything this page has assembled — the chemistry, the history, the grading vocabulary, the fraud lexicon — funnels into one practical habit: skepticism, applied methodically. The habit has a few fixed moves. Pin the name to a Latin binomial. Demand the documentation for anything cross-border or high-value. Test the density but do not trust it alone. Smell the phases on gentle warmth and write them down. And when a claim is not labeled with its confidence, treat it as a question rather than an answer.
-
-The habit is portable beyond this material. The same moves — name the species, check the paper, test the physical property, label the claim — apply to sandalwood, to frankincense, to any high-value natural aromatic, and indeed to most purchases where the gap between the label and the thing is where the profit hides. Skepticism, practiced without hostility, is the buyer's most durable instrument.
-
-## A closing note on scope and honesty
-
-> **Direct answer:** This page makes no medical claim, no investment claim, and no authentication guarantee; it offers a framework for asking better questions, and it labels its own judgments so the reader can discount them appropriately.
-
-Three boundaries close the page. First, nothing here is medical: the traditional descriptions of "moving qi" and "warming the middle" are quoted as historical language, not as a recommendation. Second, nothing here is investment advice: the economics sections describe market structure and flag their judgments as the author's view. Third, nothing here substitutes for laboratory authentication: the physical checks are screens, and the laboratory methods are the only proofs, and the page has said so at each point.
-
-The honesty is the method. A page that labels its sources, its confidence, and its judgments gives a reader the material to disagree productively — which is a better outcome than a page that smooths every uncertainty into a confident narrative and leaves the reader with nothing to verify.
-## The wider Chinese aromatic palette
-
-> **Direct answer:** Agarwood sits inside a large classical palette of aromatics, each with its own Chinese name, pinyin, and botanical source, and knowing the neighbors helps a buyer place this material's register precisely against the rest.
-
-The Chinese incense and materia-medica tradition recognizes a long roster of fragrant substances. A selection, keyed to their botanical sources, puts the subject in context:
-
-| Aromatic | Chinese | Pinyin | Botanical source |
-|---|---|---|---|
-| Sandalwood | 檀香 | tánxiāng | *Santalum album* |
-| Frankincense | 乳香 | rǔxiāng | *Boswellia* spp. |
-| Myrrh | 没药 | mòyào | *Commiphora* spp. |
-| Benzoin | 安息香 | ānxīxiāng | *Styrax* spp. |
-| Storax | 苏合香 | sūhéxiāng | *Liquidambar orientalis* |
-| Clove | 丁香 | dīngxiāng | *Syzygium aromaticum* |
-| Cinnamon | 肉桂 | ròuguì | *Cinnamomum cassia* |
-| Borneol | 冰片 | bīngpiàn | *Dryobalanops* / synthesis |
-| Camphor | 樟脑 | zhāngnǎo | *Cinnamomum camphora* |
-| Spikenard | 甘松 | gānsōng | *Nardostachys jatamansi* |
-| Patchouli | 广藿香 | guǎnghuòxiāng | *Pogostemon cablin* |
-| Wrinkled giant hyssop | 藿香 | huòxiāng | *Agastache rugosa* |
-| Mugwort | 艾叶 | àiyè | *Artemisia argyi* |
-| Angelica | 白芷 | báizhǐ | *Angelica dahurica* |
-| Atractylodes | 苍术 | cāngzhú | *Atractylodes lancea* |
-| Sweet flag | 石菖蒲 | shíchāngpú | *Acorus gramineus* |
-| Ambergris | 龙涎香 | lóngxiánxiāng | Whale secretion |
-| Musk | 麝香 | shèxiāng | *Moschus* deer gland |
-
-The palette makes the register concrete. Some neighbors are woods (sandalwood), some are gum resins (frankincense, myrrh, benzoin), some are barks and buds (cinnamon, clove), some are roots and rhizomes (spikenard, sweet flag, atractylodes), and two are animal products (ambergris, musk). Agarwood's distinctiveness is that it is a *resinous wood* — it occupies the intersection of the woody and the resinous columns, which is exactly why it has no clean substitute anywhere in the palette.
-
-## A botanical note on the Thymelaeaceae
-
-> **Direct answer:** The family that contains *Aquilaria* also contains *Daphne*, *Gonystylus*, and other genera, and the family-level context matters because a misidentified "agarwood" sometimes turns out to be a different member of a related family.
-
-The Thymelaeaceae, or mezereum family, is a modest group of mostly woody plants spread across the tropics and temperate zones. Alongside *Aquilaria* and *Gyrinops* sit the ornamental *Daphne*, the timber genus *Gonystylus* (source of ramin), and a number of shrubs whose inner bark yields strong fiber — a family trait that reflects its fibrous, tough bast tissue. The family context is useful to a buyer because "agarwood" occasionally arrives as a mislabeled relative: a wood that looks right and even smells faintly aromatic but is not, botanically, an *Aquilaria* at all.
-
-The botanical lesson folds into the page's central method. A family is a checkable fact, and a seller who can place a lot in the right family — *Aquilaria*, Thymelaeaceae — is speaking the language of verification, not the language of superlatives.
-
-## A final checklist, condensed to one card
-
-> **Direct answer:** The entire page can be compressed to a pocket card of six moves, and a buyer who follows them in order will avoid the vast majority of the material's traps.
-
-A six-line card:
-
-1. **Name the species** — demand the Latin binomial and the origin.
-2. **Check the paper** — CITES permit chain and any lab report for cross-border or high-value lots.
-3. **Test the density** — run the water test, but treat it as a guide, never a certificate.
-4. **Smell the phases** — warm gently and note the top, the body, and the dry-down separately.
-5. **Watch for inconsistency** — a lot that trips two checks is usually mislabeled or adulterated.
-6. **Record the lot** — write down species, origin, density, aroma, price, and supplier, so a reorder drift is visible.
-
-The card is the page in miniature. Everything above — the chemistry, the history, the fraud lexicon, the economics — exists to justify these six lines, and the six lines are what a buyer actually carries to the counter.
-
-## A closing observation on scarcity and value
-
-> **Direct answer:** The material's value is a scarcity story with a chemical basis — slow formation, depleted wild stocks, and a counterfeit premium — and understanding that story is more useful than memorizing any single price.
-
-The whole economics of the subject reduces to a scarcity narrative. The resin forms slowly, over decades, only after injury; the wild sources are depleted and regulated; and the resulting price gap between genuine and fake material has created a permanent authentication cost that itself becomes part of the price. Every figure on this page — the maturity threshold, the CITES listing, the tola and the momme — is a station on that narrative.
-
-The narrative matters more than any price because it explains the *shape* of the market: a cheap, plentiful plantation floor; an expensive, rarefied wild and summit-tier ceiling; and a wide, fraud-ridden middle where the buyer's skill, not the seller's word, decides the outcome. Hold that shape in mind, and the specific numbers become details.
-
-## On the limits of this account
-
-> **Direct answer:** This page is a compiled account with labeled confidence, not original botanical or chemical research, and its weakest points — the disputed etymology of "qínán" and the disputed hierarchy of the color grades — are exactly where it has flagged its own uncertainty.
-
-A candid closing on what this page is and is not. It is a synthesis of a botanical reference, a classical Chinese primary source, and accumulated trade practice, written for a general reader and labeled by confidence at each step. It is not original research, it carries no laboratory data of its own, and it makes no claim to settle the questions it flags as open. The etymology of "qínán" and the ranking of the five 奇楠 color grades remain genuinely disputed, and the page has said so rather than papering over the disagreement.
-
-That candor is the appropriate posture for a subject as heavily mystified as this one. Where the sources agree, the page asserts; where they do not, the page flags; where the judgment is the author's, the page labels it. A reader who keeps those three registers separate has, in effect, learned the method that this page set out to teach.
 ## FAQ
 
-> **Direct answer:** Six questions cover the points a buyer most often needs, each answered in one short paragraph and cross-linked to the fuller treatment above.
+### Q: Does agarwood grow as a tree species?
 
-### Q: Is oud a species or a condition?
-A condition. It forms inside *Aquilaria* trees when the tree answers a wound or fungal intrusion by saturating its heartwood with exudate. Undamaged *Aquilaria* timber is pale, light, and nearly odorless; only after years of injury and exudate accumulation does it darken, densify, and become fragrant. Because several *Aquilaria* species — and the cousin genus *Gyrinops* — can produce it, the substance sold as "oud" may come from more than one species, which is exactly why buyers should demand the species name.
+No. The word names a state that several *Aquilaria* species can reach. A healthy trunk is pale, light, and almost scentless; the dark aromatic core appears only after damage or fungal invasion triggers a defensive resin response. That is why two pieces from one species can differ so much, and why "agarwood" on a tag is a family name rather than a grade.
 
-### Q: Why does oud cost so much?
-It forms slowly and unpredictably. Resin gathers only after a tree is wounded — by insects, broken branches, lightning, or deliberate cuts — and mature exudate-bearing timber usually needs decades to develop. Wild resources are depleted, and top-tier substance is scarce, so most commercial supply today is cultivated or low-tier. The summit grade, 奇楠, is rarer still, and the heavy counterfeit traffic in the market pushes the price of *verifiable* genuine substance even higher.
+### Q: What makes the top grade so costly?
 
-### Q: How should I warm or burn it?
-The refined traditional way is indirect warmth (隔火焚香): rest the substance above charcoal buried in ash, so it releases fragrance without a naked flame. Gentle warming avoids the scorched note of direct burning and lets the fragrance open in stages. Chips can also be warmed on an electric incense heater, which holds a steadier temperature. For high-tier pieces, skip the flame entirely; ordinary substance rewards gradual, patient warmth.
+Time and uncertainty. The tree must be wounded, the resin must accumulate over years, and only a fraction of the resulting wood is dense enough to be worth much. Wild sources are depleted and regulated; the summit grade 奇楠 is rarer again. Fraud adds a further premium, because a buyer who wants a verifiable piece pays for the checking as well as the wood.
 
-### Q: Is oud the same thing as oud?
-Yes, in essence. "Oud" (also written oudh) is the Arabic name for the same exudate-saturated *Aquilaria* timber that Chinese calls 沉香 (chénxiāng) and Japanese calls jinkō, with kyara marking the top tier. They are one substance family under different regional labels. The grading vocabulary shifts a little — 奇楠 in Chinese, kyara in Japanese — but the underlying substance is the same.
+### Q: How do I warm it without ruining the scent?
 
-### Q: What separates 奇楠 from ordinary oud?
-Structure, not just smell. Ordinary oud shows "timber wraps distillate" (木包油) — stiff timber carrying exudate veins. 奇楠 shows "distillate wraps timber" (油包木) — the fiber is so thoroughly transformed by exudate that it turns soft and pliable, shaves into curls, kneads into pellets, and smells sweet even unheated. 奇楠 is further divided into color tiers, though the ranking among them is disputed and treated here as market language.
+Keep the heat low and indirect. A chip on a mica plate over an electric heater, or over charcoal buried in ash, will release the top note first and then the body and dry-down as the temperature rises. A flame chars the wood and covers the fine notes with smoke. The same chip can give a clean progression or a burnt smear depending on how fast the heat climbs.
 
-### Q: Does plantation oud ever match wild oud?
-The author's view, not a verified fact: plantation substance can approach mid-tier wild timber in fragrance and density when the trees are mature and the inoculation is well managed, but it rarely reaches the depth and complexity of genuinely old, slow-formed wild exudate. The honest answer for a buyer is to test each lot on gentle warmth and judge the smell directly, rather than trusting the "wild" or "cultivated" label alone.
+### Q: Is "oud" a different material?
 
-See also: the [agarwood incense guide](/blog/agarwood-incense/), the [agarwood grading guide](/blog/agarwood-grading-guide/), [bletilla](/ingredients/bletilla/), and the full [fragrance guide](/blog/scent-guide/).
+It is the Arabic name for the same resinous *Aquilaria* wood, though Western perfumery often uses "oud" for the distilled oil rather than the solid. The family is the same; the product form may not be. A seller offering "oud" should be asked whether the reference is to chips, powder, or oil, because the grading and the fraud patterns differ.
+
+### Q: Does a sinking piece prove authenticity?
+
+No. The water test measures density, and density can be raised by soaking, injecting, or loading low-grade wood. A dense fake sinks as readily as a dense genuine piece. Use the test as a first screen, then warm a sample, burn a small chip, and ask for species and origin documents. One check is never enough.
+
+### Q: Can cultivated wood be good?
+
+Yes, within limits. A mature, well-inoculated plantation lot can be dense and genuinely aromatic, and it is legal and renewable. It rarely matches the depth of old wild resin, and the variation between plantation lots is wide. Judge the lot on the heater, not on the word "plantation," and ask for the treatment and harvest record if consistency matters.
+
+### Q: What is the difference between chips and powder?
+
+The same wood, cut or ground. Chips are for warming, where the whole surface releases scent slowly. Powder is for blending into sticks and cones, where mesh and moisture decide how it packs and burns. Neither form is inherently superior; the use decides. A powder that works in one formula may fail in another, so test it against your own binder and base.
 
 ## Related Resources
 
-> **Direct answer:** The deeper treatments live on nearby pages, each pulling one thread from above into fuller detail.
-
-Deeper dives sit on nearby pages, each taking one thread from above and pulling it further:
-
-- [Agarwood incense guide](/blog/agarwood-incense/) — how the substance behaves in a censer, stick, and cone.
+- [Agarwood incense guide](/blog/agarwood-incense/) — how the wood behaves in a censer, a stick, and a cone.
 - [Agarwood grading guide](/blog/agarwood-grading-guide/) — the density, color, and origin vocabulary in full.
-- [Qínán / kyara](/blog/qinan-kyara/) — the summit grade and its Japanese terminology.
-- [Buying qínán without being misled](/blog/qinan-buying-authentication/) — authentication for the top tier specifically.
-- [Incense powder & exudate](/blog/incense-powder-resin/) — how timber powder packs, burns, and releases fragrance.
+- [Qínán / kyara](/blog/qinan-kyara/) — the top grade and its Japanese terminology.
+- [Buying qínán without being misled](/blog/qinan-buying-authentication/) — authentication for the summit tier.
+- [Incense powder & resin](/blog/incense-powder-resin/) — how wood powder packs, burns, and releases scent.
 - [Incense authentication database](/blog/incense-authentication-database/) — the screening logic for fakes.
 - [Incense substitution cross-reference](/blog/incense-substitution-cross-reference/) — what passes for what, and how to tell.
-- [How incense is made](/blog/how-incense-is-made/) — the grinding, blending, and forming process.
+- [How incense is made](/blog/how-incense-is-made/) — grinding, blending, and forming.
 - [Wholesale guide](/blog/wholesale-guide/) — the commercial sourcing side.
-- [Material comparison matrix](/blog/incense-material-comparison-matrix/) — oud beside its aromatic neighbors.
-- [Sandalwood](/ingredients/sandalwood/) — the other reference timber of Chinese incense.
-- [Bletilla](/ingredients/bletilla/) — a traditional binder often paired with timber powders.
+- [Material comparison matrix](/blog/incense-material-comparison-matrix/) — agarwood beside its aromatic neighbors.
+- [Sandalwood](/ingredients/sandalwood/) — the other reference wood of Chinese incense.
+- [Bletilla](/ingredients/bletilla/) — a traditional binder often paired with wood powders.
 - [Scent guide](/blog/scent-guide/) — the fragrance vocabulary used across this site.
 - [Safety guide](/safety/) — ventilation and handling basics.
 
 ## Sources
 
-> **Direct answer:** The four sources below are the botanical, regulatory, and classical anchors for the facts asserted on this page.
-
 - [Aquilaria sinensis in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506) — botanical identity of the Chinese species.
-- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — distribution and taxonomy of the Southeast Asian species.
-- [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis) — the regulated trade status of the genus.
-- [香乘 (Xiang Cheng) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical ranking and formation terminology.
+- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — taxonomy and distribution of the Southeast Asian species.
+- [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis) — regulated trade status of the genus.
+- [香乘 (Xiang Cheng) full text on Wikisource](https://zh.wikisource.org/wiki/香乘) — classical grading and formation terminology.
 
-*Sources: this page synthesizes Chinese-language trade and specialist sources (奇楠 ranking, adulteration) with botanical references (Aquilaria sinensis). The etymology of "qínán" and the 奇楠 color-tier hierarchy remain disputed and are flagged as such. This is editorial knowledge content, not medical or investment advice.*
+*Sources: this page synthesizes Chinese-language trade and specialist sources on 奇楠 grading and adulteration with botanical references for *Aquilaria*. The etymology of "qínán" and the ranking of the 奇楠 color grades remain disputed and are flagged as such. This is editorial knowledge content, not medical or investment advice.*
 
 ## Summary
 
-> **Direct answer:** The whole subject compresses to one line: agarwood is the resin-saturated heartwood of injured *Aquilaria* trees, graded by density, crowned by 奇楠, and shadowed by counterfeiting — so authenticity checks matter as much as grading vocabulary.
+> **Direct answer:** Agarwood is resin-saturated heartwood formed by injury in *Aquilaria* trees, graded by density and structure, crowned by 奇楠, and surrounded by enough fraud that authentication belongs in every buying decision.
 
-Agarwood (沉香) is the exudate-saturated heartwood of *Aquilaria* trees, a wound product rather than a species, graded in Chinese practice by exudate density through the sinking test, with 奇楠 (qínán) as the structurally distinct summit grade. Its worth rests on exudate content, origin, and fragrance complexity, and it sits among the most heavily counterfeited aromatics, so authenticity checks matter as much as grading vocabulary. In incense it is warmed rather than burned, prized for an fragrance that opens in stages; in trade, documentation and batch consistency outweigh any single exceptional piece. The chemistry — sesquiterpenes and chromones spread across a wide range of boiling points — is the physical reason for both its staged fragrance and the counterfeit industry that surrounds it.
+The material is a condition, not a species: a tree is wounded, defense chemistry switches on, resin accumulates over years, and the heartwood darkens, densifies, and gains a scent that opens in stages under heat. Chinese practice grades the result by density — sinking, half-sinking, floating — and treats the soft, pliable, room-temperature-fragrant 奇楠 as a structural exception above the ordinary scale. Chemistry explains both the appeal and the difficulty: a wide spread of sesquiterpenes and chromones produces the layered scent, and the same complexity is hard to fake convincingly.
+
+The market adds a second layer of difficulty. Wild supply is depleted and CITES-listed, plantation material is the renewable mainstream but varies widely, and the price premium on rare grades supports a persistent counterfeit trade. The buyer's defense is procedural rather than magical: ask for species and origin, test density on a clean piece, warm a sample and judge the phases, burn a small chip, and record the lot so a reorder can be compared. Sinking grade is a first question; it is never the last.
+
+For incense use, agarwood is warmed rather than burned when the material deserves it, and used as a small, powerful fraction when it anchors a blend. The 君 role in 君臣佐使 explains why a little goes a long way. The commercial view is less romantic and more useful: consistency, documentation, and a repeatable sample beat a single exceptional piece. That is the difference between owning agarwood and building with it.
