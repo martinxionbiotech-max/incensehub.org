@@ -200,7 +200,7 @@ A practical rule falls out: you can omit a floral and still have a recognizable 
 
 **Direct answer:** Timber botanicals reward the buyer who buys whole pieces rather than fine dust, and who stores them dry and dark — because both choices protect the slow, heavy aromatics that give the group its value.
 
-The same surface-area logic that separates powder from chips (see the [incense powder vs timber chips](/blog/incense-powder-vs-timber-chips/) comparison) applies here. Ground material surrenders its smell fast and is easier to cut with filler; a solid chip keeps its interior sealed until heat draws it out. For anything precious — agarwood, good sandalwood — whole pieces are the form that lets you verify what you paid for.
+The same surface-area logic that separates powder from chips (see the [incense powder vs timber chips](/blog/incense-powder-vs-wood-chips/) comparison) applies here. Ground material surrenders its smell fast and is easier to cut with filler; a solid chip keeps its interior sealed until heat draws it out. For anything precious — agarwood, good sandalwood — whole pieces are the form that lets you verify what you paid for.
 
 Storage is simpler than most people fear: cool, dry, away from light and strong neighboring smells. Heat and sunlight accelerate the loss of the volatiles you wanted to keep; damp invites mould; a spice shelf next to it will trade smells. A sealed container in a cupboard is enough for most home collections, and the same rule that governs tea — keep it dry, dark, and isolated — governs timber.
 

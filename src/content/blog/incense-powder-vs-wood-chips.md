@@ -326,7 +326,7 @@ Three strands sit behind this page: the 制香/品香 split in Chinese practice,
 
 ## Related Resources
 
-For resin tears and loose grains, see [Incense Powder & Resin](/blog/incense-powder-resin/). The warming route is set out in [Indirect-Fire Incense (隔火焚香)](/blog/gehuo-fenxiang-setup/); powder pressed into a trail appears in [Seal Incense (篆香)](/blog/incense-seal-zhuanxiang/). Production context sits in [How Incense Is Made](/blog/incense-is-made/), and the two woods sold both ways have their own pages: [Agarwood (沉香)](/ingredients/agarwood/) and [Sandalwood (檀香)](/ingredients/sandalwood/).
+For resin tears and loose grains, see [Incense Powder & Resin](/blog/incense-powder-resin/). The warming route is set out in [Indirect-Fire Incense (隔火焚香)](/blog/gehuo-fenxiang-setup/); powder pressed into a trail appears in [Seal Incense (篆香)](/blog/incense-seal-zhuanxiang/). Production context sits in [How Incense Is Made](/blog/how-incense-is-made/), and the two woods sold both ways have their own pages: [Agarwood (沉香)](/ingredients/agarwood/) and [Sandalwood (檀香)](/ingredients/sandalwood/).
 
 **A natural next step:** if a blend is the goal, begin with [how incense is made](/blog/how-incense-is-made/); if the woods are the interest, the [material comparison matrix](/blog/incense-material-comparison-matrix/) sets them side by side.
 

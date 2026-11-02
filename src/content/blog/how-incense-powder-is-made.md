@@ -147,7 +147,7 @@ None of it produces a micron figure, and none of it needs to. The question is wh
 
 **Direct answer:** Combining settles the ratios; in the Chinese tradition it also turns a set of ingredients into a system — 合香 (hé xiāng), ordered by 君臣佐使, the chief–minister–assistant–guide scheme in which each material holds an office rather than merely a note.
 
-Where only one material is used, there is no real blend: a pure sandalwood or agarwood lot is decided at the sorting bench and under the cutter. Composition begins with the second ingredient, and that is where ratio and role take over. The chief (君) sets the intention, the minister (臣) upholds it, the assistant (佐) rounds or softens it, and the guide (使) steers the result toward a room or an hour. [The combining system](/blog/hexiang-combining-system/) treats that architecture properly.
+Where only one material is used, there is no real blend: a pure sandalwood or agarwood lot is decided at the sorting bench and under the cutter. Composition begins with the second ingredient, and that is where ratio and role take over. The chief (君) sets the intention, the minister (臣) upholds it, the assistant (佐) rounds or softens it, and the guide (使) steers the result toward a room or an hour. [The combining system](/blog/hexiang-blending-system/) treats that architecture properly.
 
 Mixing is a physical problem before it is a creative one. **Each species brings its own density and its own size range → a brief stir lets the dense and the fine settle while the light and the coarse climb → the jar sorts itself into layers → top and bottom stop being the same material.** The remedy is mechanical: tumble, turn, re-mix as the jar is filled, rather than stir once and stop.
 

@@ -121,7 +121,7 @@ The gram question is where modern readers get stuck. The 两 drifted across dyna
 
 The largest number belongs to the chief with almost no exceptions, because the highest dose is what lands first and lasts longest. The smallest line that still carries a vivid character — a cool resin, a fruit, a single flower — is usually the assistant, and it usually explains why the piece has the name it has. Lines that read like verbs rather than nouns (steam three times, rest long, coat the outside, bind with honey) are the guide, and they are easy to mistake for footnotes because they carry no material to look up.
 
-The fourth move is the one that separates reading from guessing. Classical formulas survive in several editions, and the editions disagree about proportions. When two versions agree on which line is dosed highest and disagree on the exact figure, the agreement is the structure and the disagreement is the transmission. When they disagree about the rank as well, you are looking at two different formulas that share a title, which happens more often than a modern reader expects. The [formulation library](/blog/chinese-incense-formulations/) gathers recorded versions for exactly this reason, and the [manual tradition](/blog/xiangpu-incense-manuals/) explains why the editions diverge.
+The fourth move is the one that separates reading from guessing. Classical formulas survive in several editions, and the editions disagree about proportions. When two versions agree on which line is dosed highest and disagree on the exact figure, the agreement is the structure and the disagreement is the transmission. When they disagree about the rank as well, you are looking at two different formulas that share a title, which happens more often than a modern reader expects. The [formulation library](/blog/chinese-incense-recipes/) gathers recorded versions for exactly this reason, and the [manual tradition](/blog/xiangpu-incense-manuals/) explains why the editions diverge.
 
 One caution about names. Old texts use literary and trade terms that do not map cleanly onto what a supplier lists today; a word that meant one grade in one century can mean another later, or a different material. A reader who finds nothing under a name has not necessarily mistranslated it. Naming instability is a feature of this material culture, not a failure of the dictionary.
 
@@ -173,7 +173,7 @@ Where it fails, it fails informatively. A resin can lead a resin-led compound, s
 | 杉木炭 | 杉木炭 | Charcoal | 使 | Burns clean and hot in small proportion |
 | Bone ash | 羊脛灰 | Mineral | 使 guide | Bulks the powder and keeps a pill from collapsing |
 
-Read the far-right column and the pattern appears: the deep, slow materials sit at the top of the ladder, the bright and volatile ones supply identity, and the sticky or inert ones hold the shape. A maker shopping for a formula is really shopping for four behaviours, not four smells; the [ingredients glossary](/blog/incense-components-glossary/) covers the same shelf material by material.
+Read the far-right column and the pattern appears: the deep, slow materials sit at the top of the ladder, the bright and volatile ones supply identity, and the sticky or inert ones hold the shape. A maker shopping for a formula is really shopping for four behaviours, not four smells; the [ingredients glossary](/blog/incense-ingredients-glossary/) covers the same shelf material by material.
 
 ## Where the Scheme Came From, and Where It Stops
 
@@ -367,8 +367,8 @@ Closer cousins than either trade admits, and not the same. An accord is composed
 
 ## Related Resources
 
-- [Chinese Incense Recipes (香方)](/blog/chinese-incense-formulations/) — surviving proportions.
+- [Chinese Incense Recipes (香方)](/blog/chinese-incense-recipes/) — surviving proportions.
 - [The Incense Manuals (香谱)](/blog/xiangpu-incense-manuals/) — the primary texts, and the work of reading them untranslated.
-- [Incense Ingredients Glossary](/blog/incense-components-glossary/) — every material above, with its Chinese name.
+- [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/) — every material above, with its Chinese name.
 - [How Incense Is Made](/blog/how-incense-is-made/) — from balanced powder to a piece that burns.
 - [What Is Chinese Incense?](/blog/what-is-chinese-incense/) — the wider tradition around it.

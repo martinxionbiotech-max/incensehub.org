@@ -27,7 +27,20 @@ function stripAutoMarkers() {
 export default defineConfig({
   site: 'https://incensehub.org',
   output: 'static',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // Keep noindex landing pages out of the sitemap.
+      filter: (page) =>
+        !new Set([
+          '/private-label/',
+          '/oem/',
+          '/wholesale/',
+          '/contact/',
+          '/request-a-quote/',
+          '/incense-manufacturer/',
+        ]).has(new URL(page).pathname),
+    }),
+  ],
   markdown: {
     remarkPlugins: [stripAutoMarkers],
   },

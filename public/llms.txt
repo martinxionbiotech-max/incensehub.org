@@ -6,9 +6,9 @@
 
 - [Home](/): editorial homepage for IncenseHub.
 - [Chinese Incense (香 / Xiang)](/chinese-incense/): what Chinese incense is — history, the Four Leisure Arts, and the way of incense (香道).
-- [Wholesale](/wholesale/): wholesale inquiries for Chinese botanical incense.
-- [OEM & Private Label](/oem/): OEM and private-label development.
-- [Contact](/contact/): samples, quotes, wholesale and OEM inquiries.
+- [About IncenseHub](/about/): the platform's scope, editorial standards and provenance policy.
+- [Blog & Guides](/blog/): the full article index — materials, history, craft and authentication.
+- [Contact](/contact/): editorial corrections, sourcing questions and privacy requests.
 
 ## Ingredient encyclopedia
 
