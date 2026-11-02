@@ -46,21 +46,7 @@ The role names are not decoration. They describe a hierarchy of quantity and fun
 
 **Direct answer:** The recorded quantities form a 3:3:1:1 balance — six liǎng of agarwood against one liǎng each of sandalwood, frankincense and operculum — with the precious accents at a tenth of a liǎng or less.
 
-| Ingredient | Recorded quantity |
-|---|---|
-| 沉香 agarwood | 三两 (3 liǎng) |
-| 栈香 non-sinking agarwood | 三两 (3 liǎng) |
-| 檀香 sandalwood | 一两 (1 liǎng) |
-| 乳香 frankincense | 一两 (1 liǎng) |
-| 龙脑 borneol | 半钱 (0.5 qián) |
-| 甲香 operculum ([onycha](/ingredients/onycha/)) | 一两 (1 liǎng, treated) |
-| 麝香 musk | 一钱 (1 qián) |
-| 炭皮末 charcoal-bark powder | 一钱 (1 qián) |
-| 朴硝 saltpetre | 一钱 (1 qián) |
-
-Weights from the period will not convert cleanly. A 两 (liǎng) sat near 37 g in Song–Ming practice, yet the figure moved with the dynasty, somewhere between roughly 31 and 41 g. Ten 钱 (qián) made a liǎng, so a qián came to about 3.7 g, and ten 分 (fēn) made a qián at about 0.37 g. All of these are approximations. Use the proportions, not the gram figures, if you want the blend to resemble the record.
-
-That is the first judgment boundary of the page. A modern maker who converts every line to grams and follows the arithmetic may still produce a different incense, because the historical units were not standardized and the materials themselves vary. The ratio is the portable part; the gram weight is a guess dressed as precision.
+A 两 (liǎng) sat near 37 g in Song–Ming practice, yet the figure moved with the dynasty, roughly 31–41 g. Ten 钱 (qián) made a liǎng (about 3.7 g), and ten 分 (fēn) a qián (about 0.37 g) — all approximations. Convert the lines once so the proportions become visible, then work from the ratio. That is the page's first judgment boundary: a maker who follows gram arithmetic exactly can still land on a different incense, because the units were never standard and the materials vary. The gram weight is a guess dressed as precision; the ratio is the portable part.
 
 ## The Method: Heat, Rest and Shape
 
@@ -76,9 +62,7 @@ The final stage is shape. A honey-bound paste can be pressed into cakes, and the
 
 **Direct answer:** The formula stacks 沉香 (sinking-grade agarwood) with 栈香 (a non-sinking grade) because the two solve different halves of one problem: one sustains, the other catches.
 
-Trace the pairing. 沉香 is dense with resin → it burns slowly and holds a deep, long note → but it resists ignition. 栈香 is lighter → it catches the ember readily and gives the front a steady path → but it lacks the deep staying power. Together, the 栈香 carries the flame and the 沉香 sustains the body → the blend ignites without difficulty and smoulders long → the base reads even and deep instead of flaring and dying.
-
-A single grade would trade one property for the other. A pure sinking-grade base would be hard to light; a pure non-sinking base would fade quickly. The stacking is the quiet engineering of the recipe: two cuts of one wood, each chosen for the half of the burn it handles best.
+Trace the pairing. 沉香 is dense with resin → it burns slowly and holds a deep, long note → but it resists ignition. 栈香 is lighter → it catches the ember readily and gives the front a steady path → but it lacks the deep staying power. Together, the 栈香 carries the flame and the 沉香 sustains the body → the blend ignites without difficulty and smoulders long → the base reads even and deep instead of flaring and dying. A single grade would trade one property for the other: a pure sinking base would be hard to light, a pure non-sinking base would fade quickly. The stacking is the quiet engineering — two cuts of one wood, each chosen for the half of the burn it handles best.
 
 *Editorial judgment, not a measured finding.*
 
@@ -88,7 +72,7 @@ A single grade would trade one property for the other. A pure sinking-grade base
 
 Borneol's cool, crystalline note is volatile. Increase it and the warm agarwood base turns into a cold fog; at half a qián it lifts the heavy materials without replacing them. Musk is denser and animalic. At one qián it acts as a fixative, slowing the escape of the lighter notes and adding a quiet warmth; at a larger dose it would bury the woods.
 
-The pattern is a general lesson in 合香: a strong material measured small can change the character of a blend without becoming its subject. The agarwood stays dominant precisely because the accents are kept from competing. A maker who "improves" the formula by doubling the musk has not improved it; the balance that made it a court blend is gone.
+The pattern generalises: a strong material measured small can change a blend's character without becoming its subject. The agarwood stays dominant precisely because the accents do not compete. Doubling the musk does not improve the formula; it removes the balance that made it a court blend.
 
 ## The Guide Team: Fixatives and Combustion Aids
 
@@ -102,7 +86,7 @@ The combustion aids address the opposite problem. A resin-heavy cake packs tight
 
 **Direct answer:** 衙香 is a class of compound incense burned in the yamen (官署, official offices) and at court, not a single recipe — the 陈氏香谱 alone lists fifteen of them.
 
-The word points at a workplace, not a province or a botanical. Officials burned scent in the yamen, the building where administration happened, and the practice carried a message about rank. Recipes grouped under the label share a costly spine — 沉香, 檀香 and 麝香 — which is what makes them read as palace material rather than study material. Ask what a 衙香 cost and you are closer to its identity than asking what it smelled like.
+The word points at a workplace, not a province or a botanical. Officials burned scent in the yamen, where administration happened, and the practice carried a message about rank. Recipes under the label share a costly spine — 沉香, 檀香 and 麝香 — which makes them read as palace material rather than study material. Ask what a 衙香 cost and you are closer to its identity than asking what it smelled like.
 
 Fame and typicality are different things here. The 花蕊夫人 entry is the best known, yet its character comes from a particular choice: two cuts of agarwood, a borneol lift and a complete 君臣佐使 ladder. Treating 衙香 as one smell flattens the class; treating it as one price band flattens the variety inside the class.
 
@@ -118,17 +102,15 @@ Fame and typicality are different things here. The 花蕊夫人 entry is the bes
 | Proportions | Weighed in 两 and 钱 | No fixed measure recorded |
 | What it signals | Wealth and official standing | Patience and modesty |
 
-Neither side wins this comparison. A household with money could afford woods and resins, and the materials announced that fact without a word; a scholar with a small budget could roast seeds by a window and lose nothing in seriousness. The tradition holds both, and calling one more authentic than the other mistakes expense for depth. Put the two side by side and the social range becomes visible; the [cypress-seed recipe](/blog/baizi-incense-recipe/) shows the lean end.
+Neither side wins. A household with money could afford woods and resins, and the materials said so without a word; a scholar with a small budget could roast seeds by a window and lose nothing in seriousness. Calling one more authentic than the other mistakes expense for depth. The [cypress-seed recipe](/blog/baizi-incense-recipe/) shows the lean end.
 
 ## What to Treat With Care
 
-**Direct answer:** Three caveats frame the recipe: the attribution is traditional, the weights drifted by dynasty, and 甲香 is an animal-derived fixative that many modern makers omit.
+**Direct answer:** Two caveats frame the recipe: the attribution is traditional, and 甲香 is an animal-derived fixative that many modern makers omit.
 
 The 花蕊夫人 attribution is a traditional label, not a signed document. Lady Huarui was a real figure — a consort and poet of the Later Shu — and her name carries genuine weight, but nothing connects her hand to this particular formula. The recipe survives in the 香乘 as a recorded formula, and the name functions as a title rather than a byline.
 
-The units are the second caveat. A liǎng was not a fixed mass across dynasties, and the conversion to grams is approximate at best. The ratio is the reliable content.
-
-The third caveat is the material itself. 甲香 comes from a sea snail, and its inclusion makes the recipe unsuitable for vegetarian or vegan makers. Musk is also animal-derived, and many contemporary makers avoid it. A modern reproduction is therefore an interpretation, not a copy, and the page treats it that way.
+The second caveat is the material itself. 甲香 comes from a sea snail, and its inclusion makes the recipe unsuitable for vegetarian or vegan makers. Musk is also animal-derived, and many contemporary makers avoid it. A modern reproduction is therefore an interpretation, not a copy.
 
 ## Reproducing It Today
 
@@ -138,19 +120,15 @@ Start with what is portable. The two-grade wood base teaches how to build a core
 
 Then separate substitution from imitation. Replacing 甲香 with another fixative changes the material but preserves the function; omitting it changes both. Replacing musk with a synthetic or a botanical substitute is a different formula, not a reproduction. The honest label for such a blend is "in the style of," not "the original recipe."
 
-The judgment boundary is worth stating: a maker who cannot source the original materials can still learn the structure, and the structure is the recipe's real content. The incense itself was an example. See the [合香 blending system](/blog/hexiang-blending-system/) for the wider grammar this formula belongs to.
+The judgment boundary: a maker who cannot source the original materials can still learn the structure, and the structure is the recipe's real content. See the [合香 blending system](/blog/hexiang-blending-system/) for the wider grammar this formula belongs to.
 
 ## What a Court Blend Was For
 
 **Direct answer:** A court blend was a public statement of resources and taste, read by guests who knew the luxury trade.
 
-A recipe like this one was never only a smell. In an office or a reception hall, the burning cake announced the rank of the household, the depth of its stores and its familiarity with the luxury trade. The materials did the talking: sinking agarwood, genuine musk and frankincense were expensive enough that their presence alone carried meaning.
+A recipe like this one was never only a smell. In an office or a reception hall, the burning cake announced rank, the depth of a household's stores and its familiarity with the luxury trade; sinking agarwood, genuine musk and frankincense were expensive enough that their presence carried meaning by itself. A host did not choose one spectacular material but stacked several, each recognisable to a guest who knew the market. Two agarwood grades signalled discernment as much as wealth: anyone could buy one wood, but using a sinking grade for depth and a lighter grade for carriage suggested a maker who understood how the materials behaved.
 
-That reading explains why the formula is so layered. A host who wanted to impress did not choose one spectacular material; the host stacked several, each recognisable to a guest who knew the market. The two agarwood grades signalled discernment as much as wealth — anyone could buy one wood, but a blend that used a sinking grade for depth and a lighter grade for carriage suggested a maker who understood how the materials behaved.
-
-The same logic explains the small accents. Borneol and musk were costly, and a host who used them at trace levels demonstrated restraint as well as access. Excess would have been vulgar; a whisper of each was the more sophisticated display. The formula's proportions are therefore a social document as much as a technical one.
-
-None of this requires believing that the smoke changed anyone's fortune. The point is narrower: the blend was designed to be read, and the reading happened through the nose and the guest's knowledge of the trade. A modern maker who reproduces the structure without that social setting is left with a fine incense and a lost context.
+The small accents made the same argument. Borneol and musk were costly, and trace doses demonstrated restraint as well as access; excess would have been vulgar. The proportions are a social document as much as a technical one. The blend was designed to be read, not to change anyone's fortune, and a modern maker who reproduces the structure without that setting is left with a fine incense and a lost context.
 
 ## A Checklist for Reading Any Classical Formula
 
@@ -162,11 +140,9 @@ None of this requires believing that the smoke changed anyone's fortune. The poi
 
 **Separate function from fragrance.** Some lines exist to fix, bind or carry combustion rather than to smell. Operculum, honey and the two combustion aids in this formula are examples. A maker who treats every ingredient as a note will misread the structure.
 
-**Check the attribution.** A famous name attached to a recipe is often a label of register, not a record of authorship. Note it, then set it aside and read the formula on its own terms.
-
 **Test the burn before judging the scent.** A dense, resin-heavy cake can smell harsh when it is first mixed and settle after resting; it can also fail to stay lit if the guide tier is wrong. Burn a small cake, observe the ember, and adjust the combustion aids rather than the aromatics.
 
-The checklist is not specific to this recipe. It works on any entry in the 香乘, and it keeps a reader from mistaking a translated list of quantities for an understanding of the blend. Run it once on a formula you already know, and the gaps in your reading become obvious: a role you cannot assign, a unit you cannot place, a line you had been treating as a fragrance that turns out to be a fixative. Those gaps are the useful part.
+The checklist works on any entry in the 香乘, not only this recipe. Run it once on a formula you already know and the gaps become obvious: a role you cannot assign, a unit you cannot place, a line you mistook for a fragrance that turns out to be a fixative. Those gaps are the useful part.
 
 ## FAQ
 
@@ -176,7 +152,7 @@ An opulent compound scent named for Lady Huarui, the Later Shu consort of 孟昶
 
 ### Q: Where does the word 衙香 come from?
 
-From the yamen, the office where officials worked. Scent burned in that setting signalled rank, so the label describes a milieu and a budget rather than a single smell. The 陈氏香谱 records fifteen variants, all built around agarwood, sandalwood and musk.
+From the yamen, the office where officials worked. Scent burned there signalled rank, so the label describes a milieu and a budget rather than one smell. The 陈氏香谱 records fifteen variants, all built on agarwood, sandalwood and musk.
 
 ### Q: Why does the formula call for 甲香?
 

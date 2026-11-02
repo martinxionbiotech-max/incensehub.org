@@ -36,13 +36,11 @@ Two rules follow. A material is picked for its job inside the arrangement, not f
 
 **Direct answer:** 合香 names a method, not a smell. Two formulas can share no materials at all and still belong to the same craft, because what they hold in common is the way the parts get chosen.
 
-Burning one material asks a question with a short answer: is this piece good, and how good? The whole exercise is a ranking, and the better wood wins. A compound asks something that cannot be settled by ranking: do these parts hold each other up? A modest wood can outshine an expensive one when it sits inside a smarter arrangement, and an expensive resin can disappear into a compound that never gives it room. The craft is not the mixing. It is the arrangement.
+Burning one material asks a question with a short answer: is this piece good, and how good? The exercise is a ranking, and the better wood wins. A compound asks what ranking cannot settle: do these parts hold each other up? A modest wood can outshine an expensive one inside a smarter arrangement, and an expensive resin can disappear in a compound that never gives it room. The craft is not the mixing; it is the arrangement.
 
-That shift in the question is why the classical manuals read as cookbooks. The 香谱 collections, gathered across the Song and Ming, are full of formulas with doses and steps, because the thing worth writing down was the structure. A list of nice-smelling materials would have been useless to a reader who already knew which materials were nice. What the reader could not invent for himself was the proportion and the order of operations.
+That shift is why the classical manuals read as cookbooks. The 香谱 collections, gathered across the Song and Ming, are full of formulas with doses and steps, because the structure was the thing worth writing down. A list of nice-smelling materials was useless to a reader who already knew which materials were nice; what he could not invent was the proportion and the order of operations.
 
-English-language incense writing has a vocabulary problem here. The market sorted its products by material name, one word to one smell: sandalwood, lavender, patchouli. That naming habit quietly assumes the material is the unit of meaning. 合香 breaks the assumption, because its unit is the formula. A reader trained on single-note names has no slot for the sentence "sandalwood is the minister," so the compound tradition collapses into "sandalwood incense," and the structure — the only part that was hard to get right — vanishes in translation.
-
-The practical cost of that collapse is easy to state. A buyer who reads a compound as if it were a single material will sort it by its most expensive ingredient, which is the one thing the old makers did not do. Cost and rank run on different axes, and the rest of this page keeps coming back to that disagreement.
+English incense writing has a vocabulary problem here. The market sorts products by material name, one word to one smell — sandalwood, lavender, patchouli — which quietly assumes the material is the unit of meaning. 合香 breaks the assumption. A reader trained on single-note names has no slot for "sandalwood is the minister," so the compound collapses into "sandalwood incense" and the structure vanishes in translation. The practical cost is a buyer who sorts a compound by its most expensive ingredient — the one thing the old makers never did. Cost and rank run on different axes, and this page keeps returning to that disagreement.
 
 ## Four Jobs and the Question Each One Answers
 
@@ -50,80 +48,78 @@ The practical cost of that collapse is easy to state. A buyer who reads a compou
 
 | Role | The job | The question it answers | What fails when the role is empty |
 |---|---|---|---|
-| 君 chief | Supplies the aroma present from the first minute to the last | What carries the compound? | The blend opens brightly and dies inside ten minutes |
-| 臣 minister | Rounds the chief at a fraction of its dose | What holds the chief's edges? | The chief reads thin, or sharp at the corners |
-| 佐 assistant | Adds the one note people remember | What names the compound? | The blend is pleasant and completely anonymous |
-| 使 guide | Binds the powder, fixes the scent, or supplies a process step | What makes it burnable and stable? | The mixture crumbles, or the top note walks off in storage |
+| 君 chief | The aroma present from the first minute to the last | What carries it? | It opens brightly and dies in ten minutes |
+| 臣 minister | Rounds the chief at a fraction of the dose | What holds its edges? | The chief reads thin or sharp |
+| 佐 assistant | The one note people remember | What names it? | Pleasant and completely anonymous |
+| 使 guide | Binds, fixes, or supplies a process step | What keeps it burnable and stable? | It crumbles, or the top note walks off in storage |
 
-The four roles form a hierarchy, and the hierarchy is not a ranking of quality. The minister exists to serve the chief. The assistant exists to repair what the chief and minister together still lack. The guide exists to hold the result in a shape that will actually burn. Read the roles as a chain of service and a formula stops looking like a shopping list; it starts looking like an argument about what matters most in that particular scent.
+The four roles form a hierarchy, yet it is not a ranking of quality. The minister serves the chief, the assistant repairs what chief and minister still lack, and the guide holds the result in a shape that will burn. Read them as a chain of service and a formula stops looking like a shopping list; it becomes an argument about what matters most in that scent.
 
-The guide deserves a second look, because it is the role beginners skip. A guide can be honey, which binds powder into pills. It can be musk, which fixes volatile material and slows its escape. It can be 甲香, the operculum of a sea snail, used in the tradition as a fixative. It can also be nothing you can weigh at all: a steaming step, a resting period, a coat of dried flowers on the outside of a pill. That last possibility is the useful shock. A role in a formula does not have to be an ingredient.
+The guide deserves a second look, because beginners skip it. A guide can be honey binding powder into pills, musk fixing volatile material, or 甲香, the sea-snail operculum used as a fixative. It can also be nothing weighable: a steaming step, a rest, a coat of dried flowers on a pill. That last case is the useful shock — a role need not be an ingredient.
 
 ## The Doses Do the Sorting
 
 **Direct answer:** Roles are not labels pasted on after the fact. They fall out of proportion, which means a formula can be read as a weight ladder before it is read as a story.
 
-Follow the chain. A maker doses one material highest → that aroma arrives first and stays longest → the nose files it as the base of the compound → the tradition records that result with the name 君. The next-largest dose fills in the body the chief leaves empty → it never leads, but its absence would be felt as a hole → it gets recorded as 臣. A small, bright dose goes in where the first two leave a gap, and it registers precisely because it is scarce → it becomes the note the compound is known by → 佐. A trace of something sticky, or one more processing step, keeps the whole thing in a burnable shape → 使.
+Follow the chain. A maker doses one material highest → its aroma arrives first and stays longest → the nose files it as the base → the tradition records that result as 君. The next-largest dose fills the body the chief leaves empty → it never leads, yet its absence would read as a hole → 臣. A small, bright dose enters where the first two leave a gap, and registers because it is scarce → 佐. A trace of something sticky, or one more processing step, keeps the mass burnable → 使.
 
-The doses do the sorting; the names only record it. Two formulas with the same four materials and different proportions are two different formulas, not one formula written twice. This is the single most useful idea on the page for anyone trying to read an unfamiliar recipe, because it means you can reverse-engineer the roles from the numbers before you understand a single ingredient name.
+The doses do the sorting; the names only record it. Two formulas with the same four materials and different proportions are two different formulas. That is the most useful idea here for reading an unfamiliar recipe: reverse-engineer the roles from the numbers before you understand a single ingredient name.
 
-It also settles a beginner's question about whether the chief must be the costly material. It does not, and the assumption causes real damage to how compounds get judged. Rank is a statement about proportion and function. Price is a statement about scarcity and trade. A precious resin can be dosed as a trace minister and a humble wood can carry the whole compound. When those two axes get confused, the buyer pays for the label and the nose gets a formula that was never built that way.
+It also settles whether the chief must be the costly material. It does not, and the assumption damages how compounds get judged. Rank is a statement about proportion and function; price is a statement about scarcity and trade. A precious resin can be a trace minister and a humble wood can carry the compound. Confuse the axes and the buyer pays for the label while the nose gets a formula nobody built that way.
 
 ## What the Guide Does to a Burn
 
 **Direct answer:** The guide decides whether the compound survives contact with heat. A binder sets the physical shape, a fixative slows the escape of the volatile fraction, and a process step changes the material before a flame is ever involved.
 
-Powder does not burn as a heap. A loose heap of milled heartwood and resin tears smoulders unevenly, channels along one wall, and dies. Something has to hold the granules in contact long enough for the ember line to travel the length of the piece: honey, 抹香 (makko, a bark powder used across East Asia as a combustible binder), or a resin that softens as it warms.
+Powder does not burn as a heap. A loose heap of milled heartwood and resin smoulders unevenly, channels along one wall, and dies. Something must hold the granules in contact long enough for the ember line to travel: honey, 抹香 (makko, a bark powder used across East Asia as a combustible binder), or a resin that softens as it warms.
 
 The chain runs like this: loose powder → voids between the granules → the combustion front stalls or races → a binder closes those voids → the stick or pill burns at a rate the maker can predict. Change the binder fraction and you change the burn before you change the smell, which is why a compound that misbehaves on the plate rarely has a scent problem.
 
-Fixatives work on a different principle. Musk, 甲香, and amber appear in the guide position because the tradition holds that they slow the loss of the lighter fraction, so the opening note is still there after weeks of storage rather than evaporating out of the box. That is traditional reasoning about material behaviour, not a measured claim, and this page will not dress it up as one.
+Fixatives work differently. Musk, 甲香 and amber sit in the guide position because the tradition holds that they slow the loss of the lighter fraction, so the opening note survives weeks of storage instead of evaporating out of the box. That is traditional reasoning about material behaviour, not a measured claim.
 
-Process steps are the third kind of guide, and the hardest to see. Steaming, coating, and the long rest written as 久窨 do not add a material; they change the condition of the material that is already there. A rest period lets moisture equilibrate through the mass, so a hygroscopic powder behaves the same on the day it is extruded and on the day it is lit. Whether anything beyond that happens inside the jar is a question this page leaves open.
+Process steps are the third kind of guide, and the hardest to see. Steaming, coating and the long rest written as 久窨 add no material; they change its condition. A rest lets moisture equilibrate through the mass, so a hygroscopic powder behaves the same on the day it is extruded and the day it is lit. What else may happen inside the jar is a question this page leaves open.
 
 ## Three Formulas, Opened Up
 
 **Direct answer:** Three worked examples — one classical, one Song-attributed, one modern — show the same four jobs filled by different materials, and show that the assistant, not the chief, is the line that supplies the name.
 
-Proportions survive in several versions and use historical units. Read the structure rather than the gram count, and treat the material below as cultural history, never as instruction for a physical effect.
+Read the structure, not the gram count, and treat the examples below as cultural history, never as instruction for a physical effect.
 
 |  | 江南李主帐中香 | 雪中春信 | 二苏旧局 |
 |---|---|---|---|
-| Attributed to | 李煜 (Li Yu), last ruler of the Southern Tang; Five Dynasties–Song, recorded in 香乘 in several versions | 苏轼 (Su Shi) — traditional belief, not documented; Song, recorded in 香乘 | 陈云君, *燕居香语*; contemporary revival |
-| Variants | Proportions differ between editions | Some versions substitute 棧香 and 杉木炭 | A modern composition, not a 香谱 text |
+| Attributed to | 李煜 (Li Yu), last Southern Tang ruler; Five Dynasties–Song, several 香乘 versions | 苏轼 (Su Shi), traditional belief; Song, in 香乘 | 陈云君, *燕居香语*; modern revival |
+| Variants | Proportions differ by edition | Some versions use 棧香 and 杉木炭 | Modern work, not a 香谱 text |
 | Chief 君 | 沉香 agarwood, one 两 | 檀香 sandalwood | 沉香 agarwood |
-| Minister 臣 | 檀香 sandalwood, one 钱 | 香附子 cyperus with 鬱金 turmeric | 檀香 sandalwood |
-| Assistant 佐 | 鵞梨 goose pear, ten pieces | 樟腦 camphor | 乳香 frankincense with 琥珀 amber |
-| Guide 使 | 蒸三溜 steaming, 久窨 resting | 麝香 musk, 羊脛灰 bone ash, honey | 蜂蜜 honey, 茉莉 jasmine coat |
-| Method | Hollow the pears, pack in the powders, cap, steam three rounds, peel, grind, rest | Grind fine, bind with refined honey, rest, then burn | Dice the woods, mill the resins, bind in jujube-flower honey, roll into pills, dust with jasmine, dry |
+| Minister 臣 | 檀香 sandalwood, one 钱 | 香附子 cyperus, 鬱金 turmeric | 檀香 sandalwood |
+| Assistant 佐 | 鵞梨 goose pear, ten pieces | 樟腦 camphor | 乳香 frankincense, 琥珀 amber |
+| Guide 使 | 蒸三溜 steaming, 久窨 rest | 麝香 musk, 羊脛灰 bone ash, honey | 蜂蜜 honey, 茉莉 jasmine coat |
+| Method | Pear hollowed, powders packed, capped; three steamings; peel removed; mass ground; rested | Powder ground, bound in refined honey, rested, burned | Woods diced, resins milled, jujube-flower honey binding, rolled to pills, jasmine-dusted, dried |
 
-**The pear is a vessel.** Follow the process and the design becomes obvious: powder packed into a cored pear → three rounds of steam → the fruit softens and its juice wets the powder through → the skin is peeled and the mass reground → the sweet note ends up inside the wood instead of sitting on top of it. Set the doses beside that process and the economy is the point: ten pears and one 两 of agarwood against a single 钱 of sandalwood. The chief outweighs the minister by an order of magnitude, which is the difference between agarwood-with-a-lift and a muddle of two woods.
+**The pear is a vessel.** Powder packed into a cored pear → three rounds of steam → the fruit softens and its juice wets the powder through → the skin is peeled and the mass reground → the sweet note ends up inside the wood instead of on top. The doses carry the economy: ten pears and one 两 of agarwood against a single 钱 of sandalwood. The chief outweighs the minister by an order of magnitude, which is the difference between agarwood-with-a-lift and a muddle of two woods.
 
-**The camphor is the name.** The same reading works in reverse: camphor dosed at a trace → a cool flash at the opening → the nose keeps the flash longer than it keeps the wood underneath → the compound is remembered and sold as Snow in Spring rather than as sandalwood-with-herbs. The smallest line produced the identity, and the largest line produced the body.
+**The camphor is the name.** Camphor at a trace → a cool flash at the opening → the nose keeps the flash longer than the wood underneath → the compound is remembered and sold as Snow in Spring rather than sandalwood-with-herbs. The smallest line produced the identity; the largest produced the body.
 
-**The assistant can be split.** In the third formula frankincense opens the scent while amber settles it, two halves of one job pulling in opposite directions. No other example makes the point as cleanly: a role is a function, not a headcount, and "assistant" means whatever the opening needs at that moment.
-
-Three forms, three centuries, one shape: heartwood carries, a lighter material rounds it at a fraction of the dose, a scarce note names the piece, and a binder or a process holds it together. A learner who sees the one shape behind the three examples has the craft, not just three facts.
+**The assistant can be split.** In the third formula frankincense opens the scent while amber settles it — two halves of one job pulling in opposite directions. A role is a function, not a headcount.
 
 ## Units Before Numbers
 
 **Direct answer:** The unit words carry more information than the digits. They tell you whether a material was weighed, counted, or never put on the scale at all.
 
-The inventory of units is short. 两 (liǎng) is the base weight, 钱 (qián) its tenth, 分 (fēn) its hundredth. 枚 (méi) counts whole objects — pears, plums, pieces of fruit — which tells you the component entered fresh rather than as powder. 份 (fèn) marks a portion, a looser instruction that assumes the maker knows the batch size. The absence of any unit, or a phrase such as 久窨 ("rest a long time"), marks a process: a step measured in hours rather than grams.
+The inventory of units is short. 两 (liǎng) is the base weight, 钱 (qián) its tenth, 分 (fēn) its hundredth. 枚 (méi) counts whole objects — pears, plums, pieces of fruit — which tells you the component entered fresh rather than as powder. 份 (fèn) marks a portion, assuming the maker knows the batch size. No unit at all, or a phrase such as 久窨 ("rest a long time"), marks a process measured in hours rather than grams.
 
-Chain that forward and the unit becomes a sorting signal: the unit word is read first → it places the line into weighed, counted, or processed → a 两 dose outranks a 钱 dose before you have parsed a single digit → the skeleton of the formula appears before the ingredient list does. A reader who jumps straight to the numbers reads the formula half-blind, because a line reading "十枚" is not a small quantity; it is ten whole pears.
+Chain that forward and the unit becomes a sorting signal: the unit word is read first → it places the line into weighed, counted, or processed → a 两 dose outranks a 钱 dose before you have parsed a digit → the skeleton appears before the ingredient list does. Jump straight to the numbers and you read the formula half-blind, because "十枚" is not a small quantity; it is ten whole pears.
 
-The gram question is where modern readers get stuck. The 两 drifted across dynasties — on the order of 30–40 g in the later ones, with about 37 g often cited for the Song–Ming period — so the figure is a convention, not a certificate. What survives intact is the relationship: one 两 of agarwood against one 钱 of sandalwood is a 10:1 ratio, and that ratio is the meaning of the recipe. Weighing the ink instead of reading the sentence is the failure mode; the proportion is the argument, and the gram weight moved with every change of dynasty.
+The gram question is where modern readers get stuck. The 两 drifted across dynasties — roughly 30–40 g in the later ones, with about 37 g usually cited for the Song–Ming period — so the figure is a convention, not a certificate. What crosses intact is the relationship: one 两 of agarwood against one 钱 of sandalwood is a 10:1 ratio, and that ratio is the recipe's meaning. The ink is not the message; the proportion is the argument.
 
 ## Reading a Formula You Cannot Translate
 
 **Direct answer:** The language is not the barrier it looks like. Four moves get most of the way: find the largest number, find the smallest distinctive line, find anything that is a step rather than a material, and compare a second surviving version.
 
-The largest number belongs to the chief with almost no exceptions, because the highest dose is what lands first and lasts longest. The smallest line that still carries a vivid character — a cool resin, a fruit, a single flower — is usually the assistant, and it usually explains why the piece has the name it has. Lines that read like verbs rather than nouns (steam three times, rest long, coat the outside, bind with honey) are the guide, and they are easy to mistake for footnotes because they carry no material to look up.
+The largest number belongs to the chief with almost no exceptions, because the highest dose lands first and lasts longest. The smallest line that still carries a vivid character — a cool resin, a fruit, a single flower — is usually the assistant, and it usually explains the piece's name. Lines that read like verbs rather than nouns (steam three times, rest long, coat the outside, bind with honey) are the guide, easy to mistake for footnotes because they carry no material to look up.
 
-The fourth move is the one that separates reading from guessing. Classical formulas survive in several editions, and the editions disagree about proportions. When two versions agree on which line is dosed highest and disagree on the exact figure, the agreement is the structure and the disagreement is the transmission. When they disagree about the rank as well, you are looking at two different formulas that share a title, which happens more often than a modern reader expects. The [formulation library](/blog/chinese-incense-recipes/) gathers recorded versions for exactly this reason, and the [manual tradition](/blog/xiangpu-incense-manuals/) explains why the editions diverge.
+The fourth move separates reading from guessing. Classical formulas survive in several editions that disagree about proportions. When two versions agree on which line is dosed highest and disagree on the figure, the agreement is the structure and the disagreement is the transmission. When they disagree about rank as well, you are looking at two formulas sharing a title, which happens more often than a modern reader expects. The [formulation library](/blog/chinese-incense-recipes/) gathers recorded versions for this reason, and the [manual tradition](/blog/xiangpu-incense-manuals/) explains why editions diverge.
 
-One caution about names. Old texts use literary and trade terms that do not map cleanly onto what a supplier lists today; a word that meant one grade in one century can mean another later, or a different material. A reader who finds nothing under a name has not necessarily mistranslated it. Naming instability is a feature of this material culture, not a failure of the dictionary.
+One caution about names. Old texts use literary and trade terms that do not map cleanly onto a supplier's list; a word that meant one grade in one century can mean another later, or a different material. A reader who finds nothing under a name has not necessarily mistranslated it. Naming instability is a feature of this material culture, not a failure of the dictionary.
 
 ## Component Family to Likely Role
 
@@ -179,13 +175,11 @@ Read the far-right column and the pattern appears: the deep, slow materials sit 
 
 **Direct answer:** 君臣佐使 is not an incense invention. It came from herbal compounding, and incense borrowed the organizing logic while keeping a different purpose.
 
-In a herbal formula the chief addresses the main condition, the minister strengthens that action, the assistant evens out an excess or covers a shortfall, and the guide steers the whole or smooths it into harmony. The foundational materia medica, 本草纲目 among them, record the scheme as an organizing principle rather than as a recipe.
+In a herbal formula the chief addresses the main condition, the minister strengthens that action, the assistant evens out an excess or covers a shortfall, and the guide steers the whole. The foundational materia medica, 本草纲目 among them, record the scheme as an organizing principle rather than a recipe. The incense manuals that carry these formulas span the Song (960–1279) and Ming (1368–1644) compilations, with the bedchamber formula at the Five Dynasties (907–960) boundary.
 
-The manual tradition that carries these formulas spans the Song (960–1279) and Ming (1368–1644) compilations, with the bedchamber formula sitting at the Five Dynasties (907–960) boundary and the materia medica scheme itself recorded far earlier.
+Incense took the scheme because both fields ran on one premise: a composition is built by choosing each part for the job it performs inside the whole, never for its isolated effect. That is why old formulas read as constructed objects — assembled, not improvised.
 
-Incense took the scheme because the two fields ran on the same premise: a composition is built by choosing each part for the job it performs inside the whole, never for its isolated effect. That shared premise is why old incense formulas come across as constructed objects. They were assembled, not improvised, and the assembly is the craft.
-
-The borrowing is directional and narrow. The organizational logic came from medicine. The purpose did not. A herbal formula is arranged to act on the body; a compound is arranged to act on the nose. Same skeleton, different target. Holding that line is not pedantry: the closer the parallel looks, the easier the slide from "organized like a medicine" to "works like one." A balanced compound is not thereby a healthful one, and the tradition's own vocabulary never claimed otherwise. This is the author's editorial position, and it is the boundary this page will not cross.
+The borrowing is directional and narrow. The logic came from medicine; the purpose did not. A herbal formula acts on the body, a compound on the nose. Holding that line is not pedantry: the closer the parallel looks, the easier the slide from "organized like a medicine" to "works like one." A balanced compound is not thereby a healthful one, and the tradition's own vocabulary never claimed otherwise. That is the author's editorial position, and the boundary this page will not cross.
 
 ## 单方 and 复方: Two Disciplines, Not Two Grades
 
@@ -239,28 +233,6 @@ The test is not whether the label is poetic. A short list that names a wood, a r
 | Old grams are exact | A classical formula can be reproduced to the gram | The ratio survives; the unit weight drifted by dynasty |
 
 Two of those mistakes come from reading a composition as a collection, which rewards adding more and paying more. A composition rewards neither. The title mistake is the expensive one: a compound called "plum blossom" takes its name from the bright assistant while a plain wood does the carrying, so weighing the plum heavy produces a different design that keeps the name and loses the structure.
-
-## The Working Glossary
-
-**Direct answer:** A dozen terms carry the whole subject, and each one earns its place because the English alternatives are vaguer.
-
-| Term | Say it | What it means here |
-|---|---|---|
-| 合香 | hé xiāng | Blending several aromatics into one designed scent |
-| 单方 | dān fāng | A single aromatic, valued on its own quality |
-| 复方 | fù fāng | A multi-material compound, the strict sense of 合香 |
-| 君 | jūn | Chief: the highest dose, the carrying aroma |
-| 臣 | chén | Minister: the supporting dose that rounds the chief |
-| 佐 | zuǒ | Assistant: the scarce, bright note that names the piece |
-| 使 | shǐ | Guide: binder, fixative, or process step |
-| 两 | liǎng | Historical base weight; the unit a formula is built on |
-| 钱 | qián | One tenth of a 两 |
-| 分 | fēn | One hundredth of a 两 |
-| 枚 | méi | Counted pieces, used for whole fruit |
-| 久窨 | jiǔ xūn | A long resting period after blending |
-| 香谱 | xiāng pǔ | The manual tradition that records formulas |
-
-Read pinyin and character together once and old recipes stop reading as code. The lexicon is deliberately small; the tradition worked it hard.
 
 ## Checks Before You Buy a Compound
 
@@ -341,10 +313,6 @@ One test settles most disputes about a batch. Before lighting it, write down whi
 ### Q: What does 合香 (hé xiāng) actually mean?
 
 Literally "combined fragrance," and it names an assembly method, not a product category. A blender hands each aromatic a defined job, so the result is one scent with internal structure. Two formulas qualify while sharing nothing in the jar. The contrast case is 单方, where a single aromatic stands alone and the skill lies in grading and heat.
-
-### Q: Does the chief have to be the most expensive material?
-
-No, and the two rarely coincide. Rank follows the dose; price follows scarcity in trade. A plain wood at the top of the ladder can hold a compound in which a costly resin whispers at the bottom. Assume otherwise and you pay for rarity while judging a design you never read.
 
 ### Q: Why whole pears rather than pear juice?
 
