@@ -1,12 +1,6 @@
 # Machine-readable markdown variants — explicit Content-Type
 # (Cloudflare's MIME table may not map `.md` to text/markdown).
-/ingredients/*.md
-  Content-Type: text/markdown; charset=utf-8
-
-/blog/*.md
-  Content-Type: text/markdown; charset=utf-8
-
-/chinese-incense.md
+/*.md
   Content-Type: text/markdown; charset=utf-8
 
 /*
