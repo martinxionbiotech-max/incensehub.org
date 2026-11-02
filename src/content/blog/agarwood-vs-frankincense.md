@@ -11,52 +11,40 @@ brand: "IncenseHub"
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Familiarity makes people treat these two as cousins, and they are not. Agarwood (沉香) is the heartwood of an *Aquilaria* tree that has flooded its own damaged tissue with resin; the wood is the material, and the resin is what changed it. Frankincense (乳香) is the resin itself — sap drawn from cut *Boswellia* bark and set into droplets. Transformed wood against hardened sap: the difference decides how each is heated, graded, and faked.
+**Direct answer:** They are not cousins, whatever the shelving suggests. Agarwood (沉香) is *Aquilaria* heartwood whose damaged tissue has filled with resin over years — you are buying wood in a particular condition. Frankincense (乳香) is the exudate itself, tapped from *Boswellia* bark and hardened into tears. Wood carrying resin versus resin alone: that split governs how each is heated, how each is graded, and which frauds to expect.
 
-**Key facts:** *Aquilaria* sits in Thymelaeaceae, *Boswellia* in Burseraceae — separate families, and in agarwood's case the product is a condition of tissue rather than a species. Both reward gentle warmth and punish flame, for reasons that differ. Neither is the better material; they do different jobs in a formula, and they arrive with different risks attached.
+**Key facts:** *Aquilaria* belongs to Thymelaeaceae and *Boswellia* to Burseraceae — two families, and in agarwood's case a product defined by tissue condition rather than by species. Both want gentle warmth and both suffer under flame, though the physics differ. One is not superior to the other: they fill different roles in a formula and carry different risks.
 
 ---
 
 ## Key Takeaways
 
-- One material is transformed wood; the other is hardened sap. Different families, different plant parts, different behaviour under heat.
+- One material is transformed wood; the other is hardened sap. Two families, two plant parts, two behaviours under heat.
 - Read them as floor and ceiling: agarwood holds the base of a formula, frankincense brightens its opening.
-- The risk profiles are opposite. Agarwood invites fraud; frankincense invites carelessness about species and grade.
+- The risk profiles run opposite. Agarwood invites fraud; frankincense invites carelessness about species and grade.
 - Regulation separates them too: *Aquilaria* trade runs through CITES paperwork, while *Boswellia* resin runs on origin and harvest practice.
 - Open flame wastes both. Gentle, indirect heat is the method, not a refinement.
 - No health claim is made here for either material; the traditional record is described as tradition.
 
 ---
 
-That asymmetry explains a pattern buyers notice but rarely name: the expensive material is the one you must authenticate, and the affordable material is the one you must grade. Effort belongs where the loss would land. Spending an afternoon vetting resin droplets while accepting a wood chip on the seller's word is exactly backwards.
-
----
-
 ## Wood With Resin Inside, Versus Resin Alone
 
-**Direct answer:** Agarwood's aromatic substance is locked inside a woody matrix and cannot be separated from it by hand, while frankincense *is* its own aromatic substance. That one fact predicts the grading, the packaging, and the frauds.
+**Direct answer:** Agarwood keeps its aroma inside a woody matrix that cannot be separated by hand; frankincense has no matrix at all — the whole droplet is aromatic material. That difference predicts the grading, the packaging, and the frauds.
 
 Take a piece of *Aquilaria* that was never wounded: pale, light in the hand, and almost scentless. Wounding changes the chemistry. The tree deposits resin into the damaged tissue across years, and the wood darkens, gains weight, and begins to smell. Break a good piece open and the deposit shows as darker veins running through paler fibre. What the trade sells is therefore a *state* of the wood, not a variety of tree: two blocks from one trunk can be the same species and completely different products.
 
-Frankincense offers nothing comparable to inspect. The bark is cut, milky sap runs, and it hardens into droplets that are collected by hand. Every droplet is resin through and through, so the grade question is about size, colour, clarity, and species — not about proportion.
+Frankincense presents no such interior to read. Bark is scored, a milky exudate runs, and it sets into droplets lifted by hand. Each droplet is aromatic material all the way through, which turns grading into a question of size, colour, clarity, and species rather than proportion.
 
-| Question | Agarwood | Frankincense |
+| Test | Agarwood | Frankincense |
 |---|---|---|
-| Where does the aroma live? | Deposited inside fibre | Throughout the piece |
-| What does raw stock look like? | Dark-veined dense wood; chips, blocks, powder | Translucent droplets, pale to amber; powder, oil |
-| Can aroma be separated by hand? | No; oil comes from a still | Yes — the resin melts; oil is distilled |
-| First check | Density and how the resin is distributed | Droplet size, colour, clarity |
-| How a bad lot shows itself | Surface treatment with nothing inside | Dust and fragments sold as whole pieces |
+| Where the scent sits | In veins running through fibre | Evenly through the lump |
+| What stock looks like | Heavy timber with dark streaks; chipped or ground | Glassy lumps from cream to amber; also ground, also distilled |
+| Can you take the scent out? | Not by hand — a still is needed | The lump softens on heat; a still yields the oil |
+| Opening check | Heft, and whether the dark material runs deep | Lump size, tint, transparency |
+| Failure signature | A dressed surface over bland wood | Grit and shards passed off as whole lumps |
 
----
-
-## The Word "Resin" and Where It Misleads
-
-**Direct answer:** Calling both materials "resins" is a category error that produces real purchasing mistakes. Agarwood is a resinous wood; frankincense is a gum-resin. The word describes a component in one case and the entire product in the other.
-
-The error is not pedantic. Someone who believes both are resins expects them to behave alike under heat — to melt, pool, and volatilize. Frankincense does melt. Agarwood does not: heat it and the wood structure stays intact while aromatic compounds volatilize out of it. A buyer who expects melting behaviour will misjudge a good agarwood chip as "not working" because it never liquifies, and may prefer a doctored piece that has been soaked in oil to make it behave the way a resin "should."
-
-There is a second consequence, in grading language. Because frankincense is a single substance, its grading is continuous — bigger, cleaner, paler tears are better. Because agarwood is a composite, its grading is about proportion: how much of this piece is resin, how evenly is it distributed, how deep does it run. Those are different questions, and the trade vocabulary reflects it. The sinking test measures density as a proxy for resin load; tear grading measures appearance and purity. Comparing the two ladders directly is a mistake the next sections address.
+One misreading produces most of the buying mistakes in this pair: because frankincense melts, people expect both materials to melt. Agarwood does not — its wood stays intact while aromatic compounds volatilize out of it, so a good chip can look inert while an oil-soaked fake looks generous. The grading vocabulary splits the same way. Frankincense is one substance, so its grades run continuously from bigger and cleaner down; agarwood is a composite, so its grades describe proportion — how much resin, how evenly, how deep. Density answers that in one crude reading; a photograph answers it not at all.
 
 ---
 
@@ -70,11 +58,11 @@ Frankincense is more linear. A tear on heat gives lemon, resin, and a warm balsa
 
 | Behaviour | Agarwood | Frankincense |
 |---|---|---|
-| Speed of release | Slow to open, long to develop | Opens fast, holds steady |
-| Shape over time | Three-stage arc | Flat line with a soft finish |
-| Strongest moment | Middle to tail | First minute to first third |
-| Blending role | Anchor and floor | Lift and opening |
-| What a poor grade lacks | Structure — the stages collapse into one flat note | Clarity — the citrus turns muddy or dusty |
+| How it arrives | Late, and keeps changing | At once, then steady |
+| Arc over the session | Three movements | A plateau with a gentle close |
+| Peak | Second half | The first minutes |
+| Job in a blend | Weight and floor | Air and lift |
+| What weak stock lacks | Architecture — everything collapses into one flat tone | Definition — the citrus goes muddy or dusty |
 
 *The stage vocabulary is descriptive trade language, not a laboratory classification.*
 
@@ -82,18 +70,13 @@ Frankincense is more linear. A tear on heat gives lemon, resin, and a warm balsa
 
 ## Why Neither Material Is Usually Burned
 
-**Direct answer:** Both are heated instead of ignited, because combustion destroys the compounds that make them worth buying. The physical reasons differ: agarwood's aroma sits inside wood that chars, frankincense melts before it can burn cleanly.
+**Direct answer:** Flame destroys what you are trying to smell. Agarwood's aroma sits in wood that chars, and frankincense melts long before it would burn cleanly, so both are warmed rather than lit.
 
 Set agarwood alight and the wood burns. What you smell is largely combustion — acrid, tarry, and flat — with the aromatic fraction destroyed in the same reaction. Warm it instead, keeping the chip below the point of ignition, and the aromatic compounds volatilize out of the wood intact while the structure stays whole. This is the logic behind 隔火焚香 (gé huǒ fén xiāng, "heating incense through a barrier"): charcoal is buried in ash, a chip or a thin mica plate sits above it, and the material receives conducted heat rather than flame.
 
-Frankincense behaves differently for a related reason. A tear melts at a modest temperature and releases scent as it volatilizes; it does not need flame to give up its aroma, and flame simply scorches the residue. A charcoal disc works because it supplies steady heat under the melting point of combustion, and an electric heater works better still because the temperature is controllable and there is no secondary smoke from the fuel.
+A frankincense tear gives up its scent well below the temperature of fire: it softens, then volatilizes, and a flame only spoils the remainder. Steady heat is enough. A charcoal disc supplies it, while an electric heater improves on the disc by holding a settable temperature and adding no smoke of its own.
 
-| Method | Heat character | Best for | What goes wrong |
-|---|---|---|---|
-| Electric heater | Low, adjustable, no fuel smoke | Both materials; the cleanest option | Too high a setting flattens agarwood's stages |
-| Charcoal under ash with a barrier | Steady, radiant, slightly rising | Agarwood chips, larger frankincense tears | Ash depth is a skill; too little barrier scorches |
-| Charcoal disc, direct | Hot and uneven | Frankincense tears in a censer | Resin scorches at the contact point |
-| Direct flame | Very high, local | Nothing on this page | Destroys the aromatic fraction of both |
+What separates a good session from a spoiled one is temperature control, not the price of the burner.
 
 The practical rule that follows: if the material is smoking heavily and turning black within seconds, the heat is too high. Good heating produces a thin plume or none at all, and the scent arrives before any visible char.
 
@@ -101,11 +84,11 @@ The practical rule that follows: if the material is smoking heavily and turning 
 
 ## The Agarwood Ladder: Density, Structure, and 奇楠
 
-**Direct answer:** Resin load is read through density — the water test — with structure and aroma character refining the ranking, and 奇楠 (qínán) treated as a distinct top category rather than simply "more of the same."
+**Direct answer:** Density is the first screen: resin is heavier than the air-filled fibre it replaces, so a piece that floats is carrying little of it. Structure and scent then refine the ranking, with 奇楠 (qínán) treated as a category of its own rather than a higher reading on the same scale.
 
 Float a piece and you learn roughly how much aromatic material it holds, because resin is heavier than the air-filled fibre it replaces. The classic bands run from material that goes down, through pieces that hang half-submerged, to pieces that sit on the surface. Buoyant material is not worthless — it may still carry a scent — but it holds little resin and prices accordingly. The method is crude, easy to mislead on small pieces with trapped air pockets, and best read as one signal among several.
 
-Structure matters beyond density. 奇楠 is described in traditional trade language as oil wrapping wood — a texture and a manner of releasing scent, not merely a heavier reading on the same scale. How much that distinction matters depends on what you are doing with the material: a collector may care deeply about it, while someone grinding powder for sticks may care mostly about resin content and how cleanly it burns.
+Trade descriptions of 奇楠 (qínán) point to oil wrapping wood — texture, and a particular way of giving up scent — rather than to a higher number on the same scale. How much weight that carries is a matter of use: collectors may chase it, while a workshop grinding sticks for powder cares about resin load and clean combustion.
 
 | Signal | What it suggests | Where it fails |
 |---|---|---|
@@ -115,9 +98,9 @@ Structure matters beyond density. 奇楠 is described in traditional trade langu
 | Scent that develops in stages on heat | Genuine resin behaviour | Oil-soaked stock mimics the opening |
 | Soft, pliable, strongly scented | 奇楠-type material (traditional description) | Resin-softened lower grades confuse the test |
 
-A warning about the water test that the trade rarely states: it rewards density, and density can be bought. Soaking, pressure treatment, and resin injection all raise the reading without adding the years of natural deposition that the reading is supposed to stand for. That is why the test belongs beside a heated sample, not instead of one.
+The water test has a flaw the trade seldom mentions: it measures density, and density is for sale. Soaking, pressure treatment, and injected resin all push a reading upward without the slow natural deposition that reading is meant to certify. Use it next to a heated sample, never on its own.
 
-The full treatment of bands, origins, and the 奇楠 question sits in the [agarwood grading guide](/blog/agarwood-grading-guide/); what matters for this comparison is that agarwood grading is a *proportion* question, and proportions can be faked in ways appearance grading cannot detect.
+The band-by-band treatment, origins included, sits in the [agarwood grading guide](/blog/agarwood-grading-guide/); for this comparison the point is that agarwood quality is a question of proportion, and proportion is exactly what appearance grading cannot detect.
 
 ---
 
@@ -143,15 +126,15 @@ Two caveats belong here. Colour preference is partly cultural — some markets p
 
 **Direct answer:** Most labels assert a category, not a quality, and several of the words buyers trust most are the least informative. Reading a label well means knowing which claims are testable and which are decoration.
 
-| Label wording | What it actually asserts | Testable? |
+| Says | What that commits them to | Can you check it? |
 |---|---|---|
-| "Agarwood" | A genus and a process, no grade | Partly — species and behaviour on heat |
-| "Wild" | A formation route, not a quality level | Only with paperwork |
-| "Sinking grade" | A density result on the pieces tested | Yes, on your own sample |
-| "Premium" | Nothing measurable | No |
-| "100% natural" | Not a statement about species or grade | No |
-| "Frankincense" | A genus, not a species | Partly — aroma suggests species |
-| "Hand-selected" | A labour claim | No |
+| "Agarwood" | A genus and a process; no grade implied | Sometimes — species, and how it behaves on heat |
+| "Wild" | How it formed, not how good it is | Only if documents exist |
+| "Sinking grade" | A density result for the pieces tested | Yes — float your own |
+| "Premium" | Nothing you can measure | No |
+| "100% natural" | Nothing about species or grade | No |
+| "Frankincense" | Genus only, not species | Sometimes — the smell hints at species |
+| "Hand-selected" | A claim about labour | No |
 
 Two conclusions follow. The first is that a label's job is to let you ask a better question, not to answer it — "sinking grade" invites you to test density, while "premium" invites you to trust. The second is that the more adjectives a packet carries, the less information it usually contains, because adjectives are cheap and measurements are not.
 
@@ -165,12 +148,12 @@ A practical habit: rewrite the label as a question before you buy, and see wheth
 
 The wood frauds are consistent enough to list. Pale stock gets stained and wiped with oil so it reads dark. Timber from unrelated genera appears under the name because the grain looks close at a glance. Cheap chips are impregnated under pressure until they drop in water. Powder is cut with material that never grew inside an *Aquilaria* trunk. Every one of those methods targets a different check, which is exactly why a single check fails against a determined seller.
 
-| Fraud | What it defeats | What catches it |
+| Trick | Which check it beats | What exposes it |
 |---|---|---|
-| Stained pale stock | A visual glance | A fresh cut shows colour at the edge only |
-| Unrelated timber | Grain and colour comparison | Botanical features; behaviour on gentle heat |
-| Impregnation under pressure | The water test | Scent collapses fast; residue and staining on the plate |
-| Bulked powder | The look of the powder | Burn profile and residue; laboratory analysis |
+| Dye and oil on pale stock | A quick look | A fresh cut shows colour only at the rim |
+| Timber from another genus | Grain and colour comparison | Botanical features; behaviour on gentle heat |
+| Pressure impregnation | The water test | Scent fades fast; residue and staining on the plate |
+| Powder cut with other material | The look of the powder | Burn profile and residue; laboratory analysis |
 | "Wild" claims on planted stock | Trust in provenance words | Paperwork, and whether the price is plausible |
 
 The resin side of the ledger is short. Droplets are almost always what they claim to be; the questions are which species, what grade, and how clean. That asymmetry is the useful part of this comparison, because it tells you where a wasted hour actually changes the outcome.
@@ -183,7 +166,7 @@ One further point about how the frauds are priced. A convincing fake is not chea
 
 ## Conservation and Trade Rules
 
-**Direct answer:** *Aquilaria* material is regulated under CITES because wild populations were depleted by demand; *Boswellia* resin is not CITES-listed, but over-tapping is a documented pressure across parts of its range.
+**Direct answer:** *Aquilaria* trade is regulated because wild populations were stripped by demand, while *Boswellia* resin faces no permit regime — its pressure is ecological, from over-tapping.
 
 For agarwood the practical consequence is paperwork. *Aquilaria malaccensis* is listed on CITES Appendix II, which means export requires permits and buyers should expect documentation with the shipment. Plantation material can be legal and traceable; wild material is both harder to obtain and harder to document. A seller who cannot say whether the material is wild or cultivated is a seller who cannot tell you whether the shipment can legally cross a border.
 
@@ -191,10 +174,10 @@ For frankincense the pressure is ecological rather than regulatory. Tapping too 
 
 | | Agarwood | Frankincense |
 |---|---|---|
-| Trade regulation | CITES Appendix II for *A. malaccensis* | No CITES listing |
-| Wild status | Heavily depleted; plantation supply dominant | Wild and semi-managed; regional over-tapping pressure |
-| Paperwork to expect | CITES permits, origin documents | Origin and species declaration |
-| Buyer's lever | Documentation and traceability | Origin, harvest practice, species honesty |
+| Legal status | Appendix II of CITES, for *A. malaccensis* | Outside CITES |
+| State of wild supply | Badly reduced; plantations now dominate | Wild and semi-managed, with regional over-tapping |
+| Documents | CITES permits plus origin papers | Origin and species declared |
+| What the buyer can check | Paper trail and traceability | Where it came from, how it was tapped, whether the species is named |
 
 ---
 
@@ -216,7 +199,7 @@ For frankincense the same sequence compresses to three steps: inspect the tears,
 
 ## Using Them Together: Base and Top
 
-**Direct answer:** They are complements, not alternatives. A small amount of frankincense lifts the opening of a formula built on agarwood; a larger amount of frankincense with a trace of agarwood produces a bright scent with a deep floor.
+**Direct answer:** Treat them as partners rather than rivals. Frankincense supplies the opening minutes; agarwood supplies the middle and the close, and most formulas need one of each rather than more of either.
 
 Think in terms of what each contributes to a timeline rather than to a smell. Frankincense owns the first minutes and then holds; agarwood owns the middle and the end. A blend that uses only frankincense tends to feel bright and short. A blend that uses only agarwood can feel heavy and slow to arrive. Together they cover the arc.
 
@@ -229,7 +212,7 @@ Think in terms of what each contributes to a timeline rather than to a smell. Fr
 
 *Shares above are editorial guidance for relative proportion, not recipe quantities — the right ratio depends on the specific materials in hand.*
 
-The blending logic belongs to the wider [hé xiāng](/blog/incense-material-comparison-matrix/) tradition, where a formula is built around a chief material with supporting notes rather than around a single ingredient.
+This is the [hé xiāng](/blog/incense-material-comparison-matrix/) habit: build a formula around one chief material and give the others supporting work, instead of asking a single ingredient to do everything.
 
 ---
 
@@ -237,17 +220,7 @@ The blending logic belongs to the wider [hé xiāng](/blog/incense-material-comp
 
 **Direct answer:** A small purchase is a legitimate way to learn, provided you know what it can and cannot answer. A portion tells you how a material behaves on your heater; it cannot tell you how a full lot behaves, because the portion was almost certainly chosen for you.
 
-The limits are worth stating plainly. A trial portion is usually the best-looking material the seller has, selected by hand. It shows you the ceiling of that seller's stock, not the average. It also arrives in a quantity too small to reveal variation — three chips from one block say nothing about a kilogram drawn from eight blocks. So treat the trial as a test of *type*, not of *lot*.
-
-| Question | Trial portion answers it? | What would answer it |
-|---|---|---|
-| Do I like this species? | Yes | A trial portion, heated twice |
-| Does this seller's material smell as described? | Yes, at best-case quality | A trial portion plus a second purchase |
-| Is this lot consistent? | No | Several portions bought weeks apart |
-| Is the price fair for the grade? | No | Comparison against a known reference |
-| Will it suit my blend? | Partly | A trial portion worked into the formula |
-
-A useful habit is to buy the same material twice, months apart, from the same seller. The first purchase tells you what they can source; the second tells you whether they can repeat it. That is the cheapest consistency test available to a private buyer, and it costs far less than being disappointed by a bulk order.
+A trial portion is usually the best-looking material the seller has, selected by hand. It shows the ceiling of that stock, not the average, and three chips from one block say nothing about a kilogram drawn from eight. Treat the trial as a test of *type*, not of *lot*. The cheapest consistency test available to a private buyer is to buy the same material twice, months apart: the first purchase tells you what a seller can source, the second whether they can repeat it.
 
 ---
 
@@ -255,11 +228,11 @@ A useful habit is to buy the same material twice, months apart, from the same se
 
 **Direct answer:** Price tracks scarcity and verification cost, not quality by itself. An expensive piece of agarwood can be a bad piece; an inexpensive frankincense can be excellent.
 
-Two forces set the agarwood price. Scarcity is the obvious one — the material forms slowly, in some trees, over years. The second is the cost of trust: every step from forest to buyer requires inspection, and that cost is embedded in the price of legitimate material. A suspiciously cheap piece usually means one of those costs was skipped, and the buyer inherits the risk that was avoided.
+The agarwood price reflects two things. One is scarcity: the material forms slowly, in a minority of trees, over years. The other is the cost of trust — inspection at every hand-off, carried in the price of legitimate stock. A bargain usually means one of those costs was skipped, and the risk has moved to you.
 
-Frankincense is priced mostly by species, grade, and origin, with less room for drama. That makes it a good material for learning to taste without financial pressure: a beginner can buy several species, heat them side by side, and build a reference library for the price of one mediocre agarwood chip. Doing that first makes the agarwood purchase better informed.
+Frankincense prices by species, grade, and origin, with less room for theatre. That makes it a cheap place to train the nose: several species, heated side by side, cost less than one mediocre agarwood chip — and make the later wood purchase better informed.
 
-**Misconception to retire:** that rarity is a virtue in itself. Rarity explains why a material is expensive; it says nothing about whether you will enjoy it or whether it suits your practice. A collector may value scarcity, and that is a legitimate preference — but it is a preference about collecting, not a claim about scent.
+**Misconception to retire:** that rarity is a virtue in itself. Rarity explains price; it says nothing about enjoyment or fit. A collector may value scarcity — a legitimate preference about collecting, not a claim about scent.
 
 ---
 
@@ -267,12 +240,12 @@ Frankincense is priced mostly by species, grade, and origin, with less room for 
 
 **Direct answer:** Agarwood fails by being over-heated, under-heated, or fake; frankincense fails by being scorched, stale, or the wrong species for the blend. Knowing the failure modes saves more money than any grading chart.
 
-- **Over-heated agarwood.** The staged arc collapses into a single tarry note, and the piece is spent in minutes instead of an hour.
-- **Under-heated agarwood.** Nothing happens; the buyer concludes the material is fake when the heater is simply too cool.
-- **Oil-treated agarwood.** Strong at first, then flat and faintly chemical, with residue on the heater plate.
-- **Scorched frankincense.** Direct contact with a hot disc chars the tear; the citrus turns acrid.
-- **Stale frankincense.** Old tears lose their brightness and smell dusty; the fix is buying smaller quantities more often.
-- **Wrong species for the intent.** *B. serrata* in a blend written for *B. sacra* will read earthier and heavier than intended.
+- **Over-heated agarwood.** The staged arc collapses into one tarry note; the piece is spent in minutes, not an hour.
+- **Under-heated agarwood.** Nothing happens, and the buyer blames the material when the heater is simply too cool.
+- **Oil-treated agarwood.** Strong at first, then flat and faintly chemical, with residue on the plate.
+- **Scorched frankincense.** Contact with a hot disc chars the tear and turns the citrus acrid.
+- **Stale frankincense.** Old tears lose brightness and smell dusty; buy smaller amounts more often.
+- **Wrong species.** *B. serrata* in a blend written for *B. sacra* reads earthier and heavier.
 
 ---
 
@@ -289,8 +262,6 @@ Frankincense is priced mostly by species, grade, and origin, with less room for 
 | Heat something with guests in a small room | Frankincense, clean tears | Low — mind the smoke |
 | Compare traditions of incense | Both, plus myrrh and sandalwood | Moderate |
 
-The pattern in the right column is the useful part: the material that is easier to verify is also the better one to learn on, and the material that is harder to verify is the one where a mistake costs most.
-
 ---
 
 ## How Plantation Agarwood Is Made
@@ -303,11 +274,11 @@ A plantation removes the lottery. Trees are raised in rows, wounded on purpose �
 
 | Feature | Wild | Plantation |
 |---|---|---|
-| Trigger | Accident: insect, weather, animal | Deliberate wounding, sometimes with inoculation |
-| Time to harvest | Decades, unpredictable | Years, scheduled |
-| Aroma character | Often more complex, more variable | More uniform, occasionally flatter |
-| Documentation | Difficult; provenance is testimony | Plot and treatment records exist |
-| Trade position | Restricted and scarce | The dominant legal supply |
+| What starts it | Chance damage — weather, insects, animals | Deliberate injury, sometimes with fungal inoculation |
+| Years to harvest | Decades, and never guaranteed | A few years, on a schedule |
+| Scent | Usually richer and less predictable | More even, sometimes thinner |
+| Records | Rare; origin rests on someone's word | Plot and treatment history can be produced |
+| Market place | Scarce and restricted | The main lawful source |
 
 The judgment to make is not "wild good, plantation bad". A well-formed plantation piece can outperform a poor wild one, and the wild premium is partly a story about scarcity. What plantation material cannot offer is the unpredictability that collectors chase — and what wild claims cannot offer, usually, is paperwork.
 
@@ -317,9 +288,7 @@ The judgment to make is not "wild good, plantation bad". A well-formed plantatio
 
 **Direct answer:** The same wood that is heated as chips can be distilled into oil. Distillation is a separate product line with its own economics, and it does not rescue material that was poor to begin with.
 
-Chips or powder are loaded into a still, steam is passed through, and the condensate separates into an aromatic oil and a fragrant water. The oil is the valuable fraction; the water is a by-product with a faint scent. Because the aromatic content of the wood is low even in good material, the oil yield is small relative to the input — which is the honest explanation for why distilled oil costs what it does, independent of any marketing story.
-
-Three practical consequences follow. First, oil and chips are not interchangeable: heating a chip releases compounds in stages, while an oil applied to a heater flashes off its most volatile fraction first and then flattens. Second, distillation cannot upgrade bad wood; it concentrates whatever aromatic content exists, including the flat and the harsh. Third, the oil market has its own adulteration patterns, and a buyer who has learned to judge chips has not automatically learned to judge oil.
+Chips or powder go into a still, steam passes through, and the condensate separates into an aromatic oil and a fragrant water. Yield is small even from good wood, which is the honest reason distilled oil costs what it does. Oil and chips are not interchangeable: a chip releases compounds in stages, while oil on a heater flashes off its most volatile fraction and then flattens. Distillation also concentrates whatever is there, including the flat and the harsh, and the oil market carries its own adulteration patterns.
 
 ---
 
@@ -327,9 +296,7 @@ Three practical consequences follow. First, oil and chips are not interchangeabl
 
 **Direct answer:** Wood keeps better than resin, both keep better than powder, and every material keeps badly next to something strongly scented. The other storage problem is the tester's own nose, which adapts within minutes and starts reporting a false decline.
 
-Chips are the most forgiving form. Keep them dry, out of sunlight, and away from anything volatile — a sealed jar with a little headspace is enough, and a cotton bag is better than a plastic one for anything that will sit for months. Frankincense tears are also stable but slowly oxidize at the surface, losing brightness; buying smaller quantities more often beats storing a large bag for years. Powder is the fragile form: more surface area, faster loss, faster pickup of neighbouring odours.
-
-The tester's nose is the part most people forget. Smelling the same material repeatedly produces adaptation — the scent seems to weaken even when nothing has changed. That is why a fair evaluation runs in short passes with a break, and why a reference piece matters more than memory: adaptation makes memory unreliable within a single sitting.
+Chips are the most forgiving form: dry, out of sunlight, away from anything volatile, in a sealed jar with little headspace. Frankincense tears are stable but slowly oxidize at the surface, so smaller quantities bought more often beat a large bag stored for years. Powder is the fragile form — more surface area, faster loss, faster pickup of neighbouring odours. The nose is the part most people forget: smelling the same material repeatedly produces adaptation, which is why a fair evaluation runs in short passes with a break, and why a reference piece beats memory within a single sitting.
 
 ---
 
@@ -337,9 +304,7 @@ The tester's nose is the part most people forget. Smelling the same material rep
 
 **Direct answer:** Between a tree and a buyer there are usually several hands, and each hand-off is a place where material can be swapped, mixed, or relabelled. Knowing the path tells you where to ask for evidence.
 
-The usual route runs: grower or collector → local aggregator → regional trader → exporter → importer → retailer. Length is not itself a problem — aggregation is how small harvests become shippable lots — but it does mean that a claim about origin is only as good as the record kept at each step. A single-origin claim from a retailer five hand-offs away is, at best, a claim about what their supplier told them.
-
-The practical questions follow the path rather than the marketing. Who aggregated this lot? Which year was it harvested? Does the export documentation match the species claimed? Can the importer name the trader, not just the country? Each answer narrows the gap between the story and the material, and none of them requires laboratory equipment.
+The practical questions follow the path rather than the marketing: who aggregated this lot, which year it was harvested, whether the export documentation matches the species claimed, and whether the importer can name the trader rather than only the country. Each answer narrows the gap between the story and the material, and none of it requires laboratory equipment.
 
 ---
 
@@ -359,9 +324,9 @@ The practical questions follow the path rather than the marketing. Who aggregate
 | 没药 (mò yào) | — | Myrrh, the classical partner resin |
 | 隔火 (gé huǒ) | separated fire | Indirect heating through a barrier |
 
-Read the list as a vocabulary of origins. 生结 and 熟结 describe when the resin formed; 虫漏 and 板头 describe what caused the wound. None of them says "better" — a well-formed 虫漏 piece can outrank a dull 熟结 one, and a seller who presents a formation word as a grade is using description as a sales signal.
+Read the list as a vocabulary of origins: 生结 and 熟结 say when the resin formed, 虫漏 and 板头 say what caused the wound. None of them says "better" — a well-formed 虫漏 can outrank a dull 熟结 — and a seller who presents a formation word as a grade is using description as a sales signal.
 
-The one term that does carry rank is 奇楠, and even there the word refers to a behaviour — softness, a scent that blooms at low heat — rather than a measurable band. That is why experienced buyers treat it as a claim to be tested rather than a label to be trusted.
+Only 奇楠 carries rank, and even there the word describes a behaviour — softness, scent blooming at low heat — not a measurable band. Treat it as a claim to test, not a label to trust.
 
 ---
 
@@ -369,38 +334,17 @@ The one term that does carry rank is 奇楠, and even there the word refers to a
 
 **Direct answer:** Neither material can be judged from a picture, and the reasons differ. Wood is photographed for grain; resin is photographed for translucency — and both qualities are easy to flatter with light.
 
-A dark, oily-looking chip under warm light can be pale stock with a wiped surface. A photograph that exaggerates translucency makes a cloudy droplet look gem-like. Neither image is a lie exactly; each is a lighting choice, and lighting is the cheapest tool in a seller's kit. What a photo cannot show is what matters: how the material behaves when warmed, how long the aroma lasts, and whether the interior matches the surface. Ask for a photograph of a broken piece, taken in daylight, with something for scale — and treat even that as a starting point rather than a verdict.
-
-## Two Purchases, Walked Through
-
-**Direct answer:** The comparison becomes concrete when two buyers with different goals walk the same market. One is assembling a weekly practice; the other is buying a single piece to keep.
-
-**Buyer one wants a practice blend.** She needs material that can be heated every week without anxiety about cost. Frankincense answers that: two species bought in modest quantities, tears checked for dust, warmed on an electric heater at a low setting. Her verification takes an afternoon. If a bag disappoints, the loss is small enough to absorb, and she has learned something about species differences at little cost.
-
-**Buyer two wants one piece to keep.** He is buying for a shelf and the occasional session, and the sum involved makes verification worthwhile. His path is slower: cut surface inspected, density checked, a sliver heated against a reference, questions about harvest year and documented origin. He should expect to pay for that evidence, and should walk away from a seller who finds the questions tiresome.
-
-| Step | Practice buyer | Collector buyer |
-|---|---|---|
-| First question | Which species, and is it clean? | Which species, which year, documented how? |
-| Second question | How does it smell on heat? | How does it develop from head note to tail? |
-| Acceptable risk | A disappointing bag | A misleading label |
-| Walk-away signal | Dust and bark in the bag | Refusal to discuss provenance |
-
-Neither buyer is doing it wrong. The error is applying the collector's process to a weekly consumable — paying for paperwork on material that will be burned through in a season — or applying the practice buyer's casualness to a purchase where a mistake costs a month's budget.
+A dark, oily-looking chip under warm light can be pale stock with a wiped surface. A photograph that exaggerates translucency makes a cloudy droplet look gem-like. Ask for a photograph of a broken piece in daylight, with something for scale, and treat even that as a starting point rather than a verdict.
 
 ---
 
 ## A Vocabulary for Describing What You Smell
 
-**Direct answer:** Most buyers lack words, not noses. A small working vocabulary turns a vague impression into something you can compare across purchases, and it makes a seller's description auditable rather than persuasive.
+**Direct answer:** Most buyers lack words, not noses. A working vocabulary turns a vague impression into something you can compare across purchases, and it makes a seller's description auditable rather than persuasive.
 
-Eight terms carry most of the work in these two materials. **Balsamic** describes a warm, syrupy sweetness with resin behind it — the smell of a cathedral, not a dessert. **Camphoraceous** is the cooling, medicinal lift that appears in some woods and in the first seconds of a heated chip. **Animalic** is the faint skin-and-musk note that appears in the tail of some agarwood and reads as depth to one nose and as dirt to another. **Vanillic** is the soft, sweet, almost powdery base that can sit under a resin.
+Eight terms do most of the work here. **Balsamic** is warm, syrupy sweetness with resin behind it. **Camphoraceous** is the cooling, medicinal lift that appears in some woods. **Animalic** is the faint skin-and-musk note in the tail of some agarwood — depth to one nose, dirt to another. **Vanillic** is the soft, powdery base under a resin. Four more are diagnostic: **dusty** points to age, storage, or filler; **tarry** to overheating; **soapy** to a synthetic reconstruction; **metallic** to a blend built from isolated molecules.
 
-Four more are diagnostic rather than descriptive. **Dusty** usually means age, poor storage, or a cheap filler. **Tarry** means the material has been overheated. **Soapy** points to a synthetic reconstruction imitating a natural note. **Metallic** is the flat, cold edge that appears when a fragrance is built from isolated molecules rather than whole material.
-
-The practical use is comparison. Heat two pieces in the same session, describe each in three words chosen from the list, and write the words down. After a dozen sessions the notes become a personal map: which combinations you return to, which species produce them, and which sellers describe material the way you actually experience it. That map is worth more than any grading chart, because it is calibrated to your nose rather than to a trade convention.
-
-A caution about the vocabulary itself: the words are conventions, not measurements. Two people can use "balsamic" for different impressions and both be honest. The value lies in consistency within one person's notes, not in agreement across a crowd.
+Heat two pieces in one sitting, describe each in three words from this list, and write them down. After a dozen sessions the notes form a personal map, calibrated to your nose rather than to trade convention — which is also the limit: these words are conventions, not measurements.
 
 ---
 
@@ -410,13 +354,13 @@ A caution about the vocabulary itself: the words are conventions, not measuremen
 
 Four setups work and one does not. Working options: an electric mug warmer with a small metal or ceramic dish on top; a bed of clean ash in a bowl with a charcoal piece buried below the surface; an aroma lamp designed for wax, used with a dish rather than water; and a purpose-built electric heater, which is the only one designed for the job. The one that does not work is holding material over a candle flame — the heat is uneven, the soot is immediate, and the flame is a hazard on any surface that is not bare stone.
 
-| Setup | Control | Smoke added | Risk |
+| Arrangement | Temperature control | Extra smoke | Hazard |
 |---|---|---|---|
-| Electric heater | Good, often adjustable | None | Low; hot surface only |
-| Ash bed with buried charcoal | Moderate, depends on ash depth | Some, from the fuel | Moderate; ash and embers |
+| Electric heater | Good, usually settable | None | Low; hot surface only |
+| Ash bed with buried charcoal | Moderate, set by ash depth | Some, from the fuel | Moderate; ash and embers |
 | Mug warmer plus dish | Fair; slow to respond | None | Low; spills onto electronics |
 | Wax-warmer lamp | Poor; fixed output | None | Low, but easy to overheat material |
-| Open flame under a plate | None | Soot and fuel odour | High; not recommended |
+| Plate over open flame | None | Soot and fuel odour | High; not recommended |
 
 Three habits make any of the workable options better. Warm the dish before adding material, so the first minute is not spent climbing to temperature. Add small quantities and replenish, rather than loading a large piece that will be half-spent by the time the centre warms. And keep the material away from any surface that has held soap or detergent, because both materials pick up odours readily and will carry them into the session.
 
@@ -428,58 +372,57 @@ If the setup is improvised, treat the fire risk as the first constraint and the 
 
 ### Q: Is agarwood the same as frankincense?
 
-Far from it. One is a wood that has been chemically altered by its own defensive response; the other is the response itself, collected and dried. Agarwood (沉香) comes from *Aquilaria* trees in Thymelaeaceae and is a state the tissue reaches, not a species. Frankincense (乳香) comes from *Boswellia* trees in Burseraceae and is the exudate, hardened into droplets. The word "resin" is what confuses people — accurate for one material, only half-accurate for the other.
+Not remotely. Agarwood is wood altered by its own defensive chemistry; frankincense is that chemistry, dried. The first comes from *Aquilaria* (Thymelaeaceae) and depends on whether a given tree was wounded — two blocks from one trunk can be different products. The second is tapped from *Boswellia* (Burseraceae) and is uniform through the tear. The shared word "resin" covers a component in one case and the whole material in the other.
 
 ### Q: Which one costs more?
 
-Agarwood, by a wide margin, and its top traditional grade 奇楠 (qínán) sits at the upper end of the aromatic trade. Frankincense is abundant enough to be affordable at good quality. The gap reflects how each material forms: agarwood accumulates over years in a minority of wounded trees, while frankincense is tapped on a seasonal rhythm.
+Agarwood, and not by a small factor; 奇楠 (qínán), its traditional top category, sits at the far end of the aromatic trade. Frankincense is abundant enough that good material stays affordable. The gap tracks formation: agarwood needs years of deposition in a minority of wounded trees, while frankincense is tapped on a seasonal cycle.
 
 ### Q: How should each be heated?
 
-Agarwood wants indirect, gentle heat — a chip above charcoal buried in ash, or an electric heater on a low setting — so the aroma can develop without the wood charring. Frankincense wants enough heat to melt the tear without scorching it; an electric heater handles this best, and a charcoal disc works if the tear is not in direct contact with the hottest point.
+Agarwood wants warmth that never reaches ignition — a chip over charcoal buried in ash, or an electric heater turned low — so the aroma can open in stages while the fibre stays intact. Frankincense wants enough heat to melt the tear without charring it; a heater gives the most control, and a charcoal disc works if the tear sits off the hottest point.
 
 ### Q: Which is more likely to be faked?
 
-Agarwood, and it is not close. Dyed pale wood, unrelated species sold as agarwood, pressure-treated chips, and bulked powder are all established patterns in the trade. Frankincense is usually genuine resin; the practical questions are species, tear grade, and cleanliness rather than authenticity. The [authentication database](/blog/incense-authentication-database/) collects the field checks.
+Agarwood, and the margin is wide. Dyed pale stock, unrelated timber sold under the name, pressure-impregnated chips, and cut powder are established tricks. Frankincense is usually genuine — species, grade, and cleanliness are the live questions. The [authentication database](/blog/incense-authentication-database/) collects the field checks.
 
 ### Q: Where does myrrh fit?
 
-Myrrh is a third material, another tapped gum-resin, from *Commiphora* rather than *Boswellia* — same family, different genus, and a bitter, balsamic smell rather than a citrus one. It pairs with frankincense the way sandalwood pairs with agarwood: a traditional counterweight rather than a substitute. See [frankincense vs myrrh](/blog/frankincense-vs-myrrh/) for the pairing, and [myrrh](/ingredients/myrrh/) for the material itself.
+Myrrh comes from *Commiphora*, a different genus in the same family as *Boswellia*, tapped the same way. Expect bitterness and balsam where frankincense gives citrus. In classical pairing it sits beside frankincense as a counterweight, much as sandalwood sits beside agarwood — not as a replacement. See [frankincense vs myrrh](/blog/frankincense-vs-myrrh/) for the pairing and [myrrh](/ingredients/myrrh/) for the material.
 
 ### Q: Does either have health benefits?
 
-No claim is made here. Both materials have long histories in ritual and in traditional materia medica, and those traditions are worth describing as traditions. That is different from evidence of a health effect, and this page does not assert one for either material.
+This page asserts none. Both have long ritual and materia-medica histories, and those are worth describing as traditions rather than as evidence. That distinction matters: a traditional belief is not a clinical finding, and nothing here should be read as one.
 
 ---
 
 ## Sources
 
-- Species records behind the botanical statements: [*Aquilaria malaccensis* on GBIF](https://www.gbif.org/species/5524063) and [*Boswellia sacra* on GBIF](https://www.gbif.org/species/8330171).
-- Positions on grading and price draw on the site's [material comparison matrix](/blog/incense-material-comparison-matrix/) and the two entity pages; price language is directional.
-- Internal research notes on cultivated and wild agarwood (R-001) informed the formation, plantation, and grading sections.
+- Botanical claims are anchored to species records: GBIF entries for [*Aquilaria malaccensis*](https://www.gbif.org/species/5524063) and [*Boswellia sacra*](https://www.gbif.org/species/8330171).
+- Grading and price language follows the site's [material comparison matrix](/blog/incense-material-comparison-matrix/) and the two entity pages; treat any price point as directional rather than quoted.
+- Formation, plantation, and grading sections draw on internal research notes on cultivated and wild agarwood (R-001).
 
 ---
 
 ## Related Resources
 
-- [Agarwood](/ingredients/agarwood/) — the material's identity, forms, and grades.
-- [Frankincense](/ingredients/frankincense/) — species, tears, and uses.
-- [Agarwood vs Sandalwood](/blog/agarwood-vs-sandalwood/) — the other reference wood.
-- [Sandalwood vs Frankincense](/blog/sandalwood-vs-frankincense/) — wood against resin.
-- [Frankincense vs Myrrh](/blog/frankincense-vs-myrrh/) — the classical pairing.
-- [Material comparison matrix](/blog/incense-material-comparison-matrix/) — seven materials compared.
-- [Agarwood grading guide](/blog/agarwood-grading-guide/) — density bands in detail.
-- [Authentication database](/blog/incense-authentication-database/) — field tests for suspect stock.
+- [Agarwood](/ingredients/agarwood/) — identity, forms, and the grades it is sold under.
+- [Frankincense](/ingredients/frankincense/) — the species, the tear grades, and how it is worked.
+- [Agarwood vs Sandalwood](/blog/agarwood-vs-sandalwood/) — a second wood-against-wood reading.
+- [Sandalwood vs Frankincense](/blog/sandalwood-vs-frankincense/) — a third pairing, resin against another wood.
+- [Frankincense vs Myrrh](/blog/frankincense-vs-myrrh/) — the classical pair, side by side.
+- [Material comparison matrix](/blog/incense-material-comparison-matrix/) — seven materials in one frame.
+- [Agarwood grading guide](/blog/agarwood-grading-guide/) — density bands worked through.
+- [Authentication database](/blog/incense-authentication-database/) — field tests for doubtful stock.
 
-**Natural next step:** the [comparison matrix](/blog/incense-material-comparison-matrix/) places both materials beside five others, and the [substitution cross-reference](/blog/incense-substitution-cross-reference/) shows what a label can hide when a name is used for more than one material.
+**Natural next step:** the [comparison matrix](/blog/incense-material-comparison-matrix/) sets both materials beside five others, while the [substitution cross-reference](/blog/incense-substitution-cross-reference/) shows how far a shared name can stretch.
 
 ---
 
 ## Summary
 
-- Wood against sap: agarwood is wounded heartwood, frankincense is tapped gum-resin.
-- Base against top: one anchors a blend, the other opens it.
-- Authenticate the scarce material; grade the plentiful one.
-- Heat both indirectly, and treat smoke as a sign the temperature is wrong.
-- A high price records scarcity and verification cost, not enjoyment.
-- Learn on the resin, spend the effort on the wood.
+- Agarwood is wounded heartwood; frankincense is tapped sap. One is a material, the other an exudate.
+- They occupy opposite ends of a formula: agarwood anchors, frankincense lifts.
+- Spend verification on the scarce material and grading effort on the plentiful one.
+- Indirect heat suits both; visible smoke means the temperature has run away.
+- A price records scarcity and the cost of trust, not the pleasure of the scent.
