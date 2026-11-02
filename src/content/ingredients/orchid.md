@@ -13,7 +13,6 @@ last_reviewed: "2026-09-27"
 related: ["osmanthus", "chrysanthemum"]
 ---
 
-
 > **Direct answer:** Orchid (兰花, lánhuā) is the flower of *Cymbidium ensifolium*, a terrestrial orchid of the family Orchidaceae cultivated in China for a scent that is deliberately quiet. It is one of the Four Gentlemen (四君子) of Chinese letters and a scholar's-table offering (清供), and the Ming compendium *Xiangcheng* (香乘) records a pairing judgment, 兰宜四絶, that places it beside refined incense rather than in the burner. It is a cultural and olfactory reference before it is a material.
 
 <img src="/images/orchid-raw-material-800x533.webp" alt="Raw Orchid (Cymbidium ensifolium) material, editorial still life" width="800" height="533" loading="lazy">

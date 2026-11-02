@@ -13,7 +13,6 @@ last_reviewed: "2026-09-27"
 related: ["bergamot", "orange-peel", "jasmine"]
 ---
 
-
 > **Direct answer:** Neroli (橙花, chénghuā) is the steam-distilled oil of bitter-orange blossoms, *Citrus aurantium* — the same tree that gives Seville oranges for marmalade. It smells of citrus peel, honey and clean linen at once, which is why it became a backbone of European cologne rather than a Chinese incense material. Chinese fragrance tradition works with the peel (陈皮) and, separately, with 玳玳花 in tea; the distilled flower oil is a Mediterranean trade with no classical Chinese incense pedigree.
 
 <img src="/images/neroli-raw-material-800x533.webp" alt="Raw Neroli (Citrus aurantium (the flower)) material, editorial still life" width="800" height="533" loading="lazy">
