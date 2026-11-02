@@ -13,167 +13,306 @@ last_reviewed: "2026-09-27"
 related: ["perilla", "mint"]
 ---
 
-<img src="/images/basil-raw-material-800x533.webp" alt="Raw Basil (Ocimum basilicum) botanical material, editorial still life" width="800" height="533" loading="lazy">
+<img src="/images/basil-raw-material-800x533.webp" alt="Fresh basil leaves and stems arranged on a pale surface, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Basil (罗勒, luólè) is sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae). A familiar culinary herb worldwide, it carries the older Chinese name 兰香 (lánxiāng, "orchid fragrance"), which the *Bencao Gangmu* records as a taboo-name substitution. This classical naming is its genuine connection to the Chinese aromatic record.
+> **Direct answer:** Basil (罗勒, luólè) is *Ocimum basilicum*, the sweet basil of kitchens and garden pots, and its Chinese name carries a philological story rather than an incense pedigree. The plant was renamed 兰香 (lánxiāng, "orchid fragrance") to avoid a ruler's taboo name, and that renaming — not a burning tradition — is its real link to the Chinese aromatic record.
 
 ## Key facts
 
-| | |
-|---|---|
-| Chinese | 罗勒 (luólè); classical 兰香 (lánxiāng) |
-| Botanical source | *Ocimum basilicum* (family Lamiaceae) — the aerial herb |
-| What it is | A leafy aromatic herb, not a wood or resin |
-| Aroma | Sweet, green, spicy, slightly anise/clove |
-| Traditional role | Culinary herb; 兰香 in the classical aromatic record |
+> **Direct answer:** Basil is a tender annual leaf crop with a scent that changes with cultivar, a name that changed for political reasons, and no place in the classical burned-incense canon.
 
-## Aroma profile
+- **Species:** *Ocimum basilicum*, family Lamiaceae; the culinary sweet basil.
+- **Chinese names:** 罗勒 (luólè); classical 兰香 (lánxiāng); a further renaming to 香菜 (xiāngcài).
+- **Part used:** the leafy aerial herb, fresh or dried; the essential oil is a separate product.
+- **Aroma:** sweet, green, and spicy, anchored by linalool and pushed toward anise or clove by estragole or eugenol in some chemotypes.
+- **Habit:** a frost-tender annual, grown from seed each season in temperate climates.
+- **Classical status:** a culinary and garden herb, recorded in the *Bencao Gangmu* under its renamed entries.
+- **Incense status:** not a burned material in the 香乘 tradition; a fresh green note in modern aromatic blending at most.
+- **Main confusions:** Thai basil, holy basil, lemon basil, and the assumption that "兰香" means an orchid.
 
-> **Direct answer:** Basil is sweet and green, with a spicy, faintly anise-and-clove lift that varies by cultivar — some sweet and soft, others peppery or licorice-leaning. It is a fresh, food-adjacent note, less minty than mint and less camphoraceous than perilla; in aromatics it reads as a bright green sweetness that lifts and rounds rather than leads.
+The distinction that organizes everything below is between a plant's *name history* and its *use history*. Basil has a rich name history and a thin incense history. Confusing the two produces the kind of page that calls a kitchen herb a temple material because it once had a poetic-sounding alias.
 
-Basil is sweet and green, with a spicy, faintly anise-and-clove lift that varies by cultivar — some sweet and soft, others peppery or licorice-leaning. It is a fresh, food-adjacent note, less minty than mint and less camphoraceous than perilla. In incense and herbal aromatics it reads as a *bright green sweetness* that lifts and rounds a blend rather than leading it, a kitchen-garden note rather than a temple note. The cultivar variation is itself a sourcing point: "basil" is not one scent but a family of green-sweet chemotypes, and the specific cultivar (linalool-rich sweet basil versus methyl-chavicol-rich types) shifts the character.
+## What the plant actually is
 
-## Botanical identity
+> **Direct answer:** *Ocimum basilicum* is an aromatic annual of the mint family, grown for its leaves, with the square stems, opposite leaves, and glandular hairs that mark the family. The scent lives in oil glands on the leaf surface, which is why the plant smells strongest when the leaf is bruised.
 
-> **Direct answer:** Basil is *Ocimum basilicum*, a tender annual of the mint family (Lamiaceae), native to tropical and subtropical Asia and cultivated worldwide in many culinary varieties. Its essential oil is dominated by linalool, with methyl chavicol (estragole) or eugenol in some chemotypes — the chemistry behind its sweet-green, spicy scent.
+The Lamiaceae are easy to recognize once you know the signs: stems that are square rather than round, leaves that sit in opposite pairs, and a scent that arrives before you have decided to look for it. Basil has all three. The leaves are soft, ovate, and slightly glossy, with margins that may be smooth or lightly toothed depending on the cultivar. The flowers are small and white, carried in a spike at the top of the plant, and they appear when the plant begins to run to seed.
 
-*Ocimum basilicum* is a tender annual herb of the mint family, native to tropical and subtropical Asia (with origins often placed in India) and cultivated worldwide in many culinary varieties. The part used is the leafy aerial herb, which carries the essential oils — dominated by linalool, with methyl chavicol (estragole) or eugenol in some chemotypes — that give sweet basil its characteristic sweet-green, spicy scent. Flora of China records the species. See [Ocimum basilicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914) and [Ocimum basilicum on GBIF](https://www.gbif.org/species/2927096).
+The oil is stored in glandular trichomes, tiny structures on the leaf epidermis. A peltate gland sits like a small dome on the surface; when the leaf is crushed, the dome ruptures and the oil meets air. That is the mechanism behind a familiar kitchen observation: a leaf smelled whole is quiet, and the same leaf torn in half is loud. It also explains why handling matters in trade. Leaf that has been crushed, compressed, or over-dried has already lost part of its oil before anyone opens the bag.
 
-The chemistry point is worth holding: the linalool-dominated sweet basil is the "classic" scent, while the estragole- and eugenol-rich chemotypes read more anise- or clove-like. This is why one basil can smell soft and sweet and another peppery — a cultivar/chemotype distinction, not a species difference.
+*Ocimum basilicum* is grown as an annual in most of the world because it is frost-tender. In tropical and subtropical Asia it can behave as a short-lived perennial, and it may self-seed freely where winters are mild. The plant's native range is usually given as tropical and subtropical Asia, with India often cited as the centre of origin. From there it spread into the Mediterranean, into Southeast Asia, and eventually into every country with a kitchen garden.
 
-## Chinese name and terminology
+Flora of China records the species, and the taxonomic record is stable: *Ocimum basilicum* L., Lamiaceae. The common name is another matter. "Basil" in an English seed catalogue may mean sweet basil, Thai basil, bush basil, lemon basil, or a purple-leaved ornamental, and those are not interchangeable in a kitchen or in a blend.
 
-> **Direct answer:** 罗勒's classical name is 兰香 ("orchid fragrance"), which the *Bencao Gangmu* records as a taboo-avoidance renaming — northerners, avoiding the taboo personal name of the Later Zhao ruler Shi Le, called 罗勒 as 兰香. The name is a renaming of the herb, not evidence that basil is an orchid or a classical incense material.
+## The name chain: 罗勒, 兰香, 香菜
 
-罗勒's classical name is 兰香 — "orchid fragrance." The *Bencao Gangmu* (本草纲目), in its vegetable section (菜之一), records under 罗勒 the alternative names 兰香 and 香菜, and explains the origin:
+> **Direct answer:** 罗勒 is the base name. 兰香 was a taboo-avoidance substitution, adopted because the character 勒 occurred in the personal name of the Later Zhao ruler Shi Le. 香菜 followed as a further renaming under his successor Shi Hu.
 
-> "禹锡曰：北人避石勒讳，呼罗勒为兰香。" — northerners, avoiding the taboo name of the Later Zhao ruler Shi Le, called 罗勒 as 兰香.
+The *Bencao Gangmu* (本草纲目), in the vegetable section (菜之一), lists 罗勒 with the alternative names 兰香 and 香菜, and quotes an earlier commentator on the reason:
 
-Li Shizhen adds, citing the *Ye zhong ji* (鄴中記), that Shi Hu (石虎), Shi Le's successor, tabooed the character 勒 and "改罗勒为香菜" (changed 罗勒 to 香菜). The point for this encyclopedia is precise: **罗勒 and 兰香 are the same herb**, and its "orchid fragrance" name is a taboo-avoidance renaming, not evidence that basil is a true orchid or a classical incense material. It is a culinary and garden herb whose aromatic name sits at the edge of the classical record.
+> "禹锡曰：北人避石勒讳，呼罗勒为兰香。"
 
-## The 兰香 (lan xiang) naming (read this)
+The line says that northerners, avoiding the taboo on Shi Le's name, called 罗勒 by the name 兰香. Li Shizhen adds, drawing on the *Ye zhong ji* (鄴中記), that Shi Hu — Shi Le's successor — tabooed the character 勒 and changed 罗勒 to 香菜.
 
-> **Direct answer:** 兰香 ("orchid fragrance") is not a different plant but a renamed 罗勒. The *Bencao Gangmu* records that northerners avoided the taboo name of Shi Le by calling 罗勒 as 兰香, and Shi Hu later changed it to 香菜 — so 兰香 and 罗勒 are the same herb, and the "orchid" name is a philological accident, not a botanical or fragrance claim.
+The mechanics of 避讳 (bìhuì), the naming taboo, explain the whole sequence. A ruler's personal name could not be spoken or written casually, and objects whose names contained one of its characters were renamed by convention. The herb's name contained 勒. The court found a substitute. The substitute stuck long enough to be recorded in a materia medica centuries later.
 
-The naming story is the entry's central, genuine classical fact:
+| Stage | Name | Trigger | What it tells a reader |
+|---|---|---|---|
+| 1 | 罗勒 (luólè) | The base name | The herb as traded and eaten |
+| 2 | 兰香 (lánxiāng) | Taboo on 勒 in Shi Le's name | A political renaming, not a botanical one |
+| 3 | 香菜 (xiāngcài) | Taboo on 勒 under Shi Hu | A second renaming, "fragrant vegetable" |
+| Later | 罗勒 restored | Taboo lapsed with the dynasty | The name modern Chinese uses |
 
-- **罗勒 (luólè)** — sweet basil, *Ocimum basilicum*. The base name. This entry.
-- **兰香 (lánxiāng)** — "orchid fragrance," a taboo-avoidance renaming of the same herb, recorded in the *Bencao Gangmu* (菜之一).
-- **香菜 (xiāngcài)** — a further renaming by Shi Hu, also recorded.
+Two lessons follow, and both are practical for anyone reading old sources. The first is that a plant name in a classical text may be a political artefact rather than a description. The second is that renaming does not change the plant. 兰香 and 罗勒 are the same herb under two labels, and 香菜 is a third label for the same thing.
 
-The sequence — 罗勒 → 兰香 → 香菜 — is a documented philological chain, and its lesson is that *names migrate for reasons unrelated to botany or fragrance*. A reader or researcher encountering "兰香" in an older source should read it as basil (罗勒), not as a true orchid. This is a disambiguation point, not a claim that basil is an incense material.
+There is a modern echo worth mentioning because it confuses buyers. 香菜 in contemporary Chinese usually means coriander, not basil. The classical substitution and the modern usage are different words in different registers, and a reader who encounters 香菜 in a Ming text should not conclude that the text is discussing coriander. Context, not the character alone, decides the meaning.
 
-## Where does basil come from?
+## Why "兰香" does not mean orchid
 
-> **Direct answer:** Basil originates in tropical and subtropical Asia — with origins often placed in India — and is now cultivated worldwide as a tender annual herb. It is a garden and culinary crop, not a wild-harvested aromatic.
+> **Direct answer:** 兰香 is a name meaning "orchid fragrance," not a botanical identification with the orchid family. The herb is a mint-family annual; the "orchid" in the name is a compliment about scent, and the renaming story explains why the compliment was attached.
 
-*Ocimum basilicum* originates in tropical and subtropical Asia, with India often cited as its center of origin, and is now grown worldwide in countless culinary and aromatic varieties. It is fundamentally a *garden herb* — a tender annual grown in cultivation, not a wild-harvested botanical. This cultivated status shapes everything about it: it is a fresh, seasonal herb, used for its leafy aerial part, and its global ubiquity makes it a familiar, low-cost culinary material rather than a rare aromatic.
+This is the most common misconception about the page's subject, and it is easy to see how it arises. 兰 (lán) in modern Chinese usually points to orchids, and 香 (xiāng) means fragrance, so 兰香 reads as "orchid fragrance" and invites the inference that the plant is an orchid or smells like one. The inference is wrong twice over. Basil is in Lamiaceae, not Orchidaceae, and the name entered the record as a substitution rather than a description.
 
-## Why is it used in aromatics?
+Classical Chinese used 兰 for several fragrant plants, and the word carried a literary charge that had as much to do with virtue and refinement as with botany. A name like 兰香 therefore tells you that the herb was considered pleasant and noble-smelling. It does not tell you what family the plant belongs to, and it certainly does not make basil a classical incense material.
 
-> **Direct answer:** Basil is used in aromatics as a fresh, green, sweet-spicy supporting note — a kitchen-garden freshness that lifts and rounds a blend. It is not a classical burned incense material in the 香乘 tradition; its aromatic use is culinary-adjacent, and its classical claim to fame is the 兰香 naming, not a burning role.
+The practical consequence is a screening rule. When a source calls basil 兰香, read the passage as being about 罗勒, and check what the passage actually claims. A culinary instruction is a culinary instruction. A poetic epithet is a poetic epithet. Neither is evidence of a liturgical burning role, and treating a fragrant name as a use claim is the mistake that turns a garden herb into a temple material by accident.
 
-Basil's aromatic role is modest and food-adjacent. Its sweet-green, spicy character works as a *bright green supporting note* in herbal aromatics — lifting and rounding rather than leading. But it is not a classical burned incense material in the 香乘 (Xiang Cheng) tradition; its documented classical standing is culinary, and its genuine connection to the Chinese aromatic record is the 兰香 naming. The distinction to hold: basil is a *garden aromatic*, not a *temple incense* material, and its value in a blend is freshness, not depth. See [how incense is made](/blog/how-incense-is-made/) for the materials that do carry the burning canon.
+## Aroma: linalool, and the chemotype problem
 
-## How is it processed?
+> **Direct answer:** Sweet basil's scent is built on linalool, a floral-citrus alcohol, with estragole adding anise sweetness and eugenol adding clove spice in some plants. Which compound dominates is a matter of cultivar and chemotype, so "basil" describes a scent family rather than a single smell.
 
-> **Direct answer:** Basil is processed by harvesting the leafy aerial herb, used fresh or dried. Drying concentrates the sweet-green oils but softens the fresh character; the fresh herb is the standard culinary form, while the dried form is the rare aromatic-blending form.
+Linalool is the molecule most people mean when they say basil smells like basil. It is soft, floral, and slightly citrus, and it dominates the essential oil of the classic sweet basils used in Italian cooking. Around it sit smaller fractions that change the character: estragole brings the anise note familiar from Thai basil, eugenol brings clove, and 1,8-cineole brings a camphoraceous edge in some types.
 
-The processing is simple: the aerial herb is cut and used fresh or dried. The fresh herb is the standard culinary form, carrying the full, bright, sweet-green character; drying concentrates the oils but softens the fresh, green top. For aromatic use, the dried herb (or its essential oil) is the more likely form, but basil is not a classical dried-incense ingredient — its drying is a culinary preservation step more than an incense-processing step.
+The ratios are not fixed. Basil populations differ genetically in which enzymes dominate the terpene pathway, and the environment shifts the balance further. Sun, water stress, and harvest timing all move the oil profile. A grower can plant the same seed lot in two fields and harvest two subtly different oils. This is normal for aromatic crops, and it is why serious buyers specify a chemotype rather than a species.
 
-## What determines quality?
+| Dominant fraction | Scent impression | Basil type associated with it | Behaviour in heat |
+|---|---|---|---|
+| Linalool | Floral, soft, citrus-green | Sweet basil, including Genovese types | Sweet at first, then thin; the floral note is fragile |
+| Estragole (methyl chavicol) | Anise, liquorice, sweet | Thai basil and some Asian types | Pushes anise into the smoke; can turn cloying |
+| Eugenol | Clove, warm spice | Clove-scented basils; also a component of some mints | Persists longer; reads spicy rather than green |
+| Citral | Lemon, sharp citrus | Lemon basil | Bright but unstable; oxidises quickly |
+| 1,8-Cineole | Camphor, eucalyptus | Some bush and wild types | Reads medicinal; can dominate a blend |
 
-> **Direct answer:** Basil quality turns on freshness (for the fresh herb) and the retention of the sweet-green, spicy aroma (for the dried herb). Cultivar/chemotype matters — the linalool-rich sweet basil differs from the anise- or clove-leaning chemotypes — so the specific variety is part of the spec.
+The table is a reading aid, not a classification. Real plants carry mixtures, and a single leaf may show two or three of these characters at once. What matters for a buyer is that the dominant fraction predicts how the material will behave when heated, and that prediction is more useful than a cultivar name on its own.
 
-The quality points are:
+A second chemical point belongs here because it affects storage. Linalool is not inert. Exposed to air and light, it oxidises, and the products of that oxidation smell less floral and more woody or stale. The same process matters for safety in cosmetic use, where oxidised linalool is a recognised skin sensitiser. For dried herb and essential oil alike, the practical rule is the same: exclude air and light, and do not keep material past the point where the top note has gone flat.
 
-1. **Freshness** — the fresh herb should smell bright, sweet, and green; a faded or dull scent signals age.
-2. **Cultivar/chemotype** — sweet (linalool) basil differs from the anise- or clove-leaning chemotypes; specify which character is wanted.
-3. **Cleanliness and dryness** — for the dried form, free of debris and properly dried.
+## The basil family: which basil is 罗勒
 
-These are freshness and variety checks, consistent with a culinary garden herb. The cultivar distinction is the key distinguishing nuance — "basil" is a family of green-sweet chemotypes, not one scent.
+> **Direct answer:** 罗勒 is *Ocimum basilicum*, the sweet basil. Thai basil, holy basil, lemon basil, and bush basil are related plants with different scents; only the *O. basilicum* group is the herb this page describes, and the others are not interchangeable with it.
 
-## Common forms
+| Name | Botanical identity | Scent | Kitchen role | Relation to 罗勒 |
+|---|---|---|---|---|
+| Sweet basil | *Ocimum basilicum* | Linalool, soft and floral-green | Pesto, salads, tomato dishes | This page's plant |
+| Genovese basil | A large-leaved *O. basilicum* cultivar | Linalool-dominant, sweet | Pesto, Italian cooking | A cultivar of the same species |
+| Thai basil | *O. basilicum* var. *thyrsiflora* | Estragole, anise and clove | Southeast Asian curries, 三杯鸡 | Same species, different chemotype |
+| Holy basil (tulsi) | *Ocimum tenuiflorum* | Eugenol and camphor, spicy | Herbal drinks, religious use in India | A different species |
+| Lemon basil | Citral-rich basil, often *O. × africanum* | Lemon | Fish, salads, Southeast Asian dishes | A different hybrid |
+| Bush basil | *O. minimum*, often treated as a *basilicum* variety | Compact, sweet, slightly peppery | Small-leaf culinary use | Close to, or inside, the species |
 
-> **Direct answer:** Basil is used fresh (the culinary standard), dried (for aromatic blending and storage), and as an essential oil. The fresh herb carries the fullest green character; the dried herb and oil are the forms that enter aromatics.
+The table matters because "basil" is used loosely in trade. A buyer who asks for basil oil and receives a eugenol-rich holy basil oil has received a different material with a different scent and a different risk profile. A cook who substitutes Thai basil for sweet basil in a pesto has made a dish that is pleasant and not pesto. Neither error is dangerous, and both are avoidable by naming the plant.
 
-| Form | Typical use |
-|---|---|
-| Fresh leaves | Culinary standard |
-| Dried herb | Storage; herbal aromatic blending |
-| Essential oil | Aromatics, perfumery |
+The Chinese culinary picture adds another layer. 九层塔 (jiǔcéngtǎ, "nine-storey pagoda") is a common Chinese name for a Thai-type basil used in dishes such as 三杯鸡. That usage is real and worth knowing, but it belongs to the kitchen, not to the incense canon. A page about 罗勒 should mention it because readers meet the name, and should label it for what it is.
 
-The forms are states of the same leafy herb. The essential oil is the most concentrated aromatic form, but basil's classical Chinese standing is culinary, not as a burned incense material.
+## Where it grows, and why the price is low
 
-## In Chinese tradition
+> **Direct answer:** Basil is native to tropical and subtropical Asia, with India often cited as its origin, and it is now grown worldwide as a garden and field crop. It is cheap because it grows fast, yields heavily, and can be raised from seed in a single season.
 
-- **Culinary herb:** 罗勒/兰香 is a cooking herb, used fresh for its sweet-green, spicy aroma.
-- **兰香 naming:** the *Bencao Gangmu* (本草纲目) records that the herb was renamed 兰香 to avoid the taboo name of Shi Le — a genuine classical naming record.
-- **Garden aromatic, not temple incense:** basil's documented role is as a culinary and garden herb; it is not a burned incense material in the 香乘 tradition.
+The economics are the economics of an annual leaf crop. There is no decades-long wait, no wounding ritual, no scarce wild stand. A field is planted, the crop is cut, and the next field is planted somewhere else. The cost of the material is the cost of seed, land, water, labour, and drying, and the price difference between a good lot and a poor one is a difference in handling rather than in rarity.
 
-## Traditional use vs modern evidence
+That has a specific consequence for aromatic quality. Because the crop is cheap per kilo, the incentive to invest in careful drying is weak. Basil destined for the dried-herb trade can be cut, wilted, and dried in ways that preserve colour, and colour sells. The volatile fraction, which does not show in a photograph, is what suffers. A bright green dried basil with a flat smell is a common product, and it is not a fraud; it is simply a crop dried for appearance.
 
-> **Direct answer:** The culinary use and the 兰香 naming are documented. No medical claims are made. The documented, non-medical facts are botanical identity, the Lamiaceae placement, and the classical 兰香 naming record.
+For a buyer, the leverage is in the specification. Cultivar, harvest stage, drying method, and storage are all cheap to state and expensive to ignore. The plant's abundance means there is no supply argument for accepting a vague description, and no premium worth paying except for material that has been handled with the aroma in mind.
 
-- **Traditional Use** — 罗勒/兰香 as a culinary and garden herb in the Chinese record. Traditional usage; no medical claims.
-- **Historical Record** — the *Bencao Gangmu* (菜之一) records the 罗勒 → 兰香 (→ 香菜) taboo-avoidance renaming, quoting "北人避石勒讳，呼罗勒为兰香" and citing the *Ye zhong ji* for Shi Hu's change to 香菜.
-- **Scientific Evidence** — botanical identity is established (*Ocimum basilicum*, Lamiaceae); its essential-oil chemistry (linalool, with estragole/eugenol in some chemotypes) is characterized. No clinical or medical efficacy claims are presented.
+## Fresh, dried, oil: three materials, not one
 
-The documented, non-medical facts are botanical identity, the Lamiaceae placement, and the classical 兰香 naming record.
+> **Direct answer:** Fresh leaf, dried leaf, and essential oil are three different products with different behaviour. Fresh leaf is a food ingredient with a short life; dried leaf is a shadow of it; oil is a concentrate with its own rules.
+
+| Form | What it is | Aroma behaviour | Best use | Characteristic failure |
+|---|---|---|---|---|
+| Fresh leaf | Living tissue, high water content | Bright, full, volatile; bruises easily | Cooking, garnishing, fresh infusions | Wilts within days; blackens if chilled too cold |
+| Dried leaf | Stable tissue, reduced water | Flatter, hay-like, retains some sweetness | Dry rubs, blends, storage | Loses the top note; browns; absorbs odours |
+| Essential oil | Concentrated volatiles | Intense, immediate, can be harsh neat | Perfumery, flavouring, aromatics | Oxidises; needs dark glass and cool storage |
+| Frozen leaf | Blanched or raw, frozen | Closer to fresh than dried | Food service | Texture collapses on thaw; oil still degrades |
+
+The jump from fresh to dried is the one people underestimate. Water is most of a fresh basil leaf, and the aromatic oil sits in glands on the surface. When the leaf dries, water leaves, the tissue collapses, and a portion of the volatile fraction goes with it. Chlorophyll breaks down and the colour shifts from green to olive to brown. What remains is recognisably basil and not the basil anyone remembers from the garden.
+
+The jump from leaf to oil is a different kind of change. Distillation concentrates the volatile fraction and leaves the non-volatile material behind. The result is powerful and one-dimensional: it can deliver the linalool note at a strength the leaf never could, and it cannot deliver the green, watery, leafy context that makes the note smell like a plant rather than a bottle. This site treats oil as a modern material with its own behaviour, not as a shortcut to a culinary herb.
+
+## What happens when basil meets heat
+
+> **Direct answer:** Fresh basil scorches before it burns cleanly, because water has to boil off before the leaf can sustain combustion. Dried basil burns fast and thin. Neither behaviour suits a temple incense, which is built on materials that smoulder slowly and hold a base note.
+
+The mechanism is straightforward thermodynamics:
+
+> fresh leaf → water heats and vaporises → energy goes into steam rather than into aromatic release → tissue scorches at the edges → acrid smoke and a burst of steam-distilled oil → the bright note arrives with a burnt undertone.
+
+That chain explains a kitchen observation as well as an incense one. Basil added to a hot pan at the wrong moment turns bitter and dark; the leaf is losing water faster than it can release its oil gracefully. In a burning context, the same sequence produces smoke that reads green for a second and acrid immediately after.
+
+Dried leaf behaves differently, and not necessarily better:
+
+> dried leaf → low moisture → fast ignition → high flame temperature → aromatic fraction cracked and partly destroyed → thin, sharp smoke → little residue and no base.
+
+The absence of a base is the structural reason basil does not belong in the classical incense canon. A stick or a cone works because the materials in it smoulder, hold heat, and release aroma over minutes. Resins and dense woods do that. A leaf does not. It gives its aroma in a rush and then leaves ash.
+
+There is a cultural reason as well as a physical one. The Chinese incense tradition documented in texts such as the 香乘 is built around woods, resins, and processed aromatic materials, with a place for flowers and herbs as accents. Basil appears in that record as a culinary herb, not as a burning ingredient. A modern formulator can use it, and should do so knowing that the tradition did not.
+
+## What basil is actually good for in aromatics
+
+> **Direct answer:** Basil works as a fresh green top note in short-lived aromatic compositions: sachets, dry blends, room sprays, and culinary-adjacent scent work. It is a poor choice for anything that needs a drydown, and it is not a substitute for a resin or a wood.
+
+The material's strengths are the same as its limits. It is bright, green, and immediately recognizable, and it fades. In a sachet, that is an advantage: the scent reads as fresh and clean, and the slow evaporation at room temperature keeps the sweetness forward. In a room spray or a dry blend, the same character gives an opening that feels like a kitchen garden rather than a perfume counter.
+
+In a stick, the contribution is small and early. A formulator who wants basil in a stick is really asking for a green top note, and there are other materials that deliver that with more control. This is a judgment call rather than a rule, and it is worth stating as editorial: the herb can be used, and the result will be a brief green opening that most people will not identify as basil.
+
+What basil cannot do is carry weight. It has no resin, no dense wood, and no fixative quality. A blend built on it will smell fresh for a short time and then smell of whatever else is present. That is not a defect to be corrected with a larger dose; a larger dose simply makes the opening harsher and the collapse more obvious.
+
+## Quality: a working grading table
+
+> **Direct answer:** Quality depends on which form is being bought. For fresh leaf, it is freshness and cultivar. For dried leaf, it is colour retention, aroma retention, and cleanliness. For oil, it is chemotype, oxidation state, and honesty about the species.
+
+| Grade | Fresh leaf | Dried leaf | Essential oil | Typical use |
+|---|---|---|---|---|
+| A | Turgid, unbruised, strong scent when torn | Green, aromatic, clean, recently dried | Named chemotype, clear, fresh-smelling, dark glass | Reference material, fine work |
+| B | Slightly wilted, some bruising | Olive-green, moderate aroma, some stem | Named species but vague cultivar | General cooking or blending |
+| C | Wilted, yellowing, weak scent | Brown, hay-like, dusty | Unnamed "basil oil", stale or oxidized | Utility only |
+| Reject | Blackened, slimy, mouldy | Mould, caking, off-odours | Cloudy, rancid, chemical smell | Discard |
+
+The ladder is editorial, built for decision-making rather than for certification. Its most useful column is the last one, because it forces the question of use. A grade-B dried leaf is perfectly adequate for a dry rub and inadequate for a blend where the herb is meant to be noticed.
+
+Grade language in the trade tends to reduce to "premium" or "food grade," neither of which says anything about aroma. The useful questions are narrower: which cultivar, which harvest, how dried, how stored, and what does the sample smell like when the bag is opened.
+
+## Checks in the hand
+
+> **Direct answer:** Five checks cover most of what a buyer can learn without a laboratory: smell, colour, texture, stem content, and — for oil — clarity and chemotype.
+
+1. **Smell before you look.** Open the bag and wait a beat. Fresh, sweet, green aroma is the baseline. A hay smell means the top note is gone; a musty smell means storage failed.
+2. **Look at the colour with suspicion in both directions.** Dried basil should be olive-green to green, not neon. Vivid uniform green in an old crop is a question, and dull brown is an answer.
+3. **Feel the texture.** Dried leaf should be crisp and light. Leaf that clumps or feels cool and damp is holding moisture, and moisture leads to mould.
+4. **Check the stem content.** Stems carry little oil and a lot of weight. A high stem fraction is a dilution, not a style.
+5. **For oil, ask for the chemotype and smell the opening.** Linalool-rich oil should be floral and soft; estragole-rich oil should be anise-forward. A sharp, stale, or varnish-like top note suggests oxidation.
+
+One check that cannot be done in the hand is species identity in oil. A bottle labelled "basil" may hold sweet basil, Thai basil, holy basil, or a blend, and the label may be technically true while the material is not what the buyer assumed. The only defence is a specification that names the plant and a supplier who will put it in writing.
+
+## Substitutions and what they cost
+
+> **Direct answer:** Every substitute for sweet basil changes the scent in a predictable direction. Thai basil pushes anise, holy basil pushes clove and camphor, mint pushes cool, and perilla pushes green-shiso. None of them is a like-for-like swap.
+
+| Substitute | Gain | Loss | Use when |
+|---|---|---|---|
+| Thai basil | Anise and clove depth | The soft floral linalool note | The dish or blend wants a spice edge |
+| Holy basil | Warm, peppery, clove-like persistence | Sweetness; adds a medicinal cast | You need staying power more than freshness |
+| Mint | Strong cool-green lift | Basil's sweetness and anise | The target is freshness, not identity |
+| Perilla | Green, shiso-like top | Sweetness; more savoury | A green note in an Asian palette |
+| Lemon basil | Citrus brightness | The sweet-floral centre | A citrus top note is wanted |
+| Dried basil for fresh | Convenience and shelf life | Watery green volume and brightness | Cooking out of season, never as a garnish |
+
+The honest summary is that sweet basil is not easily replaced, because its specific combination of floral linalool and green leaf is the point. Substitution is a way of choosing which part of the profile to sacrifice, and the choice should be made deliberately rather than by availability.
+
+There is a commercial version of the same problem. Basil oil is expensive relative to dried leaf, and blends labelled "basil" may contain other Ocimum species or synthetic linalool. That is not necessarily dishonest — synthetic linalool is a legitimate material — but it is a different product, and a buyer who needs the whole herb's character will not get it from an isolate.
+
+## The classical record, read carefully
+
+> **Direct answer:** The documented classical material is a naming record and a culinary record. The *Bencao Gangmu* explains why 罗勒 was also called 兰香 and 香菜; it does not describe a burned incense use, and no 香乘 entry makes basil a temple material.
+
+Three things can be said with confidence about the historical layer.
+
+**The renaming is documented.** The *Bencao Gangmu* (菜之一) records the alternative names and the taboo explanation, quoting the line about northerners avoiding Shi Le's name. Li Shizhen's citation of the *Ye zhong ji* for Shi Hu's change to 香菜 completes the chain. This is a philological fact, not an inference.
+
+**The culinary role is documented.** Basil is treated as a vegetable-section herb, which is where a kitchen plant belongs in the materia medica's organization. That placement is itself evidence of how the plant was used.
+
+**The incense role is not documented.** The 香乘 tradition is a compounding tradition built on woods, resins, and processed aromatics. Basil does not appear there as a burning ingredient. A page that claims otherwise is borrowing prestige from a canon the plant never joined.
+
+The distinction between "recorded in a classical text" and "used in classical incense" is the boundary this page keeps drawing. It is not a debunking exercise. The naming story is genuinely interesting, and the culinary record is genuinely old. Neither needs to be inflated into a liturgical role to be worth telling.
+
+## Where tradition stops and evidence begins
+
+> **Direct answer:** The botanical identity is established, the naming history is documented, and the culinary use is old. Health claims are not established, and this page makes none.
+
+The plant's essential oil has been characterized: linalool, estragole, eugenol, and other fractions are well described in the literature. Characterization is not the same as efficacy. Knowing which molecules carry a scent tells you how the material behaves; it does not tell you what burning it does to a body, and this page does not claim that it does anything.
+
+Traditional uses of basil exist in several cultures, including uses framed in humoral or Ayurvedic terms. They are traditional belief, and they belong to the history of the plant rather than to a modern clinical claim. A reader who wants that history can have it, labelled as history; a reader who wants to know what is established can see that the answer is narrower.
+
+One editorial position, stated as such: the most misleading thing about basil in an incense context is the word "aromatic." A plant can be aromatic and still be a poor burning material. Aroma is a property of the raw material; incense is a property of a processed, blended, and combusted system. Basil has the first and lacks the second, and no amount of classical name-dropping changes the physics.
+
+## Sourcing a named cultivar
+
+> **Direct answer:** A useful basil specification names the species, the cultivar or chemotype, the form, and the harvest. Without those four, the second order is a new experiment.
+
+For fresh leaf, the questions are cultivar, cut date, and cold-chain. For dried leaf, they are cultivar, drying method, colour at packing, and storage since packing. For oil, they are species, chemotype, distillation date, and container.
+
+A short specification template:
+
+- **Species and cultivar.** *Ocimum basilicum*, with the cultivar named where it matters (Genovese, Thai, bush).
+- **Chemotype.** Linalool-dominant, estragole-dominant, or eugenol-dominant, stated as an expectation rather than a guarantee.
+- **Form and preparation.** Fresh cut, air-dried, freeze-dried, or distilled; whole, cut, or milled.
+- **Harvest window.** Which cut, and whether the plant was in flower.
+- **Cleanliness.** Stem tolerance, foreign matter, and whether the lot was washed before drying.
+- **Storage.** Packing date, container, and conditions since packing.
+- **Aroma reference.** A retained sample, described in words.
+
+The retention habit matters more than the template. A buyer who keeps half of an approved sample and compares each new lot against it has a working quality system. A buyer who relies on memory has a supplier relationship that drifts.
+
+## Storage
+
+> **Direct answer:** Fresh basil wants cool, humid, above-freezing conditions and a few days at most. Dried basil wants a sealed, dark, dry container and a season at most. Oil wants dark glass, a cool place, and as little headspace as possible.
+
+Fresh leaf is a living product and continues to respire after cutting. Chilling it too hard blackens the tissue; leaving it warm wilts it. The compromise most kitchens use — a damp cloth or a loosely closed bag in the warmest part of the refrigerator — is a compromise for good reason.
+
+Dried leaf is hygroscopic and aromatic, which means it both absorbs water and gives up volatiles. A sealed jar in a dark cupboard is the standard answer. A jar on a sunny windowsill is the standard mistake: light accelerates the breakdown of chlorophyll and the oxidation of the oil, and the contents fade from green to brown while the smell flattens.
+
+Oil is the most fragile form. Linalool oxidises, citral oxidises faster, and light catalyses both. Dark glass, a cool cupboard, minimal headspace, and a date on the label are the whole system. A bottle that has been open for a year is not the same material it was when it was filled, even if it still smells of something.
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
+> **Direct answer:** The risks are smoke and particulate matter from burning, dust from handling dried leaf, spoilage in badly stored material, and the ordinary hazards of concentrated essential oil. None of these is removed by the herb's culinary familiarity.
 
-## Summary
+Incense smoke contains particulate matter and combustion products regardless of the material burned. Burn in a well-ventilated space, avoid inhaling concentrated smoke, keep burning material away from children and pets, and never leave a flame unattended. A kitchen herb does not produce cleaner smoke than a resin; it produces different smoke.
 
-Basil (罗勒) is sweet basil, *Ocimum basilicum* (Lamiaceae), a culinary garden herb whose genuine connection to the Chinese aromatic record is the taboo-avoidance renaming 罗勒 → 兰香 ("orchid fragrance") recorded in the *Bencao Gangmu* (菜之一). It is a fresh, green, sweet-spicy supporting note — not a classical burned incense material — and its key points are the name disambiguation (罗勒 = 兰香) and the cultivar/chemotype distinction.
+Dried leaf handled in quantity raises dust, and milling raises more. Work in a ventilated area and separate milling from food preparation. Discard leaf that is musty, caked, or visibly mouldy rather than burning it; combustion does not sterilise contaminated material.
+
+Essential oil needs its own caution. It is concentrated, it should not be taken internally on the strength of a culinary association, and it should be kept away from eyes and out of reach of children. Oxidised linalool is a recognised skin sensitiser, which is one more reason to store oil properly and to discard material that has gone stale. For general rules, see the [safety guide](/safety/).
 
 ## FAQ
 
-**What is basil (罗勒)?** Sweet basil, *Ocimum basilicum*, an aromatic herb of the mint family (Lamiaceae), native to tropical and subtropical Asia and cultivated worldwide in many culinary varieties. It carries the older Chinese name 兰香 (lánxiāng, "orchid fragrance"), recorded in the *Bencao Gangmu* (本草纲目).
+**What is basil (罗勒)?** Sweet basil, *Ocimum basilicum*, an aromatic annual of the mint family, grown for its leaves and used worldwide as a culinary herb. Its Chinese name 罗勒 carries a classical alternative, 兰香, which is a taboo-avoidance renaming rather than a separate plant.
 
-**Why is basil called orchid fragrance (兰香)?** Because of a taboo-avoidance renaming. The *Bencao Gangmu* (本草纲目) records that northerners, avoiding the taboo personal name of the Later Zhao ruler Shi Le, "called 罗勒 as 兰香" (呼羅勒為蘭香), and that Shi Hu later changed it to 香菜. So 兰香 is a renaming of 罗勒, not a claim that basil is an orchid.
+**Why is basil called 兰香 ("orchid fragrance")?** Because of a naming taboo. The *Bencao Gangmu* records that northerners avoided the character in the Later Zhao ruler Shi Le's personal name and called 罗勒 by the substitute 兰香. The name describes a pleasant scent; it does not make the plant an orchid.
 
-**Is basil (罗勒) the same as 兰香?** Yes. They are the same herb, *Ocimum basilicum*. 罗勒 is the base name and 兰香 is a taboo-avoidance alternative recorded in the classical *Bencao Gangmu*. The two should not be treated as different plants.
+**Is 罗勒 the same as 兰香?** Yes. They are two names for *Ocimum basilicum*. 罗勒 is the base name; 兰香 and 香菜 are recorded alternatives produced by the taboo renaming. A source that uses either name is discussing the same herb.
 
-**What does basil smell like?** Sweet and green, with a spicy, faintly anise-and-clove lift that varies by cultivar. It is a fresh, food-adjacent note, less minty than mint and less camphoraceous than perilla, and reads in aromatics as a bright green sweetness that supports rather than leads a blend.
+**Is basil a Chinese incense material?** Not in the burned-incense sense. It is a culinary and garden herb, and the classical incense compendium tradition does not treat it as a burning ingredient. Its aromatic use is as a fresh green note, not as a temple material.
 
-**Is basil a classical Chinese incense material?** Not in the burned-incense sense. Basil is a culinary and garden herb; its classical claim to fame is the 兰香 naming recorded in the 本草纲目, not a role in the 香乘 incense tradition. Its aromatic use is as a fresh green note, not a burned temple material.
+**Why does one basil smell different from another?** Because of cultivar and chemotype. Linalool-dominant sweet basil is soft and floral; estragole-dominant Thai basil is anise-forward; eugenol-dominant holy basil is clove-like and spicy. They are related plants with different oil profiles, and the differences are large enough to matter in a kitchen and in a blend.
 
-**What is the difference between basil and perilla?** Both are Lamiaceae herbs, but basil (*Ocimum basilicum*) is sweet-green and spicy, while perilla (*Perilla frutescens*, 紫苏) is more minty and anise-like with a distinctive shiso character. They are different genera with different aromatic profiles, though both are leafy culinary herbs.
+## Summary
 
-**Why does one basil smell different from another?** Because of cultivar and chemotype. The linalool-dominant "sweet" basil is soft and classic, while the methyl-chavicol (estragole) and eugenol chemotypes read more anise- or clove-like. They are all *Ocimum basilicum*, but the specific variety shifts the green-sweet character.
+罗勒 is *Ocimum basilicum*, the sweet basil of kitchens, an annual mint-family herb from tropical Asia with a linalool-led scent that shifts toward anise or clove depending on chemotype. Its Chinese name history is the interesting part: 兰香 was a taboo substitution for 罗勒 under the Later Zhao, and 香菜 followed, which is why old texts use three names for one plant. Basil is a culinary herb, not a classical burned incense material, and its value in aromatics is a brief green top note rather than depth. Buy it by cultivar, judge it by smell and freshness, and read the "orchid" name as a compliment rather than a botanical claim.
 
-See also: [perilla](/ingredients/perilla/), [mint](/ingredients/mint/), [how incense is made](/blog/how-incense-is-made/) and the full [scent guide](/blog/scent-guide/).
+## Sources
 
-## Evidence & Sources
+- [*Ocimum basilicum* in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914) — the botanical description and the species record.
+- [*Ocimum basilicum* on GBIF](https://www.gbif.org/species/2927096) — taxonomy and occurrence data.
+- [本草纲目 菜之一 on Wikisource](https://zh.wikisource.org/wiki/本草綱目/菜之一) — the 罗勒 entry with the 兰香 and 香菜 alternative names and the taboo explanation.
 
-### Botanical identity
-**Source:** [Ocimum basilicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914) · [Ocimum basilicum on GBIF](https://www.gbif.org/species/2927096). **Evidence type:** Established.
-
-### Traditional Chinese use
-**Source:** the *Bencao Gangmu* (本草纲目), 菜之一, records under 罗勒 the alternative names 兰香 and 香菜, noting "北人避石勒讳，呼罗勒为兰香" (northerners avoided the taboo name of Shi Le and called 罗勒 as 兰香). **Evidence type:** Historically documented — culinary herb and classical naming.
-
-### Authenticity / disambiguation
-**Source:** 罗勒 = 兰香 (same herb, *Ocimum basilicum*), a taboo-avoidance renaming, not a true orchid. **Evidence type:** Practical screening.
-
-### Safety
-**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+The historical summary above follows the *Bencao Gangmu* 菜之一 entry and its quotation of the taboo rationale. The culinary framing is drawn from the same section. No incense-manual citation is offered for basil because none supports a burned use.
 
 ## Evidence status
 
 | Layer | Status |
 |---|---|
 | Botanical identity | Established |
-| Traditional use | Historically documented (culinary, naming) |
-| Authenticity test | Practical screening |
+| Naming history | Documented in the *Bencao Gangmu* |
+| Culinary use | Historically documented |
+| Incense use | Not documented in the classical canon |
 | Health claims | Not established |
 
-## Sources
+## Related Resources
 
-- [Ocimum basilicum in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914)
-- [Ocimum basilicum on GBIF](https://www.gbif.org/species/2927096)
-- [本草纲目 菜之一 on Wikisource](https://zh.wikisource.org/wiki/本草綱目/菜之一)
+- [Perilla (紫苏)](/ingredients/perilla/) — the other green Lamiaceae herb in this aromatic range, with a shiso character.
+- [Mint](/ingredients/mint/) — the cool-green comparison that shows how much of basil's softness comes from linalool.
+- [How incense is made](/blog/how-incense-is-made/) — why leaf materials and wood-resin materials behave differently in a stick.
+- [Scent guide](/blog/scent-guide/) — where green culinary notes sit against the classical palette.
+- [Safety guide](/safety/) — ventilation, smoke, and handling rules for anything that burns.
 
-*Sources: botanical references on *Ocimum basilicum* and the *Bencao Gangmu* (本草纲目) 菜之一 record of the 罗勒/兰香 naming. Basil's culinary and garden use is documented, and the 兰香 name is a classical taboo-avoidance renaming; no medical claims are made. This is editorial knowledge content, not medical advice.*
+*Editorial knowledge writing, not medical advice. Traditional and historical claims are labelled as such, and the botanical statements follow the references above.*
