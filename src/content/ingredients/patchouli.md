@@ -33,8 +33,6 @@ That gap between plant and product is the useful thing to understand. Most bad d
 | Historical uses | Temple and household incense, perfumery, protection of stored cloth (traditional belief) |
 | Trade grading | No universal scale; lots are compared by nose and by history |
 
-The table is short on purpose: patchouli has no long list of varieties, grades, or protected origins. Its complexity sits in processing and dose, not in a catalogue of names — the opposite of most premium incense materials.
-
 ## The leaf that behaves like a wood
 
 > **Direct answer:** The plant part is foliage. Woodiness here is a behaviour — low pitch, slow evaporation, dry finish — not anatomy.
@@ -87,13 +85,17 @@ For a reader working from an English ingredient list, the safe rule is to check 
 
 ## Reading a Chinese label
 
-Chinese trade vocabulary separates 广藿香油 (the oil), 广藿香叶 (the cured leaf), and 藿香 (the other herb). Distillation is 蒸馏 (zhēngliú); the main growing provinces are 广东 and 海南, while much of the world supply comes from 印度尼西亚 (Yìnníxīyà).
+> **Direct answer:** Three terms cover most packaging: 广藿香油 is the oil, 广藿香叶 the leaf, and 蒸馏 the distillation method.
+
+Chinese trade vocabulary separates 广藿香油 (the oil) from 广藿香叶 (the cured leaf); 藿香, without the 广, is the other herb. Distillation is 蒸馏 (zhēngliú); the main growing provinces are 广东 and 海南, while much of the world supply comes from 印度尼西亚 (Yìnníxīyà).
 
 | Label term | Pinyin | What it promises |
 |---|---|---|
 | 广藿香油 | guǎnghuòxiāng yóu | the essential oil, not the leaf |
 | 广藿香叶 | guǎnghuòxiāng yè | cured leaf sold in bulk |
 | 蒸馏 | zhēngliú | steam distillation, as opposed to solvent extraction |
+
+The medicinal trade adds its own vocabulary: 药材 (yàocái) for crude drugs and 饮片 (yǐnpiàn) for cut, prepared pieces. Those are different channels from the fragrance trade, and a leaf sold as 药材 is not automatically suitable for burning.
 
 A label that says only 广藿香 leaves the form open. That is the single most useful thing to notice on packaging, because the oil and the leaf behave differently in every subsequent step.
 
@@ -372,6 +374,8 @@ This page does not offer medical advice, and it does not claim that burning patc
 **What separates 广藿香 from 藿香?** Two species and two uses. 广藿香 is *Pogostemon cablin*, the aromatic leaf behind this page. 藿香 is *Agastache rugosa*, a culinary and medicinal herb. A shared character in the name does not make them interchangeable in a formula.
 
 ## Four words this page uses precisely
+
+> **Direct answer:** Balsamic means sweet and resinous, musty means damp earth, dry-down means the final phase, and fixative means slow to leave. None is a grade.
 
 Balsamic means sweet, resinous, and slightly vanilla-like — never acidic, despite the vinegar association of the word. Musty means damp earth and old cellar; in patchouli oil it is the signature, in cured leaf it can be spoilage. Dry-down is the final stage of evaporation, when the heaviest fraction is all that remains. Fixative describes a material that slows the departure of lighter notes, usually because its own molecules are slow to leave. None of these is a grade; each is a description of behaviour, and using them loosely is how a sensory conversation turns into a disagreement about words.
 
