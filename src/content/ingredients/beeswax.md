@@ -15,155 +15,227 @@ related: ["honey", "musk"]
 
 <img src="/images/beeswax-raw-material-800x533.webp" alt="Raw Beeswax (Apis cerana & A. mellifera (bee product) — beeswax) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Beeswax (蜂蜡, fēnglà) is the wax secreted by honey bees (*Apis cerana* and *Apis mellifera*) to build their honeycomb. It is a bee product, not a botanical; in classical Chinese incense it is a wax — a molding, coating, and sealing material distinct from honey (蜂蜜), which serves as a binder. The *Bencao Gangmu* records both side by side.
+> **Direct answer:** Beeswax (蜂蜡, fēnglà; classical 蜜蜡, mìlà) is the wax that honey bees secrete from glands on the underside of the abdomen to build comb. It is an animal product, not a botanical, and in incense work it is a structural material — melted to mould, coat, seal and slow a burn — rather than a fragrance. Honey binds powder; wax holds shape and surface. The *Bencao Gangmu* treats them as separate entries for exactly that reason.
 
 ## Key facts
 
 | | |
 |---|---|
-| Chinese | 蜂蜡 (fēnglà); classical 蜜蜡 (mìlà) |
-| Source | *Apis cerana* and *Apis mellifera* (honey bees) — a bee product, not botanical |
-| What it is | A wax, not a burned fragrance or a honey binder |
-| Aroma | Waxy, honeyed, warm, slightly sweet |
-| Traditional role | Wax for molding, coating, sealing; 蜜蜡 in materia medica |
+| Chinese | 蜂蜡 (fēnglà); classical 蜜蜡 (mìlà); 黄蜡 for the yellow grade |
+| Source | *Apis cerana* (Eastern honey bee) and *Apis mellifera* (Western honey bee) |
+| What it is | A secreted wax, animal-derived, not a plant resin and not honey |
+| Melting behaviour | Thermoplastic; softens and flows in the low 60s °C, sets firm on cooling |
+| Solubility | Insoluble in water; soluble in warm oils and organic solvents |
+| Aroma | Waxy, honeyed, faintly sweet — a by-product of origin, not a design feature |
+| Craft role | Coating, moulding, sealing, mould release, thread waxing, burn modification |
+| Classical status | 蜜蜡 recorded in *Bencao Gangmu* 虫之一, alongside 蜂蜜 and 蜜蜂 |
+| Quality signal | Refinement and cleanliness, not scent |
+| Main failure | Cracking or clouding from rushed cooling, or adulteration with cheaper waxes |
 
-## Aroma profile
+## What the material actually is
 
-> **Direct answer:** Beeswax is waxy and honeyed, warm and faintly sweet, with a soft, rounded, almost floral-waxy character. Like honey, its scent is secondary — it reads as a gentle, sweet warmth that softens a burn. Its real function is physical: wax molds, coats, and seals.
+> **Direct answer:** Beeswax is a secretion, not a collection. Worker bees produce it from glands on the ventral abdomen, work the thin scales with their mouthparts, and build the comb from it. Chemically it is a mixture of esters, hydrocarbons, free fatty acids and alcohols — which is why it behaves like a wax and not like a fat or a resin.
 
-Beeswax is waxy and honeyed, warm and faintly sweet, with a soft, rounded, almost floral-waxy character. Like honey, its scent is secondary — when it registers in incense it reads as a gentle, sweet warmth that softens a burn. Its real function is physical: wax molds, coats, and seals, holding a form and protecting a surface, rather than contributing a distinct fragrance note of its own.
+The glands sit on the underside of the worker's abdomen, and the wax emerges as small translucent scales that the bee manipulates and chews before adding to the comb. Comb is the architecture of the hive: storage for honey and pollen, and the rearing space for brood. The material is produced by the bees themselves from consumed honey and pollen, which is the first thing to understand about its economics — wax is a metabolic product, and a colony spends real resources making it.
 
-The scent note is a *byproduct* of the material, not its purpose: beeswax smells faintly of honey because it is made by the same bees, but in the incense craft it is chosen for its physical behavior — melting, molding, coating, sealing — not for its fragrance.
+Chemically, beeswax is not a single substance. It is a mixture dominated by esters of long-chain fatty acids and long-chain alcohols, with hydrocarbons, free fatty acids and free alcohols making up the rest. That composition explains the physical profile: it is solid at room temperature, softens over a range rather than at a sharp point, flows when warm, and sets to a firm, slightly tacky solid as it cools. It does not dissolve in water. It dissolves, slowly, in warm oils and in solvents such as the terpenes used in polishes and varnishes.
 
-## Wax, not honey (read this)
+The practical consequences of that profile are what a workshop cares about:
 
-> **Direct answer:** Beeswax (蜂蜡/蜜蜡) and honey (蜂蜜) are two different products of the same bees, and the classical record keeps them distinct: honey is the nectar-derived binder (以蜜和香), while beeswax is the comb wax used for molding, coating, and sealing.
+- **It is thermoplastic.** Heat it and it can be shaped; cool it and the shape is retained. That reversibility is the whole basis of moulding and coating.
+- **It is hydrophobic.** Water beads on a waxed surface. This is why wax seals against moisture, and why a wax coating on a hygroscopic substrate changes how that substrate behaves in humid air.
+- **It is not a hard wax.** At room temperature it is firm but impressionable. A fingernail leaves a mark. That softness is a feature in some uses and a defect in others.
+- **It holds a polish.** Rubbed and buffed, the surface takes a sheen. This property built the furniture-polish and leather-care trades long before anyone thought about incense.
 
-蜂蜡 and 蜂蜜 are two different products of the same bees, and the classical record keeps them distinct:
+Melting behaviour is usually described as somewhere in the low sixties Celsius, with published ranges varying by grade and by how much residual material the wax carries. A formulator should treat that as a band, not a setpoint: the wax softens before it fully flows, and the working window between "soft enough to mould" and "hot enough to scorch" is narrower than the numbers suggest.
 
-- **honey (蜂蜜)** — the nectar-derived sweet, used as the 合香 *binder* (以蜜和香). Its own entry.
-- **蜂蜡 / beeswax (蜜蜡)** — the wax of the honeycomb, used as a molding and coating material. This entry.
+## Wax and honey are not the same material
 
-The *Bencao Gangmu* (本草纲目), in its insect section (虫之一), lists them as separate entries — 蜂蜜 then 蜜蜡 then 蜜蜂 — and records beeswax's origin plainly: "蜂造蜜蜡" (bees make beeswax), distinguishing white wax (白蜡) and yellow wax (黄蜡) by purity. **This page describes 蜂蜡 = beeswax**, the wax, not the honey. See [honey](/ingredients/honey/).
+> **Direct answer:** Both come from the same colony, and the classical record keeps them apart because their behaviour is opposite. Honey is a water-soluble, hygroscopic sugar syrup used to bind powder. Beeswax is a water-repellent, thermoplastic solid used to hold shape and surface.
 
-## Botanical source and origin
+The difference starts at the bee. Nectar is collected, carried in the crop, and processed: enzymes split sucrose into simpler sugars, water is evaporated, and the result is honey — a concentrated sugar solution that will absorb moisture from the air if it is left exposed. Wax is a glandular secretion, built from resources the bee has already metabolised, and it emerges as a material that repels water.
 
-> **Direct answer:** Beeswax is produced by honey bees — the Eastern honey bee *Apis cerana* and the Western honey bee *Apis mellifera* — from wax glands on the abdomen, secreted to build honeycomb. It is animal-derived, not a plant material, and is distinguished by refinement into 白蜡 (white) and 黄蜡 (yellow).
+That difference produces two completely different failure modes in a finished product, and the first mechanism chain is about the honey side:
 
-Beeswax is produced by honey bees — the Eastern honey bee *Apis cerana* and the Western honey bee *Apis mellifera* — from wax glands on the abdomen, and secreted to build honeycomb. It is an animal-derived product, not a plant material. The classical manuals distinguish raw honey (生蜜) from refined honey (炼蜜) on the honey side, and white wax (白蜡) from yellow wax (黄蜡) on the wax side, the white being the more purified. Beeswax's incense-craft role is as a molding, coating, and sealing wax.
+**honey in a bound powder → honey is hygroscopic → it draws moisture from humid air → the bound mass softens and swells → a stick sags, a cake turns sticky, a seal weeps → the formula that behaved in a dry workshop fails in a wet climate**
 
-The two bee species matter for provenance: *Apis cerana* is the Eastern honey bee long kept in China, and *Apis mellifera* the Western honey bee now widespread; both produce beeswax, and the classical Chinese record (蜂, 蜜蜡) refers to the bee of the region. The refinement distinction — white vs yellow — is the practical quality signal.
+The wax side fails differently:
 
-## In Chinese tradition
+**molten wax applied to a substrate → heat transfers into the substrate → wax penetrates the surface pores while it is thin → cooling sets the wax inside those pores → a mechanical key forms → the coating resists water because it is anchored, not just laid on top**
 
-- **Wax for molding and coating:** beeswax is used to mold, coat, and seal — a craft material rather than a burned fragrance.
-- **蜜蜡 in materia medica:** the *Bencao Gangmu* (本草纲目) records 蜜蜡. This is **traditional materia-medica language, not modern clinical evidence.**
-- **Distinct from honey:** beeswax is the comb wax; honey is the nectar sweet used as the 合香 binder — two products of the same bees, kept separate in the classical record.
+That is the mechanism behind every successful wax coating, from a sealed jar to a waxed thread. A coating that merely sits on a smooth, cold, dusty surface has no key, and it will lift at the first flex. Preparation is not fussiness; it is the difference between a seal and a film.
 
-## Traditional use vs modern evidence
+The classical literature draws the same line in different vocabulary. In the *Bencao Gangmu* (本草纲目), the insect section (虫之一) gives 蜂蜜, 蜜蜡 and 蜜蜂 three separate entries. The wax entry states its own origin in four characters — 蜂造蜜蜡, "bees make beeswax" — which is about as plain as the classical record gets. Honey is the sweet used to blend incense (以蜜和香); wax is the comb material. Two products, two entries, two jobs.
 
-> **Direct answer:** The wax-craft use is documented. We make no medical claims. The documented, non-medical facts are the bee origin, the animal-derived (non-botanical) classification, and the molding/coating role.
+## What wax does in an incense workshop
 
-- **Traditional Use** — 蜜蜡 in the 本草綱目 虫之一, with described medicinal uses. Traditional materia-medica language, not modern clinical evidence.
-- **Historical Record** — beeswax as a molding, coating, and sealing wax; the *Bencao Gangmu* records "蜂造蜜蜡" and distinguishes 白蜡 from 黄蜡.
-- **Scientific Evidence** — the source identity (*Apis cerana*, *Apis mellifera*) and beeswax's nature as a bee-secreted comb wax are established. We present no clinical or medical efficacy claims.
+> **Direct answer:** Wax works on the object, not on the scent. It coats a finished surface, moulds a shape, seals a container, releases a form from its mould, waxes a thread, or slows a burn. None of those roles requires the wax to smell of anything in particular.
 
-The wax-craft use is documented. We make **no medical claims**. The documented, non-medical facts are the bee origin, the animal-derived (non-botanical) classification, and the molding/coating role.
+This is the part that surprises people who come to beeswax from perfumery. In a fragrance context, a wax is a carrier — a solid to hold an accord. In an incense workshop, the wax is closer to hardware. Its jobs are structural and protective:
 
-## Why is beeswax used in incense craft?
+**Coating.** A thin film of melted wax closes the surface of a pressed cone, a coated stick, or a decorative body. The film slows moisture exchange with the air, which matters for a product that will sit in a humid room. A coating also changes the surface feel, from dusty and friable to smooth and slightly tacky.
 
-> **Direct answer:** Beeswax is used as a molding, coating, and sealing wax — it melts to form, hardens to hold, and coats to protect, without contributing a strong scent of its own. It is a craft material for the physical structure of incense bodies, distinct from honey's binding role.
+**Moulding.** Warm wax can be pressed into a mould and will hold the impression when cool. Small pressed shapes, decorative elements, and wax-sealed cakes all depend on this. The same property allows wax to be used as a mould-release agent: a thin film on the mould face lets a sticky mass lift cleanly.
 
-Beeswax's role in the incense craft is physical and protective. Where honey binds a loose powder into a dough, beeswax works on the *formed* object: it can be melted and used to coat a surface (sealing a finished body against moisture and air), to mold a shape, or to fix components together. Its value is in the transition between liquid and solid — beeswax flows when warm and hardens when cool — which makes it a natural molding and sealing medium. It is the "hardware" of incense craft, complementing honey's "binder" role: honey holds a powder together, beeswax holds a form's shape and surface.
+**Sealing.** A wax seal on a jar, a tin or a wrapped bundle is a barrier against air and moisture. The seal is only as good as its continuity: a hairline crack from fast cooling defeats it entirely, which is why cooling discipline matters more than the thickness of the layer.
 
-## How is it processed?
+**Fixing.** Wax can hold two components in register — a wick in a body, a decorative element on a surface, a knot in a cord. It is a weak adhesive compared with a resin, and that weakness is sometimes the point, since the joint can be reopened with heat.
 
-> **Direct answer:** Beeswax is processed by rendering the comb and refining the wax — melting it and separating the pure wax from residue — to produce yellow wax (黄蜡) and, with further purification, white wax (白蜡). The white is the more refined, and the refinement is the quality signal.
+**Thread waxing.** Running a linen or cotton thread through a block of beeswax stiffens it, reduces fraying and lets it pull through a tight wrap without snagging. This is one of the oldest and least glamorous uses, and it is still the clearest demonstration of how wax works: it penetrates the fibre, sets inside it, and changes the mechanical behaviour of the whole thread.
 
-The processing is **rendering and refining**:
+**Burn modification.** This one deserves its own section, because it is the only role in which wax touches the burn itself, and it is easy to get wrong.
 
-1. **Rendering** — melt the honeycomb and separate the wax from the honey and the comb residue.
-2. **Refining** — filter and re-melt the wax to remove impurities.
-3. **Whitening / purification** — further processing yields white wax (白蜡), the more purified grade, from yellow wax (黄蜡).
+## Wax as a burn modifier
 
-There is no distillation or extraction step; beeswax *is* the wax, and the craft question is how thoroughly it has been rendered and purified — yellow is the less refined, white the more refined.
+> **Direct answer:** Wax melts before the plant material around it burns, wicks into the powder, and changes how the burn front advances. A little wax can slow and steady a fast-burning mix; too much smothers it. That makes wax a rate control, not a fragrance ingredient.
 
-## What determines quality?
+The sequence is worth following closely, because it explains both the useful and the disastrous outcomes:
 
-> **Direct answer:** Beeswax quality is a matter of purity and refinement: white wax (白蜡) is more purified than yellow wax (黄蜡), and a clean, well-rendered wax is preferred for molding and coating. The color is the practical quality signal.
+**heat reaches the body → wax softens and melts before the herb ignites → the melt wicks into adjacent powder → powder grains are coated and partly bound → the burn front has to drive off the melt before it can reach fresh fuel → the burn slows and the temperature at the front drops → smoke becomes cooler and denser**
 
-The quality factors:
+At a low loading, that is exactly what a fast, hot, thin-burning formula needs. It steadies the front, lengthens the burn, and thickens the smoke enough to carry heavier notes. At a high loading, the same mechanism starves the burn: the wick cannot draw enough heat through the melting layer, the front stalls, and the stick goes out or tunnels.
 
-1. **Purity / refinement** — the decisive factor; 白蜡 (white) over 黄蜡 (yellow).
-2. **Cleanliness** — freedom from comb residue, honey, and foreign matter.
-3. **Consistency** — an even, workable melt for molding and coating.
+There is a second-order effect that matters for flavour of the smoke. A cooler burn front volatilises aromatic compounds more gently than a hot one, so some materials smell rounder in a wax-modified mix and duller in a bare one. That is not a universal rule — some resins need heat to open — which is why wax loading has to be tested against the specific formula rather than set by habit.
 
-There is no standardized grading ladder; the practical signal is color and cleanliness — the whiter and cleaner, the more refined.
+In practice, wax belongs at the low end of the formula, in the same conceptual slot as a binder or a burn regulator rather than an aromatic. A maker who adds wax hoping for a honey note is usually disappointed: the scent contribution is faint, and the structural effect dominates. The honest framing is that wax buys burn behaviour and surface finish, and any aroma it adds is a small bonus.
 
-## Common forms
+## Rendering, filtering and whitening
 
-> **Direct answer:** Beeswax is distinguished by refinement into yellow wax (黄蜡) and white wax (白蜡), the white being the purer. It is used as a solid wax that is melted for molding and coating.
+> **Direct answer:** Raw comb is rendered by melting it in water or with steam, then filtered and cooled into a block. Further refining removes colour and odour; whitening produces the pale grade. Each step removes something specific, and overheating at any step damages the wax.
 
-| Form | Description |
-|---|---|
-| yellow wax (黄蜡) | The less-refined comb wax |
-| white wax (白蜡) | The more purified, bleached wax |
+| Step | What happens | What it removes | What can go wrong |
+|---|---|---|---|
+| Collection | Comb, cappings and old comb are gathered | Nothing yet | Comb with high brood residue is darker and smellier |
+| Water rendering | Wax is melted in hot water and left to separate | Honey, water-soluble debris, some dirt | Overheating scorches residual honey and darkens the batch |
+| Straining | Melt is passed through cloth or mesh | Coarse comb residue, bee parts, grit | Fine mesh clogs; coarse mesh leaves specks |
+| Cooling | Melt sets into a block | Sediment settles to the base | Fast cooling traps water and bubbles |
+| Re-melting and filtering | Second pass at lower temperature | Remaining fine particles | Repeated heating oxidises colour and odour |
+| Whitening | Thin ribbons exposed to light, or other refining routes | Colour bodies and some odour | Aggressive routes can leave the wax duller or chemically altered |
 
-The distinction is refinement, not a different product — the same comb wax, purified. For incense craft, the white is preferred where a clean, neutral wax is wanted.
+The water-rendering step is the traditional one and still the most forgiving. Wax floats, water carries the water-soluble fraction away, and the block that forms on cooling has a dirty underside that can be scraped clean. A producer who melts wax directly in a dry pot, without water, has to control temperature much more tightly, because residual honey in the wax will scorch and take the whole batch's colour and smell with it.
+
+Whitening is where the trade vocabulary gets slippery. Sun bleaching of thin wax ribbons is the old route: expose more surface, let light and air work on the colour bodies, and the wax pales. Other refining routes exist and are not all equivalent. The result is sold as white wax, and the buyer should understand that "white" describes a colour outcome, not a guaranteed purity level. A pale wax can still carry odour; a yellow wax can be perfectly clean.
+
+One more caution on the vocabulary. In later Chinese commercial usage, 白蜡 can also name the wax of a scale insect (虫白蜡, from *Ericerus pela*), which is a genuinely different material with different hardness and melting behaviour. That means a specification written only as "白蜡" is ambiguous, and a buyer who needs beeswax should say 蜂蜡 or 蜜蜡 plus the refinement grade, rather than relying on the colour word alone.
+
+## White wax, yellow wax, and what the difference buys you
+
+> **Direct answer:** White and yellow grades are the same comb wax, refined to different degrees — white is paler, quieter in smell and dearer; yellow keeps more of the honey-and-comb character and costs less.
+
+| | Yellow wax (黄蜡) | White wax (白蜡) |
+|---|---|---|
+| Refinement | Lower; colour and some odour retained | Higher; colour reduced, odour reduced |
+| Smell | Distinct honey-and-comb note | Faint, closer to neutral |
+| Colour | Golden to deep amber | Cream to near-white |
+| Typical use | Rustic seals, thread wax, dark finishes, general craft | Cosmetic work, pale finishes, neutral coatings, light-coloured bodies |
+| Cost | Lower | Higher, because more processing is spent |
+| Risk | Visible colour can stain a pale product | Over-refining can leave a dull, brittle wax |
+
+The decision rule I would give a maker is about interference, not prestige. If the wax is going into a pale product, or into a formula where its honeyed smell would clash with a delicate floral accord, the white grade buys neutrality. If the wax is doing structural work behind a dark surface, or if the honey note is welcome, the yellow grade is cheaper and often more workable.
+
+What white wax does not buy is a guarantee of quality. Refinement can be done well or badly, and a badly whitened wax can be brittle, dull, or chemically altered in ways that show up as poor adhesion later. The colour is a signal about processing, and processing is only one of the things a buyer needs to know.
+
+## Screening quality in the workshop
+
+> **Direct answer:** A buyer can learn most of what matters in ten minutes with a knife, a hot plate and a nose. Colour, smell, fracture, melt clarity, residue and water content separate a clean wax from a tired or adulterated one. A lab is for disputes, not for routine screening.
+
+| Check | How to run it | A good result looks like | What a bad result suggests |
+|---|---|---|---|
+| Smell, cold | Scratch the block and smell | Mild honey and comb; clean | Paraffin or fuel note suggests a blend; sour or smoky note suggests overheating |
+| Fracture | Break a thin flake | Granular, slightly waxy break, not glassy | Glassy, sharp break suggests a hard synthetic wax |
+| Finger warmth | Hold a small piece | Softens with body heat, feels slightly tacky | No softening suggests a high-melting adulterant |
+| Melt clarity | Melt a spoonful in a water bath | Clear to slightly hazy; no separation | Cloudiness suggests water or suspended residue |
+| Residue | Pour through fine cloth | Clean melt, little on the cloth | Grit or dark specks suggest poor filtering |
+| Water | Watch for spitting during melt | Quiet melt | Spitting and crackling mean trapped water |
+| Bloom | Inspect a stored block | Even surface | A pale film is surface recrystallisation, usually cosmetic |
+
+The one test that beats all of these is the comparison against a retained sample of wax you already trust. Melt both, smell both, break both. Differences in fracture, tack and smell are much easier to see side by side than in isolation, and a retained sample costs nothing but a labelled jar.
+
+Adulteration is a real commercial issue rather than a theoretical one. Beeswax is expensive relative to paraffin, stearic acid and some vegetable waxes, and blending is not always declared. The screening signals differ by adulterant: paraffin tends to make the block harder and glassier with a fuel-like smell; stearic acid can make the melt cloudy and the surface soapy; a hard vegetable wax raises the melting behaviour and the brittleness. None of those signals is proof. They are reasons to send a sample for analysis before accepting a large lot, and reasons to write the acceptance criteria into the order in the first place.
+
+## Specifying beeswax on a purchase order
+
+> **Direct answer:** Write the specification around the job the wax has to do, then add the tests that prove it. Species origin, refinement grade, melting band, cleanliness, water content and a retained reference sample cover most of the risk.
+
+| Line | What to write | Why it matters | How to verify |
+|---|---|---|---|
+| Material | Beeswax (蜂蜡/蜜蜡), *Apis* origin | Excludes paraffin, stearic acid, vegetable wax blends | Supplier declaration plus screening tests |
+| Refinement | Yellow (黄蜡) or white (白蜡), stated | Determines colour, odour and cost | Visual comparison against retained sample |
+| Melting band | A range, not a single number | Governs coating and moulding behaviour | Melt test on receipt |
+| Cleanliness | No visible residue; filtered grade | Grit blocks fine nozzles and mars surfaces | Cloth filter test |
+| Water content | Dry melt; no spitting | Trapped water causes voids and spatter | Melt observation; moisture test if disputed |
+| Odour | Neutral to mild honey; no fuel or sour notes | Odour carries into the finished product | Cold smell and warm smell |
+| Reference sample | Sealed, dated, retained | The baseline for every later delivery | Side-by-side comparison |
+
+The reference sample is the cheapest quality system available to a small workshop, and it is the one most often missing. Two blocks of wax that look identical under workshop light can behave very differently in a melter, and the difference is much easier to catch against a known-good baseline than against a specification sheet.
+
+The other discipline worth building is a batch log. Record the delivery date, the melt behaviour, the colour after cooling, and any change in the finished product. A coating that starts cracking after a supplier change is a signal, and a log turns that signal into a diagnosis instead of an argument.
+
+## The classical record, read carefully
+
+> **Direct answer:** The *Bencao Gangmu* records 蜜蜡 in its insect section, alongside 蜂蜜 and 蜜蜂, and states the origin as "蜂造蜜蜡." The medicinal language in that entry is traditional materia-medica vocabulary, and this page does not restate it as clinical fact.
+
+The entry's value for a modern reader is structural rather than therapeutic. It shows that the classical compilers treated honey and wax as distinct materials with distinct uses, which matches what a workshop finds: one binds, the other coats. It also shows that the refinement distinction is old — yellow and white grades were recognised and graded long before industrial wax processing existed.
+
+What the entry does not provide is evidence of efficacy for any medical use. Traditional Chinese materia medica described wax in its own framework, with its own categories of action, and those descriptions belong to the history of medicine rather than to modern clinical evidence. The honest way to present them is as **traditional belief**, clearly labelled, and not as a reason to use the material.
+
+For incense purposes, the classical record matters for one more reason: it establishes that wax was a known craft material in the same material culture that produced classical incense. That is a weaker claim than "wax was used in classical incense formulas," and it is the claim the evidence supports. The stronger version gets repeated often and is not something the sources actually say.
 
 ## Safety
 
-Incense combustion produces smoke and particulate matter. Burn in a well-ventilated space, avoid inhaling concentrated smoke, and keep away from children and pets. This is editorial knowledge content, not medical advice. See our [safety guide](/safety/).
+> **Direct answer:** The hazards of beeswax are heat hazards. Molten wax causes serious scalds, water in a melter causes spatter, and overheated wax produces acrid fumes and a fire risk. None of this is exotic, and all of it is avoidable with a water bath, a thermometer and a little patience.
 
-## Summary
+Molten wax at coating temperature is hot enough to burn skin badly, and it clings. A splash on the hand is worse than a splash of hot water at the same temperature, because the wax stays in contact and releases its heat slowly. Work over a tray, keep the melter stable, and keep sleeves and hair clear of the pot.
 
-Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees (*Apis cerana* and *Apis mellifera*), and the classical molding, coating, and sealing wax of the incense craft — distinct from honey (蜂蜜), the same bees' nectar-derived binder. The *Bencao Gangmu* records both side by side ("蜂造蜜蜡") and distinguishes white, purified (白蜡) from 黄蜡 (yellow). Its value is physical — melt, mold, coat, seal — not aromatic, and in trade its quality is a matter of purity and refinement, not scent.
+Water and hot wax do not mix, in the most literal sense. A drop of water into a melter flashes to steam and throws wax out of the vessel. Dry every utensil before it goes in, never add wax to a wet pot, and never try to cool a melter with a splash of water.
+
+Overheating is the third hazard. Wax that climbs well above its working range gives off acrid fumes, discolours, and eventually reaches a temperature where a fire is possible. A water bath limits the temperature by physics, which is why it is safer than a direct hotplate. A thermometer turns guesswork into a reading, and an unattended melter is a bad idea regardless of the equipment.
+
+Burning wax-treated incense adds the ordinary combustion hazards: smoke, fine particulate matter, and a hot ember. Ventilate the space, use a stable holder, and keep burning material away from children, pets and anything flammable. Nothing on this page is medical advice, and no therapeutic claim is made for beeswax, its fumes or its smoke.
+
+## What is documented, and what is not
+
+| Claim | Status | What can honestly be said |
+|---|---|---|
+| Beeswax is secreted by *Apis cerana* and *Apis mellifera* | Established | Species identity and glandular origin are settled |
+| Beeswax is animal-derived, not a botanical | Established | It is a bee product, outside the plant kingdom |
+| Wax is thermoplastic and hydrophobic | Established | Standard physical behaviour, verifiable in any workshop |
+| 蜜蜡 appears in *Bencao Gangmu* 虫之一 | Historically documented | The entry exists and distinguishes grades |
+| Beeswax was a classical Chinese incense ingredient | Not established | The record supports a craft material, not a formula ingredient |
+| Beeswax has medicinal benefits | Traditional belief, not established | Not restated as fact; no clinical evidence is claimed |
+| White wax is always purer than yellow | Misleading | White reflects refinement of colour and odour, not a purity guarantee |
+
+The pattern is the same as on any material page: identity and physics are checkable, history is checkable but frequently overstated, and health claims belong in a different category. Keeping those three apart is what makes the page useful to a maker rather than merely reassuring.
 
 ## FAQ
 
-**What is beeswax (蜂蜡)?** The wax secreted by honey bees — *Apis cerana* and *Apis mellifera* — to build their honeycomb. It is a bee product, not a botanical, and in Chinese incense it serves as a molding, coating, and sealing wax, distinct from honey (蜂蜜), which is the 合香 binder.
+**Can I substitute paraffin or soy wax for beeswax in an incense coating?** You can test it, but you are changing the material, not swapping a brand. Paraffin is harder, more brittle and smells of fuel when melted; soy wax is softer, lower-melting and behaves differently under heat. Each will coat something, and each will fail differently — cracking, tackiness, or a smell that carries into the product. If the coating is decorative and unburned, the substitution may be acceptable. If it is structural or the product is burned, test the whole formula rather than assuming equivalence.
 
-**Is beeswax the same as honey?** No. Both come from the same bees, but honey (蜂蜜) is the nectar-derived sweet used as the 合香 binder, while beeswax (蜂蜡/蜜蜡) is the wax of the honeycomb used for molding and coating. The *Bencao Gangmu* (本草纲目) keeps them as separate entries in its insect section.
+**Why did my beeswax coating crack as it cooled?** Almost always because it cooled too fast or went on too thick. The surface skins over first, the wax underneath continues to contract, and the stress has nowhere to go but a crack. Warm the substrate, apply thin coats, and let the piece cool slowly — in a warm room or under a cover rather than on a cold bench. A cracked seal is not a seal at all, so the fix is process, not more wax.
 
-**Is beeswax a botanical ingredient?** No. Beeswax is an animal-derived product, secreted by honey bees. It sits outside the botanical encyclopedia proper, like honey — though both are indispensable to the classical incense craft, beeswax as a wax and honey as a binder.
+**Is white beeswax bleached with chemicals?** Not necessarily, and the label alone will not tell you. Sun bleaching of thin ribbons is a traditional route that uses light and air. Other refining routes exist and vary in how they treat the wax. If the distinction matters for your product, ask the supplier for the refining method in writing rather than inferring it from colour.
 
-**What does beeswax smell like?** Waxy and honeyed, warm and faintly sweet, with a soft, rounded character. Its scent is secondary — its function is physical, holding a form and protecting a surface, rather than contributing a distinct fragrance note.
+**Does beeswax make incense smell of honey?** Faintly, at most. The honey note is real but soft, and it sits under whatever the aromatic materials are doing. In a burned product the effect is smaller still, because the wax is doing structural work at the burn front. A maker who wants a honey statement should use honey or a honey accord, not wax.
 
-**What is beeswax (蜜蜡) in the classical record?** The classical name for beeswax. The *Bencao Gangmu* (本草纲目) records 蜜蜡 in its insect section (虫之一), noting "蜂造蜜蜡" (bees make beeswax), and distinguishes white wax, purified (白蜡) from yellow wax (黄蜡) by refinement.
+**Is 蜜蜡 the same as 蜂蜡?** Yes for beeswax: 蜜蜡 is the older literary name and 蜂蜡 the modern one, and both point to the comb wax of honey bees. The word to watch is 白蜡, which in later commercial usage can also denote insect wax from a scale insect. Specify 蜂蜡 or 蜜蜡 plus the grade, and the ambiguity goes away.
 
-**How is beeswax used in incense craft?** As a molding, coating, and sealing wax — a craft material that holds a form and protects a surface. It is not a burned fragrance in the way aromatics are; its role is structural and protective, distinct from honey's binding role.
+**Was beeswax used in classical Chinese incense formulas?** The evidence supports wax as a craft material in the same material culture, not as a listed ingredient in incense recipes. The *Bencao Gangmu* records 蜜蜡 as a substance with its own entry, which is a different claim from "used in 合香." Pages that assert the stronger version are usually extrapolating.
 
-**What is the difference between white and yellow beeswax?** They are the same comb wax at different stages of refinement. yellow wax (黄蜡) is the less-refined form; white wax (白蜡) is the more purified, bleached form. The classical record distinguishes them by purity, and for incense craft the white is preferred where a clean, neutral wax is wanted.
+## Summary
 
-See also: [honey](/ingredients/honey/), [musk](/ingredients/musk/), and the full [scent guide](/blog/scent-guide/).
-
-## Evidence & Sources
-
-### Identity
-**Source:** beeswax as the wax of honey bees — *Apis cerana* ([GBIF](https://www.gbif.org/species/1341979)) and *Apis mellifera* ([GBIF](https://www.gbif.org/species/1341976)) — a bee product, not botanical. **Evidence type:** Established — animal-derived (bee product).
-
-### Traditional Chinese use
-**Source:** the *Bencao Gangmu* (本草纲目), 虫之一, records 蜜蜡 alongside 蜂蜜 and 蜜蜂, noting "蜂造蜜蜡" and distinguishing 白蜡 from 黄蜡. **Evidence type:** Historically documented — wax/craft use; medicinal uses are traditional, not modern clinical evidence.
-
-### Authenticity / disambiguation
-**Source:** 蜂蜡/蜜蜡 (beeswax, the comb wax) vs 蜂蜜 (honey, the nectar sweet) — two bee products, kept separate. **Evidence type:** Practical screening.
-
-### Safety
-**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
-
-## Evidence status
-
-| Layer | Status |
-|---|---|
-| Identity | Established (bee product) |
-| Traditional use | Historically documented (wax/craft) |
-| Authenticity test | Practical screening |
-| Health claims | Not established |
+Beeswax (蜂蜡, classical 蜜蜡) is the comb wax secreted by honey bees, an animal product with a thermoplastic, water-repellent character and almost no aromatic ambition. In incense work it coats, moulds, seals, releases and slows a burn; it does not bind powder the way honey does, and the classical record keeps the two apart. Quality is a matter of refinement, cleanliness and melt behaviour rather than scent, white and yellow grades describe processing rather than purity, and the real risks are molten-wax scalds, trapped water and overheated wax. Buy it by material and grade, keep a reference sample, and judge it by how it melts and sets.
 
 ## Sources
 
-- [Apis cerana (Eastern honey bee) on GBIF](https://www.gbif.org/species/1341979)
-- [Apis mellifera (Western honey bee) on GBIF](https://www.gbif.org/species/1341976)
-- [本草纲目 虫之一 on Wikisource](https://zh.wikisource.org/wiki/本草綱目/蟲之一)
+- [*Apis cerana* (Eastern honey bee) on GBIF](https://www.gbif.org/species/1341979) — the taxonomic record for the bee long kept in China.
+- [*Apis mellifera* (Western honey bee) on GBIF](https://www.gbif.org/species/1341976) — the taxonomic record for the widely distributed Western honey bee.
+- [本草纲目 虫之一 on Wikisource](https://zh.wikisource.org/wiki/本草綱目/蟲之一) — the insect section that lists 蜂蜜, 蜜蜡 and 蜜蜂 as separate entries and records "蜂造蜜蜡."
 
-*Sources: the honey bees *Apis cerana* and *Apis mellifera* as the source of beeswax, and the *Bencao Gangmu* (本草纲目) 虫之一 record of 蜜蜡. Beeswax is a bee product, not a botanical; no medical claims are made. This is editorial knowledge content, not medical advice.*
+The physical descriptions on this page — melting behaviour, water repellency, penetration into porous substrates, cooling stress — are standard properties of the material and can be checked in any workshop. The specification and screening advice is editorial craft judgment rather than a published standard, and the medicinal language of the classical entry is presented as traditional belief, not as evidence.
+
+## Related Resources
+
+- [Honey](/ingredients/honey/) — the other bee product, the hygroscopic binder that wax is so often confused with.
+- [Musk](/ingredients/musk/) — a classical animal-derived material, useful for comparison on how the tradition handled non-botanical ingredients.
+- [Scent guide](/blog/scent-guide/) — where a faint waxy warmth sits against resins, woods and florals, and why it rarely leads.
+- [Safety](/safety/) — smoke, particulate matter and ventilation for anything that burns.
