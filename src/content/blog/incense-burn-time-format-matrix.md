@@ -70,6 +70,8 @@ Airflow is the fifth. A glowing ember needs oxygen, and moving air keeps replaci
 
 The ranking matters for buyers. Two of the strong knobs are invisible in a product photo, and one of them — binder ratio — is rarely printed on a label. That is the honest reason a burn time is sold as a range.
 
+Length, the visible number, says how much material sits on the stick, not how long the stick will take to spend.
+
 ## Why "Approximate" Is the Honest Word
 
 **Direct answer:** A range such as 20–60 minutes is not vagueness; it is the most accurate statement a manufacturer can offer about a system with five independent variables and a room the maker does not control.
@@ -137,23 +139,7 @@ Powder refuses to have one burn time. Press it into a seal groove (篆香) and i
 
 A sandalwood lover who wants a longer session does not need a different sandalwood. The lever is the shape and the heat source. That is the practical significance of the whole matrix: it separates the material decision from the format decision, so a buyer can solve them one at a time.
 
-## Length Is Not Time
-
-**Direct answer:** The longest stick on the shelf is not automatically the longest-burning one, because the ember consumes the cross-section rather than the ruler.
-
-A short, fat, tightly pressed stick can outlast a long, thin, loosely pressed one. Length adds distance for the front to travel, but thickness, packing and binder decide how fast it travels. A buyer who sorts by length has sorted by the least informative dimension.
-
-The boundary is worth stating plainly: length tells you how much incense is on the stick, not how many minutes it will give you. When a timed session matters, the printed burn time and a test burn are the only honest numbers.
-
-*The author's view, not a verified fact.*
-
-## A Longer Burn Is Not a Stronger Scent
-
-**Direct answer:** Duration and intensity are separate knobs, and the long formats usually trade intensity for steadiness.
-
-A cone spends its material across a wide face in a short window → the room receives a dense burst. A coil spreads a similar load across hours → the scent stays present but softer at any given moment. Neither is "better"; they answer different questions.
-
-This is the second misconception the matrix corrects. Buyers often assume that a format that burns longer must scent more. In practice, the long format is the steadier one, and the short format is the louder one. A reader who wants a strong opening should choose the cone or the charcoal resin; a reader who wants an even background should choose the coil or the heater.
+Duration and intensity are separate knobs. A cone spends its material across a wide face in a short window → the room receives a dense burst. A coil spreads a similar load across hours → the scent stays present but softer at any given moment. The long format is the steadier one, the short format the louder one; buyers who assume longer means stronger have the trade backwards.
 
 ## Choosing in Five Steps
 
@@ -183,7 +169,7 @@ Run the test in the space where the incense will actually burn. Set the holder o
 
 Repeat with two more sticks from the same bundle. The three readings tell you two different things. A tight cluster — say, all three within a few minutes of one another — suggests a consistent batch and a stable room. A wide spread suggests that moisture, packing or airflow is varying between burns, and the average is less trustworthy than the range.
 
-The method has one rule that beginners break: do not time the flame. A stick can hold a visible flame for several seconds while the ember is still forming, and that time is not part of the burn. Start the clock when the flame has gone and the tip is glowing on its own.
+One rule matters: do not time the flame. A stick can hold a visible flame for several seconds while the ember is still forming, and that time is not part of the burn. Start the clock when the flame has gone and the tip is glowing on its own.
 
 What you do with the result is a planning decision. If your room shortens a nominally forty-minute stick to thirty, plan thirty-minute sessions around that stick or move the holder out of the draft. The label remains the maker's average; your three readings are the local figure. *The author's view, not a verified fact.*
 
@@ -197,7 +183,7 @@ Olfactory fatigue is the second omission. A scent that seems to vanish after twe
 
 The third omission is legal and practical. Some leases forbid open flame, some buildings have sensitive smoke detectors, and shared walls carry odour. None of that changes a burn time, yet all of it changes which row of the table a reader can actually use.
 
-Read the matrix as a shortlist, then check the room, the nose and the rules. The shortlist narrows the choice; the three checks decide it.
+Read the matrix as a shortlist; the room, the nose and the rules decide the rest.
 
 ## Storage Changes the Clock
 
@@ -205,7 +191,7 @@ Read the matrix as a shortlist, then check the room, the nose and the rules. The
 
 A sealed tin or a lidded jar slows the exchange of moisture with the room. A cardboard box left on a windowsill does the opposite: it breathes, takes in damp air and lets sunlight warm the contents. The stick that spent a summer in that box may be brittle at the tip and stubborn in the middle, and no label accounts for the summer.
 
-The practical habit is dull but effective. Buy in quantities you will burn within a season, keep the bundle sealed, and store it away from radiators and direct sun. If a batch performs poorly, try a stick from the centre of the pack before blaming the recipe — the outer pieces take the room's weather first.
+Buy in quantities you will burn within a season, keep the bundle sealed, and store it away from radiators and direct sun. If a batch performs poorly, try a stick from the centre of the pack before blaming the recipe — the outer pieces take the room's weather first.
 
 ## FAQ
 
