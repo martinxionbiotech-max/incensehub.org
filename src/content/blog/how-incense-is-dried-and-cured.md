@@ -77,7 +77,7 @@ This is a diagnostic table, not a grading scale. A slight curve is not a defect 
 
 Take a blended stick that has just finished drying and burn it. The experience tends to arrive in layers: resin first and loud, wood underneath, a floral or herbal note floating above both without connecting to either. This is not a flaw in the recipe. It is what an unsettled mixture does, in the same way that a fresh stew tastes of its parts and a rested one tastes of itself.
 
-The Chinese craft gives the interval a name and a place in the procedure. 窨 covers maturing a blend, and the term is shared with the scenting of tea, where one material is left to take on another's character. Recipes treat the wait as an instruction alongside proportions: the 江南李主帐中香 formula records that the mixture should be aged a long while (久窨) before use. Once a culture writes the wait into the recipe, it has stopped treating time as overhead. The compositional logic behind those formulas is laid out in the [合香 system](/blog/hexiang-blending-system/); the [recipe library](/blog/chinese-incense-recipes/) shows how often an ageing instruction turns up.
+The Chinese craft gives the interval a name and a place in the procedure. 窨 covers maturing a blend, and the term is shared with the scenting of tea, where one material is left to take on another's character. Recipes treat the wait as an instruction alongside proportions: the 江南李主帐中香 formula records that the mixture should be aged a long while (久窨) before use. The [合香 system](/blog/hexiang-blending-system/) explains the compositional logic; the [recipe library](/blog/chinese-incense-recipes/) shows how often an ageing instruction turns up.
 
 What makes curing hard to teach is that nothing visible happens. There is no colour change that reliably marks readiness, no test that gives a date. A maker works from experience with a given formula: how it smelled on day five, how it smells now, whether the edge has softened enough to suit the intent.
 
@@ -222,13 +222,9 @@ The practical correction is small: ask not "is it cured?" but "how long did it r
 
 **The first mistake is treating drying as passive.** Nothing about it is passive: the rate, the air path, and the temperature are decisions, and an uncontrolled room makes them by default.
 
-**The second is using the two terms interchangeably.** Water removal and aroma integration fail differently and are fixed differently. A stick can be dry and raw at once, and that combination confuses more buyers than any other.
+**The second is assuming dry means ready.** Dryness is a structural threshold. Whether the blend reads as a whole is a separate question answered by the nose.
 
-**The third is assuming dry means ready.** Dryness is a structural threshold. Whether the blend reads as a whole is a separate question answered by the nose.
-
-**The fourth is expecting a universal figure.** No shared moisture percentage or rest period covers different powders, binders, and climates. Quoted numbers usually describe one workshop's conditions at one time of year.
-
-**The fifth is blaming the recipe for a rushed batch.** A thin, sharp, or disjointed scent is often a stage problem, and reformulating to fix it treats a symptom. There is a common myth that a bad smell always means bad materials; in practice the stages are the cheaper explanation far more often.
+**The third is blaming the recipe for a rushed batch.** A thin, sharp, or disjointed scent is often a stage problem, and reformulating to fix it treats a symptom. There is a common myth that a bad smell always means bad materials; in practice the stages are the cheaper explanation far more often.
 
 ## A Buying Checklist
 
@@ -258,7 +254,7 @@ Because one part of it lost water before another. The outer layer contracts whil
 
 ### Q: How does moisture level change the burn?
 
-In one direction, consistently. A damp stick resists the flame, crawls, and risks mold in the box. An over-dried stick shatters easily and burns fast, delivering the whole arc before you have settled into it. The comfortable middle depends on the powder and binder, so the useful knowledge is the direction, not a figure.
+In one direction, consistently. A damp stick resists the flame, crawls, and risks mold in the box. An over-dried stick shatters easily and burns fast. The comfortable middle depends on the powder and binder, so the useful knowledge is the direction, not a figure.
 
 ### Q: Is longer always better when it comes to rest?
 

@@ -144,7 +144,7 @@ What cannot be matched is the material. Old-growth agarwood with dense resin is 
 
 ### Q: What kind of incense is the Jiangnan Lord's bedchamber blend?
 
-Tradition hands the recipe down under 李煜 (Li Yu), the last Southern Tang ruler, and the intended setting is a curtained bedchamber. The best-known version steams agarwood powder with a small measure of sandalwood inside hollowed goose pears, giving the wood a clean fruit sweetness before it burns. Several variants appear in the 香乘, which is why the recipe is so well documented. The Li Yu link is a name inherited, not an authorship established by evidence.
+Tradition hands the recipe down under 李煜 (Li Yu), the last Southern Tang ruler, and the intended setting is a curtained bedchamber. The best-known version steams agarwood powder with a small measure of sandalwood inside hollowed goose pears, giving the wood a clean fruit sweetness before it burns. Several variants appear in the 香乘, which is why the recipe is so well documented.
 
 ### Q: Why is the assistant a pear rather than another wood?
 
@@ -152,7 +152,7 @@ Because the job is a top note, and fruit delivers that more directly than resin 
 
 ### Q: Why steam the pears three times instead of once?
 
-Each cycle drives the juice a little deeper. The first pass wets the surface of the agarwood particles, the cooling that follows draws liquid inward, and the next pass re-wets and pushes the front further. One long steam is not equivalent, because continuous heat keeps the material expanded and resistant to uptake. Three passes are the text's way of reaching depth without scorching the wood.
+Each cycle drives the juice deeper: the first pass wets the surface, the cooling draws liquid inward, and the next pass pushes the front further. One long steam is not equivalent, because continuous heat keeps the material expanded and resistant to uptake. Three passes reach depth without scorching the wood.
 
 ### Q: Are the gram conversions reliable?
 
@@ -160,7 +160,7 @@ Only as a rough guide. One liǎng was around 37 g in the Song–Ming period, wit
 
 ### Q: Can this be made at home, and will it smell the same?
 
-The procedure can be repeated with ordinary equipment, and the ratio can be scaled. The scent will not match, because the named pear cultivar is no longer identifiable and today's agarwood differs from the historical material. Treat a modern attempt as an interpretation: check whether the chief dominates, whether the fruit sits above the base, and whether the blend reads as one scent after resting. Those tests come from the formula and do not depend on reproducing a lost ingredient.
+The procedure can be repeated with ordinary equipment, and the ratio can be scaled. The scent will not match, because the named pear cultivar is no longer identifiable and today's agarwood differs from the historical material. Treat a modern attempt as an interpretation: check whether the chief dominates, whether the fruit sits above the base, and whether the blend reads as one scent after resting.
 
 ## Sources
 
