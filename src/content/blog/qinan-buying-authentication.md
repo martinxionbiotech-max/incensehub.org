@@ -18,345 +18,177 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** The most dependable signal when buying 奇楠 (*qínán*) is **price honesty** — real 奇楠 runs several orders of magnitude above ordinary agarwood, so a "奇楠" offered at a bargain is, on its face, not 奇楠. Every other check is a supporting argument layered on top, never a replacement for that one.
 
-**Key facts:** 奇楠 is the most counterfeited material in the incense world precisely because its price is so extreme. This page is an authentication reference assembled from traditional heuristics, not a laboratory method. Definitive verification means a seller who can be held accountable and, where the value justifies it, laboratory testing.
+**Direct answer:** Begin with arithmetic. A piece of 奇楠 (qínán) costs orders of magnitude more than ordinary agarwood; when the asking price sits at ordinary-agarwood levels, the label has already failed. Seller accountability and the smell released by gentle heat support that first filter; they do not replace it.
 
----
+## Key facts
 
-## Why 奇楠 Draws Counterfeiters at All
+- **Identity:** the most resin-rich grade of *Aquilaria* wood, pliable under a blade and often aromatic without heat.
+- **Market position:** priced orders of magnitude above ordinary agarwood, which is why fakes cluster here; the bands quoted below give the rough spread.
+- **Weak checks:** density, color, and a loud cold smell can all be manufactured.
+- **Stronger path:** species-and-grade answers from an accountable seller, aroma under gentle heat, batch-linked papers, and lab work when the sum warrants it.
 
-**Direct answer:** A fake only appears where the profit margin rewards the effort, and 奇楠 sits at the very top of that logic — an extreme price per gram resting on a cheap raw material waiting underneath.
+## The Price Gap Explains the Fakes
 
-Trace the incentive to its root. Counterfeiters need a target whose selling price sits far above the cost of the substitute → 奇楠 sells for thousands of RMB per gram while ordinary wood costs almost nothing → the gap between those two numbers is the counterfeiter's entire profit → the wider the gap, the more elaborate the fake. This is not a market quirk; it is a structural fact. The same mechanism explains why nobody bothers faking a $3 sandalwood stick — there is no margin — while "奇楠" beads attract oil-injection, dyeing, and every surface treatment in the book. Grasping *why* the fakes exist is the first step to spotting them, because it tells you where they gather: exactly at the price point where a buyer hopes for a bargain.
+**Direct answer:** Counterfeiting follows margin, and this grade offers one of the widest margins in the aromatic trade — a substitute that costs little, sold at a price reserved for the rarest grade.
 
----
+The arithmetic is simple. A forger needs cheap wood, a treatment that imitates weight or scent, and a buyer willing to believe a summit label. The difference between the substitute's cost and the claimed price is the entire incentive → the wider that difference, the more effort the fake justifies → the summit occupies the ladder's top rung, so the most elaborate treatments gather there. Nobody oil-injects a cheap sandalwood stick, because the return would not cover the effort.
 
-## The Price Reality, Framed as a Gap
+The bands, roughly and in RMB per gram: herb-grade chips at 0.4–1.4; usable burning wood anywhere from tens to thousands depending on grade and origin; 奇楠 around 3,000–8,000; the top white material above 16,000. Directional figures drift with year and source, but the spacing between the bands is stable. A bead carrying the name at a herb-grade figure is not a find — it is a category mistake, and the mistake is the warning.
 
-**Direct answer:** The distance between ordinary agarwood and 奇楠 is not a percentage — it is several orders of magnitude — and that distance is the whole reason the fakery exists.
+## Three Questions, Asked in This Order
 
-| Material / grade | Rough price signal (RMB, market-dependent) |
-|---|---|
-| Ordinary agarwood (medicinal chips) | ~0.4–1.4 RMB/g — a cheap herb |
-| Burnable agarwood | tens to thousands of RMB/g |
-| 奇楠 (qinan / kyara) | ~3,000–8,000 RMB/g market; top white 奇楠 can exceed 16,000 RMB/g |
+**Direct answer:** Ask the seller to name species, origin, and grade first; smell the piece warmed second; compare price to grade last — each step is cheaper than the one after it and filters cases the later steps would otherwise have to catch.
 
-These figures are directional, not a price list — they drift with origin and year. What stays fixed is the *ratio*. A "奇楠" bead priced where ordinary agarwood sits is a contradiction, and a contradiction at this scale is not a lucky break; it is a warning sign. Scarcity is the engine underneath: agarwood is CITES-listed, and the saturated summit grade forms slowly in only some trees → supply stays tiny → price stays stratospheric → the margin between "agarwood" and "奇楠" becomes the exact target counterfeiters aim for.
+Put the first question in plain words: which *Aquilaria* species is this, where did it come from, and is the seller calling it 沉水 or 奇楠? A merchant who cannot answer all three has failed the cheapest filter available, and the failure costs nothing to discover. Then comes the sensory question: how does it behave under gentle warmth, as opposed to flame? A flat, cosmetic, or charred answer points to a surface treatment, while a layered and shifting answer is at least consistent with the grade. The third is arithmetic, and it comes last because it only works as a backstop once the first two have narrowed the field.
 
----
+The order matters because the checks are not equal. The seller conversation removes most obvious fakes before anything is handled. The warmed aroma catches oils and applied fragrances that no photograph can reveal. The price comparison catches what slipped through, but only if the earlier steps have already reduced the noise.
 
-## The Three Checks, in Priority Order
+## Why the Familiar Tests Fail
 
-**Direct answer:** Ask the seller to name species and grade first, then test the aroma on gentle heat, then apply the price test last — in that sequence, because each earlier check filters out the cases the later ones would otherwise miss.
+**Direct answer:** The sink test, the color check, and the cold-aroma check each measure something a forger can add to cheap wood, while none measures the resin distribution that makes the grade what it is.
 
-| Check | What to ask | Why it works |
+Take the sink test first. A forger injects oil into porous wood under pressure → the oil adds mass and darkens the piece → the piece sinks → the buyer reads density as resin content → the test confirms weight, not grade. The chain is deliberate: the fake is built to pass the check that buyers trust most.
+
+Color fails for a similar reason. Dye can place any of the traditional color names on a piece in an afternoon → the five-color hierarchy is itself disputed, with sources disagreeing over whether some colors are separate grades or stages of one material → a color word is a vocabulary item, not a measurement. Traditional belief surrounds the ladder; it does not certify the rung. The treatments have names in the trade — oil-boiling, pressure injection, and chemical soaks — and each one targets a different signal: weight, color, or cold scent.
+
+Cold aroma is the subtlest failure. Genuine material can smell at room temperature because aromatic material sits throughout the fiber → the cold scent is soft, layered, and slow to open. A surface fragrance is already fully "on" when the jar is opened → it reads loud and one-note → strength, not quality, is what the buyer notices. The two can both be fragrant cold, so the check has to read the *shape* of the smell, not its volume.
+
+## The Limits of a Visual Check
+
+**Direct answer:** A camera records surfaces. Species, resin load, and whether the aroma is natural are not surface properties, so no photograph or in-person glance can settle them.
+
+The gap is categorical. Eyes receive color, texture, and shape; the defining properties are botanical and chemical. A dyed piece and a genuine piece can be made to look alike → a visual inspection treats them as equivalent → the claim survives the look but not a test. Visual checks retain a narrow use: uniform color that reads painted, texture that reads compressed, grain that looks foreign. A ten-power loupe, a steady lamp, and a written checklist expose more than a confident story does. Run a fingertip along the cut edge; a waxy drag is worth noting, though it settles nothing. Those are triage signals for obviously wrong material.
+
+What follows is awkward for anyone who prefers to buy on appearance. At these prices, buying on appearance alone is structurally exposed, because every visible property can be imitated while the decisive ones stay invisible. A clean photograph is not evidence of authenticity; it is evidence that the seller owns a camera.
+
+## Documents That Attach to an Object
+
+**Direct answer:** Paper only helps when it is tied to the object in front of you: a written species claim, a test report that names the batch, and CITES-level paperwork for a genus whose trade is regulated.
+
+Start with the species statement. A written *Aquilaria* claim converts a spoken description into a term someone can be held to; a verbal claim evaporates when the sale ends. Next, batch linkage: a test report must name the specific batch in front of you. A generic "our materials are tested" page describes a capability, not the piece in your hand. Last, the CITES angle: the genus is listed, so lawful trade comes with species-level papers, and those papers give the material an identity beyond the seller's word.
+
+The hierarchy scales with value. The arithmetic belongs at the front of the queue because asking costs nothing. Documented seller accountability comes second because it converts claims into records. Laboratory testing comes last, where the sum at stake makes the cost rational. Each layer covers a failure the previous one leaves open.
+
+## The Budget Fork
+
+**Direct answer:** A limited budget presents two honest options — good 沉水-grade ordinary agarwood, or a "cheap 奇楠" that is almost certainly treated wood — and confusing them is the most expensive mistake in the market.
+
+| Signal | "Affordable 奇楠" | Good 沉水 ordinary agarwood |
 |---|---|---|
-| 1. Seller names species & grade | "Which *Aquilaria* species? Which grade — 沉水 or 奇楠? Which origin?" | A vendor who cannot answer has already failed the cheapest filter |
-| 2. Aroma on gentle heat | "What does it smell like warmed, not burned?" | 奇楠 is complex, sweet, layered — a flat "perfume" or "burnt wood" note is a red flag |
-| 3. Price vs. grade | "Does the price match the claimed grade?" | Too-cheap-for-奇楠 is the strongest single signal |
+| What is claimed | Summit grade at a low price | Its actual grade |
+| Counterfeit risk | Highest — the price gap attracts fakes | Much lower |
+| What the money buys | Usually treated substitute wood | Genuine resinous agarwood |
+| Price honesty | Contradictory | Consistent |
+| Verifiability | Difficult; the claim is the problem | Species and origin can be named |
 
-Order matters more than most guides admit. The seller question costs nothing and eliminates the majority of fakes before you ever touch the material. The aroma check catches surface-oil and synthetic-fragrance treatments. The price check is the backstop that catches whatever slipped through — and it only works because the first two have already narrowed the field.
+My own rule: when the real grade sits outside the budget, put the money into wood you can check rather than into a label you cannot. A well-sourced 沉水 piece gives most of the sensory pleasure with far less exposure, and the reason is structural — the gap that creates the desire is the same gap that funds the fakes.
 
----
+*Editorial judgment, not a documented fact.*
 
-## Why the Common Tests Fail (the Mechanism)
+## The One-Way Logic of Price
 
-**Direct answer:** The sink test, the color check, and the "room-temperature aroma" test all fail against 奇楠 fakes because each probes a *surface* or *bulk* property a forger can engineer, while none probes the resin *distribution* that actually defines the grade.
+**Direct answer:** The number on the tag can only eliminate. A figure too low for the grade disproves the claim; a figure that matches says nothing about whether the wood is what the seller says.
 
-Run each test as a cause-and-effect chain and the failure becomes predictable rather than mysterious:
+The asymmetry is easy to miss. A high price proves only that someone was willing to ask it; counterfeiters charge high prices precisely because the market expects them, and convincing paperwork can accompany a convincing fake. A low price, by contrast, does real work: genuine material cannot honestly sell at ordinary-agarwood levels, so the bargain eliminates itself.
 
-- **Sink test (沉水):** fakes are oil-injected specifically to pass it → injected oil raises density → the piece sinks → density alone says nothing about where the resin sits. The test answers "is it heavy," not "is it genuine."
-- **Color:** dyed "white wood" can imitate any of the five-color grades → the hierarchy is itself disputed as distinct grades → color is a costume, not an identity.
-- **Room-temperature aroma:** genuine 奇楠 is fragrant cold because volatiles sit throughout the fiber → a synthetic fragrance can fake a one-note version of that on the surface → the fake reads strong at first, then goes flat and thin.
+The conversation and the warm sniff therefore precede the arithmetic, not the other way round. Price is the backstop that catches what slips through, and it catches only in one direction. Treat it as a veto and the logic holds; treat it as a vote of confidence and the same number becomes part of the con.
 
-The reliable route is therefore not one trick. It is a seller you can hold accountable, plus laboratory testing where the value justifies the cost.
+*Editorial judgment, not a documented fact.*
 
----
+## A Field Sequence for the Seller's Table
 
-## What Visual Identification Cannot Do
+**Direct answer:** Run the checks in a fixed order — seller answers, gentle heat, structure, paperwork, price — and let each step decide whether the next one is worth doing.
 
-**Direct answer:** No photograph, video, or in-person look can establish *Aquilaria* species, resin content, or natural-versus-synthetic aroma — the properties that actually define the grade — so every visual check is a filter for gross anomalies, never a confirmation.
+Begin with the questions. Put three requests to the seller: a species name, a place of origin, and the grade they are claiming. A fluent, specific answer is a good sign; a vague one ends the conversation cheaply. Next, warm a small fragment gently, below combustion, and smell at the low end first. A genuine piece tends to open in stages, sweet and layered; a treated piece often reads flat or cosmetic from the first second and does not develop as the heat rises.
 
-The mechanism is a category gap: the defining properties are chemical and botanical, while the eyes only receive color, texture, and shape. A dyed piece and a genuine piece can be made to look identical → visual inspection treats them as equal → the grade claim survives a look but not a test. Visual checks still hold a narrow use — uniform color that reads dyed, texture that reads compressed — but a clean look is not evidence of authenticity. At 奇楠 prices, buying on visuals alone is structurally exposed: every visible property can be imitated, while the defining properties cannot be seen.
+Then handle the material. Saturated wood is softer than ordinary agarwood, and a thin shaving may curl rather than snap; the grain should look fine and interwoven rather than open and uniform. These are consistency signals, not proof, because a surface treatment can soften and scent a cheap core. Ask for paperwork next, and check that the report names your batch. Finally, compare price to claim. A piece that clears every earlier step and then carries a bargain price has not passed; it has contradicted itself at the last gate.
 
----
+## The Color Names, Held Loosely
 
-## What Documentation Can Add
+**Direct answer:** 奇楠 is traditionally described in five colors — white, green, purple, yellow, and black — and the names are useful for conversation but unreliable as a ranking, because sources disagree on whether some are separate grades or stages of one material.
 
-**Direct answer:** For high-value material, the seller-accountability route turns into a documentation question — a written species claim, a batch-linked test report, and CITES species-level paperwork — because paper is what pins a spoken claim to a verifiable term.
-
-- **Species statement in writing** — a written *Aquilaria* species claim converts a spoken description into something you can check and hold someone to.
-- **Batch-linked documentation** — the test report must tie to the specific batch you are buying, not a generic "we test our materials" capability statement. A report that does not name your batch tests nothing you own.
-- **CITES species-level documentation** — agarwood is CITES-listed, so legitimate trade carries species-level paperwork, which also anchors the material identity.
-
-The same hierarchy scales up or down: price-vs-grade logic first, documented seller accountability second, laboratory testing where the value justifies it. None of the three replaces the others; each covers a failure the one before it leaves open.
-
----
-
-## Confusion vs: "Affordable 奇楠" Against a Real Budget Choice
-
-**Direct answer:** The two options a limited budget actually presents are "cheap 奇楠" and "good ordinary agarwood" — and confusing them is the single most expensive mistake in agarwood buying.
-
-| Signal | "Affordable 奇楠" | Good 沉水-grade ordinary agarwood |
+| Name | Chinese | Traditional reading |
 |---|---|---|
-| What it claims | Top grade at a bargain | Its honest grade |
-| Counterfeit risk | Highest — this is where fakes concentrate | Much lower |
-| Experience delivered | Usually a treated fake | Deep, resinous, sweet wood |
-| Price honesty | A contradiction in terms | Legitimate |
-| Verifiability | Hard — the claim is the problem | Easy — seller names species and origin |
+| White 奇楠 | 白奇楠 | Often the most prized; soft and fragrant cold |
+| Green 奇楠 | 绿奇楠 | Deep and layered; a common reference point |
+| Purple 奇楠 | 紫奇楠 | Disputed — treated as its own grade by some, a stage of green by others |
+| Yellow 奇楠 | 黄奇楠 | Warmer and thinner in some accounts; also disputed |
+| Black 奇楠 | 黑奇楠 | Denser and darker; sometimes grouped with ordinary agarwood |
 
-The table exposes the trap. "Affordable 奇楠" is a near-contradiction because the price gap is so wide; that is exactly the margin where counterfeiters live. Ordinary agarwood, by contrast, is a real material with its own grading ladder, and a well-sourced 沉水 piece delivers most of the experience at a fraction of the risk. My position: if you cannot comfortably afford real 奇楠, buy the best ordinary agarwood you can verify — not the "奇楠" that is cheap enough to tempt you.
+This ladder is traditional belief, not a settled classification, and color is the easiest property for a forger to add. Use the names to understand what a seller is claiming, then verify the claim through species, warmth, and paperwork. A color name belongs to description, not to proof.
 
-*The author's view, not a verified fact.*
+## What a Lab Can and Cannot Decide
 
----
+**Direct answer:** A laboratory can identify the wood and measure its resin load, but "奇楠" is a market grade with sensory and traditional criteria, so a report supports a claim rather than awarding the title.
 
-## The Judgment Boundary
+Sort the evidence by what it actually covers. Species identification — through wood anatomy or genetic markers — establishes which tree the sample came from, not how saturated it is. Resin or extractive measurement shows how much material has accumulated, not whether the aroma is layered or flat. Adulterant screening can detect added oils or dyes, but only if the laboratory is asked to look for them. The sensory grade itself sits outside the instrument's reach: it depends on how the piece behaves under gentle heat, which is a trained-nose judgment rather than a number.
 
-**Direct answer:** The price test is decisive only when the seller's species-and-grade answer is also in place — a high price does not certify authenticity, and a low price only condemns it, so neither direction works alone.
+| Evidence | What it can confirm | What it leaves open |
+|---|---|---|
+| Species statement | The name of the tree claimed | Whether the piece matches the claim |
+| Batch-linked lab report | Properties of the tested batch | Whether your piece is from that batch |
+| CITES documentation | That trade in the genus is lawful | Grade or authenticity of the specific piece |
+| Gentle-heat aroma | The current sensory profile | Whether the profile is natural or applied |
 
-The condition under which my rule fails matters. A high price alone proves nothing: counterfeiters charge high prices too, which is why "expensive" is not "authentic." The price test is a one-way filter — it can rule *out* a fake cheaply, but it cannot rule *in* a genuine piece. That asymmetry is the whole reason the seller question and the aroma check come first. Treat the price signal as a veto, not a vote.
+That table is the reason a single document never settles a purchase. Each row covers one link; the chain is what carries weight. A laboratory report that names your batch and confirms species is strong evidence. A certificate that simply repeats the word 奇楠 is a description of a test someone once ran, not a verdict on the object in your hand.
 
-*The author's view, not a verified fact.*
+## Terms Worth Settling Before Payment
 
----
+**Direct answer:** The most protective authentication step costs nothing and happens before money moves: put the species, grade, batch, and remedy in writing, so a later dispute has something to stand on.
 
-## Common Mistakes
+Once a description is written down, it stops being a conversation and becomes a term. Ask the seller to state the *Aquilaria* species, the origin, the grade, and the weight in the invoice or order confirmation → those four lines are checkable later, and a seller who resists writing them has revealed something. Ask for the batch-linked report and for permission to have an independent laboratory test a sample → the second request matters because a report you cannot match to your piece proves little.
 
-1. **Trusting the sink test alone.** Oil-injection fakes are engineered to pass it; density proves nothing about resin distribution.
-2. **Buying on visuals.** Species, resin content, and natural aroma are invisible; photographs cannot confirm them.
-3. **Chasing "affordable 奇楠."** The price gap makes that phrase a near-contradiction, and it is where the fakes concentrate.
-4. **Accepting a generic test report.** A report that does not name your specific batch tests nothing you own.
+Settle the remedy as well. If an independent test contradicts the stated species or grade, what happens? A return right, a refund, or a credit is worth more than any assurance offered verbally. Payment method matters for the same reason: a channel with recourse gives the terms teeth. None of this verifies the wood by itself; it changes the consequences of being wrong, which is often the difference between a recoverable mistake and a loss.
 
----
+## Samples, Seals, and the Substitution Problem
+
+**Direct answer:** When the piece is too far away to handle, the sample is the only part of the transaction you can actually test — so it has to come from the lot you are buying and be preserved well enough to compare later.
+
+Ask for a cutting from the actual lot, not a photograph of "representative" material. A sample that cannot be tied to the lot is a demonstration, not evidence. Once it arrives, photograph it beside a scale and a dated label, keep it sealed and away from scent, and record the seller's description next to it. When the full piece arrives, compare grain, softness, and warmed aroma against that reference; substitution is the quiet failure this guards against. Keep the invoice, description, courier receipt, and batch number together — a paper trail is easier to rely on than a recollection. A seller who welcomes a loupe, a scale, and a second opinion is easier to trust than one who resists a delay. Provenance is a ledger, not an anecdote. Records outlast recollection.
 
 ## Summary
 
-- Price honesty is the strongest single signal: real 奇楠 costs orders of magnitude more than ordinary agarwood.
-- The sink test, color, and room-temperature aroma all fail because each probes a forgeable surface or bulk property, not resin distribution.
-- Visual checks filter gross anomalies but cannot confirm species, resin content, or natural aroma.
-- Documentation pins verbal claims to verifiable terms — written species, batch-linked reports, CITES paperwork.
-- If you cannot afford real 奇楠, buy good ordinary agarwood instead of a bargain under the 奇楠 name.
-
----
+- If the number fits ordinary wood, the name on the label is wrong.
+- Ask who is selling, what they call the material, and how it behaves when warmed; each answer narrows the field.
+- Density, dye, and a strong cold smell are easy to add and hard to read as evidence.
+- Species, saturation, and natural aroma stay invisible to a camera.
+- A report is only useful when it points to your batch; a generic one points to nothing.
+- With a limited budget, buy verifiable 沉水 wood rather than a cheap piece of the summit.
 
 ## FAQ
 
-### Q: How do I know if qinan (奇楠) is real?
-Ask the seller to state the *Aquilaria* species, the origin, and the grade first, before anything else. A merchant who can answer those three fluently — and describe how the piece behaves on gentle heat — has already cleared the cheapest filter. Then smell it warmed: genuine 奇楠 reads complex, sweet, and layered, sometimes fragrant even cold, whereas an imitation tends to smell flat, cosmetic, or charred. Finish with the price question, because real 奇楠 costs orders of magnitude more than ordinary agarwood, so a "bargain" under that name is close to a self-contradiction. The three work as a stack, not as three separate tricks.
+### Q: How should a buyer screen a piece step by step?
 
-### Q: Is the sink test reliable for qinan (奇楠)?
-Only as a rule-out, never as proof. Oil-injection fakes exist specifically to defeat weight and density checks, so a piece that sinks demonstrates heaviness, not authenticity. The test still earns its keep at the other end: a very light, low-resin piece floats, and that does rule out the saturated grade. But a sinking result on its own is meaningless. Run it alongside the seller's species-and-grade answer, the warmed aroma, and the price — and treat a cheap, sinking, "perfume-like" piece as a treated fake rather than a lucky find.
+Run the checks as a sequence, not as one decisive experiment. Begin with the seller's vocabulary: a name for the species, a name for the origin, a name for the grade. Fluency there is not proof, but failure there ends the inquiry cheaply. Then warm a fragment below combustion and follow the smell as it opens; a genuine piece usually shifts through layers, while a treated one stays flat or turns cosmetic. Finish with arithmetic: if the number fits ordinary agarwood, the label cannot be right. Each step removes a class of fake that the next step would otherwise have to handle.
 
-### Q: What should I buy if I can't afford real qinan (奇楠)?
-Good 沉水-grade ordinary agarwood. It gives you a deep, resinous, sweet wood at a fraction of the price and with a much thinner crowd of counterfeiters, because the wide price gap is exactly the zone where 奇楠 fakes cluster. Ordinary agarwood is a genuine material with its own grading ladder, and a well-sourced 沉水 piece is an honest, satisfying buy. The rule: if real 奇楠 is not comfortably within reach, skip the "affordable" version entirely and take the best ordinary agarwood you can verify from a seller who names species and origin.
+### Q: Does weight prove anything one way or the other?
 
-### Q: Why is qinan (奇楠) so expensive?
-Because it is the top resin-saturated grade of agarwood, and genuine pieces are rare. The condition forms only when *Aquilaria* wood gets so thoroughly filled with resin that it turns soft, pliable, and fragrant at room temperature — a slow, uncommon outcome, not a routine product of every tree. Supply stays tiny against strong demand, so market prices run into the thousands of RMB per gram, with the top grades far higher. That enormous spread between ordinary agarwood and 奇楠 is itself the tell: it is the margin counterfeiters aim at, which is why "cheap 奇楠" reads as a contradiction.
+Density answers a narrower question than buyers want. A piece that will not sink is almost certainly short on resin, which makes the test useful as a rejection tool. A sinking piece, though, has only shown that it is heavy — and oil injected under pressure supplies weight cheaply. Since the treatment is designed around this exact check, a positive result carries almost no information. Use the test to reject the obvious; do not use it to accept.
 
-### Q: Is a high price a guarantee of authenticity?
-No, and this is the asymmetry most buyers get backwards. A high price rules nothing in — counterfeiters charge high prices precisely because the market expects them, and a convincing fake with real-looking paperwork can command a real price. The price test works in only one direction: a *low* price rules the piece *out*, because genuine 奇楠 cannot honestly sell at ordinary-agarwood levels. A high price plus a documented, accountable seller plus a lab result is a reasonable stack; a high price by itself is just a number someone was willing to print.
+### Q: What is the sensible alternative on a limited budget?
 
-### Q: Why do fakes cluster specifically at 奇楠 and not at everyday agarwood?
-Because the profit margin is the magnet, not the material. A fake earns its maker the difference between the selling price and the cost of the substitute wood, so counterfeiters aim at the grade with the widest gap — 奇楠, where a few grams can sell for more than a month's wages while the base wood costs pennies. Ordinary agarwood is worth far less per gram, so the same effort returns far less, which is why fakes thin out as you move down the ladder. This is the practical reading of "price honesty": the very thing that makes 奇楠 valuable is the thing that draws the fakes to it.
+Put the money into a grade that can be verified rather than a label that cannot. A well-chosen 沉水 piece of ordinary agarwood gives the resinous, sweet character that draws people to the family, at a level where paperwork and an accountable seller are realistic expectations. The counterfeit incentive is also weaker lower down the ladder. What to avoid is the middle temptation: a piece priced like a bargain and labelled like a summit. A low figure attached to a summit name is the clearest warning the market offers.
 
-### Q: Why does a gentle heat test beat the sink test?
-Because heat probes resin distribution, while the sink test only probes weight. Warming a genuine piece draws its volatiles out in stages — a layered, sweet bloom that unfolds as the heat works inward — whereas an oil-injected fake reads flat and one-note, and a scented surface releases its fragrance all at once and then goes thin. The sink test, by contrast, is defeated by design: a forger injects oil precisely so the piece gains enough mass to sink, which means the test answers "is it heavy" and never "is it genuine." Gentle heat asks the question the grade actually turns on.
+### Q: Why is the supply so thin?
 
----
+Scarcity is structural. The grade requires wood that has become saturated enough to turn soft, pliable, and aromatic without heat; that outcome is uncommon and slow, and not every tree produces it. Demand is global and supply is limited further by CITES rules around agarwood trade. The result is a price floor in the thousands of RMB per gram and a ceiling far above it for the top color grades.
 
-## The Softening Chain: Why Oil-Wraps-Wood Changes the Material
+### Q: Is cost any evidence at all?
 
-**Direct answer:** The top grade does not merely smell richer — it sits in a different physical state, because complete resin saturation turns the resin from a guest inside hard fiber into the continuous phase that holds the wood together.
-
-Follow the ingress step by step. Resin first exudes into the wound site → it seeps into the hollow spaces between wood cells, the lumina → over years the deposits harden and cross-link → in ordinary 沉香 the resin stays as discrete veins threaded through stiff fiber, which is "wood wraps oil" → in 奇楠 the saturation runs so complete that the resin becomes the continuous matrix and the wood fiber becomes the scattered phase, which is "oil wraps wood." That phase reversal is what makes the material behave differently under a blade: the shaving curls instead of snapping, and a warmed fragment kneads into a pellet rather than crumbling. Density and weight move with it, but the defining change is structural, not just arithmetic.
-
-This is why a sink test cannot certify the grade. Both a fully saturated piece and an oil-injected fake can be made heavy enough to sink, yet only one of them has undergone the phase reversal. The test reads mass, while the grade is written in the arrangement of resin around fiber — a geometry the scale never sees.
-
-## The Five Traditional Color Grades of 奇楠
-
-**Direct answer:** 奇楠 is traditionally split into color grades, and the colors are best read as a rough traditional ladder rather than settled taxonomy — sources disagree on whether some are distinct grades or aging stages of the same material.
-
-| Grade (Chinese) | Reading | Traditional association |
-|---|---|---|
-| 白奇楠 (white) | bái qínán | Most prized in much of the trade; softest, most fragrant cold |
-| 绿奇楠 (green) | lǜ qínán | Deep and layered; frequently the reference point for the category |
-| 紫奇楠 (purple) | zǐ qínán | Disputed — some treat it as a stage of the green, others as its own grade |
-| 黄奇楠 (yellow) | huáng qínán | Warmer, thinner in some accounts; likewise disputed as distinct |
-| 黑奇楠 (black) | hēi qínán | Darker and denser, sometimes grouped with ordinary 沉香 |
-
-The honest framing is that this ladder is *traditional belief*, not a certified classification. Color is a costume worn over the same phase-reversal state, and a dyed piece can imitate any rung — which is exactly why the color check fails as authentication while the structural distinction holds. For a collector, the color names are a vocabulary for talking about the material, not a measurement of it.
-
-## A Misconception: "Strong Cold Fragrance Means It's Genuine"
-
-**Direct answer:** A piece that smells loud at room temperature is often the opposite of reassuring — a surface fragrance applied to a cheap core will announce itself cold, while a genuine piece's depth is something you have to draw out with gentle heat.
-
-The instinct treats an immediate, perfume-like hit as proof of quality. The mechanism works against that reading. Real 奇楠 is fragrant cold because volatiles sit throughout the fiber, so the cold scent is soft, complex, and slow to bloom. A fake is fragrant cold for a completely different reason: a fragrance oil painted on the surface is already fully "on" and reads loud and one-note the moment you open the jar. So a strong first sniff does not distinguish the two — it is the shape of the scent that matters, a layered cold trace versus a flat cosmetic burst. My position: reach for a gentle heat source before you reach for a verdict, because the honest test is what the material does when warmed, not how hard it shouts while sealed.
-
-*The author's view, not a verified fact.*
-
-## The Counterfeiter's Playbook: How Each Fake Is Built
-
-**Direct answer:** 奇楠 fakes are not random — they are built to defeat a specific check, and knowing the playbook by its steps turns a scary market into a legible one.
-
-Walk each method as a procedure with a target. The oil-boiling fake starts with cheap, porous white wood → the maker boils it in scented or plain oil → the wood drinks the oil and grows heavy and dark → it now sinks and reads as resin-dense, defeating the sink test. The injection fake takes the same wood and forces oil in under pressure → the oil saturates the outer zones → the piece gains weight without any genuine resin formation. The dye-and-soak fake stains the surface and adds a synthetic fragrance → the piece reads the right color and smells loud cold. The substitution fake skips wood treatment entirely and passes off an unrelated timber dressed with scent. Every one of these is a chain aimed at one or two signals — weight, color, cold aroma — and the honest defense is to know which signal each attack is designed to fake, then test the signal the attack cannot reach: how the piece behaves on gentle heat, and whether the seller will name species and stand behind it.
-
-## A Test-Reliability Matrix
-
-**Direct answer:** Not all authentication checks are equal — each has a specific weakness and a specific strength — and a matrix that ranks them by what they can and cannot catch is a better guide than any single test.
-
-| Check | What it catches | What it misses |
-|---|---|---|
-| Sink / density | Grossly light, low-resin wood | Oil-injected fakes built to sink |
-| Color | Obvious dyed mismatches | A skilled dye job in the right hue |
-| Cold aroma | Flat, synthetic one-note pieces | A surface fragrance that smells loud cold |
-| Gentle-heat aroma | Surface-only treatments, flat profiles | Nothing much — this is the strongest cheap check |
-| Seller species & origin answer | Sellers who cannot name their stock | A dishonest seller who lies fluently |
-| Laboratory test | Almost everything | Nothing, but it costs and needs a lab |
-
-The matrix's lesson is that the checks stack into a funnel, not a single gate. The cheap checks rule out the obvious fakes; the gentle-heat check rules out the surface treatments; the seller-accountability check rules out the dishonest merchants; and the lab is the backstop for anything expensive enough to justify it. A buyer who runs only the sink test is holding a single sieve, and the playbook above is built specifically to pour through it.
-
-## A Misconception: "Visual Inspection Is a First Step"
-
-**Direct answer:** The habit of treating a photograph or a close look as the starting point of authentication is backwards — the eyes cannot see species, resin content, or natural aroma, so a visual check is a weak filter, not a first step.
-
-People reach for the eyes because they are available, not because they are informative. Every property that actually defines the grade — the *Aquilaria* species, the resin fraction, whether the aroma is natural or applied — is chemical or botanical and invisible. What the eyes can do is catch gross anomalies: a color that reads painted, a texture that reads compressed, a grain that looks foreign. That is a useful triage for obviously wrong material, but it is the *last* of the cheap checks, not the first, because a clean photograph of a fake is still a photograph of a fake. The boundary to hold: look with your eyes to reject the obvious, then move immediately to the questions and the gentle-heat test that actually probe the invisible properties. Starting with the eyes and stopping there is how a convincing fake gets bought.
-
-*The author's view, not a verified fact.*
-
-## Reading the Material in Hand: Grain, Softness, and the Knead Test
-
-**Direct answer:** A piece of 奇楠 offers three hands-on signals that no photograph carries — the fine interlacing grain, a softness that lets a shaving curl, and a warmth that lets a fragment knead — and reading all three together is a better field check than any single trick.
-
-Work the three in order. First the grain: genuine saturated wood shows fine, even, interwoven fiber rather than open, pale, uniform wood → an even interlock is hard to fake on cheap timber. Then the softness: the summit grade is pliable where ordinary 沉香 is hard → a sliver that curls rather than snaps is consistent with the oil-wraps-wood state. Then the knead: a warmed fragment that rolls into a pellet under the fingers, rather than crumbling, matches the classical description 削之成卷、捏之成丸. The honest caveat runs the other way too — none of these is proof, and a determined forger can soften or scent a surface, but the three together are a coherent physical picture that a cheap fake rarely delivers at once. Use them as a first screen, then move to the seller and the gentle-heat test for the verdict.
-
-## A Misconception: "Softness Alone Proves 奇楠"
-
-**Direct answer:** The soft, kneadable texture is a genuine marker of the summit grade, but reading softness as a standalone proof mistakes one symptom for the diagnosis — a softened surface treatment can fake the feel while the piece underneath is ordinary wood.
-
-The misconception starts from a true fact: the oil-wraps-wood state makes 奇楠 pliable in a way ordinary 沉香 is not. But a forger can reach for the same feel by saturating the surface or warming and working the piece, so a soft texture is *consistent with* 奇楠, never *proof of* it. The boundary to hold: texture is one signal in a stack, and it only means something when the grain, the warm aroma, and the seller's accountability all point the same way. A collector who buys on softness alone is grading the forger's finishing step, not the material, and a piece that kneads beautifully but smells flat and has no named species is a surface, not a summit.
-
-*The author's view, not a verified fact.*
-
-## The Five-Color Hierarchy as a Field Vocabulary
-
-**Direct answer:** 奇楠 is traditionally split by color into white, green, purple, yellow, and black, and the honest reading is that the colors are a shared vocabulary for describing pieces — not a certified ranking — with sources disagreeing on whether some are distinct grades or aging stages of the green.
-
-Lay the ladder out as a descriptive aid rather than a spec:
-
-| Color grade | Chinese | The character it signals |
-|---|---|---|
-| White 奇楠 | 白奇楠 | The most prized in much of the trade — softest, most fragrant cold |
-| Green 奇楠 | 绿奇楠 | Deep and layered, the usual reference point for the category |
-| Purple 奇楠 | 紫奇楠 | Disputed — often read as a stage of the green |
-| Yellow 奇楠 | 黄奇楠 | Warmer and thinner in some accounts, likewise disputed |
-| Black 奇楠 | 黑奇楠 | Darker and denser, sometimes grouped with ordinary 沉香 |
-
-The table is *traditional belief*, not a settled taxonomy, and its practical use is narrow: the color names help you talk about a piece and read a seller's description, while the color *itself* is exactly what a dye can fake. Hold the color as vocabulary, never as verification, and the hierarchy stops being a trap and becomes just a language.
-
-## The Seller's Accountability, Made Concrete
-
-**Direct answer:** The single most protective move in 奇楠 buying is not a test but a set of questions you can hold a seller to — species, origin, grade, and the batch — and a seller who will not answer all four in writing is a risk no aroma check can fully offset.
-
-Turn the abstract advice into a checklist you actually run. Ask for the *Aquilaria* species by name → a merchant who cannot say it has failed the cheapest filter. Ask the origin → the same species from Hainan and from a plantation elsewhere are different materials and different prices. Ask the grade in the seller's own terms → 沉水 or 奇楠, and if 奇楠, which color. Ask whether a batch-linked document exists → a report that does not name your specific batch tests nothing you own. The point of the four questions is not that a dishonest seller cannot lie to all of them — it is that each question is cheap, costs nothing to ask, and converts a vague claim into something specific enough to be wrong. Accountability is the one signal a forged surface cannot imitate, because it lives in what the seller is willing to say, not in what the wood looks like.
-
-## A Budget Guide: What Each Price Tier Actually Buys
-
-**Direct answer:** The 奇楠 market sorts itself into rough tiers by what your money can honestly reach — a modest sum buys ordinary agarwood or a treated fake, a serious sum buys verifiable 沉水 material, and only a very large sum reaches real 奇楠 — and knowing which tier your budget lands in prevents the most expensive mistake.
-
-Frame the tiers as a decision, not a price list. At the bottom tier, a limited budget realistically buys ordinary agarwood or, if you are not careful, a treated fake wearing a summit label → the honest choice here is good 沉水 ordinary wood, not a bargain "奇楠." In the middle tier, a serious sum can reach dense, verifiable 沉水 material with a named species and origin → this is the sensible ceiling for most collectors. At the top tier, only a very large sum reaches genuine 奇楠, and at that level the documentation and the laboratory question stop being optional. The guide's one lesson is that the tiers are about *honesty of expectation*, not snobbery: a buyer who knows their tier buys the right grade with the right checks, and a buyer who ignores the tiers reaches for a summit label on a modest budget and finds a fake waiting exactly there.
-
-## A Misconception: "A Test Report Makes It Real"
-
-**Direct answer:** A certificate or test report is only as good as its link to the specific piece you are buying — a generic, batch-unlinked report proves a laboratory once tested *something*, not that the piece in your hand is that something.
-
-The misconception treats any paperwork as proof, but paperwork has a specific failure mode: it can be real and still say nothing about your purchase. A report that names no batch → it cannot be tied to the piece you hold → it is a capability statement, not a verification. A report for a different batch → it describes material you are not buying. Only a report linked to the exact batch, from a laboratory whose findings you can confirm, converts paper into evidence. The boundary to hold: documentation is the strongest layer when it is *batch-linked*, and nearly worthless when it is *generic*. Ask whether the report names your batch before you let it move your decision, because a beautiful certificate that tests nothing you own is decoration, not assurance.
-
-*The author's view, not a verified fact.*
-
-## The Gentle-Heat Protocol, Step by Step
-
-**Direct answer:** The most informative home check for 奇楠 is a gentle-heat protocol — warm the piece below its ignition point and watch how the aroma opens — and running it correctly matters as much as running it at all.
-
-Set the protocol in a fixed order so the result is repeatable. Place a small fragment on an electric heater or a mica plate over buried charcoal, below combustion → let the warmth rise slowly → sniff at the low-temperature end first → a genuine piece opens in stages, sweet and layered, while a fake reads flat or cosmetic from the first second → raise the heat slightly and note whether the profile develops or stays one-note → a piece that was loud cold and adds nothing when warmed is a surface treatment, not a summit grade. The discipline is to go slow and watch the *shape* of the aroma, not its strength: a strong, unchanging, perfume-like note is the fake's signature, while a layered bloom that deepens with heat is the genuine tell. The protocol costs nothing but patience and a gentle heat source, and it is the one check the playbook above cannot easily defeat.
-
-## A Misconception: "Expensive Means Real"
-
-**Direct answer:** A high price is not a certification — counterfeiters charge high prices too, precisely because the market expects them — so treating cost as proof mistakes a number someone printed for a fact about the wood.
-
-The misconception is the mirror of "cheap means fake," and it is just as wrong. A convincing fake with plausible-looking paperwork can command a real price, because the forger's margin only grows when the price is high. So a high price rules nothing in; it only means someone was willing to ask that much. The asymmetry worth holding: a low price can rule a piece *out* (real 奇楠 cannot honestly sell at ordinary-agarwood levels), but a high price can never rule a piece *in*. That one-way logic is why price sits last in the stack of checks, and why a collector who leans on cost alone is buying the seller's confidence, not the material.
-
-*The author's view, not a verified fact.*
-
-## The Seller-Question Script for the First Conversation
-
-**Direct answer:** The cheapest and most protective move in 奇楠 buying is a short script of questions you run before any money moves — species, origin, grade, and the warm-aroma description — because a seller's fluency on those four is the one signal no surface treatment can imitate.
-
-Run the script in order. First, "which *Aquilaria* species is this?" → a merchant who cannot name it has failed the cheapest filter. Second, "which origin?" → the same species from Hainan and from a plantation elsewhere are different materials and different prices. Third, "which grade, in your own terms — 沉水 or 奇楠, and if 奇楠, which color?" → a seller who hedges on the grade is hedging on the claim. Fourth, "describe how it smells warmed, not burned" → a fluent, specific answer is a good sign; a vague "it smells good" is not. The script's power is that it converts a vague purchase into a set of specific, falsifiable statements you can later check. A dishonest seller can lie to each question, but each lie is a recordable claim, and a seller who will not answer is the cheapest possible filter of all — you walk away without spending anything.
-
-## A Misconception: "The Sink Test Is a Good First Screen"
-
-**Direct answer:** Reaching for the sink test as your opening move is the most common beginner error — oil-injection fakes are built specifically to pass it, so a sinking piece proves only that it is heavy, and a first screen built on weight screens for nothing but the forger's effort.
-
-The error is not that the sink test is invalid — it is that the test is *already defeated before you run it*. The playbook above exists precisely because counterfeiters know buyers reach for the sink test first, so they build fakes that sink. A piece that sinks demonstrates density, and density is what the forger adds for pennies with injected oil. The test keeps one narrow use: a very light, low-resin piece floats, and that does rule out the saturated grade. But that is a rule-out at the low end, not a screen that catches fakes — the fakes are over on the heavy side, sailing through. The boundary to hold: weight is a real property the grade turns on, and it is also the property a forger targets first, so it belongs near the *end* of your stack, not the start. Open with the seller's species-and-grade answer, not with a bowl of water.
-
-*The author's view, not a verified fact.*
-
-## Reading a Piece's Backstory: Why Provenance Questions Beat Aroma Tricks
-
-**Direct answer:** A piece's backstory — where it was harvested, by whom, and how it entered the market — is often more decisive than any single aroma trick, because provenance is the one layer a surface treatment cannot forge from the wood itself.
-
-Run the backstory as a chain of custody. Genuine material traces through hands that can be named → a harvester, a grader, a trader, a seller, each able to state what they passed on → that chain produces the species, the origin, and the grade as *claims someone can be held to*. A fake short-circuits the chain: it has no harvester and no grader, only a seller and a story → the species and origin become things the seller invents rather than things the chain records. The practical move follows directly: ask for the chain, not just the description, and treat a seller who can name every hand the piece passed through as worth far more than one who can only praise the aroma. Provenance is not proof by itself, but it is the difference between a claim that can be checked and one that evaporates the moment you ask a second question.
-
-## A Misconception: "The Grade Is In the Color"
-
-**Direct answer:** Reading the grade off the color is the fastest way to misjudge 奇楠 — the five-color names are a traditional vocabulary, not a reliable ladder, and a dye can place any hue on a piece that has nothing to do with the summit grade.
-
-The misconception treats the color word as a measurement. It is a *name*, and the names are disputed as grades even among the sources that record them. White, green, purple, yellow, and black 奇楠 may be distinct grades or may be aging stages of one material — the tradition does not settle the question — so a color word carries only a rough, contested signal at best. A forger needs no subtlety to defeat it: a dye bath reproduces any of the five hues on cheap wood in an afternoon. The boundary to hold: color is a conversation word, never a verdict. When a seller leans on the color as the whole argument, treat that as the red flag it is, and let the structure, the warm aroma, and the chain of custody carry the actual judgment instead.
-
-*The author's view, not a verified fact.*
-
-## A Storage-and-Handling Note: How to Keep a Verdict Honest
-
-**Direct answer:** The way you store and handle a piece after purchase affects every later check you run — oils from bare fingers, a warm room, or a scented drawer can all change what a piece smells like, and a buyer who contaminates the sample is testing their own hands, not the wood.
-
-Run the reasoning as a chain. Skin oils and fragrance transfer on contact → they sit on the surface and add a foreign note → a later cold sniff or gentle-heat test reads that contaminant as part of the material → the verdict drifts away from what the wood actually is. Storage compounds it: a warm, humid space softens the resin surface, and a drawer scented with another incense or a cosmetic leaves a competing odor. The practical rule follows: handle by the edges or with clean hands, keep the piece in a neutral, sealed container away from heat and competing scents, and run any comparison test on material that has not just been handled. A piece whose aroma changed after a few weeks in a scented drawer has not "aged" — it has absorbed, and the honest reading is that the test now measures your storage, not the grade.
-
-## A Misconception: "The Stronger the Cold Scent, the Higher the Grade"
-
-**Direct answer:** Reading a loud cold-room fragrance as a mark of high grade gets the signal backwards — a surface fragrance announces itself cold, while a genuine piece's depth is quiet until you warm it, so a strong cold hit is more often a treatment than a summit.
-
-The misconception grows from one true fact: high-grade 奇楠 *is* fragrant cold, because volatiles sit throughout the fiber. But that truth invites a false inference: that a strong cold scent therefore proves the grade. The fake reaches the same cold scent by a completely different route — a fragrance oil painted on the surface is already fully "on" the moment you open the jar, loud and one-note. So the two sources of a cold scent are opposites, and strength does not tell them apart. The tell is the *shape*, not the volume: a genuine cold trace is soft and complex, while an applied one is loud and flat. The boundary to hold: judge a cold sniff by its character, never its loudness, and let the gentle-heat test settle what the cold sniff only hints at.
-
-*The author's view, not a verified fact.*
-
-## A Field Checklist for the Shelf or the Seller's Table
-
-**Direct answer:** Before you decide on a piece, run a short field checklist in order — seller answers first, then warm aroma, then structure, then price — and the order itself is the protection, because each earlier step filters out the cases the later ones would otherwise let through.
-
-Print the checklist in your head and walk it. One: ask the species, origin, and grade, and walk away from a seller who will not answer. Two: warm a small fragment gently and watch whether the aroma opens in layers or stays flat. Three: read the grain and softness — even interlacing fiber and a curling shaving are consistent with the grade, while pale, uniform wood is not. Four: check the price against the claim, and treat a bargain summit label as a contradiction, not a deal. The checklist's power is that no single step is decisive on its own, but the four run together catch what any one misses. A piece that clears all four has passed every cheap screen available; a piece that stumbles on any one has told you where to look harder, and usually told you to look elsewhere.
-
-## A Misconception: "The Dealer's Reputation Replaces the Checks"
-
-**Direct answer:** Trusting a dealer's reputation as a substitute for the checks is a common and costly shortcut — a good reputation reduces risk but does not remove it, and the checks still run on the piece in your hand, not on the sign over the door.
-
-The misconception confuses two kinds of trust. A reputable dealer is less likely to knowingly sell a fake, and more likely to stand behind a mistake — that is real, and it lowers the risk. But a reputation does not make the material genuine, and even an honest dealer can be upstream of a counterfeit, or mistaken about a lot. The checks run on the piece, and they are the only thing that does. The boundary to hold: use reputation to choose *whom to ask*, then run the checks anyway, because the seller's accountability is a layer on top of the material, never a replacement for reading it. A buyer who skips the checks because the shop is famous has moved the risk from the wood to a name, and a name is the one thing a counterfeiter most wants you to trust.
-
-*The author's view, not a verified fact.*
+Price is evidence of asking, not of identity. A forger can charge a realistic sum — often must, to be believed — and paperwork can be fabricated or borrowed from another batch. What price can do is eliminate: genuine material cannot be sold at medicinal-chip prices, so a low number is decisive. A high number is only a reason to keep asking questions.
 
 ## Sources
 
-- Chinese specialist and consumer sources on 奇楠 authentication and pricing, presented as traditional heuristics with directional prices.
-- [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — the botanical species behind agarwood and 奇楠.
-- [Aquilaria in the CITES species checklist](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis) — agarwood is CITES-listed, which drives the scarcity that fakes exploit.
-- Research synthesis: docs/research/agarwood-chenxiang-notes.md (R-001).
+- Chinese trade commentary and consumer reports on 奇楠; used for heuristics, not as a price source.
+- [GBIF species page](https://www.gbif.org/species/5524063) — taxonomy.
+- [CITES listing](https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis) — legal trade status.
+- Research notes: docs/research/agarwood-chenxiang-notes.md (R-001).
 
 ## Related Resources
 
-- [Agarwood ingredient page](/ingredients/agarwood/) — identity, formation, and the 奇楠 grade in context
-- [What qinan (奇楠) is](/blog/qinan-kyara/) — the grade itself, before the authentication question
-- [Incense Authentication Database](/blog/incense-authentication-database/)
-- [Agarwood Grading Guide](/blog/agarwood-grading-guide/)
-
-**Natural next step:** see the full grading system these fakes exploit in [agarwood grading](/blog/agarwood-grading-guide/).
+- [Agarwood](/ingredients/agarwood/) — how the resin forms and where the top grade sits.
+- [Qinan explained](/blog/qinan-kyara/) — the grade itself, separate from buying.
+- [The production sequence](/blog/how-incense-is-made/) — where binding and forming sit before a finished stick exists.
+- [Authentication database](/blog/incense-authentication-database/) — comparable checks for other materials.
+- [Grading guide](/blog/agarwood-grading-guide/) — the tiers a fake label borrows.
