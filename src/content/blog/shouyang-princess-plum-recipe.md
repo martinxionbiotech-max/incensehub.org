@@ -135,7 +135,7 @@ The last row is the useful one. Substituting petals for the fruit does not make 
 
 ### Q: What is 寿阳公主梅花香?
 
-A classical plum-blossom compound incense from 香乘 卷十八, attributed by tradition to a Southern Dynasties princess. Nine materials go in: four herbs at half a liǎng, three at a full liǎng, a small measure of rosewood, and a hundred white plums. The method is roast, grind coarse, and seal for a month. Its plum character is an accord of fruit, bark, and wood rather than a flower extract.
+A classical plum-blossom compound incense from 香乘 卷十八, attributed by tradition to a Southern Dynasties princess. Nine materials go in: four herbs at half a liǎng, three at a full liǎng, a small measure of rosewood, and a hundred white plums. The method is roast, grind coarse, and seal for a month.
 
 ### Q: Does the recipe use real plum flowers?
 
@@ -173,7 +173,5 @@ Divide the weighed materials by the same factor and keep every ratio intact — 
 
 - 寿阳公主梅花香 is a 香乘 formula built on sandalwood, four herbal middles, three spice-and-wood materials, a small rosewood accent, and a hundred white plums.
 - The plum note is an accord — fruit plus peony bark over warm wood — not an extract of plum blossom.
-- Weights follow the 君臣佐使 ladder: chief at a full liǎng, ministers at half, guides at the edges.
-- Roasting dries the herbs for grinding; the sandalwood's 不见火 note complicates that instruction and deserves a maker's judgment.
 - A month sealed in a jar lets the blend stop smelling like separate ingredients.
 - The princess attribution is legend; the construction is the real subject.

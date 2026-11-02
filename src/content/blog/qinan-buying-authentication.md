@@ -42,8 +42,6 @@ The bands, roughly and in RMB per gram: herb-grade chips at 0.4–1.4; usable bu
 
 Put the first question in plain words: which *Aquilaria* species is this, where did it come from, and is the seller calling it 沉水 or 奇楠? A merchant who cannot answer all three has failed the cheapest filter available, and the failure costs nothing to discover. Then comes the sensory question: how does it behave under gentle warmth, as opposed to flame? A flat, cosmetic, or charred answer points to a surface treatment, while a layered and shifting answer is at least consistent with the grade. The third is arithmetic, and it comes last because it only works as a backstop once the first two have narrowed the field.
 
-The order matters because the checks are not equal. The seller conversation removes most obvious fakes before anything is handled. The warmed aroma catches oils and applied fragrances that no photograph can reveal. The price comparison catches what slipped through, but only if the earlier steps have already reduced the noise.
-
 ## Why the Familiar Tests Fail
 
 **Direct answer:** The sink test, the color check, and the cold-aroma check each measure something a forger can add to cheap wood, while none measures the resin distribution that makes the grade what it is.

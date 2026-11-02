@@ -22,8 +22,6 @@ author: "Landeng Tech Team"
 - One material is scented wood cut from a trunk; the other is dried tree exudate collected from a wound. Physical state separates them before scent does.
 - The wood anchors a blend at the base; the resin opens it at the top. They are complements rather than alternatives.
 - Copying is not evenly distributed. Solid wood attracts species swaps, oil passed off as timber, and perfume-soaked sticks; exudate is more often the real thing, with grade and species left to argue about.
-- Most traded wood now comes from plantations of *S. album* or from Australian *S. spicatum*; wild Indian stock is CITES-listed.
-- Most resin still comes from wild or semi-managed stands, and parts of the range report tapping pressure.
 - Heat rule: the wood smoulders, the resin melts. Getting that backwards wastes both materials.
 - Nothing here is a health claim for either material.
 
@@ -362,11 +360,11 @@ The second purchase is where a supplier relationship is either confirmed or quie
 
 ## FAQ
 
-### Q: Are sandalwood and frankincense the same thing?
+### Q: Is 檀香 the same material as 乳香?
 
 No. 檀香 is wood cut from a *Santalum* trunk (Santalaceae); 乳香 is hardened exudate from *Boswellia* bark (Burseraceae). One is solid, the other is dried sap. They share a shelf because they fill opposite ends of a scent, not because they are related.
 
-### Q: Does the wood really cost more than the resin?
+### Q: Why does the timber cost more?
 
 Usually. Price follows species, origin, how much of the piece is fragrant core, and grade. *S. album* is expensive; a cheap "sandalwood" stick is normally perfume on a carrier. Resin is abundant by comparison, though *B. sacra* sits above ordinary commercial lots.
 
@@ -374,7 +372,7 @@ Usually. Price follows species, origin, how much of the piece is fragrant core, 
 
 No. Wood smoulders on a coal or in a stick. Resin must melt; flame chars it and turns the citrus note bitter. Use an electric warmer or a coal under ash, and ventilate — both produce smoke.
 
-### Q: Which one is faked more often?
+### Q: Which material attracts more counterfeits?
 
 The wood. At the cheap end: another species sold as *S. album*, oil sold as solid wood, perfume with no wood at all. Resin is seldom faked outright; species, tear cleanliness and powder quality are the real questions. See the [substitution cross-reference](/blog/incense-substitution-cross-reference/).
 
