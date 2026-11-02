@@ -32,7 +32,8 @@ def ld_types(obj, out):
 def audit_page(path, html):
     text = text_of(html)
     title = re.search(r"<title[^>]*>([\s\S]*?)</title>", html, re.I)
-    desc = re.search(r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']*)["\']', html, re.I)
+    desc_tag = re.search(r'<meta[^>]+name=["\']description["\'][^>]*>', html, re.I)
+    desc_val = re.search(r"content=([\"'])(.*?)\1", desc_tag.group(0), re.S) if desc_tag else None
     can = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']*)["\']', html, re.I)
     robots = re.search(r'<meta[^>]+name=["\']robots["\'][^>]+content=["\']([^"\']*)["\']', html, re.I)
     lang = re.search(r'<html[^>]+lang=["\']([^"\']+)["\']', html, re.I)
@@ -62,8 +63,8 @@ def audit_page(path, html):
         "path": path,
         "title": htmllib.unescape(title.group(1)).strip() if title else "",
         "title_len": len(htmllib.unescape(title.group(1)).strip()) if title else 0,
-        "desc": htmllib.unescape(desc.group(1)).strip() if desc else "",
-        "desc_len": len(htmllib.unescape(desc.group(1)).strip()) if desc else 0,
+        "desc": htmllib.unescape(desc_val.group(2)).strip() if desc_val else "",
+        "desc_len": len(htmllib.unescape(desc_val.group(2)).strip()) if desc_val else 0,
         "canonical": can.group(1) if can else "",
         "robots": (robots.group(1) if robots else "").lower(),
         "lang": lang.group(1) if lang else "",

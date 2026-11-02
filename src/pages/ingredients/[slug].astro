@@ -111,7 +111,12 @@ if (faqMatch) {
 
 const pageUrl = `${Astro.site?.toString() ?? 'https://incensehub.org'}ingredients/${ingredient.id}/`;
 const aromaText = aroma.join(', ');
-const directAnswer = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
+const directAnswerBase = `${chinese} (${pinyin}) is an ${type} from ${scientificName}, with an aroma profile of ${aromaText}.`;
+const directAnswer = directAnswerBase.length > 165
+  ? directAnswerBase.slice(0, 160).replace(/\s+\S*$/, '') + '…'
+  : directAnswerBase.length < 120
+    ? `${directAnswerBase} Includes sourcing and grading notes.`
+    : directAnswerBase;
 
 const structuredData = [
   {

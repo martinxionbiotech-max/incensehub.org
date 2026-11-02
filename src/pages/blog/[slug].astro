@@ -16,13 +16,39 @@ const { Content } = await render(post);
 const { title, primary_keyword, search_intent, pillar, last_reviewed } = post.data;
 
 // 唯一化 meta description：从正文提炼（无 description frontmatter 字段，按 §24 生成）
-const metaDescription =
-  (post.body || '')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/[#*_>`\[\]()!-]/g, ' ')
+function metaFromBody(body, fallback) {
+  let text = (body || '')
+    .replace(/^---[\s\S]*?---/, '')
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/[#>*_`|]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim()
-    .slice(0, 155) || title;
+    .replace(/^Direct answer:\s*/i, '');
+  if (!text) return fallback;
+  const sentences = text.match(/[^.!?]+[.!?]+/g) || [text];
+  let out = '';
+  for (const sentence of sentences) {
+    const s = sentence.trim();
+    const candidate = out ? `${out} ${s}` : s;
+    if (candidate.length <= 160) {
+      out = candidate;
+      if (out.length >= 120) break;
+      continue;
+    }
+    if (!out || out.length < 120) {
+      const room = Math.max(60, 157 - (out ? out.length + 1 : 0));
+      const cut = s.slice(0, room).replace(/\s+\S*$/, '');
+      out = out ? `${out} ${cut}…` : `${cut}…`;
+    }
+    break;
+  }
+  if (out.length > 160) {
+    out = out.slice(0, 157).replace(/\s+\S*$/, '') + '…';
+  }
+  return out || title;
+}
+const metaDescription = metaFromBody(post.body, title);
 
 // ---- P2: authoritative citations (reuse only verified Sources-section links) ----
 const CITATION_HOSTS = ['efloras.org', 'gbif.org', 'checklist.cites.org', 'wikisource.org', 'ctext.org'];
