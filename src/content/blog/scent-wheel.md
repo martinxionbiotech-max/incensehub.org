@@ -19,21 +19,21 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A scent wheel sorts incense by atmosphere instead of by ingredient list — a bright end, an airy floral middle, a steady woody stretch, and a deep resinous close. Each band holds a handful of materials and the occasions people reach for them, so the wheel reads in both directions: from the moment you have in mind to a material, or from a material you already love to the kind of moment it suits.
 
-**Key facts:** "Atmosphere" is a cultural and sensory description — bright, airy, warm, enveloping — not a claim about the body. The wheel is a choosing aid. It describes how a material reads and when people tend to want that reading; it says nothing about what a scent does inside a person.
+**Key facts:** "Atmosphere" is a cultural and sensory description — bright, airy, warm, enveloping — not a claim about the body. The wheel is a choosing aid. It describes how a material reads and when people want that reading; it says nothing about what a scent does inside a person.
 
 ## Key Takeaways
 
-- The map has a single spine — brightness at one end, depth at the other — and four labelled stretches along it. The stretches are positions, not four separate systems.
-- Each stretch has a working example: citrus peel and frankincense for brightness, lotus and lavender and osmanthus for the airy middle, sandalwood for the steady middle-deep, agarwood for the far end.
-- Release speed is what separates the ends. Lighter molecules quit the burner early; heavier ones stay and open slowly. That is why "deep" and "long" usually arrive as a pair.
-- Smoke and depth are unrelated. A piece of resin on a heater gives off almost nothing visible; a thin stick gives off some whatever it is made from.
-- Atmosphere words are cultural shorthand. "Calming" is a character people recognize, not an outcome a body receives.
+- The map has a single spine — brightness at one end, depth at the other — and four labelled stretches. They are positions, not four systems.
+- Each stretch has a working example: citrus peel and frankincense for brightness, lotus, lavender and osmanthus for the airy middle, sandalwood for the steady middle-deep, agarwood for the far end.
+- Release speed separates the ends: light molecules quit early, heavy ones stay.
+- Smoke and depth are unrelated. Resin on a heater gives almost nothing visible; a thin stick gives off some whatever it is made from.
+- Atmosphere words are cultural shorthand: "calming" is a character, not an outcome a body receives.
 
 ## What the Wheel Sorts
 
-**Direct answer:** It sorts by atmosphere — how a material reads in a room — using one bright-to-deep axis and four labelled stretches along it.
+**Direct answer:** It sorts by atmosphere — how a material reads in a room — using one bright-to-deep axis with four labelled stretches.
 
-A practical incense question — what should I burn tonight — hides two smaller ones. The first is about the room: do I want it lifted, softened, steadied, or filled? The second is about material: which of the woods, resins, flowers, and peels will build that? A list answers the second question only. A wheel answers both, because it is one axis with four labelled stretches.
+A practical question — what should I burn tonight — hides two smaller ones: what kind of room do I want, and which material builds it? A list answers the second only. A wheel answers both.
 
 The axis is brightness against depth. Bright reads as fresh, clean, high, and quick; deep reads as resinous, sweet, low, and slow. Floral sits just bright of center, woody just deep of center. Nothing in the arrangement is a rank. A bright citrus is not a lesser agarwood, and a deep agarwood is not a stronger citrus. They are different kinds of room.
 
@@ -44,7 +44,7 @@ The axis is brightness against depth. Bright reads as fresh, clean, high, and qu
 | **Calming woody** | creamy, warm, even | sandalwood | an evening sitting, or steadying a room that feels unsettled | reading its quietness as weakness and doubling the dose |
 | **Deep / enveloping** | resinous, layered, slow | agarwood | a long ritual, or deliberate listening to one material | treating it as the default for every occasion |
 
-The table's last column matters as much as the others. Most disappointing sessions come from a correctly chosen scent used in the wrong room or at the wrong hour, not from a bad material.
+Most disappointing sessions come from a correctly chosen scent used in the wrong room or hour, not from a bad material.
 
 ## The Four Bands, Read One at a Time
 
@@ -52,35 +52,35 @@ The table's last column matters as much as the others. Most disappointing sessio
 
 Citrus peel carries the clearest bright signal in the incense palette — a high, clean, slightly sharp lift that reads as morning. It behaves like a top note in perfumery: present immediately, gone sooner than you expect. Frankincense belongs to the same band but sits deeper inside it. Its resin has a lemon-adjacent edge over a balsamic body, which is why it can open a ritual without feeling light-minded.
 
-The mistake with this band is volume. Bright materials are read as "light" and then burned in quantity to compensate, which produces a sharp, acrid room rather than a clean one. One stick, one window, ten minutes of airing afterward is a better ratio than three sticks and a closed door.
+The mistake with this band is volume. Bright materials read as "light", so people burn more to compensate and produce a sharp, acrid room. One stick, one window, ten minutes of airing afterward beats three sticks and a closed door.
 
 ### Floral: lotus, lavender, osmanthus
 
 Florals occupy the airy middle. Lotus reads cool and watery-sweet, lavender soft and herbaceous, osmanthus apricot-rich and honeyed. They are the band most often chosen by mood rather than by occasion, and they reward that: these are the scents people reach for when the day has been loud.
 
-The limit is structural. Floral notes are made of comparatively light compounds, so they peak early and fade, and a large room will swallow them. If the goal is to scent a hallway, a floral alone will not do it; a floral over a wood base will.
+The limit is structural. Floral notes are light compounds, so they peak early and fade, and a large room swallows them. To scent a hallway, a floral alone will not do it; a floral over a wood base will.
 
 ### Woody: sandalwood as the steady center
 
-Sandalwood is the band's anchor because it is both calm and legible. Creamy, sweet, faintly buttery, it does not call attention to itself, which is exactly why it works for seated practice and for evening rooms. It also behaves as a base: laid under a lighter material, it slows the whole composition down.
+Sandalwood anchors the band because it is calm and legible. Creamy, sweet, faintly buttery, it does not call attention to itself, which is why it works for seated practice and evening rooms. It also behaves as a base: under a lighter material, it slows the composition down.
 
 There is a quality trap here. "Sandalwood" on a label can mean heartwood powder, an oil blend on a charcoal core, or a synthetic fragrance. The band placement is the same in all three cases; the experience is not. Judge the material separately from the atmosphere.
 
 ### Deep: the agarwood register
 
-Agarwood sets the far end: heavy, sweet, gum-rich, layered, with a sugar that shows up late rather than on the first breath. It is also the most expensive material in the classical palette, and that price creates its own distortion — people expect a dramatic experience and then meet something quiet and close.
+Agarwood sets the far end: heavy, sweet, gum-rich, layered, with a sugar that shows up late rather than on the first breath. It is also the most expensive material in the classical palette, and that price distorts expectations — people expect drama and meet something quiet and close.
 
-Depth is not volume. A well-heated piece of agarwood can fill a small room gently for an hour without ever becoming loud. Judged by intensity alone, it loses to a cheap smoky stick. Judged by what it does over an hour, it wins easily.
+Depth is not volume. A well-heated piece of agarwood can fill a small room gently for an hour without becoming loud. Judged by intensity alone, it loses to a cheap smoky stick; judged over an hour, it wins easily.
 
 ## Why One Axis Carries Most Choices
 
 **Direct answer:** Because most choosing questions reduce to "lift the room or settle it", and one axis answers that before any material is named.
 
-The editorial view here is blunt: scent selection gets overcomplicated. Most people asking "which scent" are not short of information. They are short of a first cut. Decide bright or deep, and nine questions in ten answer themselves — citrus or frankincense if the room needs lifting, agarwood or a heavy resin if it needs filling.
+The editorial view is blunt: scent selection gets overcomplicated. Most people asking "which scent" are not short of information; they are short of a first cut. Decide bright or deep, and nine questions in ten answer themselves — citrus or frankincense to lift a room, agarwood or a heavy resin to fill it.
 
-What follows from that is a useful discipline. Before reading any description, ask which end of the axis the description is pointing at. "Fresh, sparkling, clean" points bright. "Resinous, balsamic, honeyed, low" points deep. Descriptions that mix both ends are usually describing a blend, and blends are their own subject.
+The discipline follows: before reading a description, ask which end of the axis it points at. "Fresh, sparkling, clean" points bright; "resinous, balsamic, honeyed, low" points deep. A description that mixes both ends is usually a blend, and blends are their own subject.
 
-This is an editorial judgment, not a measurement. It holds because the axis maps onto something real — release speed — and because most listening situations resolve into "lift me" or "settle me." It does not hold for the reader who already knows exactly which material they want. That reader has left the wheel and does not need it.
+This is an editorial judgment, not a measurement. It holds because the axis maps onto release speed, and because most listening situations resolve into "lift me" or "settle me". It does not hold for the reader who already knows which material they want.
 
 ## The Volatility Behind "Deep"
 
@@ -122,8 +122,6 @@ Smoke itself deserves a plain statement. Burning anything — wood, resin, paper
 
 ## Where Scents Get Misplaced
 
-Five errors account for most of the confusion I see in scent conversations. They are worth naming, because each one is a one-line fix.
-
 | Confusion | What people assume | What is actually true | Fix |
 |---|---|---|---|
 | Deep = smoky | Agarwood is "the smoky one" | Smoke comes from combustion, not from the wood's character | Heat agarwood instead of burning it; judge depth by scent, not by visible smoke |
@@ -140,22 +138,18 @@ The nose is a difference detector, not a level meter. Sit in a scented room for 
 
 Three habits break it. Leave the room for five minutes and come back; the return is the honest measurement. Ask someone who has just walked in, and believe the answer. Treat the first ten minutes as the peak rather than the average, so you dose for the peak instead of topping up against a fading sense.
 
-The same mechanism explains why a shop smells stronger than your home. You are arriving, not living there. A material that seems perfect in the first minute of a store visit may be too much for an evening; smell it, step outside, then come back.
+The same mechanism explains why a shop smells stronger than home: you are arriving, not living there. A material that seems perfect in the first minute may be too much for an evening; smell it, step outside, come back.
 
 ## From Moment to Material: A Working Path
 
-1. **Name the hour.** Morning, work block, evening, ritual. The hour usually decides bright versus deep before any material is named.
-2. **Name the room.** Small and closed rewards quiet materials; large and open needs a base under whatever carries the top.
+1. **Name the hour.** Morning, work block, evening, ritual; the hour usually decides bright versus deep.
+2. **Name the room.** Small and closed rewards quiet materials; large and open needs a base under the top.
 3. **Pick the band.** Bright for lift, floral for softness, woody for steadiness, deep for weight.
-4. **Pick the material inside the band.** One reference material, not a blend, so you learn something from the session.
-5. **Pick the format.** A stick for a short session, a cone for a slower build, resin on a heater for the cleanest read of the material itself. The [format guide](/blog/which-incense-format/) covers the trade-offs.
-6. **Log the result in one line.** Which band, which material, which room, how it read. Three weeks of lines beats any chart.
-
-That last step is where the wheel becomes personal. The printed positions are a starting map; your notes are the territory.
+4. **Pick one material inside it.** Not a blend, so you learn something from the session.
+5. **Pick the format.** A stick for a short session, a cone for a slower build, resin on a heater for the cleanest read. The [format guide](/blog/which-incense-format/) covers the trade-offs.
+6. **Log it in one line.** Band, material, room, how it read. Three weeks of lines beats any chart.
 
 ## Six Anchors Worth Learning
-
-A wheel is only as good as the reference points you can actually recall. Six materials cover the four bands and give you fixed points to compare against.
 
 | Anchor | Band | Why it earns a place | What it teaches |
 |---|---|---|---|
@@ -166,30 +160,25 @@ A wheel is only as good as the reference points you can actually recall. Six mat
 | Sandalwood | Woody | Creamy and steady | The calm center of the axis |
 | Agarwood | Deep | Layered, resinous, slow | The far end, and the cost of it |
 
-Learn these six before adding a seventh. The point of an anchor is not that it is the best material in its band; it is that you can call it to mind without smelling it. Once you can, any new scent gets placed by comparison: "brighter than sandalwood, deeper than lavender" is a real position, and it is enough to make a decision.
+Learn these six before adding a seventh. An anchor need not be the best material in its band; it must be one you can call to mind without smelling it. Then any new scent gets placed by comparison: "brighter than sandalwood, deeper than lavender" is a real position, and enough to decide.
 
 ## Making the Wheel Yours
 
-A short exercise, done once, does more than reading this page twice.
-
-- **Blind-place three scents.** Have someone else light three materials from different bands without telling you which. Write down where each sits and why. Compare with the labels afterward.
-- **Run a pairwise sort.** Take six materials and rank them from bright to deep by smell alone. The disagreements with the printed wheel are the interesting part — they usually come from a blend, a synthetic, or a format effect.
-- **Repeat in a different room.** The same stick will read differently in a small kitchen and a high-ceilinged hall. That is not inconsistency in the wheel; it is the room entering the measurement.
+- **Blind-place three scents.** Have someone light three materials from different bands without telling you which. Write down where each sits and why, then compare with the labels.
+- **Run a pairwise sort.** Take six materials and rank them from bright to deep by smell alone. Disagreements with the printed wheel are the interesting part — they usually come from a blend, a synthetic, or a format effect.
 - **Keep a one-line log.** Date, material, band, room, verdict. After a month, the log is a personal wheel, and it will outperform any generic chart for your own buying.
 
 ## The Boundary: Association, Not Effect
 
 **Direct answer:** Atmosphere words describe aroma, and aroma is not treatment — the page makes no physiological claim at any point.
 
-The wheel's labels describe character. They do not describe outcomes, and the distinction is not pedantry — it is the difference between a usable reference and a wellness claim.
+"Calming woody" is shorthand for an aroma that reads creamy, warm, low, and even, and for the fact that people have long reached for sandalwood in quiet settings. It says nothing about what happens inside a body. "Energizing" works the same way: bright, fresh, zesty in the nose, with no lift implied. Traditional associations are worth recording as associations, not as evidence of action. For the longer version, see [how aromatherapy works](/blog/how-aromatherapy-works/).
 
-"Calming woody" is shorthand for an aroma that reads creamy, warm, low, and even, and for the fact that people have long reached for sandalwood in quiet settings. It says nothing about what happens inside a body. "Energizing" works the same way: bright, fresh, zesty in the nose, with no measurable lift implied. Traditional and cultural associations deserve recording as associations; they are not evidence of physiological action, and this page does not dress them up as such. For the longer version of that boundary, see [how aromatherapy works](/blog/how-aromatherapy-works/).
-
-What can be said with confidence is narrower and still useful: scent changes the feel of a room, people reliably prefer certain characters at certain hours, and a well-chosen material makes a session feel intentional. That is the practical significance of the wheel. It helps you choose, not to expect.
+What can be said with confidence is narrower and still useful: scent changes the feel of a room, people prefer certain characters at certain hours, and a well-chosen material makes a session feel intentional. That is the wheel's practical significance. It helps you choose, not to expect.
 
 ## A Shared Room, and a Room of One
 
-In a shared space the wheel gains a second job: it becomes a negotiation aid. Two people who disagree about a scent often agree about an atmosphere — "something warm but not heavy" is a solvable request, while "I don't like oud" is not. Ask for the band first, then the material.
+In a shared space the wheel becomes a negotiation aid. Two people who disagree about a scent often agree about an atmosphere — "something warm but not heavy" is solvable, "I don't like oud" is not. Ask for the band first, then the material.
 
 Three rules keep shared burning civil. Choose the quietest material that satisfies the request, because quiet scents offend fewer noses. Burn short and air afterwards rather than long and hope. And keep the deep end for occasions everyone has agreed to; agarwood in a small shared office is a decision, not an ambiance.
 
@@ -206,13 +195,13 @@ Shop copy is written to sell, and it still leaks. Four checks tell you whether a
 
 ## One Evening, Worked Through
 
-Suppose the request is dinner for four in a small flat, and the host wants the room to feel finished rather than perfumed. Read it in order.
+Suppose the request is dinner for four in a small flat, and the host wants the room to feel finished rather than perfumed.
 
-The hour is evening, so the deep end is available — but a dinner needs conversation, and agarwood's weight competes with talk. The space is small, so a bright material dosed low stays present without shouting. That points to the floral stretch over a woody floor: osmanthus above sandalwood, or a single sandalwood stick if the room is very small and the food delicate.
+The hour is evening, so the deep end is available — but dinner needs conversation, and agarwood's weight competes with talk. A small room rewards a bright material dosed low, over a woody floor: osmanthus above sandalwood, or one sandalwood stick if the food is delicate.
 
-Timing follows from volatility. Light the material twenty minutes before guests arrive so the opening has passed and the base is what they meet at the door. A stick lit at the table announces itself and then fades mid-meal. Air the room afterward and stop before dessert; a room that still smells of resin while coffee is served reads as an oversight rather than a choice.
+Timing follows from volatility. Light twenty minutes before guests arrive so the opening has passed and the base meets them at the door. A stick lit at the table announces itself and fades mid-meal. Air afterward and stop before dessert; resin still hanging over coffee reads as an oversight.
 
-That is the whole method: hour, space, stretch, one material, timing, air. None of it requires knowing a hundred materials.
+The method: hour, space, stretch, one material, timing, air.
 
 ## Keeping the Stock So the Map Holds
 
@@ -246,23 +235,23 @@ Knowing the edges keeps the tool honest. A wheel used for everything becomes a m
 
 ### Q: What incense scent is best for focus?
 
-The bright band — citrus first, frankincense if you want brightness with a resinous floor. Citrus reads clean and high, which suits a desk and a morning; frankincense holds attention longer because its brightness sits on a balsamic body. The honest caveat is that this is a description of character, not a performance claim. What helps focus is a scent you find clarifying, in a room with enough air that it never becomes stale. Pair it with a short format: a thin stick for a forty-minute block beats a cone that keeps going after you have stopped.
+The bright band — citrus first, frankincense if you want brightness with a resinous floor. Citrus reads clean and high, which suits a desk and a morning; frankincense holds longer because its brightness sits on a balsamic body. The caveat: this describes character, not performance. What helps focus is a scent you find clarifying, in a room with enough air. Pair it with a short format: a thin stick for a forty-minute block beats a cone that outlasts the work.
 
 ### Q: Which material reads as calm?
 
-Sandalwood for most people, agarwood when more weight is wanted. The creamy, sweet-woody profile of sandalwood stays warm without getting loud, which is why it suits evening sittings and small spaces. Agarwood goes further down: heavier, more enveloping, its sugar arriving late — lovely across a long ritual, too much for a quick errand. "Calming" names an aroma, not a physiological effect; treat the association as a preference rather than a promise. If a scent genuinely unsettles you, that reaction is data too, and the wheel does not overrule your nose.
+Sandalwood for most people, agarwood when more weight is wanted. Sandalwood stays warm without getting loud, which suits evening sittings and small spaces. Agarwood goes further down: heavier, more enveloping, its sugar arriving late — lovely across a long ritual, too much for a quick errand. "Calming" names an aroma, not a physiological effect; treat the association as a preference, not a promise. If a scent unsettles you, that reaction is data too, and the wheel does not overrule your nose.
 
 ### Q: Is a deep scent always a smoky one?
 
-Depth and smoke are separate. Agarwood sits at the deep end because of its resinous, layered character, not because it is smoky. Warm a piece on an electric heater and it produces almost no visible smoke while reading as deep as ever; burn a thin stick of a bright blend and you get smoke from a bright material. Judge the two independently: character from the material, smoke from the format and the way it is lit. The [safety page](/safety/) covers what the smoke actually contains and how to reduce exposure.
+Depth and smoke are separate. Agarwood sits at the deep end for its resinous, layered character, not because it is smoky. Warm a piece on an electric heater and it gives almost no visible smoke while reading as deep as ever; burn a thin stick of a bright blend and you get smoke from a bright material. Judge them independently: character from the material, smoke from the format and the lighting. The [safety page](/safety/) covers what smoke contains and how to reduce exposure.
 
 ### Q: Is bright the same as weak, and deep the same as strong?
 
-No, and the confusion costs money. Brightness is a position on a character axis, not a measure of concentration. A fresh citrus can hit the nose harder in the first minute than a quiet agarwood does in ten, then vanish. Depth describes how a material unfolds and how long it stays, which is a different property from intensity. A strong but shallow scent and a soft but deep one are both normal, and neither is better. When you compare two materials, compare them on the same axis: first-minute impact separately from hour-long presence.
+No, and the confusion costs money. Brightness is a position on a character axis, not a measure of concentration. A fresh citrus can hit the nose harder in the first minute than a quiet agarwood does in ten, then vanish. Depth describes how a material unfolds and how long it stays — a different property from intensity. A strong but shallow scent and a soft but deep one are both normal. Compare materials on the same axis: first-minute impact separately from hour-long presence.
 
 ### Q: Do I need the wheel at all if I already know what I like?
 
-Not for repeating a known purchase — but the wheel still earns its place when something changes. A new room, a shared space, a gift, a material that has become unavailable: each of those breaks the habit loop, and the wheel is what lets you reason from character instead of guessing. It is also how most people discover that they like a band rather than a single material. The practical move is to keep the six anchors in mind, use them to place anything unfamiliar, and ignore the rest of the page until a decision actually needs it.
+Not for repeating a known purchase — but the wheel earns its place when something changes. A new room, a shared space, a gift, a material that has become unavailable: each breaks the habit loop, and the wheel lets you reason from character instead of guessing. It is also how most people discover they like a band rather than a single material. Keep the six anchors in mind, use them to place anything unfamiliar, and ignore the rest until a decision needs it.
 
 ## Sources
 
@@ -283,6 +272,6 @@ Not for repeating a known purchase — but the wheel still earns its place when 
 
 ## Summary
 
-The map is one axis and four bands. Material at the near end lets go of its aroma quickly and reads as lift; material at the far end holds on and reads as weight; the two middle stretches sit between. That single arrangement settles most choosing questions, because most questions are really about which kind of hour the space has to carry.
+The map is one axis and four bands. Material at the near end releases its aroma quickly and reads as lift; material at the far end holds on and reads as weight; the middle stretches sit between. That arrangement settles most choosing questions, because most questions are about which kind of hour the space must carry.
 
-Two boundaries keep it honest. Smoke is its own scale, set by format and combustion rather than by character. And atmosphere is description, not outcome: how stock behaves in a nose, not what it does to a body. Pick a stretch, pick one material inside it, note what happened, and the chart stops being someone else's and becomes yours.
+Two boundaries keep it honest. Smoke is its own scale, set by format and combustion rather than character. Atmosphere is description, not outcome: how stock behaves in a nose, not what it does to a body. Pick a stretch, one material inside it, and the chart becomes yours.
