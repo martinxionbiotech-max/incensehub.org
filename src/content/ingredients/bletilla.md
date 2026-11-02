@@ -15,152 +15,282 @@ related: ["sandalwood", "agarwood"]
 
 <img src="/images/bletilla-raw-material-800x533.webp" alt="Raw Bletilla (Bletilla striata) material, editorial still life" width="800" height="533" loading="lazy">
 
-> **Direct answer:** Bletilla (白及, báijí) is the dried tuber of *Bletilla striata*, a terrestrial orchid of the Orchidaceae family native to East Asia. It is a classical Chinese incense binder: its tuber is rich in mucilage, a water-soluble gum that holds incense powders together and helps a stick or cake keep its shape and burn evenly. It is valued for function, not fragrance.
+> **Direct answer:** Bletilla (白及, báijí) is the dried tuber of *Bletilla striata*, a ground orchid from East Asia whose value in a censer has nothing to do with scent. The tuber carries a water-soluble mucilage that turns slick the moment it is pounded and wetted, and that gum is what glues loose aromatic powders into a stick, coil, or cake able to survive handling and burn down in a steady line. Read it as workshop infrastructure, not as an aromatic material.
 
 ## Key facts
 
+> **Direct answer:** A dried orchid tuber whose value is adhesive rather than aromatic — mucilage, not scent, is the whole specification.
+
 | | |
 |---|---|
-| Chinese | 白及 (báijí), also 白芨 |
-| Botanical source | *Bletilla striata* (family Orchidaceae) — the tuber |
-| What it is | A mucilaginous root/tuber binder, not a fragrance |
-| Aroma | Neutral, faintly sweet, earthy, starchy |
-| Traditional role | 合香 binder — the adhesive that forms the incense |
+| Chinese name | 白及 (báijí); the variant 白芨 is still widely written |
+| Botanical name | *Bletilla striata*, family Orchidaceae (orchid family) |
+| Plant habit | Terrestrial orchid — a ground plant, not a tree, shrub, or grass |
+| Part used | The tuber, the swollen underground storage organ |
+| Working principle | Water-soluble mucilage, a polysaccharide gum |
+| Scent | Faint, starchy, earthy; close to invisible in the burn |
+| Job in 合香 | Adhesive and shape-holder, classed as a 使 (guide) material |
+| Classical citation | 白芨作糊 — bletilla paste, named in 香乘 (Xiang Cheng) recipes |
+| Easy to confuse with | 白芷 (fragrant angelica root), 白檀 (white sandalwood) |
+| Not a | Fragrance, resin, wood, or aromatic root |
 
-## Aroma profile
+## What the material actually is
 
-> **Direct answer:** Bletilla is a binder, not a fragrance. Its dried tuber has a neutral, faintly sweet, earthy, starchy character that contributes almost no scent when burned — exactly what a binder should do: hold the fragrant powders together without imposing its own note, the same functional logic as makko wood powder and honey.
+> **Direct answer:** 白及 is a tuber binder: a starchy, mucilage-loaded root that is ground and wetted to make a paste. It contributes no meaningful fragrance and is not chosen for aroma, which is precisely why formulators keep it in the toolkit.
 
-Bletilla is a **binder**, not a fragrance. Its dried tuber has a neutral, faintly sweet, earthy, starchy character that contributes almost no scent of its own when burned. This is exactly what a binder should do: it holds the fragrant powders together and burns without imposing its own note on the blend — the same functional logic as makko wood powder and honey in the East Asian incense tradition.
+The first thing to fix in your mind is that 白及 is not a perfume ingredient in the ordinary sense. Nobody builds a fragrance around it, nobody grades it by nose, and a batch that smells of nothing at all is a good batch. Its identity is mechanical: an orchid tuber that stores water in the form of mucilage, so that a small amount of dried, powdered root can thicken a bowl of water into something closer to egg white than to tea.
 
-The near-absence of scent is not a weakness but the whole point: a binder that smelled strongly would corrupt the formula. 白及 is valued precisely because it disappears — the structural layer of a blend that no one is meant to smell.
+That mucilage is the whole point of the material. When the powdered tuber meets water, the polysaccharide fraction hydrates, uncoils, and raises the viscosity of the mixture sharply. The resulting paste coats every particle of aromatic powder it touches, and once the water leaves during drying, the coating sets into a thin continuous film. What was a heap of dry dust becomes a self-supporting solid — a joss stick, a coil, a cone, or a stamped cake.
 
-## Botanical source and origin
+The trade-off is that the same film-forming behaviour is what makes the material tricky. A paste that is too thin will not hold; a paste that is too thick will not flow into a mould or through an extruder; a paste that dries too fast will crack. Most of the craft knowledge around 白及 is not about the tuber itself but about the water, the timing, and the drying room.
 
-> **Direct answer:** *Bletilla striata* is a terrestrial orchid of the Orchidaceae family, native to East Asia — China, Japan, and Korea. The part used is the dried tuber, rich in water-soluble mucilage that forms a natural gum when pounded or soaked and mixed with water — the classical glue of Chinese 合香.
+## The orchid behind the tuber
 
-*Bletilla striata* is a terrestrial orchid of the Orchidaceae family, native to East Asia — China, Japan, and Korea — and cultivated as an ornamental and for its tuber. The part used is the dried tuber, which is rich in a water-soluble mucilage. When the tuber is pounded or soaked and mixed with water, the mucilage forms a natural gum that acts as an adhesive. This is why 白及 is the classical glue of Chinese 合香. See [Bletilla striata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535) and [Bletilla striata on GBIF](https://www.gbif.org/species/2808791).
+> **Direct answer:** *Bletilla striata* is a hardy terrestrial orchid native to China, Japan, and Korea, grown both as an ornamental and for its tuber. The plant is small and ground-dwelling, and the part that reaches the incense bench is the swollen underground storage organ, not the flower, leaf, or stem.
 
-> **A naming caution:** 白及 (also written 白芨) is the orchid tuber *Bletilla striata* — a mucilaginous *binder*. It is not a fragrance material, and it should not be confused with fragrant roots or woods. Its role in a formula is the same functional role played by makko wood powder and honey: to bind, not to scent.
+*Bletilla striata* sits in the Orchidaceae, the same family as the tropical epiphytes that dominate the orchid trade, but it grows nothing like them. It is a terrestrial species with a rhizome-like chain of pseudobulbs sitting shallow in the soil, broad pleated leaves, and a late-spring spike of pink-purple flowers. Gardeners outside Asia grow it as a hardy ornamental; the same plant is harvested in its native range for the tuber. See [Bletilla striata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535) and the [GBIF record for Bletilla striata](https://www.gbif.org/species/2808791).
 
-## Chinese name and terminology
+The tuber is a storage organ, and that explains its chemistry. A storage organ exists to hold reserves through a dormant season, so it is packed with polysaccharides that hold water and release it later. That is a plant survival strategy; it happens to be a superb adhesive strategy as well. The same property that lets the orchid survive a dry winter lets a spoonful of its powder bind a tray of sandalwood dust.
 
-> **Direct answer:** 白及 (báijí), also written 白芨, is the classical name for the orchid tuber binder. In the 君臣佐使 (chief–minister–assistant–guide) structure of 合香 it is a guide (使) material — it binds and directs the blend rather than contributing a scent, the functional opposite of the fragrant chief materials.
+Wild versus cultivated material is a fair question to raise with any supplier, and it is a question about agronomy rather than about incense quality. Orchids are slow to raise from seed, so cultivation is a multi-year proposition, and the pressure on wild populations of useful orchids is a well-known conservation theme. Buying cultivated tuber does not guarantee better binding — it answers a different question, about where the material came from. That distinction matters for anyone building a supply story around a "wild" claim.
 
-The name 白及 (also 白芨) names the orchid tuber directly, with no fragrance connotation. In the classical 君臣佐使 (chief–minister–assistant–guide) framework of 合香, 白及 sits as a *guide* (使) material: it binds the loose powders and directs the blend's structure without contributing a scent. This places it in explicit contrast to the "chief" (君) materials — agarwood, sandalwood — that carry the fragrance. The terminology distinction is the core of the material's identity: 白及 is in the formula to *hold*, not to *scent*.
+## Why a scentless tuber holds a formula together
 
-## Why is it used in incense?
+> **Direct answer:** Bletilla binds because its mucilage is a hydrocolloid: it thickens water, wets and coats powder particles, and sets into a film as it dries. The result is a solid that keeps its shape without any aromatic contribution — the functional opposite of a fragrance material.
 
-> **Direct answer:** Bletilla is used in incense because its mucilage is a natural adhesive. Pounded or soaked and mixed with water, it forms a gum that binds loose fragrant powders into sticks, cakes, and pills that hold their shape and burn evenly — the classical Chinese answer to the binder problem.
+Here is the mechanism in the order it happens on a workbench:
 
-Bletilla's role in incense is structural: its mucilage binds loose powders into a coherent form. This is the classical Chinese solution to the problem every incense maker faces — how to turn a pile of dry aromatic powders into a stick, cake, or pill that holds its shape and burns evenly. The 香乘 (Xiang Cheng) recipes specify 白及 paste (白芨作糊) to form the incense into cakes. See [how the 合香 blending system works](/blog/hexiang-blending-system/) and [natural binders in incense](/blog/makko-natural-binders/).
+**Dry tuber → pounded or soaked → mucilage hydrates → viscosity climbs → every powder particle gets wetted → water leaves in the drying room → the polysaccharide film sets → the shape holds.**
 
-## How is it processed?
+Each arrow is a step you can watch. The dry tuber is hard and horn-like; pounded and soaked, it turns slippery within minutes. The slickness is not a surface effect — it is the hydrated polymer network resisting flow. Add that network to a bowl of mixed aromatic powders and the powders stop behaving like sand. They clump, then bind, then hold a squeezed shape the way damp sand does, except the bond survives drying instead of failing.
 
-> **Direct answer:** Bletilla is processed by drying the tuber, then pounding or soaking it and mixing with water to release its mucilage into a paste. The paste is the working form — it binds the incense powders during forming, then dries into the finished shape.
+The drying step is where the bond becomes permanent. As water evaporates, the polymer chains are forced together, entangle, and deposit as a film at every particle contact point. The stick is now a composite: aromatic particles locked in a continuous, very thin mucilage matrix. Nothing about that matrix is fragrant, and that is the design requirement.
 
-The processing is a mucilage-release step: the dried tuber is pounded or soaked and mixed with water, releasing the mucilage into a workable paste (白芨作糊). This paste is then used to bind the aromatic powders during forming; as the incense dries, the mucilage sets and holds the shape. The process is a functional one — the goal is adhesive strength and clean, even burning, not the release of any aroma.
+A useful way to think about it is that the binder is the only component of a stick that is judged after the stick is finished rather than while it burns. You notice it when it fails — a stick that snaps in the box, a coil that sags, a cake that crumbles at the edge — and you never notice it when it works. Most of the material's reputation rests on that silence.
 
-## What determines quality?
+## The 君臣佐使 slot: why "guide" is a job, not a rank
 
-> **Direct answer:** Bletilla quality is judged by its binding performance, not its scent. A good tuber is clean, firm, and releases strong mucilage when pounded and soaked — producing a paste that holds a shape firmly and burns evenly without adding odor.
+> **Direct answer:** In the 君臣佐使 (chief–minister–assistant–guide) scheme of 合香, 白及 occupies the 使 or "guide" position. That label describes function, not status: the guide carries structure and delivery, while the chief materials carry the scent.
 
-For the reader, 白及 is judged by **function, not fragrance**: the dried tuber should be clean and firm, and it should release strong mucilage when pounded or soaked and mixed with water. The practical tests are how well the resulting paste forms and holds an incense shape, and whether the finished incense burns evenly without the binder imposing any scent. In modern incense, makko wood powder and other natural binders often serve the same role — 白及 is the classical Chinese answer to the same functional requirement.
+The 君臣佐使 framework is usually translated as chief, minister, assistant, and guide, and the military metaphor invites a misreading — as if the guide were the lowest-ranking ingredient, the one you add when you have nothing better. In practice the four roles are different jobs in one system. The 君 (chief) defines the fragrance. The 臣 (minister) supports and extends it. The 佐 (assistant) corrects, softens, or balances. The 使 (guide) does the work of delivery: it carries the blend into its physical form and governs how the material behaves in use.
 
-## Common forms
+白及 is a 使 material in the most literal sense. It does not modify the scent; it makes the scent possible as a solid object. A formula with a beautiful 君 accord and no 使 component is a pile of powder and a good intention. That is not a poetic point — it is the everyday failure mode of beginner incense making, where the aromatic idea is sound and the object never forms.
 
-> **Direct answer:** Bletilla is traded as the dried whole tuber and as a ground powder, and it is used as a prepared mucilage paste. The tuber and powder are the raw forms; the paste is the working form that binds the incense during forming.
+The label also tells you what not to expect. Because 白及 is a 使, there is no such thing as a "top-note bletilla" or a "bletilla-forward" blend. If a supplier markets the material on aroma, they are selling you something else, or they are selling you the wrong story about the right material.
 
-| Form | Typical use |
-|---|---|
-| Dried tuber | Raw material, pounded/soaked to make paste |
-| Ground powder | Convenient form for mixing |
-| Mucilage paste (白芨作糊) | The working binder during incense forming |
+## From tuber to working paste
 
-The forms are stages of one functional material — the dried tuber ground or pounded into a paste that binds the powders.
+> **Direct answer:** Processing is a short, physical sequence: clean and dry the tuber, reduce it to powder, wet it to release the mucilage, and work the resulting paste into the aromatic powder before forming. There is no fermentation, distillation, or aromatic extraction step, because there is no aroma to extract.
 
-## In Chinese tradition
+| Stage | What happens | What goes wrong |
+|---|---|---|
+| Cleaning | Soil and root fibre removed from the tuber | Grit survives into the powder and shows as ash specks |
+| Drying | Tuber dried hard enough to grind | Under-dried tuber turns mouldy in storage |
+| Milling | Tuber reduced to a fine powder | Coarse powder hydrates slowly and binds unevenly |
+| Wetting | Water added; mucilage hydrates and thickens | Cold water and short soaking leave lumps |
+| Resting | Paste stands so the gum fully hydrates | Paste used immediately is weak and stringy-thin |
+| Mixing | Paste folded into the aromatic powder | Uneven distribution gives soft and brittle zones |
+| Forming | Extruded, pressed, or hand-rolled | Paste too stiff tears; too loose slumps |
+| Drying | Slow, even moisture loss | Fast drying cracks and warps the piece |
 
-- **合香 binder:** 白及 is the classical adhesive of blended incense — pounded or soaked into a mucilage that binds loose powders into sticks, cakes, and pills that hold their shape and burn evenly. The 香乘 (Xiang Cheng) recipes specify 白及 paste (白芨作糊) to form the incense into cakes.
-- **A functional role:** in the chief–minister–assistant–guide structure of 合香, 白及 is a *guide* (使) material — it binds and directs the blend rather than contributing a scent.
-- **Materia medica:** 白及 is recorded in traditional Chinese medicine (本草綱目, 草部). This is **traditional materia-medica language, not modern clinical evidence.**
+The single most common processing mistake is impatience at the wetting stage. Mucilage does not hydrate instantly and evenly; powder dropped into water tends to form a dry core inside a slick shell, and the lumps are difficult to remove once formed. The practical fix is the same one used for any hydrocolloid: add the powder to water gradually, or make a smooth slurry first, then let the paste stand so the gum can finish taking up water.
 
-## Traditional use vs modern evidence
+The second mistake is treating the paste as a liquid ingredient rather than as a structural one. You are not flavouring the mix; you are building a composite. That means the amount of water matters as much as the amount of powder, because water is what carries the polymer to every particle surface. A dry mix with too little water binds only where the paste happens to touch, and the resulting stick has hard and soft zones that behave differently as the ember passes.
 
-> **Direct answer:** The binder use of 白及 is documented in the classical recipe record (白芨作糊 in the 香乘). Medicinal uses are traditional, not established clinical fact, and no medical claims are made. The documented, non-medical facts are the botanical identity, the mucilage binder role, and the functional (not aromatic) place of 白及 in 合香.
+## What separates good bletilla from poor bletilla
 
-- **Traditional Use** — 白及 as the 合香 binder, forming loose powders into sticks, cakes, and pills.
-- **Historical Record** — the 香乘 (Xiang Cheng) recipes specify 白及 paste (白芨作糊) to form incense; 白及 is recorded in the 本草綱目 草部.
-- **Scientific Evidence** — the botanical identity (*Bletilla striata*, Orchidaceae) and the mucilage binder mechanism are established. No clinical or medical efficacy claims are presented.
+> **Direct answer:** Grade bletilla on binding behaviour, not on looks or smell. The useful tests are how cleanly the tuber powders, how strongly the paste thickens, how well it holds a formed shape, and whether the finished stick burns evenly without an off note.
 
-The binder use is documented in the classical recipe record. Medicinal uses are **traditional**, not established clinical fact, and we make **no medical claims**. The documented, non-medical facts are botanical identity, the mucilage binder role, and the functional (not aromatic) place of 白及 in 合香.
-
-## Quality notes
-
-Practical points:
-
-- Dried bletilla tuber should be clean and firm; the mucilage is released when it is pounded or soaked and mixed with water.
-- 白及 is a *binder*, not a fragrance — judge it by how well it forms and holds an incense shape, not by scent.
-- In modern incense, makko wood powder and other natural binders often serve the same role; 白及 is the classical Chinese answer.
-
-## Bletilla vs other binders
-
-> **Direct answer:** Bletilla, makko wood powder, and honey all play the binder's functional role — holding powders together — but from different sources. Bletilla is an orchid-tuber mucilage, makko is a wood powder from the *Machilus*/tabu tree, and honey is a sweet viscous binder. Bletilla is the classical Chinese choice.
-
-| | Bletilla (白及) | Makko (wood powder) | Honey |
+| Grade signal | Strong material | Weak material | Why it matters |
 |---|---|---|---|
-| Source | Orchid tuber mucilage | Wood powder (*Machilus* / tabu) | Bee-produced sweet binder |
-| Role in blend | Guide (使) binder | Binder and mild burner | Binder and sweetener |
-| Classical status | Classical Chinese 合香 binder | Japanese-inspired / modern | Classical Chinese binder |
+| Tuber body | Firm, dense, heavy for its size | Spongy, light, hollow-feeling | Density tracks storage reserves and mucilage content |
+| Cut surface | Even, pale, slightly glossy | Powdery, discoloured, insect-bored | Blemishes travel into the powder |
+| Powder | Fine, free-flowing, faintly starchy | Coarse, clumped, musty | Coarse powder hydrates unevenly |
+| Paste | Slick, cohesive, slightly stringy | Watery, grainy, or gluey-stiff | Cohesion predicts shape retention |
+| Formed piece | Holds an edge, resists a thumbnail | Crumbs at the edge, sags | Direct read on binder strength |
+| Burn | Steady ember, pale ash, no binder note | Stalling ember, dark ash, starchy smell | Binder load or quality is off |
 
-The three are functional equivalents — binders that hold a blend and burn cleanly — chosen by tradition and availability. See [natural binders in incense](/blog/makko-natural-binders/) and [beeswax](/ingredients/beeswax/).
+Start with the paste, because it is the cheapest test and the most informative. A good bletilla paste feels slick between the fingers and pulls into a short, soft thread when you lift them apart. It should not feel like wallpaper paste — that flat, gluey texture usually means the material is thickening but not binding, and it will dry into a brittle film.
 
-## Summary
+Then test the formed piece, not the raw material. Press a small amount of bound powder into a thumbnail-sized cake, let it dry overnight, and try to break it. A cake that snaps cleanly with a slight resistance is right. One that crumbles is under-bound; one that bends like leather is over-bound and will burn poorly.
 
-Bletilla (白及) is the mucilaginous tuber of the orchid *Bletilla striata*, the classical Chinese 合香 binder. Its water-soluble mucilage forms a gum that binds loose incense powders into sticks, cakes, and pills, and it is valued for function rather than fragrance — it binds and burns cleanly without imposing a scent. In the 君臣佐使 structure it is a guide (使) material, the functional counterpart to the fragrant chief materials.
+The burn test comes last and settles the argument. A well-bound stick should hold its ember without repeated relighting, produce pale grey ash that keeps its shape, and add nothing to the smell. A starchy or biscuit note in the smoke is the signature of too much binder or of a binder that never fully dried.
+
+## The forms it is sold in
+
+> **Direct answer:** Bletilla moves through the trade as whole dried tuber, as sliced or broken pieces, as powder, and as a prepared paste. The tuber and the powder are raw materials; the paste is the working state, and it is usually made fresh because it does not keep.
+
+| Form | How it is used | Storage reality |
+|---|---|---|
+| Whole dried tuber | Pounded or soaked at the bench | Keeps for a long time if genuinely dry |
+| Sliced or broken tuber | Faster soaking, easier milling | More surface area, so it picks up moisture |
+| Ground powder | Direct addition to the paste or the mix | Hygroscopic; clumps in humid weather |
+| Prepared paste | The working binder during forming | Short-lived; sours and moulds if left out |
+
+Buying powder is convenient and buying whole tuber is more informative. Whole tubers let you check density, cut surface, and smell before committing, and they store better because the interior is protected. Powder saves a milling step but hides everything: you cannot tell a dense tuber from a spongy one once both are flour.
+
+Paste should be treated as a bench-made intermediate, not a stock item. It is a wet polysaccharide gel with no preservative role in the formula, and it will spoil. Make what you need for the day's batch, and do not carry a bucket of it into next week.
+
+## Buying: the questions a bletilla spec should answer
+
+> **Direct answer:** A useful bletilla specification names the species, the plant part, the physical form, the moisture condition, and the binding behaviour the buyer expects. Anything less leaves the most important property — whether the powder will hold a shape — untested until the batch is already on the bench.
+
+Most material specifications are written for materials whose value is chemical: purity, assay, volatile content. A binder resists that format, because its value is rheological. It is worth asking for the properties that actually predict performance, even when the supplier has to describe them in plain language rather than quote a certificate.
+
+| Question | Why it changes the purchase |
+|---|---|
+| Which species, and which part? | *Bletilla striata* tuber is the material; leaf, stem, or a different orchid is not |
+| Whole, sliced, or powdered? | Powder is convenient but hides density, blemish, and insect damage |
+| How was it dried? | Slow drying preserves the mucilage; scorched tuber pastes poorly |
+| What is the powder fineness? | Fine powder hydrates evenly; coarse powder gives lumpy paste |
+| How does a test paste behave? | The single best predictor of shape retention |
+| Is the material cultivated? | An agronomy question, not a quality grade, but part of the supply story |
+| How is it packed and stored? | Hygroscopic powder needs a moisture barrier, not just a bag |
+
+The pattern to notice is that only two of these questions can be answered by looking at the goods. The rest are process questions, and process is where binder quality is decided. A supplier who can describe drying and milling practice is telling you more than one who can only quote a price per kilo.
+
+For a buyer, the practical significance is simple: the cheapest way to evaluate bletilla is to request a small sample, make a paste, form one cake, dry it overnight, and break it. That test costs a day and answers the question that matters. No document substitutes for it, and no photograph of clean white tubers proves it.
+
+## Binder comparison: what else can do this job
+
+> **Direct answer:** Bletilla is one of several ways to bind an incense blend, and the alternatives differ in how much scent they add, how they behave during drying, and how they burn. Makko, honey, and wheat paste all bind; only bletilla is classically Chinese, neutral, and formulated as a paste rather than a syrup.
+
+| | Bletilla (白及) | Makko (wood powder) | Honey | Wheat paste (面糊) |
+|---|---|---|---|---|
+| Source | Orchid tuber mucilage | *Machilus* / tabu wood powder | Bee product | Cooked wheat starch |
+| How it binds | Hydrated gum films between particles | Fibrous powder plus its own resin | Sugar syrup glues and plasticises | Gelatinised starch |
+| Scent contribution | Essentially none | Woody, faintly sweet, noticeable at high load | Sweet, caramelised when heated | Starchy, biscuit-like |
+| Burn behaviour | Neutral; excess load slows the ember | Burns as part of the fuel bed | Can hiss and smoke if wet | Can smell of toast |
+| Typical role | Classical Chinese binder | Japanese-style binder and base | Binder and humectant | Cheap bulk binder |
+| Main risk | Over-binding, cracking on fast drying | Changes the base note | Attracts moisture, ferments | Off-odour, brittle when dry |
+
+The comparison is not a ranking. Makko is not a worse bletilla; it is a different design decision, and a Japanese-style stick built on makko is not trying to be a Chinese 合香 cake. The point of the table is that "binder" is a role with several implementations, and the implementation you choose sets the base note, the burn, and the failure modes of the whole product.
+
+Honey deserves a separate warning because it is the most seductive of the four. It binds beautifully, it smells pleasant on its own, and it makes a paste that feels wonderful under the fingers. It also holds water, which means a honey-bound piece can stay soft in the middle while the surface looks dry, and a soft middle is a stick that will not burn cleanly. See [beeswax](/ingredients/beeswax/) for the other bee-derived material that appears in incense work, and [natural binders in incense](/blog/makko-natural-binders/) for the wider comparison.
+
+For a substitution decision, work from the constraint rather than from habit. If the formula must stay scent-neutral, bletilla or a refined makko is the shortlist. If the formula is Japanese in style and the base note is part of the design, makko is the right call. If the goal is a soft, sweet, low-cost product and the burn can tolerate it, honey or wheat paste may do — with the off-note risk priced in.
+
+## When the binder is the problem: a diagnostic table
+
+> **Direct answer:** Most "bad batch" symptoms trace back to binder load, water content, or drying speed rather than to the aromatic materials. Reading the symptom correctly saves you from reformulating the fragrance when the fault is in the paste.
+
+| Symptom | Most likely cause | What to change |
+|---|---|---|
+| Stick snaps in the box | Under-bound, or dried too fast | Raise binder slightly; slow the dry |
+| Stick bends and will not snap | Over-bound, water still trapped | Cut binder; extend drying |
+| Cracks along the length | Surface dried before the core | Humid drying room, slower airflow |
+| Crumbs at the edges of a cake | Uneven paste distribution | Mix longer; wet the powder first |
+| Ember keeps going out | Binder load too high, or piece too dense | Reduce binder; loosen the pack |
+| Harsh, acrid smoke | Binder or aromatic scorching | Check moisture; check draw |
+| White bloom on the surface | Salts or sugars migrating as water leaves | Accept for rustic goods; control drying |
+| Musty smell in storage | Piece not fully dry before packing | Dry to constant weight; seal dry |
+
+Two of these deserve emphasis because they are routinely misdiagnosed. Cracking is almost never a sign of weak binder — it is a sign of a moisture gradient, and adding more binder to stop it usually produces a stick that cracks less and burns worse. An ember that keeps dying is often blamed on the aromatic woods when the real cause is a dense, over-bound rod that cannot pass heat from the ember to fresh material.
+
+The diagnostic habit worth building is to change one variable at a time and to keep the aromatic formula fixed while you do it. If you change the binder and the fragrance together, you learn nothing about either.
+
+## Drying, cracking, and the physics of a bound stick
+
+> **Direct answer:** A bound stick fails at the drying stage for a physical reason: the outside loses water before the inside does, so the skin shrinks onto a core that is still swollen. The resulting stress shows up as cracks, warping, or a hard shell around a soft centre.
+
+The chain runs like this:
+
+**Wet stick → surface water evaporates first → outer layer shrinks → core remains swollen → tensile stress builds at the skin → a hairline crack opens → the crack runs along the piece.**
+
+Nothing in that sequence involves the fragrance. It is a shrinkage mismatch, and it is the same problem ceramics solve with slow drying and controlled humidity. Incense makers solve it the same way: keep the air still, keep the room cool, and let the piece lose water slowly enough that the core can follow the skin.
+
+A second chain governs how the piece burns once it is dry:
+
+**Excess mucilage → particles packed in a continuous gum matrix → fewer open pores → heat cannot advance through the rod → the ember stalls → relights and uneven burn.**
+
+That is why "more binder" is not a safe default. Binder buys strength and costs porosity, and a stick needs both. The art is finding the smallest amount of gum that holds the shape, not the largest amount the powder will accept.
+
+There is a practical corollary for anyone drying in a hurry. Heat and airflow both accelerate surface drying, which is exactly what you do not want in the first hours. A warm, still room with moderate humidity and a light cover is faster in total than a hot, draughty one, because it avoids the cracks that force you to start again.
+
+## Smoke, safety, and what a binder cannot fix
+
+> **Direct answer:** Bletilla does not make incense smoke safer. Any burning aromatic material produces smoke and fine particulate matter, and the correct practice is ventilation, moderation, and keeping burning incense away from children, pets, and sleeping areas.
+
+A binder is a structural additive, not a filtration system. The smoke from a stick is produced by the combustion of the whole matrix, and adding 白及 changes the physical form of the fuel, not the chemistry of what leaves it. Burn incense in a ventilated room, keep the source away from anything that can catch, and do not treat a well-bound stick as a cleaner-burning one.
+
+The tuber itself should be handled as a workshop material rather than a food or a medicine. It is not a culinary starch, it is not a supplement, and it should not be ingested on the strength of a traditional reputation. Keep powders out of the air when milling, store them sealed and labelled, and keep both powder and paste out of reach of children and pets.
+
+One more boundary: a binder cannot rescue a formula whose aromatic load is wrong. If a blend smells thin, the answer is in the aromatic materials, not in more paste. Adding binder to a weak formula produces a firm, well-shaped, still-thin incense — a more expensive version of the original problem.
+
+## The classical record and where it stops
+
+> **Direct answer:** The documented classical use is as a 合香 adhesive: 香乘 (Xiang Cheng) recipes specify 白芨作糊, bletilla paste, to form incense into cakes, and 白及 appears in the materia medica. That is a record of use, not a body of clinical evidence.
+
+The recipe citation is the part that matters for incense. 白芨作糊 is a working instruction, not a symbolic one: make a paste of bletilla and use it to bring the aromatic powders together. It tells you that the material's role was settled long before anyone wrote a specification sheet, and it explains why the tuber survived in the toolkit while many more glamorous aromatics fell out of use.
+
+The materia medica citation is a different kind of claim. 白及 is recorded in 本草綱目 (Bencao Gangmu), in the herb section, and entries of that kind describe taste, properties, and applications in the language of their period. Read those applications as **traditional belief**, not as clinical evidence. The language is historically important and it is not a modern clinical claim; we do not convert it into health claims, and a page about incense is the wrong place to try.
+
+What the record does not tell you is anything quantitative. There is no classical ratio, no moisture specification, no drying schedule, and no grade standard that maps onto a modern purchase order. Those have to come from bench practice and from the supplier's own conformance data, which is why the practical sections of this page carry more weight than the historical ones for anyone actually buying material.
+
+## Four things readers get wrong
+
+> **Direct answer:** The recurring errors are treating bletilla as a fragrance, confusing it with 白芷, assuming more binder means a better stick, and reading a classical citation as a health claim. Each one is easy to correct once the material's function is clear.
+
+**Misconception one: "it must smell of something, or it would not be in an incense."** The opposite is true. A material that smelled strongly would be a liability in the binder slot, because it would add an uncontrolled note to every formula that used it. 白及 is in the formula because it can be present without being heard.
+
+**Misconception two: 白及 and 白芷 are the same thing.** They are not, and the confusion is worth spelling out because both are "bai" roots that appear in incense texts. 白芷 (*Angelica dahurica*) is an aromatic root with a sharp, warm, medicinal scent; it is a fragrance material. 白及 is a scentless mucilaginous tuber; it is a binder. 白檀 is a third trap — it means white sandalwood, a fragrant wood sold by the log.
+
+| Name | Material | Family | Role in incense |
+|---|---|---|---|
+| 白及 / 白芨 | *Bletilla striata* tuber | Orchidaceae | Binder, no scent |
+| 白芷 | *Angelica dahurica* root | Apiaceae | Aromatic, warm and sharp |
+| 白檀 | *Santalum album* wood | Santalaceae | Aromatic heartwood |
+
+**Misconception three: a harder stick is a better stick.** Hardness is easy to measure and easy to over-buy. What a stick needs is enough cohesion to survive handling and enough porosity to burn; past that point, extra binder is a defect dressed as quality. The judgment boundary is simple — if you cannot break the stick cleanly with your hands, it is probably over-bound.
+
+**Misconception four: because 白及 is in the materia medica, incense made with it is medicinal.** It is not. Burning plant material produces smoke, smoke is a respiratory irritant, and no binder changes that. Traditional standing is not a safety claim and not an efficacy claim.
 
 ## FAQ
 
-**What is bletilla (白及)?** The dried tuber of *Bletilla striata*, a terrestrial orchid native to East Asia. It is a classical Chinese incense binder: its tuber is rich in water-soluble mucilage, which forms a natural gum that holds incense powders together. It is valued for function, not fragrance — it binds and burns without imposing its own scent.
+> **Direct answer:** Identity, cracking, substitution, and binder load account for most of the questions this material raises.
 
-**Why is bletilla used in incense?** Because its mucilage is a natural adhesive. When the tuber is pounded or soaked and mixed with water, it forms a gum that binds loose fragrant powders into sticks, cakes, and pills that hold their shape and burn evenly. It is the classical glue of Chinese 合香, and the 香乘 (Xiang Cheng) recipes specify 白及 paste to form the incense. See [how the 合香 blending system works](/blog/hexiang-blending-system/).
+**Is bletilla the same as the 白芨 in old recipe books?** Yes. 白及 and 白芨 are two ways of writing the same name for the tuber of *Bletilla striata*, and classical recipe collections use both. The character variant is orthographic, not botanical — you are looking at the same orchid either way.
 
-**Does bletilla add a scent to incense?** No — it is a binder, not a fragrance. Its dried tuber has a neutral, faintly sweet, earthy, starchy character that contributes almost no scent when burned. That is the point: it holds the fragrant powders together without imposing its own note, the same functional logic as makko wood powder and honey. See [natural binders in incense](/blog/makko-natural-binders/).
+**Why does my bletilla-bound incense crack as it dries?** Almost always because the surface lost water faster than the core. The skin shrank onto a still-swollen interior, and the stress opened a crack. Slow the drying: still air, moderate humidity, no direct heat, and no fan pointed at fresh pieces.
 
-**What part of the bletilla plant is used?** The tuber — the underground storage organ of *Bletilla striata*. It is rich in mucilage, which is released when the tuber is pounded or soaked and mixed with water. The tuber is the part that matters, not the leaves or the flowers.
+**Can I use bletilla instead of makko in a Japanese-style stick?** You can bind with it, but you will not get the same product. Makko is part of the aromatic base in Japanese work and contributes a faint woody sweetness; bletilla contributes nothing to the scent. A substitution changes the base note even when the visible result looks similar.
 
-**How does bletilla relate to other incense binders?** It is the classical Chinese binder, playing the same functional role as makko wood powder and honey in the East Asian incense tradition. In the chief–minister–assistant–guide (君臣佐使) structure of 合香, it is a guide (使) material — it binds and directs the blend rather than contributing a scent. Modern incense often uses makko or other natural binders in its place.
+**Does a higher binder ratio make a stronger incense?** It makes a harder piece and, past a point, a worse-burning one. Cohesion and porosity trade against each other, so the target is the minimum binder that holds the shape, not the maximum the powder will take.
 
-**How is bletilla quality?** By function, not scent: a clean, firm tuber that releases strong mucilage when pounded and soaked, producing a paste that holds a shape firmly and burns evenly without adding odor. It is a functional spec — mucilage yield and burn behavior — not an aesthetic one.
-
-See also: [sandalwood](/ingredients/sandalwood/), [beeswax](/ingredients/beeswax/), the [合香 blending system](/blog/hexiang-blending-system/), [natural binders in incense](/blog/makko-natural-binders/), and the full [scent guide](/blog/scent-guide/).
-
-## Evidence & Sources
-
-### Botanical identity
-**Source:** [Bletilla striata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535) · [Bletilla striata on GBIF](https://www.gbif.org/species/2808791). **Evidence type:** Established.
-
-### Traditional Chinese use
-**Source:** 白及 as the 合香 binder — bletilla paste (白芨作糊) specified in 香乘 (Xiang Cheng) recipes to form incense into cakes; 白及 in the 本草綱目 草部. **Evidence type:** Historically documented — binder use; medicinal uses are traditional, not modern clinical evidence.
-
-### Authenticity / disambiguation
-**Source:** 白及 (*Bletilla striata*, orchid tuber binder) as a functional binder, not a fragrance — distinct from fragrant woods, roots, and resins. **Evidence type:** Practical screening.
-
-### Safety
-**Source:** incense combustion produces smoke and particulate matter; burn in a well-ventilated space. **Evidence type:** Established.
+**Is bletilla a fragrance material?** No. It is a functional binder with a faint starchy, earthy smell that disappears in the burn. If you want a fragrance, you are looking for an aromatic wood, root, or resin, not for this tuber.
 
 ## Evidence status
 
-| Layer | Status |
-|---|---|
-| Botanical identity | Established |
-| Traditional use | Historically documented (binder) |
-| Authenticity test | Practical screening |
-| Health claims | Not established |
+> **Direct answer:** The botanical identity and the binder mechanism are established; the classical use is documented; health claims are not established.
+
+| Layer | Status | What that means here |
+|---|---|---|
+| Botanical identity | Established | *Bletilla striata*, Orchidaceae, tuber |
+| Binder mechanism | Established | Mucilage hydrates, films, and holds particles |
+| Classical recipe use | Historically documented | 白芨作糊 in 香乘 |
+| Materia medica entry | Traditional | Recorded use, not clinical evidence |
+| Health claims | Not established | No medical claims are made |
+| Combustion safety | Established risk | Smoke and particulate matter |
 
 ## Sources
+
+> **Direct answer:** Two floristic databases carry the botanical claim, and the historical claim rests on the classical recipe and materia medica record.
+
+Both links lead to a reference page a reader can check directly, which is the point: the species determination and the family placement should be verifiable without trusting this page.
 
 - [Bletilla striata in Flora of China](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535)
 - [Bletilla striata on GBIF](https://www.gbif.org/species/2808791)
 
-*Sources: botanical references on *Bletilla striata* and the 白及 binder role in 合香 (白芨作糊 in the 香乘). Bletilla is recorded as a functional binder; medicinal uses are treated as traditional, not established clinical fact. This is editorial knowledge content, not medical advice.*
+*Source note: the botanical references establish the species and its family placement; the 香乘 (Xiang Cheng) recipe line 白芨作糊 and the 本草綱目 (Bencao Gangmu) herb-section entry establish the historical use. Traditional medicinal language is reported as tradition, not as clinical evidence. This page is editorial knowledge content about incense materials, not medical advice.*
+
+## Related Resources
+
+> **Direct answer:** The pages worth reading next cover the blending framework, the binder alternatives, and the fragrant materials that sit in the chief slot.
+
+For the blending framework that gives 白及 its 使 role, see [how the 合香 blending system works](/blog/hexiang-blending-system/). For the wider binder question, [natural binders in incense](/blog/makko-natural-binders/) compares the alternatives. The fragrant materials that usually sit in the chief slot have their own entries — [sandalwood](/ingredients/sandalwood/) and [agarwood](/ingredients/agarwood/) — and [beeswax](/ingredients/beeswax/) covers the other classical waxy binder. New readers may want the [scent guide](/blog/scent-guide/) before diving into formulation.
+
+## Summary
+
+> **Direct answer:** Bletilla is a scentless structural material — the orchid tuber that turns aromatic powder into a burnable object.
+
+Bletilla (白及) is the mucilaginous tuber of the orchid *Bletilla striata*, and its whole reason for being in a censer is structural. Hydrated mucilage coats aromatic particles, sets into a film as the water leaves, and holds a stick, coil, or cake in shape without adding a note to the fragrance. In the 君臣佐使 scheme it is a 使 (guide) material — the delivery layer rather than the scent layer. Judge it by paste behaviour, shape retention, and burn quality; buy it as a functional specification rather than as an aromatic, and remember that a binder can make a formula buildable but cannot make it smell better.
