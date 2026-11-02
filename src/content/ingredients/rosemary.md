@@ -13,7 +13,6 @@ last_reviewed: "2026-09-27"
 related: ["bay-leaf", "mint"]
 ---
 
-
 **Direct answer:** Rosemary (迷迭香, mídiéxiāng) is the aromatic shrub *Salvia rosmarinus*, long listed as *Rosmarinus officinalis*, a Mediterranean member of the mint family grown for its needle-like leaves. In incense it works as a dry, camphoraceous top note rather than a base, and its Chinese record is a single narrow thread: an imported court curiosity of the third century, not a workshop staple.
 
 <img src="/images/rosemary-raw-material-800x533.webp" alt="Raw Rosemary (Salvia rosmarinus (syn. Rosmarinus officinalis)) material, editorial still life" width="800" height="533" loading="lazy">

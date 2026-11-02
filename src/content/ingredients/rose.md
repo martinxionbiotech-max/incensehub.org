@@ -13,7 +13,6 @@ last_reviewed: "2026-09-27"
 related: ["jasmine", "osmanthus"]
 ---
 
-
 **Direct answer:** Rose (玫瑰, méiguī) is the flower of *Rosa* species — in Chinese tea and materia medica, nearly always *Rosa rugosa*, the wrinkled-leaved coastal shrub, not the florist's 月季. It reaches incense in three unrelated forms: dried bud or petal powder, a distilled extract that costs more per gram than almost anything else on the bench, and the reconstructed accord that most commercial "rose" sticks actually contain. Which of the three a label means is the first question worth asking.
 
 <img src="/images/rose-raw-material-800x533.webp" alt="Small dried rose buds in a ceramic dish." width="800" height="533" loading="lazy">
@@ -149,7 +148,7 @@ The bud and the petal are not grades of the same thing. A bud is a whole flower 
 
 **Enfleurage.** Cold fat absorbs the scent from fresh petals laid on glass plates, and the pomade is later washed with alcohol. The method is slow, labour-heavy, and largely obsolete outside artisanal perfumery, but it remains the gentlest route and produces a remarkably fresh profile.
 
-**Hydrosol.** The distillation water is not a by-product to be thrown away. In Iran, Turkey, and South Asia it is a food ingredient — stirred into sweets, sherbets, and rice dishes. In Chinese commerce, 玫瑰花水 more often labels a cosmetic preparation than a culinary hydrosol, so the word alone is not a specification. A buyer needs to know which one is in the bottle.
+**Hydrosol.** The distillation water is not a by-product to be thrown away. In Iran, Turkey, and South Asia it is a food ingredient — stirred into sweets, sherbets, and rice dishes. In Chinese commerce, 玫瑰花水 is often used to label a cosmetic preparation rather than a culinary hydrosol, so the word alone is not a specification. A buyer needs to know which one is in the bottle.
 
 ## Rose in a burning stick
 
