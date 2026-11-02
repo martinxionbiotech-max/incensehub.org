@@ -10,8 +10,6 @@ last_reviewed: "2026-09-22"
 brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
-
-
 **Direct answer:** Cutting and milling are two exits from the same room. A block of resin-loaded heartwood either leaves as pieces destined for a warm plate, or as grains destined for a mixing tray — and the choice is made on commercial grounds long before it reaches you. Whole pieces belong to the practice of attending to a single material (品香). Grains belong to the practice of building a formula (制香). Once you know which of those two you are doing, the rest of the buying question collapses into a short list of things to check.
 
 
@@ -44,33 +42,21 @@ Note where the logic ends: at what can be proven, not at what is best. That is t
 
 ---
 
-## Chips: the form built for attention
-
-**Direct answer:** A chip is the only form that lets agarwood do what it is famous for — change character as it heats, in stages, over a sitting.
+## Chips: Attention, and a First Session
+**Direct answer:** A chip is the only form that lets agarwood change character as it heats, in stages, over a sitting — and a first attempt usually fails on too much heat or too much material.
 
 What makes a piece interesting is a race between heat and depth. Put a sliver on a warm plate and only its skin is hot at first; the scent that reaches you is whatever boils off easiest — the light, sweet, occasionally floral fraction. Keep the heat on and the warmth creeps inward. Deeper resin begins to move, and the register drops: heavier, more balsamic, sometimes with a bitter or medicinal edge. By the end there is nothing volatile left, and what you smell is dry wood and a trace of smoke.
 
-That progression only exists because the object has an inside. A whole piece offers a small hot face and a large cool middle, so the release is staggered by simple physics:
+That progression exists because the object has an inside. A whole piece offers a small hot face and a large cool middle, so the release is staggered by simple physics: warmth touches the outside only → the outer resin leaves early → heat needs time to travel → the inner resin leaves late → your nose gets three distinct phases instead of one. Reduce the same wood to grains and the geometry reverses: nearly every particle is surface, so the whole charge arrives at temperature together and delivers everything in one long push. For a manufacturer that is a feature; for someone listening to a material, it is a performance that ends before it begins.
 
-warmth touches the outside only → the outer resin leaves early → heat needs time to travel → the inner resin leaves late → your nose gets three distinct phases instead of one.
+Set up before you light anything: a heatproof dish, a bed of fine ash if you use charcoal, a plate or mica sheet above it, tweezers, and somewhere for the spent piece. Start cool. Put one small sliver on the plate and let it sit for a minute or two before expecting anything. Good material gives scent well below any temperature that produces smoke, and the first note is usually light, sweet and slightly floral. If nothing happens, raise the heat a little and wait again. The mistake is chasing the first note with a big turn of the dial, which pushes the piece past its useful range and produces the one thing you cannot undo: char.
 
-Reduce the same wood to grains and the geometry reverses. Nearly every particle is surface, so the whole charge arrives at temperature almost together and delivers everything it has in one long push. For a manufacturer that is a feature. For someone listening to a material, it is a performance that ends before it begins.
+Watch for change rather than strength. A piece that is working moves through its stages over ten or twenty minutes, becoming deeper and more balsamic as heat penetrates. A piece that is not working smells roughly the same at every temperature and then turns acrid — a sign of treatment rather than stubbornness.
 
-Heat arrives from above, never from a flame. The old arrangement beds charcoal in sifted ash, sets a plate or a sheet of mica over it, and lays the specimen on top: conduction and radiant warmth do the work, and the material never touches fire. A modern heater replaces the charcoal with a dial and keeps everything else. [Indirect-fire setup](/blog/gehuo-fenxiang-setup/) shows the apparatus; the rule to carry away is that agarwood is warmed and never lit.
+Know when to stop. When the note flattens and the smoke smells of scorched wood rather than resin, the piece is finished; what remains is charcoal and cellulose. Lift it off, let the plate cool, and wipe it before the next session. The piece never touches fire, which is the entire discipline of the method. [Indirect-fire incense](/blog/gehuo-fenxiang-setup/) covers the apparatus.
+
 
 ---
-
-## Warming a chip: a first session
-
-**Direct answer:** The first attempt usually fails in one of two ways — too much heat, or too much material — and both are correctable in a minute.
-
-Set up before you light anything. A heatproof dish, a bed of fine ash if you are using charcoal, a plate or a mica sheet to sit above it, tweezers, and somewhere to put the spent piece. If you are using an electric heater, the setup is a dial and a plate; the rest of the sequence is the same.
-
-Start cool. Put one small sliver on the plate and let it sit for a minute or two before you expect anything. Good material will begin to give scent at a temperature well below anything that produces smoke, and the first note is usually light, sweet and slightly floral. If nothing happens, raise the heat a little and wait again. The mistake to avoid is chasing the first note with a big turn of the dial, which pushes the piece past its useful range and produces the one thing you cannot undo: char.
-
-Watch for the change rather than the strength. A piece that is working will move through its stages over ten or twenty minutes, becoming deeper and more balsamic as the heat penetrates. A piece that is not working will smell roughly the same at every temperature and then turn acrid — a sign of treatment rather than of a stubborn material.
-
-Know when to stop. When the note flattens and the smoke begins to smell of scorched wood rather than resin, the piece is finished; the remainder is charcoal and cellulose. Lift it off, let the plate cool, and wipe it before the next session. Ash beds are for the charcoal, not for the piece — the piece never touches fire, and that is the entire discipline of the method. [Indirect-fire incense](/blog/gehuo-fenxiang-setup/) covers the apparatus in detail.
 
 ## Powder: the form built for distribution
 
@@ -104,27 +90,17 @@ Those final two rows carry the commercial weight. A piece fails in public — a 
 
 ---
 
-## What the form does to authentication
+## What Grinding Costs
+**Direct answer:** Grinding destroys two things at once — the piece's identity and its aromatic top — and what remains can be screened only by specification, comparison and paperwork.
 
-**Direct answer:** Chips can be screened by eye and by nose; powder can only be screened by specification and comparison, which is a weaker kind of evidence.
+Start with the piece, because that is where evidence is richest. Genuine resin-bearing heartwood shows dark, irregular veining against paler fibre, and the distribution is never tidy: resin follows the injury that produced it, so it pools, streaks and thins. Weight is a rough proxy for resin load, and the water test formalises it — a piece dense enough with resin displaces more than its own weight and sinks. Warmth is the most informative check, because a real piece changes as it heats while a treated one tends to deliver one flat note, often with a burnt or chemical edge.
 
-Start with the piece. Genuine resin-bearing heartwood shows dark, irregular veining against paler fibre, and the distribution is never tidy — resin follows the injury that produced it, so it pools, streaks and thins. Weight is a rough proxy for resin load, and the familiar water test formalises it: a piece dense enough with resin displaces more than its own weight and sinks. Warmth is the third check, and the most informative, because a real piece changes as it heats while a treated one tends to deliver one flat note, often with a burnt or chemical edge.
+Grinding erases all of it. There is no grain to follow, no shape whose weight means much, and no whole piece to warm twice. What is left is paperwork and comparison: whether the supplier will state a sieve and a moisture, whether the lot looks and feels the same from the top of the bag to the bottom, whether a sample burns like the reference burned, and whether the price is coherent with the claim. Only a laboratory identifies composition rather than inferring it, and most buyers never send a sample anywhere.
 
-A ground lot has none of that. There is no grain to follow, no shape whose weight means much, and no whole piece to warm twice. What is left is paperwork and comparison: whether the supplier will state a sieve and a moisture, whether the lot looks and feels the same from the top of the bag to the bottom, whether a sample burns like the reference burned, and whether the price is coherent with the claim. Only a laboratory can identify composition rather than infer it, and most buyers never send a sample anywhere.
+The aromatic loss is less discussed. Grinding exposes an enormous amount of fresh surface to air, and the most volatile fraction begins to leave immediately. A freshly milled lot smells vivid and slightly sharp; the same lot after months in an open container smells flatter, and the first thing to go is the bright, floral top that makes good agarwood interesting. That is why serious workshops buy powder in quantities they will use, keep it sealed, and treat the milling date as part of the specification. Heat adds a third, quieter cost: mills generate friction, and a fast grind warms the material more than a slow, cool one, which is part of why small-batch powder can cost more than the arithmetic of the wood alone.
 
-This asymmetry has a commercial consequence that buyers underestimate. Because powder is easy to extend, the cheapest lots in any market tend to be powder, and the honest suppliers of powder compete on specification rather than on price. A lot offered well below the going rate for its stated grade is not a bargain; it is a claim about composition that the form makes hard to test. The [authentication database](/blog/incense-authentication-database/) sets out the screening logic, and the [agarwood guide](/ingredients/agarwood/) covers the adulteration patterns in detail.
+The commercial consequence is easy to miss. Because powder is easy to extend, the cheapest lots in any market tend to be powder, and honest powder suppliers compete on specification rather than price. A lot offered well below the going rate for its stated grade is not a bargain; it is a claim about composition that the form makes hard to test. The [authentication database](/blog/incense-authentication-database/) sets out the screening logic, and the [agarwood guide](/ingredients/agarwood/) covers the adulteration patterns.
 
----
-
-## What the mill takes away
-
-**Direct answer:** Grinding destroys two things at once — the material's identity as a piece, and the aromatic top of the wood.
-
-The first loss is physical and permanent. Once a lot is powder, no amount of inspection recovers the grain pattern, the density gradient, or the way a particular piece would have warmed. An authenticator working from powder is working from a claim plus a sample, not from an object.
-
-The second loss is aromatic, and it is less discussed. Grinding exposes an enormous amount of fresh surface to air, and the most volatile fraction of the resin begins to leave immediately. A freshly milled lot smells vivid and slightly sharp; the same lot after months in a open container smells flatter, and the first thing to go is the bright, floral top that makes good agarwood interesting. This is why serious workshops buy powder in quantities they will use, keep it sealed, and treat the milling date as part of the specification.
-
-There is a third, quieter cost: heat. Mills generate friction, and friction warms the material. A slow, cool grind preserves more of the volatile fraction than a fast one, which is one reason small-batch powder can cost more than the arithmetic of the wood alone would suggest.
 
 ---
 
@@ -144,7 +120,7 @@ The honest version of the same offer is a powder described by what it actually i
 
 **Direct answer:** For a workshop, the useful questions are about consistency and behaviour, not about prestige — and they can all be asked before money moves.
 
-Ask for the particle size and the sieve it passed. Ask for the moisture at packing, and how it is measured. Ask whether the lot is a single grind or a blend of grinds, because blends are normal and undisclosed blends are not. Ask for the date of milling. Ask whether the material is wild or cultivated, and which species, since both answers carry legal and price consequences — *Aquilaria* is listed under CITES, and the paperwork trail is part of what you are buying.
+Ask for the particle size and the sieve it passed. Ask for the moisture at packing, and how it is measured. Ask whether the lot is a single grind or a blend of grinds, because blends are normal and undisclosed blends are not. Ask for the date of milling. Ask which species and which region, whether wild or cultivated, and what happens if the next lot differs — the last answer describes the supplier's process, which is what a repeat buyer actually purchases.
 
 Then run the only test that matters for your own product: make a small batch with the new powder and compare it against a batch made with your reference material, side by side, same binder, same drying. Burn both. If the new lot needs a different proportion to reach the same intensity, you have learned something more useful than any grade name — you have learned the exchange rate between the two lots.
 
@@ -178,25 +154,19 @@ The table is deliberately blunt, and it produces one answer that surprises peopl
 
 ---
 
-## How each form fails in the hand
+## Failure Modes and the Bench Each Form Demands
+**Direct answer:** A chip fails physically and usually in view; powder fails chemically and often silently — and the two forms ask for different kinds of workspace.
 
-**Direct answer:** The failure modes are different enough that experience with one form teaches you little about the other.
+A chip can be scorched by impatience, which leaves a bitter note that no gentle reheating repairs. It can take up moisture in a humid room and refuse to warm properly, or bloom pale mould along softer fibre if stored badly. It can also be a convincing treated fake whose tell appears only at temperature. None of that is subtle once you have warmed a few genuine pieces, and all of it is visible in the hand before the heater is switched on.
 
-A chip fails physically. It can be scorched by impatience, which leaves a bitter note that no amount of gentle reheating repairs. It can take up moisture in a humid room and refuse to warm properly, or bloom a pale mould along the softer fibre if it was stored badly. It can also be a convincing treated fake whose tell only appears at temperature. None of these are subtle once you have warmed a few genuine pieces, and all of them are visible in the hand before the heater is switched on.
+Powder fails chemically and invisibly. It clumps when damp, which shows as an uneven burn and a stick that goes out on one side. It loses top notes in storage, so a lot that tested well in spring reads dull by autumn. It can be extended with material that behaves almost identically in the paste and differently in the plume. And it can be mismatched to the binder, which is nobody's fault and still ruins the batch. The asymmetry matters: a chip failure is usually your mistake or the seller's, and you can tell which; a powder failure is often neither, and it can take a season to appear.
 
-Powder fails chemically and invisibly. It clumps when damp, which shows up as an uneven burn and a stick that goes out on one side. It loses its top notes in storage, so a lot that tested well in spring reads dull by autumn. It can be extended with material that behaves almost identically in the paste and differently in the plume. And it can be mismatched to the binder, which is nobody's fault and still ruins the batch.
+The bench follows from that. A chip corner is small and quiet: a ceramic dish, a bed of sifted ash, tweezers, a plate, a lighter for the charcoal and a lid to smother it, all within reach because the session is short. Add a soft brush for the ash and a cloth for the plate, and the kit is complete.
 
-The practical asymmetry is worth naming: a chip failure is usually your mistake or the seller's, and you can tell which. A powder failure is often neither, and it can take a season to appear.
+A powder corner is a workshop. A scale reading to a tenth of a gram, because the aromatic charge in a stick is small and a careless scoop changes the formula. Sealed jars labelled with material, lot and date, because a specified powder has to be traceable to a purchase. A lipped tray so spills can be recovered rather than swept. A hygrometer if the room swings between seasons. And a drying place out of the draught, because moving air bends a stick and cracks its surface.
 
-## On the bench: what each form asks of a workspace
+Chip work rewards patience and a good nose; powder work rewards bookkeeping and consistency. Someone who loves one often dislikes the other, which is useful to know before investing in either.
 
-**Direct answer:** A chip asks for a clean, still surface and a heat source you can control. A powder asks for scales, labels, sealed containers and a draught-free corner where a paste can dry.
-
-The chip corner is small and quiet. A ceramic dish, a bed of sifted ash, a pair of tweezers, a plate, a lighter for the charcoal and a lid to smother it afterwards. Everything within reach, because the session is short and the point is not to be hunting for equipment halfway through. Add a soft brush for the ash and a cloth for the plate, and the kit is complete.
-
-The powder corner is a workshop. A scale that reads to a tenth of a gram, because the aromatic charge in a stick is small and a careless scoop changes the formula. Sealed jars, labelled with material, lot and date, because the whole point of a specified powder is that it can be traced to a purchase. A tray with a lip for the mixing, so that what spills can be recovered rather than swept. A hygrometer is worth the small expense if the room swings between seasons. And somewhere to dry formed sticks that is not in the path of a door, because a draught during drying produces a bent stick and a cracked surface.
-
-The difference in temperament is real. Chip work rewards patience and a good nose; powder work rewards bookkeeping and consistency. Someone who loves one often dislikes the other, and that is a useful thing to know before investing in either.
 
 ---
 
@@ -255,16 +225,14 @@ The general case, for readers comparing powdered aromatics with whole pieces acr
 ---
 
 ## Grading words do not transfer between forms
-
 **Direct answer:** The vocabulary used to sell a piece and the vocabulary used to sell a lot describe different things, and mixing them is where buyers get lost.
 
-A piece is described by appearance and behaviour: the density that decides whether it sinks, the visible distribution of dark resin against pale fibre, the way it changes on the plate, the region it came from, whether it grew wild or in a plantation. Those words describe an object you can hold.
+A piece is described by appearance and behaviour: whether it sinks, how dark resin sits against pale fibre, how it changes on the plate, the region it came from, and whether it grew wild or in a plantation. Those words describe an object you can hold.
 
-A lot is described by specification: mesh, moisture, species, the mill that produced it, the date it was ground, the grade of the wood that went in, and the proportion of that grade in the blend. Those words describe a repeatable input.
+A lot is described by specification: mesh, moisture, species, the mill that produced it, the date it was ground, the grade of wood that went in, and the proportion of that grade in the blend. Those words describe a repeatable input.
 
-The confusion arises because both vocabularies use the same adjectives — premium, high grade, wild, sinking. On a piece, "sinking" is a physical test you can run in a glass of water. In a bag of powder, "sinking grade" is a claim about the wood that was ground, and the powder itself will sink or float depending on how it is packed. The adjective survived the transition; the test did not.
+The confusion arises because both vocabularies use the same adjectives — premium, high grade, wild, sinking. On a piece, "sinking" is a test you can run in a glass of water. In a bag, "sinking grade" is a claim about the wood that was ground, and the powder itself will sink or float depending on how it is packed. The adjective survived the transition; the test did not. Ask the piece seller "may I warm it", and the lot seller "what sieve, what moisture, what date"; those are the questions each can actually answer.
 
-A buyer who understands that will ask different questions of each seller: to the piece seller, "may I warm it"; to the lot seller, "what sieve, what moisture, what date". Those are the questions each can actually answer.
 
 ---
 
@@ -287,53 +255,27 @@ None of these terms is a specification. They are the vocabulary a seller uses, a
 
 ---
 
-## Seven questions before money moves
-
-**Direct answer:** The same short list works for either form, and the answers reveal more than any listing.
-
-1. **Which species?** *Aquilaria* is a genus, not a single material, and the commercial species differ in character and in price.
-2. **Wild or cultivated?** A documentation question with legal consequences, since the genus is protected under CITES.
-3. **Where was it collected or grown?** Region is a proxy for character, and a seller who cannot name one is guessing.
-4. **For a piece: may I warm it before buying?** A refusal is an answer.
-5. **For a lot: what sieve and what moisture?** Numbers, not adjectives.
-6. **When was it milled or cut?** Freshness matters more for powder than for chips, but both change.
-7. **What happens if the next lot differs?** The answer describes the supplier's process, which is what a repeat buyer is really purchasing.
-
-Ask them in that order and the conversation sorts itself: a seller who answers the first three and stumbles on the last four is a trader; one who answers all seven is a supplier.
-
----
-
 ## Keeping a record that is worth keeping
-
 **Direct answer:** Two lines per purchase, written at the time, will outperform any amount of remembered expertise a year later.
 
-A workable entry looks like this: the date, the seller, the form, the weight, the species claimed, the lot or batch reference, the price per gram, and one sentence on what it smelled like when you first used it. For powder, add mesh and moisture if the supplier stated them. For a piece, add whether it sank, half-sank or floated, and what it did on the plate at three points in the session.
+A workable entry: the date, the seller, the form, the weight, the species claimed, the lot or batch reference, the price per gram, and one sentence on what it smelled like when you first used it. For powder, add mesh and moisture if the supplier stated them. For a piece, add whether it sank, half-sank or floated, and what it did on the plate at three points in the session.
 
-The discipline pays off in two situations. The first is a repeat order: you can compare the new lot against a description written before you had any reason to be generous. The second is a dispute: a note with a date and a lot number is a different kind of argument than a recollection.
+The discipline pays off twice. On a repeat order, you compare the new lot against a description written before you had any reason to be generous. In a dispute, a note with a date and a lot number is a different kind of argument than a recollection.
 
-Two practical notes on keeping the file. Photograph the label as well as the material, because handwriting fades and sellers rename their lots. And keep the entries in one place rather than scattered across emails and photographs: a single page per material, oldest at the top, is enough. Keep the physical reference beside the note. A few grams of powder in a sealed vial, or a sliver of the piece, will outlast any memory of a smell, and the comparison takes a minute rather than an afternoon. What makes this worth doing is not diligence for its own sake — it is that agarwood is a material where small differences carry large price differences, and the only way to see a small difference is to have the earlier version in front of you.
+Photograph the label as well as the material, because handwriting fades and sellers rename their lots. Three shots cover a piece: the whole thing on a plain grey card with a scale rule in frame, a close view of the resin pattern, and the cut or broken face that shows the interior. Name the files with the date and the lot. Keep the physical reference beside the note — a few grams in a sealed vial, or a sliver of the piece — because agarwood is a material where small differences carry large price differences, and the only way to see a small difference is to have the earlier version in front of you.
+
 
 ---
 
 ## Packing, transit, and what actually arrives
-
 **Direct answer:** The difference between the two forms becomes physical at the packing stage, and most transit damage is predictable from the packing alone.
 
-A chip is a solid object with edges. It travels in a rigid box, cushioned so it cannot shift; foam, tissue or a fitted insert all work, and a loose piece in a padded envelope will arrive with a chipped corner and a scattering of dust that was the most aromatic part of it. Weight is verified at both ends, because a piece is sold by weight and a missing gram is a missing gram.
+A chip is a solid object with edges. It travels in a rigid box, cushioned so it cannot shift; foam, tissue or a fitted insert all work, while a loose piece in a padded envelope arrives with a chipped corner and a scattering of dust that was the most aromatic part of it. Weigh it at both ends, because a piece is sold by weight.
 
-Powder is a fluid in everything but name. It settles, it migrates into seams, and it takes on moisture from the air in a warehouse. A foil-lined bag inside a rigid container, sealed and labelled, is the minimum; a desiccant sachet helps in humid climates, and a second bag protects against the first one failing. On arrival, weigh the lot before opening it, then check the surface for caking — a crust across the top is a sign the bag breathed.
+Powder is a fluid in everything but name. It settles, migrates into seams and takes moisture from warehouse air. A foil-lined bag inside a sealed, labelled container is the minimum; a desiccant sachet helps in humid climates, and a second bag protects against the first failing. Weigh the lot before opening, then check the surface for caking — a crust across the top is a sign the bag breathed.
 
-Customs and courier handling sit outside either party's control, and that is precisely why the paperwork should be settled before dispatch rather than during a delay. A missing permit stops a shipment more reliably than a bad review, and the buyer is usually the one who discovers it.
+Customs sits outside either party's control, which is why the paperwork should be settled before dispatch rather than during a delay. A missing permit stops a shipment more reliably than a bad review.
 
----
-
-## Photographing a piece for your own file
-
-**Direct answer:** A photograph is the only record of a chip's appearance that survives the chip being used up, and three shots are enough.
-
-Shoot it on a plain grey card, in daylight, with a scale rule in frame. The first shot is the whole piece, straight on. The second is a close view of the resin pattern, because the distribution of dark against pale is the most distinctive thing about a specific chip. The third is the cut or broken face, which shows the interior structure that a surface view conceals.
-
-Then write the file name with the date and the lot. In a year, the photograph will answer a question that memory cannot: whether the piece you are considering now looks like the one that pleased you before, or merely reminds you of it.
 
 ---
 
@@ -364,21 +306,21 @@ Then write the file name with the date and the lot. In a year, the photograph wi
 ---
 
 ## FAQ
-
 ### Q: Are agarwood chips and powder the same material?
-Yes. Both are the resin-bearing heartwood of *Aquilaria* trees, and the difference between them is a decision made at the mill. Chips are cut so the material can be warmed whole; powder is ground so it can be spread through a paste. Neither form is a higher grade, and a piece of wood can become either depending on who buys it and what they intend to do.
+Yes. Both are resin-bearing *Aquilaria* heartwood, and the difference is a decision taken at the mill. Chips are cut so the piece can be warmed whole; powder is ground so it can be spread through a paste. Neither is a grade, and the same block can become either.
 
 ### Q: Which form is better for appreciating agarwood?
-Chips, for a structural reason rather than a sentimental one. Warmth enters a solid object from outside, so its oils come away in sequence and the character shifts across the hour. Grains present almost no interior, so everything arrives together and the sequence collapses into one long push. If the point is to follow a material as it changes, only a solid form can offer that.
+Chips, for a structural reason. Warmth enters a solid object from outside, so its oils come away in sequence and the character shifts across the hour. Grains present almost no interior, so everything arrives together and the sequence collapses into one push.
 
 ### Q: Is agarwood powder usually adulterated?
-Not usually, but it is the form where adulteration is hardest to see, and cheap lots are where the risk concentrates. The uniform grind conceals added wood and filler far better than a visible grain conceals anything. A buyer's protection is a specification — particle size, moisture, milling date, species — plus a sample burn against a reference, and a price that is consistent with the material being claimed.
+Not usually, but it is the form where adulteration hides best, and cheap lots concentrate the risk. A uniform grind conceals added wood and filler far better than a visible grain conceals anything. Protection is a specification — mesh, moisture, milling date, species — plus a sample burn against a reference and a price consistent with the claim.
 
 ### Q: Why is "qinan powder" treated as a red flag?
-Because the grade is identified by properties of a whole piece. 奇楠 is soft enough to shave, pliable enough to press, and fragrant without heat — none of which survives grinding. A powder labelled that way has removed the evidence that would support the claim, so the claim rests entirely on the seller's word at a price that assumes the highest grade in the trade. That combination is why the trade reads it as a warning.
+Because the grade is identified by properties of a whole piece. 奇楠 is soft enough to shave, pliable enough to press, and fragrant without heat; none of that survives grinding. A powder labelled that way has removed the evidence, so the claim rests on the seller's word at a price that assumes the highest grade in the trade.
 
 ### Q: Can I grind my own chips into powder?
-You can, and it is instructive once. What you will learn is how much material the process costs: dust that escapes, heat that drives off the volatile top, and a grind that is far less uniform than a mill's. For a small experiment it is worth the loss. For anything resembling a production formula, the inconsistency between your grind and the next one will defeat the purpose, and buying a specified powder is both cheaper and more repeatable.
+You can, and it is instructive once. You will learn what the process costs: dust that escapes, heat that drives off the volatile top, and a grind far less uniform than a mill's. For an experiment it is worth the loss; for a production formula the inconsistency between one grind and the next defeats the purpose.
+
 
 ---
 
