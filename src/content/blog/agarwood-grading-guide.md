@@ -22,10 +22,8 @@ author: "Landeng Tech Team"
 - 沉香 means "sinking fragrance." The name records an old test, not a compliment.
 - Resin load sorts into three bands: 沉水 (sinks), 半沉半浮 (half-sinks), 浮 (floats).
 - 奇楠 is a condition, not a promotion: 油包木 (oil around wood) instead of 木包油 (wood around oil).
-- Several sources describe top 奇楠 as half-sinking rather than sunk. The bowl is an ordinary-agarwood tool.
 - The five-colour 奇楠 scheme is traditional, and two of its tiers are disputed.
 - The origin of the word 奇楠 remains unresolved; this page leaves it that way.
-- Density can be measured. What buyers really pay for is aroma.
 - A grade word is a claim. Authentication is the check behind the claim.
 
 ---
@@ -60,6 +58,8 @@ Run it the other way for the cheap end: little resin, plenty of air → buoyancy
 | 浮 | Stays on top | Least (historically 黄熟香) |
 
 The blind spot is simple. The bowl cannot tell how the density got there. Resin, water and injected oil all add weight, and the test reads all three the same way. Hold that thought until the section on fakes.
+
+Two pieces can sink equally fast yet part company on the heater. Weight records how much sits in the fibre, not how fresh or evenly spread: dense resin packed into a few veins can sink while the surrounding fibre stays bland, and long-oxidized resin may weigh more while releasing less.
 
 ## 奇楠: A Second Condition
 
@@ -106,11 +106,11 @@ A seller who uses a route name as though it were a grade is borrowing prestige f
 
 | Colour | Name | Standing | Doubt |
 |---|---|---|---|
-| 白 | 白奇楠 | Highest | Rarest, most argued over |
-| 绿 | 绿奇楠 / 莺歌绿 | Usually treated as top tier | The common benchmark |
-| 紫 | 紫奇楠 / 兰花结 | Disputed | Grade, or aged green? |
-| 黄 | 黄奇楠 / 金丝结 | Disputed | Grade, or a colour stage? |
-| 黑 | 黑奇楠 / 铁结 | Lower | The plainest of the colours |
+| 白 | 白奇楠 | Top | Scarcest; most debated |
+| 绿 | 绿奇楠 / 莺歌绿 | Top tier in most accounts | The usual yardstick |
+| 紫 | 紫奇楠 / 兰花结 | Contested | A tier, or green aged further? |
+| 黄 | 黄奇楠 / 金丝结 | Contested | A tier, or just a colour stage? |
+| 黑 | 黑奇楠 / 铁结 | Lower | Plainest of the five |
 
 Two cautions. Colour terms are shop vocabulary, describing a sort rather than a standard; one word may cover pieces that act unlike each other on the plate. The quarrel is not academic either — if purple and yellow are stages rather than separate tiers, then pricing them apart inflates two shelves of the market.
 
@@ -122,9 +122,9 @@ Before a colour justifies a figure, ask what it is meant to indicate: resin cond
 
 | Tier | Rough signal (RMB per gram, market-dependent) |
 |---|---|
-| Ordinary medicinal chips (中药铺 grade) | about 0.4–1.4 |
-| Burnable, gradeable agarwood (可品沉香) | tens to thousands, tracking resin load |
-| 沉水 pieces | a steep premium over floating pieces of similar size |
+| Everyday medicinal chips (herbal-shop grade) | about 0.4–1.4 |
+| Burnable, gradable agarwood (可品沉香) | tens to thousands, tracking resin load |
+| Sinking pieces | a sharp jump over floating pieces of the same size |
 | 奇楠 | roughly 3,000–8,000; top white 奇楠 can pass 16,000 |
 | Indian "old mountain" sandalwood (老山檀) | about 10–150, by age and density |
 | Plantation sandalwood (Australian, Indonesian) | well under 3 |
@@ -264,8 +264,7 @@ A workable sampling habit:
 
 1. **Take from the top, the middle and the bottom.** Do not let the seller pick the sample.
 2. **Test more than one piece.** Two pieces that behave alike say more than one perfect piece.
-3. **Keep a labelled reference.** It is the only way to compare a later delivery with the first.
-4. **Judge the spread.** A lot whose pieces vary wildly will disappoint on average.
+3. **Judge the spread.** A lot whose pieces vary wildly will disappoint on average.
 
 The rule has a corollary for sellers: a buyer who wants to choose the sample is not being difficult. That buyer is doing the one test a bag label cannot do.
 
@@ -289,7 +288,7 @@ A buyer chasing aroma who fixes on the bowl is reading the wrong dial. A buyer c
 
 The hazards are mundane. Damp encourages surface mould and leaves a musty note that heat will amplify. Strong smells nearby are absorbed, so a piece stored beside camphor or spices takes on the neighbour. Direct sun fades the surface and warms it unevenly, inviting cracks along the grain.
 
-A sealed container, a stable room and separation from anything scented cover most of it. Do not refrigerate: condensation is worse than the warmth you were avoiding. Check stored pieces now and then rather than leaving them for a year, because a problem caught early is a surface problem.
+A sealed container, a stable room and separation from anything scented cover most of it. Do not refrigerate: condensation is worse than the warmth you were avoiding. Check stored pieces now and then, because a problem caught early stays a surface problem.
 
 ## From Forest to Bench
 
@@ -311,7 +310,7 @@ Charcoal delivers high, uneven heat. It is traditional, cheap and difficult to c
 
 An electric warmer gives you a dial. A dial looks like a luxury and behaves like a different instrument: raising heat gradually lets the three stages arrive in order, which no blazing coal permits.
 
-A mica plate over a coal is the compromise most traditional practice settles on. It separates the resin from direct contact, evens the surface temperature and lets a session run longer. Clean the plate between sessions: resin leaves a film that reheats into a stale note, and a plate used for one material will flavour the next. A scrape while warm and a dry wipe are enough; water on a hot plate is not.
+A mica plate over a coal is the traditional compromise: it keeps resin off direct contact, evens the surface temperature and lets a session run longer. Clean it between sessions, because a film of reheated resin turns stale and flavours the next material. A scrape while warm and a dry wipe are enough.
 
 None of these is more authentic than the others. They are different instruments, and a comparison across pieces is only fair when the instrument is held constant.
 
@@ -319,9 +318,9 @@ None of these is more authentic than the others. They are different instruments,
 
 **Direct answer:** Descriptions of warmed agarwood cluster around a small set of impressions — sweet, balsamic, woody, floral, milky, slightly spicy — and the words are directional rather than precise.
 
-Sweetness is the most common positive term and the least specific. It can mean a honeyed quality, a creamy one, or the soft sweetness of dried fruit, and two buyers using the word may be describing different things. Balsamic means resinous warmth; woody means the raw timber beneath it; floral and milky describe lighter, rounder notes that show up first.
+Sweetness is the most common positive term and the least specific: it may mean honey, cream or dried fruit, and two buyers can use it for different sensations. Balsamic means resinous warmth; woody means raw timber beneath it; floral and milky describe lighter, rounder notes that show up first.
 
-The useful discipline is to separate the note from the moment. A floral impression in the first thirty seconds means something different from the same word applied to the tail. Pairing each word with the moment it occurred turns poetry into data; no other habit improves a set of notes as much. Compare vocabulary across sellers rather than within one. A vendor who calls everything sweet is not lying; the word has become a house habit and distinguishes nothing. Two vendors using different words for the same impression are easier to read than one vendor using one word for everything.
+The useful discipline is to separate the note from the moment. A floral impression in the first thirty seconds means something different from the same word applied to the tail. Pairing each word with its moment turns poetry into data. Compare vocabulary across sellers rather than within one: a vendor who calls everything sweet distinguishes nothing.
 
 ## Regional Names, Held Lightly
 
@@ -331,7 +330,7 @@ A regional name predicts a style: a particular sweetness, a particular resin cha
 
 The same region produces fine pieces and dull ones. A Hainan label on a flat piece is a flat piece with a Hainan label. A place name narrows expectation, which helps, and it cannot replace the warm test, which settles the matter.
 
-Regional reputations also drift. Demand redraws supply, names drift onto wood from elsewhere, and a word that once meant a forest ends up meaning a price. Treat the name as a hypothesis to test against the piece, not a fact to be confirmed by the seller.
+Regional reputations also drift: demand redraws supply, and a word that once meant a forest ends up meaning a price. Test the name against the piece, not the seller's story.
 
 ## Photographing a Piece for Someone Else
 
@@ -364,9 +363,7 @@ A page per piece, with the same fields every time:
 
 The reason for the last field is that decisions decay faster than impressions. Six months later, the note explains why a piece was rejected, which is usually more useful than a memory of liking it.
 
-The notebook also exposes a habit worth correcting. Buyers tend to record the pieces they bought and forget the ones they refused, which removes the only control group they had.
-
-Two columns earn their space over time: what you expected and what you found. Expectation is the variable that shifts most between a photograph, a description and a piece in the hand, and writing both down shows how far a seller's language travelled from the material. After a dozen entries the pattern is usually about the seller rather than the wood.
+Two columns earn their space over time: what you expected and what you found. After a dozen entries the pattern is usually about the seller rather than the wood.
 
 ## Cutting, Cleaning and Disclosure
 
@@ -386,9 +383,7 @@ Powder cannot be sink-tested in any meaningful way. It is judged on aroma, on ho
 
 Thin slivers have their own problem. Surface tension can hold a small flat chip at the top of a bowl even when its density would sink it, so a negative result on a sliver proves little. Test a piece of reasonable size, or accept that the reading is unreliable.
 
-Offcuts are not waste. They are the natural material for blending, for practice sessions and for learning a seller's style at lower cost. What they cannot do is certify the grade of the piece they were cut from.
-
-A small reference shelf helps more than any single purchase. Keep three or four pieces whose behaviour you have already established — one plainly ordinary, one dense, one soft and cold-fragrant if you can find it. They become the yardstick for every later comparison, and they cost far less than the mistakes they prevent. Label them, store them apart from the stock, and re-check them occasionally, because a reference that has drifted is worse than none.
+Offcuts are not waste. They are the natural material for blending, practice sessions and learning a seller's style at lower cost. What they cannot do is certify the grade of the piece they were cut from.
 
 ## When to Walk Away
 
@@ -413,7 +408,7 @@ For a bead maker, the constraint is uniformity. A strand needs pieces of similar
 
 Scent still matters, but differently. A bead is worn against the skin, so it releases scent slowly and at body temperature rather than on a hot plate. A carving sits in a room and releases almost nothing unless it is warmed. Buyers who judge these objects by the standards of a burning session are applying the wrong test.
 
-The vocabulary overlaps, which causes trouble. 沉水 beads exist and are priced accordingly; 奇楠 beads are rare and heavily contested. The physical checks are the same — cut, feel, warmth — but the purpose is different, and the purpose should decide how much weight each check carries.
+The vocabulary overlaps, which causes trouble: 沉水 beads exist and are priced accordingly, while 奇楠 beads are rare and heavily contested. The physical checks are the same, but the purpose decides how much weight each carries.
 
 ## Certificates and What They Can Say
 
@@ -421,41 +416,17 @@ The vocabulary overlaps, which causes trouble. 沉水 beads exist and are priced
 
 Three kinds of document appear in this trade. A permit establishes that material may be traded legally — for wild *Santalum album*, for instance, CITES paperwork serves that function. A laboratory report describes a sample: species identification, perhaps chemistry. A seller's certificate describes the seller's own grading.
 
-Each answers a different question. The permit says nothing about quality. The lab report says nothing about the rest of the bag. The seller's certificate says what the seller believes, which may be honest and is not independent.
-
-The practical use of paperwork is to narrow uncertainty, not to close it. A species report on a sample helps if you know the sample came from the lot you are buying. A permit helps if the species and origin on it match the material. A grade certificate is useful mainly as a record of what was promised, which is exactly what a dispute needs.
+Each answers a different question. The permit says nothing about quality; the lab report says nothing about the rest of the bag; the seller's certificate says what the seller believes. Paperwork narrows uncertainty rather than closing it: a species report helps only if the sample came from the lot you are buying, and a grade certificate is chiefly a record of what was promised, which is what a dispute needs.
 
 Photographs belong with the paperwork. A document naming a weight, a species and a date is only checkable against a picture of the piece it describes; without that, the file proves something was certified, not that this piece was. The same discipline applies to a seller's own grade note — date, lot number and photograph — which turns a claim into a record.
 
-Keep the documents with the piece. A certificate that cannot be tied to a specific lot is a souvenir.
-
-## Where This Guide Stops
-
-**Direct answer:** This page explains how the grading vocabulary works and where its evidence runs out. It does not identify a piece, value one, or certify an origin.
-
-Three limits are worth stating plainly. The first is sensory: words such as sweet, balsamic or creamy are directional and personal, and two experienced buyers can disagree without either being wrong. The second is documentary: regional names, wild claims and colour tiers are reputations unless records tie a specific lot to a specific claim. The third is analytical: no photograph, and no single test, establishes what a piece is. The bowl measures density, the fingernail measures structure, heat measures aroma, and each answers one question.
-
-What the page can do is make a seller's claims checkable. A tag that survives the questions above is worth more than one that does not, and a seller who welcomes the warm test has told you something before the material speaks.
+Keep the documents with the piece; a certificate that cannot be tied to a specific lot is a souvenir.
 
 ## Caring for a Worn or Carved Piece
 
-**Direct answer:** A piece kept for wear or display ages differently from one kept for the heater, and most of the care is about limiting change rather than restoring it.
+**Direct answer:** A worn or displayed piece ages differently from one kept for the heater; care means limiting change, not restoring it.
 
-A worn bead darkens where skin touches it, and the uniform polish of a new strand gives way to a duller sheen. That is normal, not a defect. Cleaning is a soft cloth and patience — not water, and not solvent, both of which can move oils around and leave a patchy surface.
-
-Store strands away from heat and strong smells. A carved piece is an oiled wood and wants what oiled wood wants: stable humidity, no direct sun, and separation from anything scented. Cracks come from rapid change, so a piece moved from a humid room to a dry heated one is more at risk than a piece that simply sits.
-
-## Four Habits From the Bench
-
-**Direct answer:** Four small habits catch more bad lots than any single test does.
-
-Ask what a word is doing. A label that names a district is doing geography; one that names a colour is doing taxonomy; one that names a weight is doing arithmetic. None of them is doing chemistry, and chemistry is what decides whether a block is worth the money.
-
-A quiet test: put the block in a drawer for a month, then smell it without warming. Material that has nothing to say cold will usually have something to say on a plate, and material that shouts cold is often hiding a treatment. Drawers are underrated instruments.
-
-Keep the receipt and the photograph together. If a claim later fails, the pair is the only record that survives the conversation; if it holds, the pair is the beginning of a reference file that will outlast three vendors.
-
-Compare two blocks only after both have rested in one room for a day. Temperature and humidity move through wood slowly; a block from a hot car is not the same object tomorrow.
+Skin darkens a bead where it is handled, and a new strand's uniform polish dulls — normal, not a defect. Clean with a soft cloth, never water or solvent. Keep the piece away from heat, sun and strong smells, since cracks follow rapid humidity change.
 
 ## Four Judgments Worth Keeping
 
@@ -477,34 +448,34 @@ One further limit belongs here: grades travel better than pieces. A word can be 
 
 ### Q: What actually separates the two?
 
-In the first, resin threads through solid wood; in the second, resin has taken the fibre over, leaving something pliable that smells without heat. The first is sorted by resin load; the second is a different condition of the same material.
+Ordinary 沉香 keeps resin inside firm wood; 奇楠 is wood that resin has permeated until it turns pliable and gives scent cold. The first is ranked by how much resin it holds, the second by what the resin did to the fibre.
 
 ### Q: Is a sinking piece always the better one?
 
-No. The bowl reports resin load. A heavy piece can be dull on the heater, and several sources describe top 奇楠 as half-sinking. Density sorts the ordinary tier and misleads at the top.
+No. Water reports mass alone. Heavy wood can still smell flat when warmed, and accounts of the best 奇楠 often place it half-submerged. Density works as a sort for ordinary material and fails at the top.
 
 ### Q: How settled is the five-colour scheme?
 
-It is traditional, not settled. White and green occupy the leading positions in most accounts; purple and yellow attract argument, and some writers treat them as green at later stages. A colour is a claim that has to be explained.
+Traditional rather than settled. Most accounts put white and green first; purple and yellow are argued over, and some writers call them later stages of green. A colour name still needs an explanation.
 
 ### Q: What does the word 奇楠 actually derive from?
 
-The question is open. Proposed roots include Sanskrit Kāla ("black" or "time"), Sanskrit tagara (a fragrant plant, shortened to 伽罗), and a temple reading from 伽蓝. The tagara theory has been challenged as a mistranslation of agaru. No single answer is established.
+Unresolved. Candidates include Sanskrit Kāla ("black" or "time"), tagara (a fragrant plant, shortened to 伽罗) and a monastery reading from 伽蓝. The tagara link has been challenged as a mistranslation of agaru. No derivation is settled.
 
 ### Q: Does cultivated wood ever become 奇楠?
 
-Cultivated pieces are graded on the same two scales, so the question is physical. What differs is aroma reputation and price. "Wild" and "planted" describe provenance, not a third scale, and neither word proves quality by itself.
+Planted wood is read on the same two scales, so the answer is physical. Aroma reputation and price are what change. "Wild" and "planted" name provenance, not a third measure, and neither guarantees quality.
 
 ---
 
 ## Sources
 
-- 周嘉胄《香乘》(Ming) — the 沉水 bands and 奇楠 grades. [Text](https://zh.wikisource.org/wiki/香乘).
-- 《本草纲目》 — materia medica; its 沉香 and 奇楠 passages are historical, not clinical. [Text](https://zh.wikisource.org/wiki/本草綱目).
-- Flora of China — [*Aquilaria*](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387).
-- Naef, R. — volatiles of agarwood. [DOI](https://doi.org/10.1002/ffj.2034).
-- Specialist and consumer writing on 奇楠, where the five-colour dispute is visible.
-- Notes: agarwood-chenxiang-notes.md (R-001).
+- 周嘉胄《香乘》(Ming): the classical text behind the sink grades and the 奇楠 tiers. [Text](https://zh.wikisource.org/wiki/香乘).
+- 《本草纲目》: materia medica entries on 沉香 and 奇楠, read here as history rather than clinical evidence. [Text](https://zh.wikisource.org/wiki/本草綱目).
+- Flora of China: accepted botanical treatment of [*Aquilaria*](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387).
+- Naef, R.: peer-reviewed work on agarwood's volatile fraction. [DOI](https://doi.org/10.1002/ffj.2034).
+- Trade and collector accounts of 奇楠, useful mainly for showing how unsettled the colour tiers remain.
+- Working notes: agarwood-chenxiang-notes.md (R-001).
 
 ## Related Resources
 
@@ -518,4 +489,4 @@ Cultivated pieces are graded on the same two scales, so the question is physical
 
 ## Summary
 
-Grading is two readings, not one. The bowl reports how much resin a piece carries; the 奇楠 distinction reports what the resin did to the wood. The first is objective, gameable and reliable only in the ordinary tier. The second is tactile, disputed at its edges and decisive at the top. Price sits downstream of both, and counterfeiters attack whichever signal the buyer trusts most. What remains is procedure, not inspiration: dry it, weigh it in the bowl, inspect the cut, warm a sliver, question the route and the origin, and see whether the number matches the story. None of those steps certifies anything. Together they make a claim testable, which is as much as a grader can honestly offer.
+Grading is two readings, not one. The bowl reports resin load; the 奇楠 distinction reports what the resin did to the wood. Price follows both, and fakes attack whichever signal the buyer trusts. Dry the piece, weigh it, inspect the cut, warm a sliver, and check whether the story and the number agree. None of that certifies anything; together it makes a claim testable.
