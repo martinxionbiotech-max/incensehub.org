@@ -12,9 +12,17 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Middle Eastern incense is a family of practices built on two materials — resin-rich agarwood, sold as *oud*, and *bakhoor*, wood chips that have been compounded with oils and resins before they ever reach the buyer — heated as pieces on a burner rather than lit as a stick. The setting is the home: a reception room scented before guests arrive, a wedding, a holiday morning, a shop doorway. What separates a memorable session from a disappointing one is rarely the prestige of the material. It is how the chip was prepared, how much heat reaches it, and how the room is ventilated.
+> **Direct answer:** Middle Eastern incense is a family of practices built on two materials — resin-rich agarwood, sold as *oud*, and *bakhoor*, wood chips that have been compounded with oils and resins before they ever reach the buyer — heated as pieces on a burner rather than lit as a stick. The setting is the home: a reception room scented before guests arrive, a wedding, a holiday morning, a shop doorway. What separates a memorable session from a disappointing one is rarely the prestige of the material. It is how the chip was prepared, how much heat reaches it, and how the room is ventilated.
 
-**Key facts:** *Bakhoor* (بخور) names prepared, infused wood. *Oud* names the agarwood itself. *Luban* names frankincense, the bright resin that sits opposite oud in the regional palette. *Mabkhara* (مبخرة) names the burner that holds the heat, and the word serves for a clay bowl, a brass stand, and a modern electric unit alike.
+## Key facts
+
+- **Two goods, one shelf.** *Oud* is raw, resin-loaded *Aquilaria* wood, warmed as chips or distilled to oil. *Bakhoor* (بخور) is a prepared product: wood soaked in fragrant oil and resin powder, cured, dried, and graded by size before it is sold.
+- **The rest of the vocabulary is furniture.** *Luban* names frankincense, the bright resin that sits opposite oud in the regional palette. *Mabkhara* (مبخرة) names the burner, and the word serves for a clay bowl, a brass stand, and a modern electric unit alike.
+- **Bakhoor is manufactured, not harvested.** Sorted agarwood offcuts → soak in fragrant oil and resin → cure until the core is stable → dry to a workable moisture → grade by size → pack.
+- **Heat delivery sets the aroma curve.** A dense piece on a hot surface releases its outer layer first and its core minutes later, so the plume moves from top note to resin to char across a session.
+- **Four regional buying patterns share the materials, not the habits.** Gulf volume and grade in the *majlis*, Levantine church frankincense beside family bakhoor, North African pressed pastes and blocks, South Asian benzoin (*sambrani*) and *loban*.
+- **Charcoal and electric elements are different tools.** A coal runs above the aromatic range and adds a char note; an element sits closer to that range and gives a cleaner, narrower band of scent for longer.
+- **Storage and smoke belong to the method.** Heat, humidity, light, and air migrate the oils and let the wood take moisture — a tacky chip can sometimes be aired, a mouldy one is discarded — and any indoor burn needs ventilation, a heatproof base, and an attendant.
 
 ---
 
@@ -311,9 +319,11 @@ The lesson is a boundary rather than a rule: "oud" printed on a box does not mea
 
 ---
 
-## Verification Notes
+## Evidence status
 
 **Direct answer:** The claims here are limited to standard identifications, documented cultural context, and the physical behaviour of materials under heat.
+
+What this page records is tradition, trade description, and behaviour observed in use; what it does not carry is a measurement. No laboratory analysis of a batch, no instrumented burn test, and no clinical study is cited, because none was consulted. The regional patterns are generalisations drawn from trade practice rather than survey data, and the preparation variables describe physical processes, not the specification of any named maker.
 
 
 - Bakhoor preparation — wood chips compounded with oils and resins, then dried — is a standard trade description, not a claim about any single maker.

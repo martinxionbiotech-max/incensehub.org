@@ -12,9 +12,17 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** *Agarbatti* is the Indian reed stick: a split bamboo cane dressed with a scented mass, cured, then lit at the tip so the coal creeps down the cane and the room fills with a bold, floral-spicy aroma. One word covers two production routes sold side by side and almost never labelled apart — **masala**, where ground botanical material carries the smell, and **dipped**, where a fragrance charge sits on the surface of a finished stick. Most confusion in this category dissolves once you know which of the two is in the packet.
+> **Direct answer:** *Agarbatti* is the Indian reed stick: a split bamboo cane dressed with a scented mass, cured, then lit at the tip so the coal creeps down the cane and the room fills with a bold, floral-spicy aroma. One word covers two production routes sold side by side and almost never labelled apart — **masala**, where ground botanical material carries the smell, and **dipped**, where a fragrance charge sits on the surface of a finished stick. Most confusion in this category dissolves once you know which of the two is in the packet.
 
-**Key facts:** The name descends from Sanskrit *agarvarti*, agar-wood joined to rod, a relic of the era when resin-soaked heartwood set the price of the trade. What most packets hold today is built on sandalwood and flowers instead. Masala and dipped share a silhouette but not a construction, and dhoop — coreless, moulded or extruded — is a sibling object rather than a thicker version of the same thing.
+## Key facts
+
+- **The name is older than the recipe.** *Agarbatti* descends from Sanskrit *agarvarti*, agar-wood joined to rod — a relic of the era when resin-soaked heartwood set the price of the trade. Most packets today are built on sandalwood and flowers instead.
+- **Two routes share one silhouette.** Masala carries its scent distributed through a dried paste body on the reed; dipped carries it in a thin film on the surface, often over a charcoal slurry. The construction, not the shape, is the real category.
+- **Dhoop is a sibling, not a thicker stick.** It has no core, so the coal works through thickness instead of along a fixed path — which is why it is denser and smokier per gram.
+- **The burn announces the route.** A paste body develops in stages, a film releases in one gesture; the same stick smelt at one-third and two-thirds of its burn tells you which you hold.
+- **The palette is deliberate.** Sandalwood as the sweet-woody spine, jasmine and rose as the floral heart, champa (plumeria) for a creamy lift, spice or resin in temple blends — voiced loud for stone floors and moving air.
+- **Masala is a method claim, not a score.** An underbound or badly cured masala can smell worse than a well-made dipped stick, "natural" has no shared definition, hybrids exist, and price is a signal with noise.
+- **Every grade makes smoke.** Combustion produces gases and fine particles whatever the construction, so ventilation, a clear burner, and an attended stick are part of use rather than optional extras.
 
 ## Key Takeaways
 
@@ -195,6 +203,10 @@ Practical limits: ventilate the room, since an open window or a running extracto
 A paste body is porous, which is what lets it burn well and also what lets it absorb whatever sits nearby — cooking fat, soap, spice jars, the inside of a wooden drawer. Seal it, keep it dark and cool, and prefer a zip pouch inside a tin to a decorative box with a loose lid. Dipped sticks are more stable at the surface, but their film softens in heat, and a windowsill or a hot car will flatten the top notes.
 
 Two consequences follow. A stick that smells strange unlit may have picked up its surroundings rather than been badly made, so air it before judging. And buy roughly a season's worth rather than a lifetime supply: the freshest stick is the one opened most recently.
+
+## Evidence status
+
+The page holds three kinds of statement, and they do not carry the same weight. The etymology and the existence of the two production routes are documented in linguistic and trade writing: *agarvarti* is a naming record, and paste-rolling against dip-tanking is a described method. The field checks in the comparison table are workshop observations — sharp enough to separate a body from a film, and not assays, which is why a hybrid stick can read ambiguously on every row. The burn profiles follow from how a porous solid and a thin surface film release volatiles; that is physical reasoning about the objects, not a measured comparison of named brands. No health claim is made in either direction, and the smoke passage describes combustion rather than the conduct of any maker.
 
 ## FAQ
 

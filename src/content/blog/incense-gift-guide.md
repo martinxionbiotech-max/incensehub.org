@@ -11,9 +11,16 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** The best incense gift is the one the recipient can actually use where they live, in the format they already understand, made from a material whose name is honest. Price is the least informative variable in that sentence. This page is a selection framework — it ranks no product and sells nothing.
+> **Direct answer:** The best incense gift is the one the recipient can actually use where they live, in the format they already understand, made from a material whose name is honest. Price is the least informative variable in that sentence. This page is a selection framework — it ranks no product and sells nothing.
 
-**Key facts:** Four constraints decide almost every incense gift: the room where it will burn, the recipient's tolerance for smoke, the hardware they already own, and their experience with scent. Solve those in that order and the shortlist writes itself. Skip them and you are buying for your own nose.
+## Key facts
+
+- **Four constraints decide the gift.** The room where it will burn, the recipient's tolerance for smoke, the hardware they already own, and their experience with scent — solved in that order.
+- **Setting outranks scent.** A room that cannot take smoke rejects the best stick ever made, so the format is chosen before the material.
+- **Three formats survive almost every brief.** A real-material starter with its holder, a no-smoke option (essential-oil beads or an electric heater), and a sample set of three to five genuinely different materials.
+- **A combustion gift is incomplete without a base.** A lit stick needs a heatproof holder; without one the present cannot be used on arrival and hands the recipient a fire risk.
+- **"Gift set" is packaging language.** It says nothing about grade, and the four axes that do — taste fit, completeness, material honesty, smoke fit — are graded on the page's own table.
+- **Budget follows the same logic.** Money spent on material and hardware survives the first burn; money spent on presentation is discarded within a minute.
 
 ---
 
@@ -166,6 +173,10 @@ Say what the material is, how to use it safely, and why you chose it. Three sent
 The safety line is not optional when the gift involves fire. A first-time user who does not know that a stick needs a heatproof base, or that resin goes on charcoal in a ventilated room, is one distracted minute away from a scorched table. Pair every combustion gift with that instruction, and pair every no-smoke gift with a note about how long the scent lasts.
 
 ---
+
+## Evidence status
+
+This page is a selection framework, not a product test. The four-axis grading scheme is an editorial judgment, and no gift was bought, burned, or measured to produce it. The combustion statements rest on the general behaviour of a smouldering stick — heat, a tip that can fall, smoke that has to go somewhere — and on the public indoor-air guidance linked under Sources, not on trials of any product named here. The no-smoke formats are described as a different delivery mechanism with their own limits, not as a safer grade of incense, and no health benefit is claimed for either route.
 
 ## FAQ
 
