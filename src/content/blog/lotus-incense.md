@@ -15,7 +15,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Lotus incense is a floral-scented incense built on the idea of the lotus — a clean, watery, faintly sweet bloom. The plant the name points to is *Nelumbo nucifera* (莲花), an aquatic perennial whose real fragrance is quiet and green rather than rich. The stick in the box, in most cases, is a composed floral impression rather than an extract of the flower, because the genuine material is scarce and costly.
 
-**Key facts:** "Lotus" and "waterlily" name two different plant families, and the product sold as "blue lotus" belongs to the second one. In Chinese culture the flower is a symbol of purity before it is anything else — 出淤泥而不染, "rising from the mud unstained." Its scent sits at the light, fresh-floral end of the range, which is why it appears in morning and clean-air compositions far more often than in deep, resinous ones.
+## Key facts
+
+"Lotus" and "waterlily" name two different plant families, and the product sold as "blue lotus" belongs to the second one. In Chinese culture the flower is a symbol of purity before it is anything else — 出淤泥而不染, "rising from the mud unstained." Its scent sits at the light, fresh-floral end of the range, which is why it appears in morning and clean-air compositions far more often than in deep, resinous ones.
 
 ## Key Takeaways
 

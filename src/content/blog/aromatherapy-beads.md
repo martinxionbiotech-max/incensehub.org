@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Aromatherapy beads are **porous beads that hold essential oil and release it slowly while you wear them**. The bead is the reservoir; the oil is the scent. Nothing burns, nothing smokes, and the aroma stays within arm's reach rather than filling a room.
 
-**Key facts:** The format is a carrier plus a volatile payload. Wood, lava stone, and unglazed clay are the common carriers because they absorb oil into their pores and give it back over days or weeks. When the scent fades, a drop of oil restores it — the object outlives the smell. Nothing in this description involves a physiological effect; the bead is a fragrance and comfort object, and the mechanism is evaporation.
+## Key facts
+
+The format is a carrier plus a volatile payload. Wood, lava stone, and unglazed clay are the common carriers because they absorb oil into their pores and give it back over days or weeks. When the scent fades, a drop of oil restores it — the object outlives the smell. Nothing in this description involves a physiological effect; the bead is a fragrance and comfort object, and the mechanism is evaporation.
 
 ---
 

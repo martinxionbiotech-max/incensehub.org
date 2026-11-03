@@ -33,7 +33,9 @@ author: "Landeng Tech Team"
 
 <img src="/images/scent-wheel-fragrance-families-800x800.webp" alt="Diagram: scent families arranged as wedges on a wheel" width="800" height="800" loading="lazy">
 
-**Key facts:** Four substances anchor the Chinese tradition — two woods (agarwood, sandalwood) and two resins (frankincense, myrrh). Flowers and fruit peel arrived later, mostly as symbol or as composed scent. Nothing in this guide is a treatment for a condition, and no page in this cluster claims otherwise.
+## Key facts
+
+Four substances anchor the Chinese tradition — two woods (agarwood, sandalwood) and two resins (frankincense, myrrh). Flowers and fruit peel arrived later, mostly as symbol or as composed scent. Nothing in this guide is a treatment for a condition, and no page in this cluster claims otherwise.
 
 ## Key Takeaways
 

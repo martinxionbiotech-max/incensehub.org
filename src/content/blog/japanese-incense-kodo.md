@@ -15,7 +15,9 @@ author: "Landeng Tech Team"
 
 <img src="/images/japanese-kodo-ceremony-1200x675.webp" alt="Utensils for a Japanese incense session arranged on a woven mat beside a small ceramic bowl" width="1200" height="675" loading="lazy">
 
-**Key facts:** Buddhist practice carried incense into Japan around the sixth century. The art was formalised in the Muromachi period, in the circle around the shogun Ashikaga Yoshimasa. Two teaching lines survive today, Oie-ryū and Shino-ryū, with procedures that do not match each other. Everything centres on agarwood (沈香, jinkō), sorted through a six-type, five-taste vocabulary. At its best the session is nearly smokeless.
+## Key facts
+
+Buddhist practice carried incense into Japan around the sixth century. The art was formalised in the Muromachi period, in the circle around the shogun Ashikaga Yoshimasa. Two teaching lines survive today, Oie-ryū and Shino-ryū, with procedures that do not match each other. Everything centres on agarwood (沈香, jinkō), sorted through a six-type, five-taste vocabulary. At its best the session is nearly smokeless.
 
 ---
 

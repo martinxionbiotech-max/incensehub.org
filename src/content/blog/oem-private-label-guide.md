@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The gap between OEM and private label is a single question of *who invents the product*. In OEM, a factory engineers incense against *your* written requirements and ships it under your brand; in private label, you place your name on a product the factory already makes. Whichever way you go, the work moves through a fixed sequence from brief to sampling to production, and you must answer a handful of specification questions before a real quote can exist — no one publishes a price sheet.
 
-**Key facts:** The two labels name two separate contracts, not two grades of quality. The opening deliverable on either side is a written brief, and the questions left unasked at the start — who holds the formula, who holds the tooling, what paperwork ships with the goods — are the ones that turn expensive once production is over.
+## Key facts
+
+The two labels name two separate contracts, not two grades of quality. The opening deliverable on either side is a written brief, and the questions left unasked at the start — who holds the formula, who holds the tooling, what paperwork ships with the goods — are the ones that turn expensive once production is over.
 
 ---
 

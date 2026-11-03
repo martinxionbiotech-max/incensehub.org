@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Sandalwood and frankincense share a shelf in most incense shops, yet they are not the same kind of material. 檀香 names the scented core wood of *Santalum*, a solid in which aroma sits locked inside the fibre. 乳香 is what *Boswellia* bleeds after its bark is cut: a milky sap that sets into brittle lumps. Scent held inside wood, versus scent that is the material — hold that contrast and the rest of the comparison falls into place.
 
-**Key facts:** One family is Santalaceae, the other Burseraceae; apart from smelling good, the two plants have little in common. The tree grows slowly, steals part of its living from host roots, and is cut for its core. The resin is a wound product, collected by hand from scored bark. In blend terms the wood holds the bottom and the resin opens the top. Substitution risk is lopsided between them. Gentle heat suits both, though the physics behind that advice diverges.
+## Key facts
+
+One family is Santalaceae, the other Burseraceae; apart from smelling good, the two plants have little in common. The tree grows slowly, steals part of its living from host roots, and is cut for its core. The resin is a wound product, collected by hand from scored bark. In blend terms the wood holds the bottom and the resin opens the top. Substitution risk is lopsided between them. Gentle heat suits both, though the physics behind that advice diverges.
 
 ---
 

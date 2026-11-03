@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The 宣德炉 (Xuande censer, *xuān délú*) is the best-known — and most frequently forged — bronze incense censer in the Chinese tradition, produced on imperial order during the Ming Xuande reign (宣德, 1426–1435) from copper brought in from abroad. Collectors prize it for a deliberately quiet silhouette and, above all, for the surface patina (皮壳) that decades of age and handling build up, rather than for any carved decoration.
 
-**Key facts:** The trait that defines a 宣德炉 is its patina, not its ornament. Period examples survive in tiny numbers and are mostly held in museums; nearly everything sold under the name is a later copy — some Qing, some modern — and a slice of those copies are themselves old enough to interest collectors.
+## Key facts
+
+The trait that defines a 宣德炉 is its patina, not its ornament. Period examples survive in tiny numbers and are mostly held in museums; nearly everything sold under the name is a later copy — some Qing, some modern — and a slice of those copies are themselves old enough to interest collectors.
 
 ## Why the Form Turned Heads
 

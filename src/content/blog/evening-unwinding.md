@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The last hour of the day suits a quiet, warming note — sandalwood, lavender, or a soft wood blend — burned as a signal that work is over. The job it performs is ritual anchoring. It is not a treatment for sleeplessness, and no product on this site claims to produce sleep.
 
-**Key facts:** Whatever benefit exists lives in the repetition: one scent, one hour, one sequence of small actions, night after night. The length of the burn can stand in for a closing window, loosely defined and better learned from your own stick than from a box.
+## Key facts
+
+Whatever benefit exists lives in the repetition: one scent, one hour, one sequence of small actions, night after night. The length of the burn can stand in for a closing window, loosely defined and better learned from your own stick than from a box.
 
 ---
 

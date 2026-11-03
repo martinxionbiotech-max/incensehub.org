@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Before you hand money to an incense plant, four questions deserve answers in a fixed sequence — who legally owns and runs the place, how much it can genuinely turn out, whether it polices its own output, and what papers it can show to back each of those assertions — and you probe each one harder or lighter to align with the size and danger of the purchase. You are not removing risk; you are choosing, with open eyes, which hazards you will hold.
 
-**Key facts:** This page is a decision framework, not a directory of vendors. It lays out the vetting points, the shape a believable workmanship system takes, and the credentials and lab findings worth asking for. It does not assert that a named plant holds a named credential — establishing that is precisely your job, one vendor at a time. No accreditation is asserted for IncenseHub or for anyone else.
+## Key facts
+
+This page is a decision framework, not a directory of vendors. It lays out the vetting points, the shape a believable workmanship system takes, and the credentials and lab findings worth asking for. It does not assert that a named plant holds a named credential — establishing that is precisely your job, one vendor at a time. No accreditation is asserted for IncenseHub or for anyone else.
 
 ---
 

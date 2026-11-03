@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A "resinous" scent is the smell of hardened tree sap — gum that a tree bleeds from scored bark and that, when warmed, softens into vapor instead of catching fire like wood. The family's four named members are agarwood (沉香), frankincense (乳香), pine resin (松香), and sweetgum (枫香), and its nearest neighbors are the balsamic resins myrrh and benzoin.
 
-**Key facts:** The resinous family carries four canonical entries in `aroma.json`: agarwood, frankincense, pine-resin, and sweetgum. Frankincense leads the group as the classic heated ritual resin, almost always paired with myrrh. Agarwood is the odd one out because its sap sits trapped inside the wood rather than dripping free as a tear. Every resin here is warmed, not flamed.
+## Key facts
+
+The resinous family carries four canonical entries in `aroma.json`: agarwood, frankincense, pine-resin, and sweetgum. Frankincense leads the group as the classic heated ritual resin, almost always paired with myrrh. Agarwood is the odd one out because its sap sits trapped inside the wood rather than dripping free as a tear. Every resin here is warmed, not flamed.
 
 ---
 

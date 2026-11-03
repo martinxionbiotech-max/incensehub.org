@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The shelf holds six shapes — **sticks**, **cones**, **backflow cones**, **coils**, **powder & resin**, **beads** — and the choice turns on three dials you set before you smell anything: run time, smoke, and whether there is anything to watch.
 
-**Key facts:** Burn time is the cleanest first cut: a stick runs twenty to sixty minutes, a cone ten to fifteen, a coil for hours. Two shapes never ignite — resin is warmed, beads are worn.
+## Key facts
+
+Burn time is the cleanest first cut: a stick runs twenty to sixty minutes, a cone ten to fifteen, a coil for hours. Two shapes never ignite — resin is warmed, beads are worn.
 
 <img src="/images/incense-formats-lineup-sticks-coils-cones-1600x675.webp" alt="Editorial lineup of incense formats: sticks, spiral coil, backflow cone, powder mound on rice paper" width="1600" height="675" loading="lazy">
 

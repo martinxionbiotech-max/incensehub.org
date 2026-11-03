@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** An essential oil is the plant's smell-bearing, volatile portion — concentrated and lifted out of its flowers, leaves, bark, wood, roots, or peel, most often through steam distillation. It reaches incense through two separate doors: brushed onto a neutral base as a scent, or blended in as a single voice among whole botanicals. It is neither the raw wood or resin it came from, nor automatically a synthetic fragrance.
 
-**Key facts:** Steam distillation makes the bulk of the world's essential oil. Citrus peel gets cold-pressed instead, and a few woods get dry-distilled. A solvent route yields a related product called an absolute, which is not the same thing. The label "essential" traces back to "essence" — the plant's signature smell — and has no tie to nutritional necessity.
+## Key facts
+
+Steam distillation makes the bulk of the world's essential oil. Citrus peel gets cold-pressed instead, and a few woods get dry-distilled. A solvent route yields a related product called an absolute, which is not the same thing. The label "essential" traces back to "essence" — the plant's signature smell — and has no tie to nutritional necessity.
 
 ---
 

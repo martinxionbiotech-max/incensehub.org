@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A stick qualifies as natural when its scent comes from ground plant tissue, its shape is held by a plant gum or bark powder, and nothing synthetic is doing the burning. Composition decides the label, not the packaging copy. Where the term is unprotected — which is nearly everywhere — it functions as an advertisement rather than a specification, and it never implies that the resulting smoke is harmless.
 
-**Key facts:** Makko (抹香) is the classical choice: bark of *Machilus thunbergii*, a Lauraceae species the Japanese call tabu no ki, milled to flour. A single material gives the paste cohesion while wet and then sustains the ember once dry — glue and fuel in one substance. The mirror-image product, a porous rod saturated with compounded scent, accounts for a large share of the inexpensive end of the trade.
+## Key facts
+
+Makko (抹香) is the classical choice: bark of *Machilus thunbergii*, a Lauraceae species the Japanese call tabu no ki, milled to flour. A single material gives the paste cohesion while wet and then sustains the ember once dry — glue and fuel in one substance. The mirror-image product, a porous rod saturated with compounded scent, accounts for a large share of the inexpensive end of the trade.
 
 ---
 

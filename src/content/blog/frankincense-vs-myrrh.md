@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Frankincense and myrrh are gum-resins from two genera of one plant family — *Boswellia* and *Commiphora*, both Burseraceae — and almost nothing about them behaves alike. Frankincense (乳香) is the hardened exudate of *Boswellia* trees: pale, faintly translucent tears with a lemon-and-pine lift over a creamy base. Myrrh (没药) comes from *Commiphora* shrubs: darker, denser tears with a bitter, balsamic smell that leans toward earth and medicine. The two have shared caravan routes, temples and pharmacopoeias for millennia, and they still sit at opposite ends of a blend — one opens it up, the other weighs it down.
 
-**Key facts:** The two names mark separate genera inside one family — *Boswellia* for the bright resin, *Commiphora* for the dark one. Neither is burned like wood; both soften and then vaporize at temperatures far below combustion. Counterfeits are rare, yet the species printed on a bag is seldom checked, and that gap is where most disappointment starts. Ranking one above the other misses the point of a pair. This page makes no health claims for either material.
+## Key facts
+
+The two names mark separate genera inside one family — *Boswellia* for the bright resin, *Commiphora* for the dark one. Neither is burned like wood; both soften and then vaporize at temperatures far below combustion. Counterfeits are rare, yet the species printed on a bag is seldom checked, and that gap is where most disappointment starts. Ranking one above the other misses the point of a pair. This page makes no health claims for either material.
 
 ## Key takeaways
 

@@ -15,7 +15,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Ten tags organize the 150 botanical materials catalogued in this reference: woody, resinous, sweet, herbal, spicy, floral, citrus, earthy, smoky, balsamic. A tag names a shared smell character rather than a plant group, which is why one material can carry several and one tag can gather woods, resins, blossoms, and roots together. Membership is published as a machine-readable dataset; what follows is the readable version of it.
 
-**Key facts:** Membership lives in `aroma.json`, a Schema.org `Dataset` on `data.incenseherbs.com`. Each tag is a `DefinedTerm`, and its `memberIngredients` array names the materials that carry it, by slug. Character only: no grade, no medical claim, no species guarantee.
+## Key facts
+
+Membership lives in `aroma.json`, a Schema.org `Dataset` on `data.incenseherbs.com`. Each tag is a `DefinedTerm`, and its `memberIngredients` array names the materials that carry it, by slug. Character only: no grade, no medical claim, no species guarantee.
 
 ## Key Takeaways
 

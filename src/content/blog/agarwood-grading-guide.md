@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** What buyers inherit is one staircase and two separate gauges. The staircase runs from cheap chips through sinking wood to 奇楠. The gauges say something else: one reads how much resin a piece carries, the other reads whether the fibre itself has changed. Learn the gauges and the staircase stops misleading you.
 
-**Key facts:** A "沉水" or "奇楠" tag is a seller's claim. The bowl answers how much resin is present. The 奇楠 name answers what the resin did to the wood. Two questions, never one ranking; English accounts usually merge them and lose the point.
+## Key facts
+
+A "沉水" or "奇楠" tag is a seller's claim. The bowl answers how much resin is present. The 奇楠 name answers what the resin did to the wood. Two questions, never one ranking; English accounts usually merge them and lose the point.
 
 ---
 

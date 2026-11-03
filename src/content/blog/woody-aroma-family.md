@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The woody aroma family is the **dry, toasty, crisp scent of aromatic timber** — the backbone of classical Chinese incense — and its nine canonical constituents run from sandalwood's milky silkiness through agarwood's rich, tiered honeyed quality to cedar's crisp, keen pencil-box nature. Timber is a scent nature, not a botanical category: it admits a grass root (vetiver) and a leafy herb (patchouli) beside true timbers.
 
-**Key facts:** `aroma.json` records **nine canonical constituents** for this group — agarwood, benzoin, cedar, orange-peel, patchouli, sandalwood, vetiver, borneol, and pine-sap. Most of them sit in other families too: agarwood is sap-rich and honeyed, patchouli earthy and balsamic. What actually defines membership is how a botanical *smells and behaves in a mixture*, not whether it is literally timber.
+## Key facts
+
+`aroma.json` records **nine canonical constituents** for this group — agarwood, benzoin, cedar, orange-peel, patchouli, sandalwood, vetiver, borneol, and pine-sap. Most of them sit in other families too: agarwood is sap-rich and honeyed, patchouli earthy and balsamic. What actually defines membership is how a botanical *smells and behaves in a mixture*, not whether it is literally timber.
 
 ---
 

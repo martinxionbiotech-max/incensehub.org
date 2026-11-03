@@ -15,7 +15,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Pick a format by answering two questions: how many minutes the session needs, and how much smoke the room can absorb. Sticks usually give 20–60 minutes, cones 15–30, coils 1.5–4 hours; resin and powder follow whatever heat source you use — an electric warmer produces almost no smoke, charcoal much more.
 
-**Key facts:** Treat these figures as planning windows. Diameter, paste pressure, binder load, storage moisture and the air in the room all shift the result, so a label describes an average batch in an average room rather than the piece in your hand.
+## Key facts
+
+Treat these figures as planning windows. Diameter, paste pressure, binder load, storage moisture and the air in the room all shift the result, so a label describes an average batch in an average room rather than the piece in your hand.
 
 <img src="/images/burn-time-matrix-chart-800x600.webp" alt="Horizontal bar chart ranking common incense formats by how long one piece burns" width="800" height="600" loading="lazy">
 

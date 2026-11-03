@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Treat the purchase as five gates rather than one long conversation. Fix the goods in writing, find out whether you are dealing with a workshop or a broker, gather evidence someone else could check, judge a physical sample you drew yourself, and only then compare offers on the cost delivered to your door. A seller who names a figure before naming a species is quoting against a product neither of you has defined.
 
-**Key facts:** The scope here is the resale path — purchasing a maker's catalogue product in volume. OEM and private-label work sit on a different footing, because there the buyer supplies the design and usually the tooling. Commercial figures are deliberately absent: minimum quantities, rates, and schedules are quoted against a specific brief, since format, material, volume, and delivery point all shift the answer. Treat every figure you receive as conditional on your specification.
+## Key facts
+
+The scope here is the resale path — purchasing a maker's catalogue product in volume. OEM and private-label work sit on a different footing, because there the buyer supplies the design and usually the tooling. Commercial figures are deliberately absent: minimum quantities, rates, and schedules are quoted against a specific brief, since format, material, volume, and delivery point all shift the answer. Treat every figure you receive as conditional on your specification.
 
 ---
 

@@ -17,7 +17,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Trade buying of Chinese incense splits three ways. You can take **stock** lines in bulk, commission an **OEM** build that follows your brief and carries your name, or apply **private label** branding to a formula the factory already runs. The three differ in how much of the production chain you pay to change — and none of them quotes from a printed sheet.
 
-**Key facts:** Every page in this commercial cluster starts here. The three routes are set out below, matched against the kind of buyer each one serves, with seven deeper guides hanging off them — supplier checks, order quantities, sampling, packing and customs, fragrance construction. Nothing is sold on this page; the point is to make the mechanics legible before anyone commits money.
+## Key facts
+
+Every page in this commercial cluster starts here. The three routes are set out below, matched against the kind of buyer each one serves, with seven deeper guides hanging off them — supplier checks, order quantities, sampling, packing and customs, fragrance construction. Nothing is sold on this page; the point is to make the mechanics legible before anyone commits money.
 
 ---
 

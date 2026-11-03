@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A finished piece of incense can be described completely by three answers: the substance it is built from, the method that shaped it, and the geometry it takes on the burner. Those answers are the materials, techniques, and forms taxonomies — 15, 12, and 12 records, each published as open data.
 
-**Key facts:** The counts are 15 materials, 12 techniques, and 12 forms, served as JSON from `data.incenseherbs.com` under CC BY-SA 4.0. The JSON is authoritative; the prose below is a reading aid.
+## Key facts
+
+The counts are 15 materials, 12 techniques, and 12 forms, served as JSON from `data.incenseherbs.com` under CC BY-SA 4.0. The JSON is authoritative; the prose below is a reading aid.
 
 ---
 

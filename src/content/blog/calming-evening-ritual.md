@@ -24,7 +24,9 @@ author: "Landeng Tech Team"
 
 <img src="/images/evening-ritual-incense-tea-desk-1200x675.webp" alt="A censer, a teacup and an open book on a dark wooden desk in low evening light" width="1200" height="675" loading="lazy">
 
-**Key facts:** Nothing here treats insomnia or promises rest. Burning material cannot induce sleep; count it as one part of a routine for leaving the working day behind.
+## Key facts
+
+Nothing here treats insomnia or promises rest. Burning material cannot induce sleep; count it as one part of a routine for leaving the working day behind.
 
 ## Key Takeaways
 

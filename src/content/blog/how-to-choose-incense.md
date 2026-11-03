@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A good purchase starts with the occasion, narrows through shape and contents, and lets smoke tolerance settle the room fit. The label's material claim, not its scent name, is the final check.
 
-**Key facts:** No product is ranked or sold here. What follows is a sequence — purpose, shape, contents, smoke — plus a way to tell which label claims can survive a check.
+## Key facts
+
+No product is ranked or sold here. What follows is a sequence — purpose, shape, contents, smoke — plus a way to tell which label claims can survive a check.
 
 <img src="/images/incense-quality-indicators-closeup-1200x675.webp" alt="Close view of a well-coated incense stick with pale, even ash" width="1200" height="675" loading="lazy">
 

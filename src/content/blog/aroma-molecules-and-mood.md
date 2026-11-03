@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Volatile compounds account for odour, and that account is secure. They do not account for feeling, and nothing in the literature shows a compound delivering a predictable emotional state at the trace concentrations a stick or a diffuser actually produces. What does work is associative learning — attach one scent to one routine and the scent turns into a signal.
 
-**Key facts:** Linalool carries the fresh-floral note of lavender; limonene carries citrus brightness; α- and β-santalol carry the creamy wood of sandalwood; α-pinene carries the resinous green of pine and frankincense. Structure predicts odour with reasonable confidence. Structure does not predict emotion.
+## Key facts
+
+Linalool carries the fresh-floral note of lavender; limonene carries citrus brightness; α- and β-santalol carry the creamy wood of sandalwood; α-pinene carries the resinous green of pine and frankincense. Structure predicts odour with reasonable confidence. Structure does not predict emotion.
 
 ---
 

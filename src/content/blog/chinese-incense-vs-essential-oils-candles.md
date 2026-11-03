@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Incense, an oil diffuser, and a candle all put fragrance into a room, but each gets there by a different physical path — burning plant matter, misting a distilled oil, or melting a wax fuel — so the real choice among them is a choice about smoke, flame, and how much watching the device needs.
 
-**Key facts:** Incense works by combustion, or by warming wood and resin until they give up scent — smoke and ash are part of the bargain. A diffuser turns volatile oil into mist, with nothing burning. A candle consumes wax as fuel, so fragrance arrives with light and a trace of soot. None of the three treats anything.
+## Key facts
+
+Incense works by combustion, or by warming wood and resin until they give up scent — smoke and ash are part of the bargain. A diffuser turns volatile oil into mist, with nothing burning. A candle consumes wax as fuel, so fragrance arrives with light and a trace of soot. None of the three treats anything.
 
 ---
 

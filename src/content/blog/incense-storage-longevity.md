@@ -13,7 +13,7 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Keep incense sealed in a cool, dark, dry place, away from moisture and from anything strongly scented. Stored that way, dry sticks, cones, coils, and resins hold their fragrance for years; the four things that undo them are damp, warmth, ultraviolet light, and neighbouring smells.
 
-**Key facts:**
+## Key facts
 
 - Incense has no fixed expiry date; decline follows conditions, not a calendar — and water is the cruelest enemy because it blocks ignition rather than rotting the material.
 - Sealing does two jobs — keeps moisture and odours out, keeps the contents from children and pets — and a plain container in a good location beats an expensive one in a bad one.

@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Ambiance incense is scent used as background architecture for a room — a warm wood or resin that fills the space without demanding attention, timed to the occasion rather than to a personal ritual. Cedar, sandalwood, and frankincense do this well because their heavy molecules linger; bright citrus and light florals do not, because they leave before the room has noticed them.
 
-**Key facts:** Ambiance is a fill problem, not an intensity problem. The right result is a scent you notice on entering and stop noticing after a minute. Format decides duration, placement decides distribution, and ventilation decides whether the room smells fresh or used.
+## Key facts
+
+Ambiance is a fill problem, not an intensity problem. The right result is a scent you notice on entering and stop noticing after a minute. Format decides duration, placement decides distribution, and ventilation decides whether the room smells fresh or used.
 
 ---
 

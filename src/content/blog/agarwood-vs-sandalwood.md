@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** 沉香 (agarwood) and 檀香 (sandalwood) are the two woods that hold up classical Chinese incense, yet the way each one becomes fragrant is a mirror image of the other. Agarwood is not a tree species but a *wound response* — an *Aquilaria* tree, once injured, saturates its own heartwood with resin until the wood turns aromatic. Sandalwood flips this: a *Santalum* tree simply carries its perfume in the mature core while standing perfectly healthy, no damage needed. Agarwood smells dark, resinous, sweet, and shifting; sandalwood smells warm, creamy, and steady. Both are faked on a large scale, though through entirely separate tricks.
 
-**Key facts:** Agarwood is heartwood changed by resin inside the *Aquilaria* genus (Thymelaeaceae); sandalwood is naturally scented heartwood of *Santalum* (Santalaceae). Neither is a tapped tear of resin. Both are warmed rather than flamed in practice — agarwood so a staged aroma can unfold, sandalwood so a slow cooked note can surface. Neither outranks the other; each fills a different seat in a blend.
+## Key facts
+
+Agarwood is heartwood changed by resin inside the *Aquilaria* genus (Thymelaeaceae); sandalwood is naturally scented heartwood of *Santalum* (Santalaceae). Neither is a tapped tear of resin. Both are warmed rather than flamed in practice — agarwood so a staged aroma can unfold, sandalwood so a slow cooked note can surface. Neither outranks the other; each fills a different seat in a blend.
 
 ---
 

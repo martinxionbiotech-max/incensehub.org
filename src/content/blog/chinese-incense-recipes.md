@@ -16,7 +16,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A 香方 (xiāngfāng) is the Chinese equivalent of a working recipe: materials, the share each one takes, and the steps that make them burnable. It was composed to be executed rather than admired, and the handbooks (香谱) hold hundreds of examples.
 
-**Key facts:** This hub carries seven of those formulas, from a court blend needing two agarwood grades to a scholar's roasted seed. The manuals they come from remain almost untouched in English, and that neglect is what the cluster answers.
+## Key facts
+
+This hub carries seven of those formulas, from a court blend needing two agarwood grades to a scholar's roasted seed. The manuals they come from remain almost untouched in English, and that neglect is what the cluster answers.
 
 ---
 

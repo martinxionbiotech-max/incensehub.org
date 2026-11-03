@@ -13,7 +13,7 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A gram of incense puts about 45 milligrams of particles into the air; cigarette tobacco is reported at about 10 milligrams. The four-to-one gap measures emission, not risk — and "natural" says what the paste holds, not what the ember gives off.
 
-**Key facts:**
+## Key facts
 
 - Emission: ~45 mg of particles per gram burned versus ~10 mg/g for cigarettes (ALA; JNMA, PMC7654492) — fine solids, aldehydes, volatile organics, carbon monoxide, and PAHs (PMC9058426).
 - Hanoi homes burning incense showed indoor PM2.5 about 120% higher — a room average near 201 µg/m³ and a one-minute peak near 825 µg/m³.

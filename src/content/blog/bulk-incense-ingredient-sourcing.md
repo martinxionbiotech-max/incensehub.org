@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Buying incense stock in bulk means ordering plant material by weight — heartwood, gum-resin, leaf, peel, seed — instead of by the packet, and holding the supplier to a written brief on every delivery after the first. The stock is the simple part. The difficult part is proving that sack ten still matches sack one.
 
-**Key facts:** This page covers the raw stock under finished sticks and cones, not stick-making. It quotes no prices, minimums, or capacity figures; those are set per supplier.
+## Key facts
+
+This page covers the raw stock under finished sticks and cones, not stick-making. It quotes no prices, minimums, or capacity figures; those are set per supplier.
 
 ---
 

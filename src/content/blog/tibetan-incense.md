@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** 藏香 is a formula, not a note. What arrives in the box is a thick stick rolled by hand from a blended herbal paste, and its character — resinous, herbal, faintly bitter, smouldering rather than sweet — comes from the combination rather than from any single ingredient. A shopper hunting "the smell of Tibet" is hunting the wrong object.
 
-**Key facts:** These sticks run thicker than Indian agarbatti and carry no bamboo splint, because a heavy rolled paste is structural on its own. The recipes descend from Sowa Rigpa, the Tibetan medical system, and from monastic practice; a typical list runs to dozens of botanicals. This page treats the material as a cultural and aromatic craft and asserts nothing about health or spiritual effects.
+## Key facts
+
+These sticks run thicker than Indian agarbatti and carry no bamboo splint, because a heavy rolled paste is structural on its own. The recipes descend from Sowa Rigpa, the Tibetan medical system, and from monastic practice; a typical list runs to dozens of botanicals. This page treats the material as a cultural and aromatic craft and asserts nothing about health or spiritual effects.
 
 ## Key Takeaways
 

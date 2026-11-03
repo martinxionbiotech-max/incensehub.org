@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** They are not cousins, whatever the shelving suggests. Agarwood (沉香) is *Aquilaria* heartwood whose damaged tissue has filled with resin over years — you are buying wood in a particular condition. Frankincense (乳香) is the exudate itself, tapped from *Boswellia* bark and hardened into tears. Wood carrying resin versus resin alone: that split governs how each is heated, how each is graded, and which frauds to expect.
 
-**Key facts:** *Aquilaria* belongs to Thymelaeaceae and *Boswellia* to Burseraceae — two families, and in agarwood's case a product defined by tissue condition rather than by species. Both want gentle warmth and both suffer under flame, though the physics differ. One is not superior to the other: they fill different roles in a formula and carry different risks.
+## Key facts
+
+*Aquilaria* belongs to Thymelaeaceae and *Boswellia* to Burseraceae — two families, and in agarwood's case a product defined by tissue condition rather than by species. Both want gentle warmth and both suffer under flame, though the physics differ. One is not superior to the other: they fill different roles in a formula and carry different risks.
 
 ---
 

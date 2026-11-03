@@ -12,7 +12,9 @@ last_reviewed: "2026-09-28"
 
 **Direct answer:** Light a stick in a Chinese study and you join a craft that has been written about, graded, and argued over for at least twenty centuries. The material is plant matter — heartwood, gum, leaf, flower — and the methods run from a simple smouldering stick to a buried coal that warms a sliver of wood without ever setting it alight.
 
-**Key facts:** 香道 (xiāngdào) is commonly taken for a Japanese invention, yet the flow of technique ran from China to Japan, not the reverse. Japan's kōdō grew out of the Song method of indirect heating (隔火焚香). The refined centre of the Chinese craft is 合香, the art of joining several materials into one compound under the four roles of 君臣佐使 — chief, minister, assistant, guide.
+## Key facts
+
+香道 (xiāngdào) is commonly taken for a Japanese invention, yet the flow of technique ran from China to Japan, not the reverse. Japan's kōdō grew out of the Song method of indirect heating (隔火焚香). The refined centre of the Chinese craft is 合香, the art of joining several materials into one compound under the four roles of 君臣佐使 — chief, minister, assistant, guide.
 
 ---
 

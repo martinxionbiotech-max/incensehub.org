@@ -17,7 +17,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Two products sit on the same shelf under different names. One is aromatic wood that has been through a mill and come out as grains; the other is aromatic wood that has been sawn or split and left in pieces. The first is built to be combined with other materials and formed. The second is built to be heated on its own. Neither is a higher grade of the tree — they are two ways of presenting it.
 
-**Key facts:** A mill turns one block into many small bodies, and every fresh face lets scent leave sooner. A piece keeps its inside closed, so warmth must work inward and the note arrives over time. Grains are bought against a written range (screen, water content, freedom from filler); pieces are bought against what shows on the surface (resin bands, grain, pale sapwood). Agarwood has its own inspection and adulteration problems, covered separately in [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/); what follows applies to aromatic woods broadly.
+## Key facts
+
+A mill turns one block into many small bodies, and every fresh face lets scent leave sooner. A piece keeps its inside closed, so warmth must work inward and the note arrives over time. Grains are bought against a written range (screen, water content, freedom from filler); pieces are bought against what shows on the surface (resin bands, grain, pale sapwood). Agarwood has its own inspection and adulteration problems, covered separately in [agarwood powder vs chips](/blog/agarwood-powder-vs-chips/); what follows applies to aromatic woods broadly.
 
 ## Key Takeaways
 

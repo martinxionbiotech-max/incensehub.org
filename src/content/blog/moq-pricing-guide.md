@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Incense at business-to-business scale is priced by quotation, not by a published list, because the unit cost is a function of choices the buyer makes at inquiry time — material grade, run length, customization, packaging, and delivery terms. A number issued without those inputs is not a price; it is a placeholder.
 
-**Key facts:** This page explains why the quotation model exists, what a well-built quote contains, how to read one line by line, and how to compare two quotes that were written on different terms. It states no MOQ figures, no unit prices, and no margins. Those values are genuinely settled per inquiry, and any page that prints them is either quoting one fixed configuration or inventing a number.
+## Key facts
+
+This page explains why the quotation model exists, what a well-built quote contains, how to read one line by line, and how to compare two quotes that were written on different terms. It states no MOQ figures, no unit prices, and no margins. Those values are genuinely settled per inquiry, and any page that prints them is either quoting one fixed configuration or inventing a number.
 
 ## Key Takeaways
 

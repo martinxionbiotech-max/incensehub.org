@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A spec sheet is a promise and a certificate of analysis is a measurement, and neither substitutes for the other. The sheet states what the supplier undertakes to ship — species, plant part, form, mesh, moisture band, burn behaviour, packing. The certificate states what somebody actually measured on a particular lot, and it only means something when the lot number, the test method, and the issuing laboratory can all be checked.
 
-**Key facts:** Nothing in international trade dictates the contents of a botanical certificate, which means the issuing party defines it. Three probes sort a useful document from a decorative one: the lot identifier must match this consignment, every line must carry a named method, and the laboratory behind it must be checkable through a registry you reach yourself.
+## Key facts
+
+Nothing in international trade dictates the contents of a botanical certificate, which means the issuing party defines it. Three probes sort a useful document from a decorative one: the lot identifier must match this consignment, every line must carry a named method, and the laboratory behind it must be checkable through a registry you reach yourself.
 
 ---
 

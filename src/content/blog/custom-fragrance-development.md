@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Custom incense fragrance development converts a written scent brief into a specification a factory can repeat. Six gates carry the work: brief, formula direction, development sample, revision rounds, production sample, scale-up. Schedule is governed by how many revision rounds your brief and your feedback demand — that loop, not a promised date, decides when you ship.
 
-**Key facts:** What follows is written from the buyer's chair. It covers the brief as a technical document, the revision loop as a convergence process, the handover test that separates a lucky sample from a product, and the questions that decide whether your formula is an asset or a dependency. No timeline, price, or minimum quantity appears here on purpose: those are project variables, fixed per engagement.
+## Key facts
+
+What follows is written from the buyer's chair. It covers the brief as a technical document, the revision loop as a convergence process, the handover test that separates a lucky sample from a product, and the questions that decide whether your formula is an asset or a dependency. No timeline, price, or minimum quantity appears here on purpose: those are project variables, fixed per engagement.
 
 ---
 

@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A stick and a cone are the same dough shaped two ways, and the shape — not the recipe — sets the clock. A long narrow rod runs roughly twenty to sixty minutes; a squat pyramid runs roughly ten to fifteen. Neither is the upgrade of the other: the pick follows session length, smoke, and whether you want something to watch.
 
-**Key facts:** A pyramid puts a wide apron of paste under the glow, so it spends itself faster and hotter, with a denser column of smoke. A rod draws the same material out slowly and evenly. Treat run time as a spread, not a guarantee — bulk, packing and recipe all shift it.
+## Key facts
+
+A pyramid puts a wide apron of paste under the glow, so it spends itself faster and hotter, with a denser column of smoke. A rod draws the same material out slowly and evenly. Treat run time as a spread, not a guarantee — bulk, packing and recipe all shift it.
 
 ---
 

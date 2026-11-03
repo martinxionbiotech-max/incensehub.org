@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** An incense stick is a slender rod of fragrant paste that smolders for roughly 20 to 60 minutes, made one of two ways — a coating pressed over a thin bamboo splint, or a solid cylinder with no splint inside at all.
 
-**Key facts:** The two builds are **bamboo-core** (heavier, the Indian and Chinese style, around 45–60 minutes) and **coreless** (lighter, the Japanese and Tibetan style, around 25–30 minutes and noticeably less smoke). How long one lasts tracks its length, its gauge, and its packing — not its scent.
+## Key facts
+
+The two builds are **bamboo-core** (heavier, the Indian and Chinese style, around 45–60 minutes) and **coreless** (lighter, the Japanese and Tibetan style, around 25–30 minutes and noticeably less smoke). How long one lasts tracks its length, its gauge, and its packing — not its scent.
 
 ## The Core Decides Almost Everything
 

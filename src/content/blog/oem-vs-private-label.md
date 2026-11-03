@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** The distinction is about **who does the product work**. Under OEM, a factory turns a brief you wrote into a product: your scent direction, your dimensions, your packaging, your brand. Under private label, the factory's product already exists and you buy the right to put your name on it. Cost, timeline, minimums, and the ownership of the recipe all follow from that split.
 
-**Key facts:** The test is counterfactual. If the product would exist whether or not you ever contacted the factory, you are buying private label. If it exists because you briefed it, you are buying OEM. Neither route publishes prices or minimums, because both are quoted against a specific product, quantity, packaging set, and destination. Neither is superior in the abstract; they answer different questions.
+## Key facts
+
+The test is counterfactual. If the product would exist whether or not you ever contacted the factory, you are buying private label. If it exists because you briefed it, you are buying OEM. Neither route publishes prices or minimums, because both are quoted against a specific product, quantity, packaging set, and destination. Neither is superior in the abstract; they answer different questions.
 
 ---
 

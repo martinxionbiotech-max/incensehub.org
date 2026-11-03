@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 <img src="/images/sandalwood-powder-wood-1200x675.webp" alt="Sandalwood powder in a ceramic dish beside a raw sandalwood block" width="1200" height="675" loading="lazy">
 
-**Key facts:** *Santalum album* sets the reference. *S. spicatum* (Australia), *S. austrocaledonicum* (New Caledonia), and *S. paniculatum* (Hawaii) supply most of what arrives as relatives. Decades of growth and a tight legal supply are what make honest goods dear — and what make bargains suspicious.
+## Key facts
+
+*Santalum album* sets the reference. *S. spicatum* (Australia), *S. austrocaledonicum* (New Caledonia), and *S. paniculatum* (Hawaii) supply most of what arrives as relatives. Decades of growth and a tight legal supply are what make honest goods dear — and what make bargains suspicious.
 
 ## Key Takeaways
 

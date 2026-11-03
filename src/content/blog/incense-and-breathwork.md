@@ -13,7 +13,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** In breathwork, incense is a place to put your attention. The scent gives a wandering mind something constant to notice, and the smoke gives the exhale something slow to follow. It is a practice aid, not a treatment, and nothing here claims that a fragrance changes how your lungs work.
 
-**Key facts:** A breathing practice needs two things — a pattern to follow and a cue to return to when attention drifts. Incense supplies the second, in two forms: an aroma that stays steady without moving, and a column of smoke that rises at a visibly slow pace. Both are ordinary perceptual anchors, the same category as a candle flame or a counted breath, and the whole method fits in ten minutes with one stick and one chair.
+## Key facts
+
+A breathing practice needs two things — a pattern to follow and a cue to return to when attention drifts. Incense supplies the second, in two forms: an aroma that stays steady without moving, and a column of smoke that rises at a visibly slow pace. Both are ordinary perceptual anchors, the same category as a candle flame or a counted breath, and the whole method fits in ten minutes with one stick and one chair.
 
 ---
 

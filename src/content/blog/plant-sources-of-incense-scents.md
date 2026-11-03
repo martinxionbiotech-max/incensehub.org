@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A classic incense scent traces back to one plant part — the heartwood of sandalwood, an exudate from frankincense, a jasmine petal, citrus peel, a clove bud, cassia bark. Once you can name the part, you know the material class, and the class predicts both the smell and the behaviour over heat.
 
-**Key facts:** Nothing a buyer can read on a label predicts the burn better than the plant part. Wood and resin are dense and slow, so they hold a blend down. Petals are fragile and mostly reappear as accords, because the raw material scorches. Peel, bud and bark flash bright and leave early. One material in the trade is scentless by design — makko, the binder that gives a stick its shape.
+## Key facts
+
+Nothing a buyer can read on a label predicts the burn better than the plant part. Wood and resin are dense and slow, so they hold a blend down. Petals are fragile and mostly reappear as accords, because the raw material scorches. Peel, bud and bark flash bright and leave early. One material in the trade is scentless by design — makko, the binder that gives a stick its shape.
 
 ## Mapping scent to plant part
 

@@ -19,7 +19,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** A scent wheel sorts incense by atmosphere instead of by ingredient list — a bright end, an airy floral middle, a steady woody stretch, and a deep resinous close. Each band holds a handful of materials and the occasions people reach for them, so the wheel reads in both directions: from the moment you have in mind to a material, or from a material you already love to the kind of moment it suits.
 
-**Key facts:** "Atmosphere" is a cultural and sensory description — bright, airy, warm, enveloping — not a claim about the body. The wheel is a choosing aid. It describes how a material reads and when people want that reading; it says nothing about what a scent does inside a person.
+## Key facts
+
+"Atmosphere" is a cultural and sensory description — bright, airy, warm, enveloping — not a claim about the body. The wheel is a choosing aid. It describes how a material reads and when people want that reading; it says nothing about what a scent does inside a person.
 
 ## Key Takeaways
 

@@ -14,7 +14,9 @@ author: "Landeng Tech Team"
 
 **Direct answer:** 二苏旧局 is a contemporary 合香 by 陈云君 (Chen Yunjun) from his *燕居香语* — not an ancient 香谱 text — built on a wood core of agarwood and sandalwood, lifted by frankincense, grounded by amber, and finished with a honey binder and a jasmine coat.
 
-**Key facts:** 苏轼 and 苏辙, the Song brothers known as the "two Su" literati, supply the name — an evocative label rather than a historical record. What the formula teaches best is its 佐 (assistant) seat, filled by two materials that pull in opposite directions.
+## Key facts
+
+苏轼 and 苏辙, the Song brothers known as the "two Su" literati, supply the name — an evocative label rather than a historical record. What the formula teaches best is its 佐 (assistant) seat, filled by two materials that pull in opposite directions.
 
 ## The Recipe, and the Boundary It Sets
 
