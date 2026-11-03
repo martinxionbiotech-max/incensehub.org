@@ -11,9 +11,16 @@ brand: "IncenseHub"
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** 江南李主帐中香 belongs to the classical 合香 (hé xiāng, layered blending) tradition and carries the name of 李煜 (Li Yu), the Southern Tang's last ruler — "江南李主" being "the Lord of Jiangnan." In its best-known form, agarwood powder and a trace of sandalwood are packed into hollowed goose pears, steamed three times, and left with a clean, sweet fruit character that enters the wood before burning.
+> **Direct answer:** 江南李主帐中香 belongs to the classical 合香 (hé xiāng, layered blending) tradition and carries the name of 李煜 (Li Yu), the Southern Tang's last ruler — "江南李主" being "the Lord of Jiangnan" — and in its best-known form agarwood powder and a trace of sandalwood are packed into hollowed goose pears, steamed three times, and left with a clean, sweet fruit character that enters the wood before burning.
 
-**Key facts:** 沉香末一两，檀香末一钱，鹅梨十枚 — one liǎng of agarwood powder, one qián of sandalwood powder, ten goose pears. The 香乘 (Xiang Cheng) preserves several versions of the formula, which makes this one of the best-documented recipes in the classical canon. The attribution to Li Yu is traditional rather than documented, and the pear cultivar named in the text is not fixed today.
+## Key facts
+
+- **Formula:** 沉香末一两，檀香末一钱，鹅梨十枚 — one liǎng of agarwood powder, one qián of sandalwood powder, ten goose pears.
+- **Method:** hollow the pears, fill them with the mixed powders, reseal, steam three times (蒸三溜), then peel, grind, blend, and age (久窨) before burning.
+- **Ratio:** 10:1 agarwood to sandalwood by weight; the proportion is the durable instruction, while the gram values behind 两 and 钱 drifted by dynasty.
+- **Record:** the 香乘 (Xiang Cheng), a Ming compilation, preserves several versions of the formula, which makes this one of the best-documented recipes in the classical canon.
+- **Attribution:** the link to Li Yu is traditional rather than documented, and the pear cultivar named in the text is not fixed today.
+- **Variants:** three deliveries of one idea — pear infusion, pear juice steamed into wick-sized wood, and a resin-and-spice base — plus a hundred-day storax soak.
 
 <img src="/images/recipe-jiangnan-pear-bedchamber-800x533.webp" alt="A pear with a small censer and silk cloth in soft window light" width="800" height="533" loading="lazy">
 
@@ -139,6 +146,10 @@ Reading the name as a specification explains choices that otherwise look arbitra
 What is stable is the ratio, the sequence, and the role assignments. Agarwood powder with a tenth of its weight in sandalwood is workable at any scale, and hollowing, sealing, and steaming three times can be repeated with ordinary equipment — the text's silver vessel is a heat-conduction choice, not a magic ingredient.
 
 What cannot be matched is the material. Old-growth agarwood with dense resin is not plantation wood, and the 鹅梨 is gone as a named cultivar. Judge the result against the formula's logic — does the chief dominate, does the fruit sit above rather than beside, does the blend read as one thing — rather than against a memory of how the original might have smelled. [need-source] on exact modern substitutions for 鹅梨.
+
+## Evidence status
+
+What the page reports is a manuscript tradition, not a test result. The formula, the three steamings, and the aging step are recorded in the 香乘 and repeated in later compilations; that makes them documented practice, not proof that the original materials behaved as described. The explanation of steaming as a transfer process is physical reasoning about heat, water, and capillary uptake, not a measurement taken on a reconstructed batch. The gram values attached to 两, 钱, and 分 are period estimates, which is why the page doses by proportion. The attribution to Li Yu is traditional and unverified, and the pear cultivar cannot be identified with certainty. No health claim is made for the blend, and any smoke it produces is an exposure to ventilate rather than a benefit.
 
 ## FAQ
 

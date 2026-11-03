@@ -12,9 +12,9 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** A maker buying agarwood is buying wounded wood with a paper description — a named tree, a known district, a resin band, a form as shipped, and a water reading, each tied to a method. Until that description exists, every figure on the table is a number with no referent.
+> **Direct answer:** A maker buying agarwood is buying wounded wood with a paper description — a named tree, a known district, a resin band, a form as shipped, and a water reading, each tied to a method, and until that description exists every figure on the table is a number with no referent.
 
-**Key facts:**
+## Key facts
 
 - The traded wood is the dark core that forms around injury; how much of it a piece holds varies block by block, even inside one log.
 - Most volume on the market is farmed. Forest wood is limited, takes decades to lay down, and often needs licences.
@@ -320,6 +320,10 @@ Three kinds of record get conflated in a sales pitch. Ritual: centuries of use i
 | 让步接收 | ràngbù jiēshōu | Taking a lot below the brief, with an adjustment |
 
 Two terms repay attention. 含水率 is the one to listen for, since a seller who volunteers both a water figure and a method has been asked before. 让步接收 names the concession explicitly, which helps: a middle remedy with a name is easier to haggle over than an argument about goodwill.
+
+## Evidence status
+
+The checks described here sit at different levels of proof, and the page treats them that way. The water bands (沉水, 半沉半浮, floating) are trade rules of thumb read from density, and the doctoring methods named above exist because a float result can be manufactured; none of that is a laboratory measurement. Water content is only comparable when the method and portion are recorded, which is why an oven-dry figure and a handheld meter reading are not interchangeable. Species identification is anatomy under a microscope and cannot be settled from a photograph, a scent, or a species sheet the seller wrote. The old pharmacy's language about the wood is recorded belief rather than clinical evidence, and this page makes no health claim for any grade.
 
 ## FAQ
 

@@ -13,9 +13,17 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** Two arts, one word. 香道 names a field in Chinese and a bounded discipline in Japanese, and the difference is not decoration: one side composes materials into a formula, the other warms a single graded wood and follows it. The method travelled east; the codification, the lineages, and the scoring stayed Japanese.
+> **Direct answer:** Two arts, one word — 香道 names a field in Chinese and a bounded discipline in Japanese, and the difference is not decoration: one side composes materials into a formula, the other warms a single graded wood and follows it, and the method travelled east while the codification, the lineages, and the scoring stayed Japanese.
 
-**Key facts:** The covered-coal arrangement 隔火焚香 is documented in Song China and is generally understood to have crossed with Buddhist and tea traffic, taking formal shape in the Muromachi period (c. 1336–1573). One column of the comparison runs warm and layered; the other runs spare and close to smokeless.
+## Key facts
+
+- **Scope:** 香道 names a whole field of practice in Chinese — sticks, formulas, wood grading — and a bounded, school-based discipline in Japanese; the comparison runs warm and layered on one side, spare and close to smokeless on the other.
+- **Method:** the covered-coal arrangement 隔火焚香 is documented in Song China, preserved in 周嘉胄's 香乘, and takes formal shape in Japan in the Muromachi period (c. 1336–1573).
+- **Direction:** the textual record supports a transfer eastward with monastic and tea traffic; no surviving document names who carried it or when.
+- **Verb:** kōdō's working verb is 聞, to listen, rather than 嗅, to smell, which makes reception something a sitter can be right or wrong about.
+- **Grading:** China sorts by density with 沉水 and places 奇楠 above that ladder; Japan uses the inherited sensory frame rikkoku gomi with kyara at the summit.
+- **Formats:** China multiplied forms — stick, coil, cone, pressed seal, loose powder — while Japan narrowed to the warmed chip and the coreless stick, with nerikō as the blended exception.
+- **Games:** kumikō, and especially genjikō, scores a sitter's ability to match one warmed chip to another; Chinese testing measured the material instead.
 
 ## Key Takeaways
 
@@ -259,6 +267,10 @@ There is one claim this page refuses outright. Nothing here suggests that burnin
 Three situations repay it. A stick smells flat and you cannot tell whether the formula is weak or the batch was rushed: the assembled side tells you to look at processing and balance. A chip turns harsh before it opens: the receptive side tells you the heat ran past the window. A shop cannot explain what it sells: the two-column table tells you which question it failed to answer.
 
 Allegiance is the least useful thing to take away. Readers who decide they are "a kōdō person" or "a Chinese incense person" after an afternoon of reading have usually chosen a team rather than a practice. The traditions are old enough to survive without supporters, and the reader is the one who loses by narrowing too early.
+
+## Evidence status
+
+The historical claims on this page divide into three kinds, and the page keeps them apart. The existence of the covered-coal method in Song China is textual: 隔火焚香 appears in Song material and in Ming compilations such as 香乘, so it is recorded practice rather than reconstruction. The crossing to Japan is an inference from converging secondary accounts — a pattern of monastic, mercantile, and tea traffic plus a Japanese practice that adopts the arrangement and later codifies it — and no surviving document names a carrier or a date. The grading vocabularies on both sides are inherited trade and connoisseurial frames, not assay results; a sink test measures density and says nothing about species or district. Nothing here is a health claim, and the smoke disclosure stands: indirect heating reduces particulate output against a burning stick, and it does not eliminate it.
 
 ## FAQ
 
