@@ -13,9 +13,23 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** 香篆 (xiāng zhuàn, "incense seal"; also 打香印, "stamping incense") is loose powder pressed into a carved channel with a metal mold and lit at one end, so the ember walks the design in sequence. It is a picture, a slow clock, and an exercise in patience at the same time.
+> **Direct answer:** 香篆 (xiāng zhuàn, "incense seal"; also 打香印, "stamping incense") is loose powder pressed into a carved channel with a metal mold and lit at one end, so the ember walks the design in sequence.
 
-**Key facts:** The pattern must be one unbroken line, or the burn dies at the gap. A known line length gives a known burn duration, which is why the form served as a household timer. The craft's difficulty sits in the fill and the lift, not in the beauty of the mold.
+## Key facts
+
+The format does three jobs at once — a picture, a slow clock, and an exercise in patience:
+
+- **One continuous path.** A break in the line is a break in the burn, so the design has to run from first spark to last ash without a gap.
+- **Length sets the interval.** Fix the pattern and the powder, and a longer path simply takes longer to consume, which is why the form served as a household timer.
+- **Five steps, two of them hard.** Level the ash, set the mold, fill the channels, lift the plate straight up, light one end; the fill and the lift carry nearly all of the risk.
+- **Powder decides the burn.** Coarse fragments bridge in a narrow channel, damp powder clumps and refuses to level, and a binder such as makko paces the smolder.
+- **Still air is a condition, not a preference.** A draft feeds one edge of the ember more oxygen, so the front tilts and the line snaps.
+- **The bed outranks the mold.** A modest mold on a well-packed ash bed beats an antique on a lumpy one.
+- **Read the residue.** A continuous ribbon of spent ash is a clean run; a break near the start points to lighting, one in the middle to a thin fill or a draft.
+
+## Evidence status
+
+The timer claim rests on recorded practice rather than on a measured burn-rate study: the Chinese incense manuals cited below describe the form and its use, while the duration of any single seal depends on the powder, how evenly it was packed, and the air in the room. Treat quoted burn times as indicative rather than calibrated, and the craft guidance here as workshop experience rather than laboratory data.
 
 ## What the Object Actually Is
 

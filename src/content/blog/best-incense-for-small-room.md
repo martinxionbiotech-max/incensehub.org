@@ -14,9 +14,23 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** In a tight room the constraint is air volume, not fragrance quality, so the best pick is the lowest-smoke format that still delivers the material you want: resin warmed on an electric heater first, a thin coreless stick second, a half stick or short cone third. Anything thick, slow, or continuous spends the room's air long before it finishes.
+> **Direct answer:** In a tight room the constraint is air volume, not fragrance quality, so the best pick is the lowest-smoke format that still delivers the material you want — resin warmed on an electric heater first, a thin coreless stick second, a half stick or short cone third.
 
-**Key facts:** Two numbers decide the outcome — how many particles a format releases per minute and how long it keeps releasing them. A small room shrinks the body of air those particles divide into, so both numbers matter more here, not less.
+## Key facts
+
+Two numbers decide the outcome — how many particles a format releases per minute and how long it keeps releasing them — and a small room shrinks the body of air those particles divide into, so both matter more here, not less. Anything thick, slow, or continuous spends the room's air long before it finishes.
+
+- **Concentration is particles divided by air.** Shrink the denominator and the same stick reads stronger and smokier without changing at all.
+- **Load is rate times minutes.** A mild coil run all evening can cost more air than a strong stick that stops after ten minutes.
+- **Warmed resin is the low-smoke end.** Heat releases the aroma with no combustion, and you switch the source off when you choose.
+- **A thin coreless stick is the middle option.** Low output and a 20–30 minute run.
+- **A standard thick stick is borderline.** High output over 45–60 minutes, so it needs moving air to be workable.
+- **A long coil is the worst fit.** It is a continuous source in the volume least able to absorb one.
+- **Clearance means replacement air.** A cracked window with the door shut often draws nothing, because fresh air has no path in.
+
+## Evidence status
+
+The dose table on this page is a practice-based starting point, not a measured standard: no chamber test was run for it, and ventilation, humidity, and a format's own output all move the number. The general claim — that indoor combustion adds fine particulate to the air, and that smaller volumes concentrate it — is the one supported by the public-health sources cited below. Room areas are planning aids for scaling a session, not safety thresholds, and nothing here is a medical claim.
 
 ---
 

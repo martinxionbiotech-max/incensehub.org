@@ -13,9 +13,23 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** One rule here admits no exceptions: no lit incense in a room where a bird is caged. For cats, dogs and every other animal the advice mirrors the human version — keep air moving, keep the material where paws and beaks cannot reach it, and leave a clear exit.
+> **Direct answer:** One rule here admits no exceptions — no lit incense in a room where a bird is caged — and for cats, dogs and every other animal the advice mirrors the human version: keep air moving, keep the material out of reach, and leave a clear exit.
 
-**Key facts:** The hazard is airborne smoke and fine particulate, plus the plain physical risk of a pet upsetting a lit holder. Panic is not warranted; care is.
+## Key facts
+
+The hazard is airborne smoke and fine particulate, plus the plain physical risk of a pet upsetting a lit holder. Panic is not warranted; care is.
+
+- **Birds sit at the top of the ladder.** Single-direction airflow through rigid lungs and air sacs means every particle in the room meets more living tissue, so the rule for a caged bird is no burn in that room at all.
+- **Cats come next.** Narrower airways than a dog's, and more reactivity to some fragrance compounds.
+- **Dogs rank lower, not exempt.** Smoke still irritates; tolerance is generally wider than a cat's.
+- **Fish and small caged animals are easy to forget.** Tanks and cages collect falling ash and drifting smoke, and an air pump drags room air across the water surface.
+- **Two hazards, two responses.** Smoke builds slowly and yields to air and distance; a swallowed resin tear or cone is immediate and belongs to a veterinarian or poison service.
+- **"Natural" describes ingredients, not smoke.** Dried plant matter still combusts into the same fine particles whatever the carton says.
+- **Placement does most of the work.** Raise the holder, set a catch tray beneath it, keep stock in a closed drawer, and leave a real route out of the room.
+
+## Evidence status
+
+The ranking on this page is a precautionary reading of respiratory anatomy, not the output of a dose-response study: no exposure measurement was made for this page, and no threshold is claimed for any species. The general point — that indoor combustion adds fine particulate to the air — is the one carried by the public-health sources cited below. Species-specific statements are precautionary guidance and do not replace veterinary advice.
 
 ---
 
