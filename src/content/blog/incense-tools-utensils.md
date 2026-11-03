@@ -16,9 +16,11 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** 香具 (xiāng jù) are the small hand tools of Chinese incense practice — chopsticks, a spoon, a spatula, tongs, a feather brush, and an ash tamper — used to place charcoal, carry resin, and shape the ash bed in the 隔火焚香 indirect-fire method. The classic grouping around them is 炉瓶三事, "three things at the burner": the censer (香炉), the incense box (香盒), and the tool holder (香瓶).
+> **Direct answer:** 香具 (xiāng jù) are the small hand tools of Chinese incense practice — chopsticks, a spoon, a spatula, tongs, a feather brush, and an ash tamper — used to place charcoal, carry resin, and shape the ash bed in the 隔火焚香 indirect-fire method.
 
-**Key facts**
+**Scope:** The classic grouping around them is 炉瓶三事, "three things at the burner": the censer (香炉), the incense box (香盒), and the tool holder (香瓶).
+
+## Key facts
 
 | Point | Detail |
 |---|---|
@@ -176,6 +178,10 @@ Keep everything dry. Tap ash off the tools after use, wipe metal with a cloth, a
 - 炉瓶三事 groups censer, box, and holder as a displayed composition; only the censer is essential.
 - Sticks and cones need no tool set; buy the kit only when you commit to resin and powder.
 - An electric heater is the low-effort route to the same gentle warmth.
+
+## Evidence status
+
+The tool names and the 炉瓶三事 grouping here rest on recorded practice and standard cultural references, not on a survey of surviving kits; workshop vocabularies really do differ, so a name is a description of a job rather than a fixed catalogue entry. The mechanism passages — ash depth slowing heat transfer, a metal edge gouging a soft bed, a wooden tip charring at ember temperature — are reasoning from the materials and the physics of the method, not measurements of any set in particular. Statements about what a beginner needs, or about display versus function, are editorial judgments marked as such. The page makes no health claim.
 
 ## Sources
 

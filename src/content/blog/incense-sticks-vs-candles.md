@@ -12,18 +12,19 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** An incense stick is a length of plant paste that burns down to an ember; a candle is a wax reservoir that feeds an open flame. That single fork — solid plant fuel against melted wax — sets the smoke, the residue, the burn time, and the fire risk that follow.
+> **Direct answer:** An incense stick is a length of plant paste that burns down to an ember, while a candle is a wax reservoir that feeds an open flame.
 
-**Key facts:** Both are combustion products, so neither leaves the air untouched. A stick typically finishes in about half an hour to an hour, while a candle can run for hours from one jar. The useful comparison is not which object is better, but which kind of burn suits the moment you have in mind.
+**Scope:** That single fork — solid plant fuel against melted wax — sets the smoke, the residue, the burn time, and the fire risk that follow. Both are combustion products, so neither leaves the air untouched, and the useful comparison is not which object is better but which kind of burn suits the moment you have in mind.
 
-## Key Takeaways
+## Key facts
 
-- The stick's fuel is a dried plant paste; the candle's fuel is solid wax holding fragrance.
-- The stick's reaction zone travels down a fixed rod. The candle's flame stays in one place while fuel rises to it.
-- Incense leaves ash and visible smoke; a candle leaves soot, often faint, plus spent wax.
-- Neither format is smoke-free, and neither is categorically the safer object.
-- Duration is a design difference, not a quality difference: a session against an evening.
-- The choice becomes simple once you name the job — brief material ritual, or long ambient light.
+- **Fuels:** the stick is ground wood, resin, and botanical material held in shape by a binder; the candle is wax with fragrance oil dispersed through it.
+- **Burn window:** a stick typically finishes in roughly 30–60 minutes; a jarred candle runs for hours and can be relit across several sessions.
+- **Shape of the burn:** the stick's ember travels down a fixed rod, while the candle's flame stays in one place and liquid fuel rises to it.
+- **Residue:** ash and visible smoke from the stick; soot, spent wax, and an empty vessel from the candle.
+- **Soot is a wick problem first:** a long or mushroomed wick feeds more melted wax than the flame can finish → carbon leaves unburned → visible smoke and a jar smudge.
+- **No clean option:** both add particulate matter to indoor air, and neither is categorically the safer object.
+- **Duration is design, not quality:** a stick is a session against a finish line, a candle is a reservoir that can be paused and resumed.
 
 ## Two Fuels, Two Kinds of Fire
 
@@ -193,6 +194,10 @@ You can, with more supervision than either needs alone. Two combustion sources i
 ### Q: Which suits a small room?
 
 A stick usually scents a small room faster because its paste releases a concentrated burst. A candle is gentler and more even over time, and its flame adds light that can make a small room feel larger. The trade-off is intensity against duration. In a very small room, either can become too much; start with a small stick or a single-wick candle and ventilate.
+
+## Evidence status
+
+The air-quality statements rest on general public-health material about combustion particles — the EPA and American Lung Association pages listed below — not on a test of any specific stick or candle. Burn times are the ranges manufacturers print, and they move with drafts, wick length, and room temperature, so read them as typical rather than guaranteed. The mechanism chains on this page (long wick → surplus fuel → carbon → smudge; tilted holder → ash fall → scorch) are physical reasoning about how each format burns, not lab results. The fire guidance follows standard clearance and unattended-burn rules; it is a precaution, not a safety rating for either category. No health claim is made in either direction.
 
 ## Sources
 

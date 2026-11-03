@@ -19,9 +19,19 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** Chinese incense has always been a practice with furniture. Alongside the materials sits a working set of vessels (香炉) and implements (香具): the Han-dynasty mountain censer known as the 博山炉, the Ming bronze collectible called the 宣德炉, and the small kit of tongs, spoons, and presses that makes smoke-free 隔火焚香 possible.
+> **Direct answer:** Chinese incense practice has always carried its own furniture — a working set of vessels (香炉) and implements (香具) running from the Han-dynasty mountain censer known as the 博山炉 and the Ming bronze collectible called the 宣德炉 to the tongs, spoons, and presses that make smoke-free 隔火焚香 possible.
 
-**Key facts:** The hardware splits into two families — direct burning, which needs little more than a stand, and indirect heating, which needs a full censer setup. The words "censer," "burner," and "holder" are not interchangeable, and the difference decides what a buyer should purchase first.
+**Scope:** The hardware splits into two families — direct burning, which needs little more than a stand, and indirect heating, which needs a full censer setup. The words "censer," "burner," and "holder" are not interchangeable, and the difference decides what a buyer should purchase first.
+
+## Key facts
+
+- **Two families:** direct burning covers sticks, coils, and cones and asks for a holder plus an ash catcher; indirect heating covers resin, chips, and powder and asks for a censer, an ash bed, a heat source, a thin plate, and the tool set.
+- **Vocabulary:** a censer (香炉) encloses the material or holds it on a plate, a holder supports a solid stick or cone, and "burner" is the loose shop word that can mean either.
+- **Named vessels:** the 博山炉 is the Han-dynasty mountain-lidded censer; the 宣德炉 is the Ming bronze collectible, handled in this cluster under Ming bronze collecting.
+- **The lid is an air valve:** closing it starves the ember of oxygen → the burn drops from flame to smoulder → the aroma leaves more gently; too little ventilation puts the stick out.
+- **Mass is a heat sink:** a thick bronze or stone wall takes heat from the burning point without its surface temperature climbing much, while a thin tin or wooden tray heats fast and can scorch the material.
+- **The ash bed is the thermostat:** in 隔火焚香 the operator tunes temperature by shaping and packing ash, not by touching the coal.
+- **Buying order:** format first, then heat method, then vessel material, then a stable base, and tools last.
 
 ---
 
@@ -178,6 +188,10 @@ With one stable stick holder: wide base, heatproof body, a socket that grips the
 Because the vessel changes heat transfer, not the recipe. A heavy bronze or stone body draws heat away from the burning point, so the material stays cooler and releases aroma more slowly. A thin wall heats up fast and can scorch the base of the stick, which adds a bitter edge. The scent is the same material responding to a different thermal environment.
 
 ---
+
+## Evidence status
+
+The period attributions and vessel names here follow standard cultural-history references for the 博山炉 and the 宣德炉; no object in this cluster was examined for the page. The physical explanations — lid as air valve, mass as heat sink, ash as insulation — are reasoning from ordinary combustion and heat transfer rather than bench measurements of any specific burner. Statements about which vessel suits which format are editorial guidance on matching heat tolerance to temperature, not product testing.
 
 ## Sources
 
