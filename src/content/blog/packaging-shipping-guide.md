@@ -11,11 +11,21 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** An incense shipment crosses two systems on its way to a warehouse: a physical one, where packing has to keep a fragile, aromatic product intact, and a legal one, where a trade term, a tariff code, and a destination rule decide who pays and whether entry is allowed. Fix the packing spec, the term, the code, and the destination check in that order, before booking.
+> **Direct answer:** An incense shipment crosses two systems on its way to a warehouse: a physical one, where packing has to keep a fragile, aromatic product intact, and a legal one, where a trade term, a tariff code, and a destination rule decide who pays and whether entry is allowed. Fix the packing spec, the term, the code, and the destination check in that order, before booking.
 
 **Key facts:** Three linked decisions carry this page — how the goods are packed, which trade term assigns cost and risk, and how the shipment is classified at the border. References point to the U.S. tariff schedule, the U.S. import authority, the ICC trade terms, and the body that maintains the classification system. Freight, duty, and transit figures are left out on purpose: they vary by lane, season, and product, and belong in a quotation for one shipment.
 
 <img src="/images/wholesale-packaging-boxes-1200x675.webp" alt="Neutral kraft export packaging boxes on a warehouse table" width="1200" height="675" loading="lazy">
+
+## Key facts
+
+- **Three pack duties:** protect a fragile product, retain aroma, and carry the label the destination requires.
+- **Aroma path:** volatiles leave the material → enter the pack's headspace → escape wherever air can move; the seal is the specification.
+- **Desiccant limit:** it manages moisture already inside the pack and does not stop vapor leaving the product.
+- **Risk transfer:** FOB and CIF both pass risk at loading on board at origin; CIF only adds seller-paid freight and cover to the destination port.
+- **Classification:** the HS heading sets duty and admissibility; WCO maintains the system, USITC publishes the U.S. schedule, CBP administers entry.
+- **Document set:** invoice, packing list, entry declaration, origin certificate, CITES-style permit where a controlled material is present, and phytosanitary certificate for plant health.
+- **Landed cost:** goods, freight, insurance, duty, brokerage, port charges, and inland delivery.
 
 ## Key Takeaways
 
@@ -153,6 +163,10 @@ The failure people discuss is breakage. The one that quietly erodes margin is ov
 The misconception to correct is "more protection means a better shipment." It does not. A pack needs to survive the handling it will actually receive and the transit it will actually make. Beyond that point, every extra layer is cost with no corresponding benefit, and it can even work against the product by adding handling steps. Specify against the real threat — drop, crush, moisture — for the specific form, and let the freight math set the ceiling.
 
 *This is the author's view, not a verified fact.*
+
+## Evidence status
+
+The trade rules described here are published instruments rather than measurements: Incoterms come from the ICC, headings and rates from the destination's tariff schedule, and entry procedure from the importing authority. They are recorded requirements that can be checked against the current edition, and they change — a term, a rate, or a permit condition may be revised between shipments. Nothing on this page is a quotation: freight, duty, and transit figures are deliberately absent because they are lane-specific. Treat the sections above as a checklist for verifying the current text, not as a substitute for it.
 
 ## FAQ
 

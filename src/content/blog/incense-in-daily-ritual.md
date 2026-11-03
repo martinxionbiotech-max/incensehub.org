@@ -12,13 +12,23 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Incense earns a place in a daily ritual as a cue, not as a substance: one recognizable scent, repeated at the same moment, comes to mark the start of an activity and the end of it. The repetition does the work. Nothing special has to be true about the smoke.
+> **Direct answer:** Incense earns a place in a daily ritual as a cue, not as a substance: one recognizable scent, repeated at the same moment, comes to mark the start of an activity and the end of it. The repetition does the work. Nothing special has to be true about the smoke.
 
 **Key facts:** Smell travels a short path into the brain's memory and feeling circuits, which is why an odour paired with a repeated moment becomes a learned signal. That is the plain, non-mystical account of why a stick of incense can hold a ritual together.
 
 <img src="/images/incense-daily-ritual-morning-1200x675.webp" alt="Morning scene with a teacup and a slender ribbon of smoke climbing from an incense holder." width="1200" height="675" loading="lazy">
 
 ---
+
+## Key facts
+
+- **Ritual frame:** a repeated sequence with a deliberate opening, a measured middle, and a performed close.
+- **Cue rule:** one scent per activity; a signal attached to two different states stops pointing at either.
+- **Olfactory route:** molecules → nasal receptors → olfactory bulb → amygdala and hippocampus.
+- **Contrast with sight and sound:** both relay through the thalamus first; smell takes the shorter path.
+- **Typical windows:** cone 15–30 minutes, rod 20–60 minutes, spiral 90 minutes to 4 hours, resin or powder until the warmer is switched off.
+- **Setting:** the same room, seat, and hour bundle into the cue; ventilation changes comfort, not the association.
+- **Scope limit:** the practice marks time and attention; it is not a treatment for any condition.
 
 ## What Turns a Sequence Into a Ritual
 
@@ -166,6 +176,10 @@ The practical adjustments are simple: burn when the room is empty, choose a mild
 A common mistake is to treat a bigger plume as a better ritual. A stick that fills the room makes the cue impossible to miss, but it also makes the session about the smoke rather than the activity. The useful target is a scent you notice when you sit down and forget while you work, which usually means a smaller room, a shorter burn or a thinner stick.
 
 Airflow is the variable to adjust first. A window, a door or an extractor changes the concentration more than a change of product will, and it costs nothing. If the room still feels heavy, reduce the burn time before buying a different scent; the cue does not depend on volume.
+
+## Evidence status
+
+The anatomy described here — receptors, bulb, amygdala, hippocampus — is standard textbook material, included to explain why a repeated scent can act as a cue, not to suggest that incense has been tested as a therapy. The burn windows are typical manufacturer ranges rather than results from a controlled trial, and they vary with format, airflow, and material. Statements about an association forming over weeks are behavioral reasoning from pairing and repetition; the page cites no clinical study and makes no claim about treating anxiety, insomnia, or any other condition. The ritual frame is a practice, not a prescription.
 
 ## FAQ
 

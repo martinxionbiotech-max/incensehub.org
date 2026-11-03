@@ -12,9 +12,19 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** One written character ties together two trees from different plant families. 檀香 (sandalwood) is the scented heartwood of *Santalum album*, an evergreen in Santalaceae that taps neighboring roots; 紫檀 (red sandalwood) is the crimson heartwood of *Pterocarpus santalinus*, a legume in Fabaceae. Scent buys the first; dye and density buy the second.
+> **Direct answer:** One written character ties together two trees from different plant families. 檀香 (sandalwood) is the scented heartwood of *Santalum album*, an evergreen in Santalaceae that taps neighboring roots; 紫檀 (red sandalwood) is the crimson heartwood of *Pterocarpus santalinus*, a legume in Fabaceae. Scent buys the first; dye and density buy the second.
 
 **Key facts:** 檀香 is the reference incense wood — creamy, soft, and used either as a formula's backbone or on its own. 紫檀 is a dense red timber from southern India, sold for pigment and carving, with a minor incense role as a background powder. 檀 is an honorific in both names, not a genus label. Only the binomial identifies the material.
+
+## Key facts
+
+- **檀香 — sandalwood:** *Santalum album*, family Santalaceae; a root-tapping evergreen that draws water and minerals from neighboring roots.
+- **紫檀 — red sandalwood:** *Pterocarpus santalinus*, family Fabaceae; a nitrogen-fixing legume native to the Eastern Ghats.
+- **Traded part:** aromatic heartwood for 檀香; crimson heartwood for 紫檀, with the pale sapwood discarded.
+- **Chemistry:** slow-forming santalols carry the creamy sandalwood note; santalin supplies the red pigment.
+- **Density:** a clean *P. santalinus* block typically sinks; sandalwood floats.
+- **Trade control:** *P. santalinus* sits on CITES Appendix II, so cross-border movement needs species-level permits.
+- **Name trap:** 檀 is an honorific register word in both names, not a genus label.
 
 ## Key Takeaways
 
@@ -130,6 +140,10 @@ The [sandalwood ingredient page](/ingredients/sandalwood/) and [red sandalwood i
 Three ideas cause most of the bad buying here. The first is a misconception worth naming outright: that red sandalwood is a red kind of sandalwood. It is wrong at the family level, and wrong about where the color and the scent come from. The second is that a high price guarantees authenticity; it does not, and both markets carry adulteration. The third is that the Chinese name resolves the question; 檀 is precisely the word that created the confusion. For a buyer, the binomial is the cheapest insurance available.
 
 *These are editorial judgments about buying practice, not laboratory findings.*
+
+## Evidence status
+
+The botanical and trade statements here are checkable against taxonomy and the CITES checklist: family placement, species names, and Appendix II status are recorded facts rather than inferences. The historical layer is different in kind. 香乘 preserves what 苏颂 wrote, so the yellow-white-purple scheme is evidence of how a Ming reader sorted 檀香, not evidence that the trees belong to one species. Aroma words — creamy, milky, softly spicy — are sensory descriptions, not measurements, and the density test is a field check that sorts a batch without proving a single piece.
 
 ## FAQ
 
