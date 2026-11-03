@@ -14,17 +14,16 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Citrus incense puts a fruit-bright opening at the front of a stick. The materials behind that opening run from sweet orange and mandarin to bergamot, yuzu, lemon, and lime; the only one with a long Chinese pedigree is 陈皮 (chénpí), peel that has been dried and left to mature. Every one of them leaves the ember quickly, so the note normally rides on wood or resin instead of standing alone.
 
-**Key facts:** Treat citrus as a cluster of opening notes rather than one substance. 陈皮 carries the historical Chinese thread, while most of what the modern trade sells is pressed or distilled oil, or a compounded scent, sitting on something slower. When a citrus stick still smells of fruit an hour in, the blend has been engineered — the useful question is engineered from what.
+## Key facts
 
----
+Citrus is a cluster of opening notes rather than one substance. 陈皮 (chénpí) carries the historical Chinese thread, while most of what the modern trade sells is pressed or distilled oil, or a compounded scent, sitting on something slower.
 
-## Key Takeaways
-
-- One label covers several materials: orange, mandarin, bergamot, yuzu, lemon, lime.
-- **陈皮 (chénpí)** — rind dried and matured — is the branch with Chinese roots; Xinhui in Guangdong is its best-known district.
-- A **limonene-rich terpene load** is the reason the opening is short.
-- Staying power comes from the layer beneath the fruit, or from a fixative doing the work.
-- "Energizing" and "focusing" describe an **aroma impression**, never a bodily effect.
+- **One label, several materials:** sweet orange, mandarin, bergamot, yuzu, lemon, lime.
+- **陈皮 (chénpí)** — mandarin rind dried and matured — is the branch with Chinese roots; Xinhui in Guangdong is its best-known district.
+- **A limonene-rich terpene load** is the reason the opening is short: small molecules quit a warm surface fast.
+- **Staying power comes from below:** the layer beneath the fruit, or a fixative doing the work.
+- **"Energizing" and "focusing"** describe an aroma impression, never a bodily effect.
+- **A stick that still smells of fruit an hour in** has been engineered — the useful question is engineered from what.
 
 ---
 
@@ -222,6 +221,10 @@ The scent reads bright and clean, and plenty of people enjoy that quality while 
 Keep them sealed, cool, and out of direct light. Citrus oils oxidise with air, heat, and ultraviolet exposure, and an oxidised top smells flatter and heavier than a fresh one. A closed container in a stable room slows that change; a sunny windowsill accelerates it. If a stick that used to open sharply now starts dull, the likely cause is storage rather than a change in the recipe.
 
 ---
+
+## Evidence status
+
+Two kinds of statement share this page and should not be read as one. The volatility account — citrus peel oil is limonene-rich, small molecules leave a warm surface quickly — is drawn from essential-oil literature and is measurable in principle. The 陈皮 material culture, including the standing of Xinhui and the effect of long storage on aroma, is recorded tradition and trade practice, not a laboratory standard. Scent descriptors stay qualitative throughout: "bright", "sharp", and "round" name an impression, not a value. No therapeutic, cognitive, or health effect is asserted here.
 
 ## Sources
 

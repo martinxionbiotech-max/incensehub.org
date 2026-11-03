@@ -14,7 +14,15 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Safe incense burning comes down to two moves: set it in the support that matches its shape, and never leave a lit ember alone. Those two habits cover nearly every incident, because nearly every incident is a wrong holder or an empty room.
 
-**Key facts:** The support is chosen by the shape, not by taste: a catch tray beneath a stick, a dish under a cone, a stand that will not shift for a coil, and a heatproof vessel or electric heater for resin. Four different objects, one unchanging logic.
+## Key facts
+
+- **Shape picks the support:** a catch tray beneath a stick, a dish under a cone, a stand that will not shift for a coil, a heatproof vessel or electric heater for resin — four objects, one logic.
+- **Each format fails differently:** a stick sheds ash and then its ember, a cone collapses into its own scorch mark, a coil crawls over one patch for hours, a resin coal runs hotter than an open flame.
+- **Placement is one idea:** keep the ember and its ash from ever reaching fuel — fireproof base, stable spot, bare space around it, shelter from drafts, out of reach.
+- **The last inch is the riskiest:** as the ember nears the holder the air gap closes, so heat radiates into the support and through it into the surface below.
+- **Material is a heat decision:** stone and thick ceramic contain heat; metal conducts it down; wood and plastic are rejected outright.
+- **Air is planned before the match:** ventilate for the smoke, but keep the burning tip out of the direct airflow that would feed it.
+- **The ember must be stopped and confirmed out** before the room is left.
 
 ---
 
@@ -201,6 +209,10 @@ No. Sleep is an unattended room with the lights off: you cannot watch the ember,
 Partly. The smoke problem shrinks outdoors because there is no sealed volume to fill, and a fallen stick lands on ground instead of a rug. The fire problem does not shrink: dry grass, leaf litter and wooden decking are fuel, and wind is stronger. Keep the matched holder and the supervision rule, and skip the burn in high wind or during a dry-spell fire warning.
 
 ---
+
+## Evidence status
+
+This page is a handling guide, not an instrumented study. The fire reasoning — heat crossing a thin base, conduction along metal, oxygen accelerating a smolder — follows from ordinary combustion behaviour and from regulator guidance on clearances and unattended open flame. No holder here was tested, no surface temperature is asserted, and no incident data is claimed. Passages marked as the author's view are judgment calls built on that reasoning rather than findings. The safety rules are deliberately conservative, so they hold whether or not a particular holder has ever failed in practice.
 
 ## Summary
 

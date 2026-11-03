@@ -15,7 +15,14 @@ author: "Landeng Tech Team"
 
 **Direct answer:** Incense smoke is fine particles plus volatile gases, the same categories a candle or a stove releases — so the honest answer to "does it pollute" is yes, and the honest fix is air movement rather than avoidance.
 
-**Key facts:** This is not a natural-versus-synthetic question. Plant material burns to smoke whatever the label says, and the smoke is the same for sticks, cones, coils, and resin. What changes the exposure is how much air moves through the room and how long the burn lasts.
+## Key facts
+
+- **Smoke is particles plus gases:** burning incense adds PM2.5 — under 2.5 µm, small enough to reach deep airways — and volatile organic compounds.
+- **The label changes nothing:** plant material burns to smoke whether it is called natural or not, and the emission is the same for sticks, cones, coils, and resin.
+- **Exposure is set by the room:** air turnover and burn duration decide the concentration, not the incense type.
+- **The baseline is other combustion:** a candle and a hot pan release the same pollutant families, so "clean air" is the wrong comparison.
+- **Ventilation comes first:** an open window or cross-draft outranks format, portion size, and any purifier used afterward.
+- **Sensitive occupants face a higher dose:** asthma, a compact sealed room, and birds raise the effective exposure without changing the substance.
 
 ## What Burning Incense Puts in the Air
 
@@ -126,6 +133,10 @@ A cross-draft adds a third pattern. Air entering one window and leaving another 
 **Direct answer:** A window opened after the fact clears the room faster, but it does not undo the exposure that already happened; ventilation during a burn is prevention, and ventilation afterward is damage control.
 
 My position, stated plainly: if the goal is the lowest total exposure, the window has to be open while the stick is smoldering, not ten minutes after it is out. A room that accumulated a dense cloud for an hour and was then aired for five minutes still delivered an hour of concentrated air to whoever was breathing it. For a daily user, treat "air it out afterward" as the minimum and "keep a draft moving during" as the habit that changes the outcome. The misconception to correct is that a fast clear-out erases what came before — it only shortens the tail. *The author's view, not a verified fact.*
+
+## Evidence status
+
+The particle and gas categories on this page are measured findings from indoor air-quality literature: incense smoke has been sampled and found to carry PM2.5 and VOCs, and the removal routes described above are standard aerosol behaviour. What is not measured here is any specific concentration, because the number moves with room volume, burn rate, and the product itself. The burning of incense as a practice is recorded tradition; the risk reasoning is inference from combustion and ventilation physics, not a bench test run for this page. Where the text says a room stays hazy, read it as a mechanism rather than a result.
 
 ## Summary
 
