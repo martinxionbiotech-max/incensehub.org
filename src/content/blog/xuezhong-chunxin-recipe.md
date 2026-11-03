@@ -12,9 +12,17 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** 雪中春信 ("Snow in Spring") is a classical 合香 (hé xiāng, compounded incense) linked by tradition to 苏轼 (Su Shi), though the link is legend rather than record. Its signature is a camphor (樟脑) note that reads cold against a warm wood base — winter turning into spring, rendered as scent.
+> **Direct answer:** 雪中春信 ("Snow in Spring") is a classical 合香 (hé xiāng, compounded incense) linked by tradition to 苏轼 (Su Shi), though the link is legend rather than record. Its signature is a camphor (樟脑) note that reads cold against a warm wood base — winter turning into spring, rendered as scent.
 
-**Key facts:** The 香乘 (Xiang Cheng), a Ming dynasty incense manual, preserves more than one formula under this name. In the best-known version camphor appears at one 钱 against a base measured in 两. That disproportion carries the lesson: the material that names a blend need not be the material that dominates it.
+## Key facts
+
+- **Type:** a classical 合香 (compounded incense), not a single-material formula.
+- **Signature note:** 樟脑 (camphor) at one 钱 against a base measured in 两 — a cold surface over a warm wood core.
+- **Chief material:** 檀香 (sandalwood) at one 两 in Version A; 沉香 (agarwood) at one 两 in Version B.
+- **Mineral base:** 羊脛灰 (sheep-shin-bone ash) at four 两 in Version A — a heat-buffering carrier, not a scent material.
+- **Recorded in:** 香乘 (*Xiang Cheng*), the Ming manual, which preserves more than one formula under the name; the concept is stable while the materials shift.
+- **Attribution:** the link to 苏轼 (Su Shi) is traditional and unverified, and the manual postdates him by centuries.
+- **Proportion:** four 两 of cyperus against one 钱 of camphor makes the naming note roughly one fortieth of the chief mass — the material that names a blend need not be the material that dominates it.
 
 ## The Formula, and the Trick Inside It
 
@@ -111,6 +119,10 @@ The finishing chain deserves its own attention. Honey wets the powder into a wor
 Those questions prevent the two standard failures. The first is treating the ingredient list as a shopping list and discovering halfway through that musk is restricted or that the unit conversion was a guess. The second is boosting the camphor because it is "the point" — when the point is precisely that it stays small. Reading for roles catches both before money is spent.
 
 There is a further judgment boundary that separates a study from a replica. A replica asks to be judged by fidelity to a text that disagrees with itself. A study asks to be judged by whether the structure works. For a recipe with multiple surviving versions, a restricted fixative, and units that no longer convert cleanly, the study is the only honest target. The craft transfers; the literal formula does not. *Editorial view, not a verified fact.*
+
+## Evidence status
+
+The page rests on two kinds of statement, and they do not carry the same weight. The formula text, its units, its variant versions, and the gap where Version B omits a camphor line are documentary — they can be checked against the 香乘. The behaviour claims — camphor volatilizing ahead of the woods, bone ash moderating the burn, ageing rounding the blend — are a reader's physical reconstruction, marked here as editorial view or traditional belief. No burn test, no headspace analysis and no comparative trial is cited, because none appears in the record. Where the text disagrees with itself, the disagreement is reported rather than resolved by guesswork.
 
 ## Summary
 

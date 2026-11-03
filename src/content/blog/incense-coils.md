@@ -12,9 +12,17 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Among the common incense formats, the coil holds the record for the longest single uninterrupted burn — the same dough as a stick, rearranged into a spiral so it can smolder for many hours without relighting.
+> **Direct answer:** Among the common incense formats, the coil holds the record for the longest single uninterrupted burn — the same dough as a stick, rearranged into a spiral so it can smolder for many hours without relighting.
 
-**Key facts:** 盘香 (*pánxiāng*) is not a separate recipe; it is extruded dough wound into a flat spiral before it dries. Two independent dials set how long it runs — the span of the spiral and the gauge of the ribbon — and it is used either hung from a stand or resting on a bed of ash.
+## Key facts
+
+- **Format:** 盘香 (*pánxiāng*) is extruded incense dough wound into a flat spiral before it dries — a shape, not a separate recipe.
+- **Burn time:** hours, and in the broadest coils most of a day, set by two independent dials — spiral span (path length) and ribbon gauge (consumption rate).
+- **Setup:** hung from a stand threaded through the centre hole, or laid flat on a heatproof plate over ash or sand.
+- **Ignition point:** the outer tip only; the ember then crawls inward ring by ring.
+- **Failure mode:** the spiral is wound wet and dried flat → outer rings lose water and shrink first → tension concentrates at the inner radius → a crack. That is a manufacturing signal, not transit damage.
+- **Not a mosquito coil:** identical spiral, different payload — insecticide rather than aromatic material.
+- **Use conditions:** off drafts and flammables, with air moving through the room for the whole burn.
 
 ---
 
@@ -116,6 +124,12 @@ The rule that ties these rows together: **a coil that dried unevenly will look u
 2. **Burning without a stand or a heatproof bed.** The coil smolders for hours; the surface underneath matters the entire time.
 3. **Skipping ventilation on a multi-hour burn.** Continuous smoke needs continuous air movement.
 4. **Confusing a coil with a mosquito coil.** Same shape, different payload, different safety rules.
+
+---
+
+## Evidence status
+
+The reasoning on this page — path length multiplied by consumption rate, spent ash acting as a mild heat blanket, differential drying pulling a crack open — is a physical account of how a wound dough spiral behaves. It is not a set of figures measured on a test bench. Burn-time ranges here are the ones manufacturers print, and they vary by product, so no independent test is being quoted. The safety points are precautions rather than findings: smoke from any burning incense adds particulate matter to indoor air, which is why ventilation and supervision are treated as conditions of use rather than optional habits. Nothing on this page is a health claim.
 
 ---
 

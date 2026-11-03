@@ -12,9 +12,16 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** 柏子香 (bǎi zǐ xiāng) is the most unpretentious formula in the classical Chinese canon — the kernel of the oriental arborvitae (*Platycladus orientalis*, 侧柏), dropped briefly into boiling water, steeped in wine and honey, then dried out of the sun — and its entire significance rests on the fact that it could be made for almost nothing.
+> **Direct answer:** 柏子香 (bǎi zǐ xiāng) is the most unpretentious formula in the classical Chinese canon — the kernel of the oriental arborvitae (*Platycladus orientalis*, 侧柏), dropped briefly into boiling water, steeped in wine and honey, then dried out of the sun — and its entire significance rests on the fact that it could be made for almost nothing.
 
-**Key facts:** The Ming manual 香乘 (Xiang Cheng) writes the formula down with no measurement at all: 柏子实不计多少 — "seeds, in whatever count." The tree in question is 侧柏, a plant that shares no genus with the cypress and juniper of other incense cultures, and the blend sits as the tradition's single-material (or near-single-material) answer to the many-layered court 合香.
+## Key facts
+
+- **What it is:** a single-material Chinese incense built from the kernel of 侧柏, the oriental arborvitae (*Platycladus orientalis*) — not a cypress or juniper wood, and the tradition's plain answer to the many-layered court 合香.
+- **Recorded in:** 香乘 (*Xiang Cheng*), the Ming manual compiled by 周嘉胄, where the entry carries no weight at all — 柏子实不计多少, "seeds, in whatever count."
+- **Material grade:** seeds taken green, with the husk still closed (带青色，未开破者).
+- **Process:** scald in boiling water (沸汤焯) → steep in wine → seal in honey for seven days (蜜封七日) → dry away from direct sun.
+- **Structure:** the seed fills the 君 (chief) role; the 臣 (minister) slot stays empty; wine, honey and drying carry the assistant and guide roles.
+- **Context from Su Shi:** 铜炉烧柏子，石鼎煮山药 — a bronze burner of cypress seed set beside a stone pot of boiled yam, which places the scent in ordinary domestic life.
 
 ---
 
@@ -109,6 +116,12 @@ The single rule linking the rows: **a kernel that is already brown, split, or ho
 The boundary condition, though, runs the other way too: **the simplicity that makes 柏子香 approachable is the same simplicity that leaves anyone chasing a "complex" scent unsatisfied.** It does not layer, it barely shifts as it burns, and it will not impress a collector hunting for depth. Its virtue is honesty, not richness — and that is precisely where its worth lies. It does not mean the recipe is inferior; it means it answers a different question.
 
 *The author's reading, stated plainly — a judgment call, not a documented claim.*
+
+---
+
+## Evidence status
+
+What is documented here is a text: the 香乘 entry, its wording, and the order of steps it records. What is not documented is a measurement. The account of why those steps run in that order — the blanch loosening the husk so wine and honey can enter, the honey's sugars caramelizing at the ember into the roasted note — is a present-day reconstruction, marked on this page as traditional belief. No analysis of the seed's volatiles, no burn trial and no side-by-side batch comparison is cited, because the source presents none. The notes on the 两 are convention rather than metrology: the unit drifted by dynasty and region, so ratios are the trustworthy reading and gram figures are an editorial convenience.
 
 ---
 
