@@ -11,17 +11,18 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Counterfeit incense wood is usually plain timber that has been cooked in oil, loaded with oil under pressure, or soaked in dye and chemicals, then sold as agarwood or sandalwood. Three checks still do useful work — the plume when it burns, the smell it gives off on mild heat, and whether it goes down in water — but they read different properties, so none of them closes the case alone.
+> **Direct answer:** Counterfeit incense wood is usually plain timber that has been cooked in oil, loaded with oil under pressure, or soaked in dye and chemicals, then sold as agarwood or sandalwood. Three checks still do useful work — the plume when it burns, the smell it gives off on mild heat, and whether it goes down in water — but they read different properties, so none of them closes the case alone.
 
-**Key facts:** Everything below is a market heuristic with a long Chinese pedigree, not an analytical method. The only definitive route is a vendor who will state the species and the growing region, backed by laboratory work when the piece is worth the fee.
+**Scope:** Everything below is a market heuristic with a long Chinese pedigree, not an analytical method. The only definitive route is a vendor who will state the species and the growing region, backed by laboratory work when the piece is worth the fee.
 
-## Key Takeaways
+## Key facts
 
 - Four routes produce most fakes: cooking in oil (煮油), pressure injection (高压灌油), soaking in dye or chemicals (泡药水), and passing off an unrelated timber.
 - A genuine piece tends to throw a pale plume with a little oil at the edge; treated wood often runs dark and greasy.
 - Mild heat separates them further: resin opens in stages, while added oil arrives flat and loud.
 - Water tells you about density, and density can be purchased — injection exists to buy it.
 - Ask what the wood is, where it grew, and what grade it claims before spending a cent.
+- Grade terms carry the real information: 沉水 (sinking), 半沉半浮 (half-sinking), floating, and 奇楠 (kyara); a label reading only "agarwood" has declined to state a grade.
 
 ## The Four Routes, and What Each One Buys
 
@@ -138,6 +139,10 @@ Only in a piece whose origin is already settled. Resin does darken wood over tim
 ### Q: Can a fake pass a laboratory test?
 
 Not species identification or resin analysis, which is why most fakes never meet a lab. The treatments here are designed for the checks a buyer runs at home. Analysis separates *Aquilaria* from an oiled substitute, and it is worth the fee only when the value of the piece justifies it.
+
+## Evidence status
+
+The checks on this page are trade heuristics with a long Chinese pedigree, not laboratory methods. Recorded tradition supplies the pale-plume comparison, the 沉水 naming, and the grade vocabulary; the measured part is limited to properties a buyer can observe — density, colour, and how a sliver behaves under heat. None of those observations identifies a species. A laboratory can separate *Aquilaria* from an oiled substitute, but this page reports no test results of its own, and a clean field check is not a certificate. Read every claim here as risk reduction, not as proof.
 
 ## Sources
 

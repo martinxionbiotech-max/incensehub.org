@@ -12,9 +12,9 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** 香谱 (xiāng pǔ) is the Chinese name for a genre of incense manuals — not one book but a line of compilations that record formulas, materials, and the culture of burning. The line runs from Song works such as 陈氏香谱 and 洪芻香谱, through 新纂香谱, to the Ming encyclopedia 《香乘》 compiled by Zhou Jiazhou. The corpus is often described as the most complete ancient incense literature in existence. It is also, in English, largely unread: systematic translation has never been done.
+> **Direct answer:** 香谱 (xiāng pǔ) is the Chinese name for a genre of incense manuals — not one book but a line of compilations that record formulas, materials, and the culture of burning. The line runs from Song works such as 陈氏香谱 and 洪芻香谱, through 新纂香谱, to the Ming encyclopedia 《香乘》 compiled by Zhou Jiazhou. The corpus is often described as the most complete ancient incense literature in existence. It is also, in English, largely unread: systematic translation has never been done.
 
-**Key facts**
+## Key facts
 
 | Point | Detail |
 |---|---|
@@ -24,6 +24,7 @@ author: "Landeng Tech Team"
 | Capstone | 香乘, Ming dynasty, compiled by Zhou Jiazhou |
 | Content | Named 合香 formulas, materials, processing, lore |
 | English status | Scattered excerpts; no systematic translation |
+| Attribution | Several compilers across Song and Ming; no single author |
 
 ## A Genre, Not a Title
 
@@ -166,6 +167,10 @@ No settled count can be given, because the answer depends on how variants are co
 - Its completeness is real; its English accessibility is close to zero.
 - Transmission produced variants, so the manuals record versions rather than one authoritative text.
 - The translation gap is structural, and it is the opening this kind of reference work exists to address.
+
+## Evidence status
+
+What is recorded here is bibliographic tradition: titles, compilers, dynastic placement, and the description of 香乘 as the broadest compilation. Those attributions come from the manuals and later Chinese bibliographic writing, and this page has not collated editions or checked a text against a surviving copy. The claim that the corpus is the most complete known incense literature is a reputation repeated in secondary writing, not a measured comparison. No translation or recipe here has been tested, and no formula is offered as instructions. The page is an orientation to a body of texts, and its evidence is only as strong as the bibliography behind it.
 
 ## Sources
 

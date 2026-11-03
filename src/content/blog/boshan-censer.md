@@ -12,21 +12,22 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** The 博山炉 ("Boshan censer," "universal-mountain burner") is the signature incense vessel of the Han dynasty: a bronze burner whose lid is cast as a miniature mountain range, pierced so that smoke rising from the bowl below reads as mist drifting between the peaks.
+> **Direct answer:** The 博山炉 ("Boshan censer," "universal-mountain burner") is the signature incense vessel of the Han dynasty: a bronze burner whose lid is cast as a miniature mountain range, pierced so that smoke rising from the bowl below reads as mist drifting between the peaks.
 
 <img src="/images/boshan-censer-bronze-han-1200x675.webp" alt="Ancient Chinese Boshan bronze mountain censer with smoke rising" width="1200" height="675" loading="lazy">
 
-**Key facts:** The mountain is not scenery. It stands for the isles of the immortals — 蓬莱, 方丈, 瀛洲 — and for the Daoist hope of transcending death that ran through Han court culture. This is a page of cultural history, not a wellness claim.
+**Scope:** The mountain is not scenery. It stands for the isles of the immortals — 蓬莱, 方丈, 瀛洲 — and for the Daoist hope of transcending death that ran through Han court culture. This is a page of cultural history, not a wellness claim.
 
 ---
 
-## Key Takeaways
+## Key facts
 
 - Three parts carry the object: a base, a bowl for the fuel, and a pierced mountain lid.
 - The piercings are the design, not ventilation added afterwards — they break the smoke into threads that read as cloud.
 - Han practice burned raw aromatics loose in the bowl; the smoke was the experience, not a by-product.
 - The mountain encodes a cosmology: a sacred island range, miniaturised onto a desk.
 - The form belongs to a different aesthetic from later low-smoke burners, and the contrast is the clearest way to understand it.
+- Survival skews the record: bronze was the prestige medium and outlasts burial, while cheaper ceramic versions broke and are scarcer in collections today.
 
 ---
 
@@ -133,6 +134,10 @@ Because the fuel practice changed. When 隔火焚香 and other low-smoke methods
 No. It shares the silhouette and can share the function if it is made of metal or lined ceramic with working piercings, but it does not carry the Han context or the original's programme. Buy a reproduction as a display or usable object; treat an antique as a document that needs expert authentication.
 
 ---
+
+## Evidence status
+
+The material record here is archaeological and art-historical: surviving bronze vessels, their casting, and a mountain iconography read against Han culture. The period, the three-part form, and the link to the isles of the immortals rest on that record and on traditional belief, not on experiment. The page reports no measured burn test, and it makes no health claim about smoke. Statements about how to read a piece — programme before patina — are editorial guidance, not an authentication method. A claimed antiquity still needs expert examination, because handling and surface study cannot be replaced by a checklist.
 
 ## Sources
 
