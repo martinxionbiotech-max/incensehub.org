@@ -13,18 +13,17 @@ author: "Landeng Tech Team"
 
 
 
-**Direct answer:** 寿阳公主梅花香 is a classical plum-blossom 合香 (compound incense) that tradition attaches to 寿阳公主, a Southern Dynasties princess, and its plum character is assembled from sandalwood, herbal middles, and white plum (白梅) rather than taken from the flower. The 香乘 records the formula in 卷十八 as a list of weights followed by a three-step method: roast, grind coarse, seal for a month.
+> **Direct answer:** 寿阳公主梅花香 is a classical plum-blossom 合香 (compound incense) that tradition attaches to a Southern Dynasties princess, and its plum character is assembled from sandalwood, herbal middles, and white plum (白梅) rather than taken from the flower.
 
-**Key facts:**
+## Key facts
 
-- The formula comes from 香乘 (Xiang Cheng), compiled by 周嘉胄 in the Ming dynasty, 卷十八.
-- Nine materials: 甘松, 白芷, 牡丹皮, and 藁本 at 半两 each; 茴香, 丁皮, and 檀香 at 一两 each; 降真香 at 二钱; 白梅 at 一百枚.
-- Method: dry-roast every material except the clove bark, reduce the rest to a coarse powder, then rest it (窨) in a closed jar for a month.
-- The roles follow 君臣佐使 — chief, minister, assistant, guide — with sandalwood as chief and the fruit and bark carrying the plum signature.
-- One 两 ran roughly 37 g in the Song–Ming period, within a range of about 31–41 g; a 两 divides into ten 钱 of about 3.7 g.
-- The sandalwood is marked 不见火 ("does not see fire"), which sits oddly against the instruction to roast everything except the clove bark.
-- The princess attribution is legend, tied to the 梅花妆 (plum-blossom makeup) story in 《太平御览》, not documented authorship.
-- 香乘 keeps 梅花香一, 二, and 三 alongside this recipe, and the versions do not agree on a single formula.
+- **Source:** 香乘 (Xiang Cheng), compiled by 周嘉胄 in the Ming dynasty — 卷十八 records this formula, and the manual keeps 梅花香一, 二, and 三 alongside it, versions that do not agree on a single recipe.
+- **Materials:** nine in total — 甘松, 白芷, 牡丹皮, and 藁本 at 半两 each; 茴香, 丁皮, and 檀香 at 一两 each; 降真香 at 二钱; 白梅 at 一百枚.
+- **Method:** dry-roast every material except the clove bark, reduce the rest to a coarse powder, then rest it (窨) in a closed jar for a month.
+- **Structure:** the roles follow 君臣佐使 — chief, minister, assistant, guide — with sandalwood as chief and the fruit and bark carrying the plum signature.
+- **Units:** one 两 ran roughly 37 g in the Song–Ming period, within a range of about 31–41 g; a 两 divides into ten 钱 of about 3.7 g.
+- **Textual snag:** the sandalwood is marked 不见火 ("does not see fire"), which sits oddly against the instruction to roast everything except the clove bark.
+- **Attribution:** the princess connection is legend, tied to the 梅花妆 (plum-blossom makeup) story in 《太平御览》, not documented authorship.
 
 <img src="/images/recipe-shouyang-plum-blossom-800x533.webp" alt="Plum blossom petals with small dishes of pale aromatic powders" width="800" height="533" loading="lazy">
 
@@ -152,6 +151,10 @@ There is no evidence that she did. 寿阳公主 is remembered for the 梅花妆 
 ### Q: How would I scale the formula down for a test batch?
 
 Divide the weighed materials by the same factor and keep every ratio intact — the four half-liǎng herbs stay at half the weight of the three full-liǎng ones, and the rosewood stays at a fifth of that. The plums are the awkward part, since the text counts them rather than weighing them; halve the count, then adjust by eye until the fruit reads clearly against the wood. Scale the aging time only loosely: a smaller batch equilibrates faster, and a month remains a safe upper bound rather than a requirement.
+
+## Evidence status
+
+What this page reports as recorded is a text: the 香乘 entry, its nine weights, and the three verbs of its method. What it does not carry is a measurement — no analysis of the blend's volatiles, no burn trial, and no comparison batch is cited, because the source supplies none. The explanation of why roasting, grinding, and sealing produce the result they do is a present-day reconstruction from craft practice, not a laboratory finding. The gram figures are convention rather than metrology: the 两 drifted by dynasty and region, which is why the ratios are the trustworthy reading. The princess attribution is legend, not authorship, and nothing here is a health claim.
 
 ## Sources
 

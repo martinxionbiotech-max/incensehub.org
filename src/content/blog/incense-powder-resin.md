@@ -12,17 +12,17 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Loose incense is raw material handled directly: powdered wood, or the dried exudate a tree pushes out and hardens into tears. You warm it; you do not light it. Because nothing burns, the scent arrives with little smoke and no binder or fragrance oil standing between you and the material.
+> **Direct answer:** Loose incense is raw material handled directly — powdered wood, or the dried exudate a tree pushes out and hardens into tears — warmed rather than lit, so the scent arrives with little smoke and no binder or fragrance oil standing between you and the material.
 
-**Key facts:** A tear or a pinch goes on a heat source — a charcoal disc settled into ash, or the plate of an electric heater. Chinese practice calls the gentler version 隔火焚香 (fire-separated incense): a barrier holds the material clear of the coal.
+## Key facts
 
-## Key Takeaways
-
-- Loose goods, not finished sticks: you supply the heat and the dose.
-- The nearest thing to raw material — no binder, no oil, nothing masking the wood or resin.
-- Indirect heat is what makes it work: a barrier over the fuel, or an electric plate.
-- More hands-on than a stick, and best for short, attentive sessions.
-- Substitution is common here, so provenance counts for more than in any other format.
+- **What it is:** loose goods, not a finished stick — you supply both the heat and the dose.
+- **Heat source:** a tear or a pinch goes on a charcoal disc settled into ash, or on the plate of an electric heater.
+- **隔火焚香:** Chinese practice names the gentler version fire-separated incense — a barrier holds the material clear of the coal.
+- **Why indirect:** a barrier or an electric plate keeps the material below ignition, so the aromatic fraction leaves gradually instead of burning.
+- **Result:** the nearest thing to raw material, with little smoke and nothing masking the wood or resin.
+- **Pace:** more hands-on than a stick, and best for short, attentive sessions.
+- **Provenance:** substitution is common in loose material, so source and species count for more here than in any other format.
 
 ## Two Materials, Two Behaviours
 
@@ -201,6 +201,10 @@ Heat, nearly always. Every resin has a narrow window between too cool and too ho
 ### Q: Can I use loose incense without special equipment?
 
 Up to a point. A dry pan over the lowest heat can warm a pinch, though control is crude and scorching easy. A heatproof dish over a tea light is gentler. A small electric warmer sold for wax or oil can substitute for a dedicated plate. None of these matches purpose-built gear, but they are enough to decide whether the format suits you before spending on it.
+
+## Evidence status
+
+The material descriptions here come from trade and craft practice, not from laboratory work: no volatile analysis, species assay, or controlled burn test is cited, and the field checks for colour, clarity, tack, debris, and rubbed scent are heuristics a buyer applies by hand. Statements about which resin suits a low plate, or how a powder behaves against a chip, are reasoning from how these materials respond to heat rather than readings from an instrument. Species and origin lists are trade categories rather than botanical certifications. The safety notes — ventilation, a heatproof vessel, a coal bedded in ash — are precautions, and nothing on this page is a health claim.
 
 ## Sources
 

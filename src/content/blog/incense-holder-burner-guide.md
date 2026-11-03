@@ -11,18 +11,19 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Match the holder to the form you burn. A stick wants a base with a hole and an ash tray; a cone wants a flat, heatproof seat; a backflow cone needs a burner with a hole and a catch chamber; a coil wants a stand; resin wants a charcoal-safe vessel over ash or sand. Whatever the shape, the job is the same: catch the ash and keep a live ember off anything that can burn.
-
-**Key facts:** Safety comes before decoration. Two properties decide whether a holder works — it must resist heat at the contact point, and it must not tip — and both have to hold at once, on a level surface, away from drafts and anything combustible. Ceramic, glass, metal, and stone can qualify. Plastic and bare wood cannot, whatever shape they are sold in.
+> **Direct answer:** Match the holder to the form you burn — a stick, cone, backflow cone, coil, or resin each need different geometry — and the job stays the same in every case: catch the ash and keep a live ember off anything that can burn.
 
 <img src="/images/incense-safety-holder-1200x675.webp" alt="A ceramic incense holder on a heatproof tray beside a window" width="1200" height="675" loading="lazy">
 
-## Key Takeaways
+## Key facts
 
-- Form picks the holder; one piece cannot serve sticks, cones, backflow cones, coils, and resin equally well.
-- Heatproof covers burn-through; stable covers tip-over. Both have to hold at once.
-- A backflow cone needs a hole and a catch chamber, or the cascade never starts.
-- Charcoal sits on ash or sand, never directly on a thin dish, wood, or plastic.
+- **Safety before decoration:** two properties decide whether a holder works — heat resistance at the contact point and stability against tipping — and both have to hold at once, on a level surface, clear of drafts and anything combustible.
+- **Qualifying materials:** ceramic, glass, metal, and stone can serve; plastic and bare wood cannot, whatever shape they are sold in.
+- **Form sets the requirement:** one piece cannot serve sticks, cones, backflow cones, coils, and resin equally well.
+- **Two separate tests:** heatproof covers burn-through; stable covers tip-over.
+- **Backflow:** a cone needs a hole under it and a catch chamber, or the cascade never starts.
+- **Charcoal:** the disc sits on ash or sand inside a heatproof vessel, never directly on a thin dish, wood, or plastic.
+- **Three words, three objects:** a holder supports and catches, a burner contains the heat source, a censer is a covered vessel for appreciation.
 
 ## The Format Decides the Holder
 
@@ -168,6 +169,10 @@ A bed of ash or sand inside a heatproof vessel, deep enough that the disc never 
 ### Q: Why did my ceramic holder crack the first time I used charcoal?
 
 Thermal shock, almost always. A disc heats one small area of the ceramic much faster than the rest of the body, the hot zone expands against the cooler material, and a crack runs out from the contact point. Glazed pieces are vulnerable because glaze and clay expand at different rates. The fix is not a stronger dish but a different setup: a bed of ash or sand between disc and vessel, and enough wall thickness to spread the heat.
+
+## Evidence status
+
+The safety line here is precaution rather than test result: keeping a live ember off wood, cloth, and paper follows from what those materials do when heated, and it holds whatever the holder costs or looks like. The physical accounts — thermal shock opening a crack from the contact point, an ash bed spreading heat, a hole and chamber turning a smoke column downward — are reasoning from heat transfer and airflow, not measurements taken on a bench. The museum references for the 博山炉 and 宣德炉 are cultural history, and the material ladder is editorial guidance on matching a surface to the temperature it will meet. No product was tested for this page, and nothing here is a health claim.
 
 ## Sources
 
