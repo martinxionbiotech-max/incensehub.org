@@ -15,6 +15,16 @@ author: "Landeng Tech Team"
 
 **Key facts:** This page is a working reference rather than a complete catalogue. Each entry gives the material, its naming, and its general character; deeper treatment sits on the linked pages. The idea that holds the whole glossary together is simple: family predicts behaviour better than the individual name does.
 
+## Key facts
+
+- **Six families carry the palette.** Woods, resins, flowers, spices, binders, and a small animal and mineral residue.
+- **Woods are the skeleton.** Sandalwood (*Santalum*) is the dependable one; agarwood (*Aquilaria*) is resin-formed and variable within a single log.
+- **Resins open loud and fade fast**, so a few percent can define the first minute and a wood spine has to carry the rest.
+- **Spices stay under a few percent.** Clove is eugenol-dominant and reads dental above a low threshold.
+- **Makko is the reference binder** — powdered bark of *Machilus thunbergii* — and binder is the largest single component by weight in most sticks.
+- **Regulation shapes supply.** Agarwood species sit under CITES controls, and several animal materials are restricted or banned.
+- **Format changes proportion.** A coil or a cone needs a high binder share; loose powder needs none at all.
+
 ## Key Takeaways
 
 - Family first, name second. Wood, resin, petal, spice and binder each have a characteristic burn signature.
@@ -264,6 +274,10 @@ Four limits are worth stating plainly. **Family predicts behaviour, not quality*
 What the framework does deliver is a way to ask better questions: which family, which species, what proportion, what role, and what was substituted. Those five questions will get more information out of a supplier than any amount of adjective-reading.
 
 *This limit statement is editorial: it describes what the method can and cannot do, not a standard imposed by any authority.*
+
+## Evidence status
+
+This page synthesises craft practice, trade documentation and classical manuals; it reports no measured test of its own. Family assignments are editorial, based on observed burn behaviour rather than on a formal classification, and the behaviour descriptions are qualitative — no release rate, percentage or threshold here is a laboratory figure. Where a classical text is the only record, as with the 合香 palettes and historical material lists, it is cited as recorded tradition, not as current sourcing advice. CITES and regulatory mentions describe listing status; they say nothing about the quality or legality of a particular piece.
 
 ## FAQ
 

@@ -20,6 +20,18 @@ author: "Landeng Tech Team"
 
 ---
 
+## Key facts
+
+- **Four practices:** 烧香 (burning incense), 点茶 (whisking tea), 挂画 (hanging paintings), 插花 (arranging flowers).
+- **One sense each:** smell, taste, sight, and the arranging hand.
+- **Source:** 吴自牧's *梦粱录* (Meng Liang Lu), a Song-dynasty memoir of Hangzhou life.
+- **The canonical line:** 烧香点茶，挂画插花，四般闲事，不宜累家.
+- **The limit is part of the definition:** 不宜累家 — not to be a burden on the household.
+- **Incense method:** 隔火焚香, warming a chip over buried heat through ash and mica rather than burning it.
+- **Japanese counterpart:** kōdō became a standalone, school-based art with 六国五味 and 组香 games such as 源氏香.
+
+---
+
 ## Key Takeaways
 
 - Four practices, four senses: smell (incense), taste (tea), sight (painting), and the arranging hand (flowers).
@@ -118,6 +130,10 @@ A workable order for a modern reader:
 4. **Stop before it becomes a duty.** If skipping a day feels like failure, the practice has already crossed into 累.
 
 The signals of crossing are easy to recognise in hindsight: burning incense only while working, buying to complete a set, feeling judged by a shelf. Each turns the art into an obligation, and obligation is the one thing the source explicitly rules out.
+
+## Evidence status
+
+The page rests on one short passage from a Song memoir, quoted here as cultural history rather than as a measured finding. Attribution to 吴自牧's *梦粱录*, the reading of 闲 as freedom from productive obligation, and the contrast with Japanese kōdō are historical and editorial judgments, not experimental results. The claim that the four arts train perception is the framework's premise rather than a demonstrated outcome; nothing here has been tested against attention, mood or health, and none of it should be read as a finding.
 
 ## FAQ
 

@@ -20,6 +20,18 @@ author: "Landeng Tech Team"
 
 ---
 
+## Key facts
+
+- **No separate species.** 奇楠 is *Aquilaria* agarwood at its most resin-charged, the top rung of one grade ladder.
+- **The structure inverts.** Ordinary agarwood is 木包油 (wood holds oil); 奇楠 is 油包木 (oil holds wood).
+- **Three traditional tests.** It shaves into curls (削之成卷), kneads into a pellet (捏之成丸), and scents while cold.
+- **The tests read depth.** They work because the resin sits inside the cell walls, where a surface treatment cannot reach.
+- **Colour names are disputed.** 白, 绿, 紫, 黄 and 黑 are market vocabulary, not a botanical sorting system.
+- **The English name came via Japan.** 奇楠 → 伽羅 (*kyara*) → "kyara" in Western writing.
+- **Agarwood is CITES-listed**, part of why the top grade is scarce and costly.
+
+---
+
 ## A State of Matter, Not a Species
 
 **Direct answer:** 奇楠 belongs on top of the agarwood grade ladder rather than beside it in the botany books — it is *Aquilaria* wood pushed to its most resin-charged extreme, not a parallel plant.
@@ -98,6 +110,12 @@ The practical significance for a collector: most of what is marketed as 奇楠 i
 What your hands can verify — curl, knead, unheated aroma held over time — tells you about resin depth. What your eyes cannot verify is species, resin percentage, or natural-versus-synthetic, and those are the very properties the grade depends on. Photographs, video, even a piece in your hand will not establish *Aquilaria* species or saturation level. Vision only flags gross fakery — a suspiciously uniform dyed color, a compressed texture — but it cannot confirm the grade.
 
 That leaves a structural gap: every visible property can be imitated, while the defining properties sit below the surface. The gap is the argument for documentation — a written species claim, batch-linked test reports, CITES paperwork — and for a seller you can return to. The deep dives live in [qinan authentication](/blog/qinan-buying-authentication/) and the [incense authentication database](/blog/incense-authentication-database/).
+
+---
+
+## Evidence status
+
+Every physical check described here is a traditional trade test, not a laboratory assay: curl, knead and cold aroma are recorded observations about how saturated wood behaves, and the page flags them as such. The name history is unsettled — Sanskrit roots and a possible confusion with *tagara* both circulate — so the etymology is offered as a label of convenience. What is documented is botanical identity (*Aquilaria*, Thymelaeaceae) and its CITES listing; what no photograph or hand inspection establishes is species, resin percentage, or natural-versus-synthetic aroma for a specific piece.
 
 ---
 
