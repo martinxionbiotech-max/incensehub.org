@@ -23,11 +23,11 @@ author: "Landeng Tech Team"
 
 ## Key Takeaways
 
-- A label word is a **claim of a particular size**. Some claims fit on the packet; others need a document behind them.
-- The scarce end of the trade attracts the most invention, because the margin pays for it.
-- Ask **which plant** and **which form** before arguing about price.
-- A cheap price is a **question**, not a verdict; an expensive one is not proof either.
-- A declared substitute is a product. An undeclared one is a claim the buyer cannot audit.
+- Each label word carries a **different burden of proof**. A mood word needs none; a species name needs a paper trail.
+- Invention clusters where margins are widest, not where the product is most used.
+- Settle **plant identity** and **physical form** first; price arguments come after.
+- A low price starts an inquiry. A high price does not end one.
+- Open substitution is a market purchase. Concealed substitution is an unauditable claim.
 
 ---
 
@@ -39,7 +39,7 @@ A **category word** names a family, not a species. "Sandalwood," "agarwood," "be
 
 A **rank word** places an item inside a category: kyara, Mysore, 老山檀, first grade. Rank implies scarcity and price, and it is the easiest claim to print because the object rarely proves or disproves it. Rank claims need paper or a very experienced nose.
 
-A **place word** names a origin: Hainan, Assam, Cambodia, Mysore. Place cannot be read from an object, so the claim rests entirely on the supply record. A place word is cheap to add and expensive to disprove.
+A **place word** names an origin: Hainan, Assam, Cambodia, Mysore. Place cannot be read from an object, so the claim rests entirely on the supply record. A place word is cheap to add and expensive to disprove.
 
 A **form word** describes a physical state: powder, tears, chips, oil, absolute, distillate. Form is checkable through behaviour, and it changes what the product can do. An oil is not a wood, even when the scent family matches.
 
@@ -89,11 +89,11 @@ The pattern is consistent: the more processed the product, the less the object i
 
 **Direct answer:** A swap becomes worth attempting when the gap between a named material's price and a relative's cost is wide enough to pay for the ambiguity. The gap supplies the motive; the label supplies the cover.
 
-Agarwood shows the range. Trade accounts put ordinary medicinal chips at a few yuan per gram and top kyara at prices compared with gold. That spread is not secret; it is why the category attracts so much invention. Sandalwood's range is narrower, between Indian heartwood and Australian plantation material, and still wide enough to support a steady trade in vague labels.
+No category shows the spread more plainly than agarwood. Ordinary medicinal-grade chips trade at a few yuan a gram; the top 奇楠 (kyara) rank is discussed in gold comparisons. Everyone in the trade knows the gap, and that public knowledge is precisely what funds the invention. Sandalwood's span is tighter — Indian heartwood down to Australian plantation wood — yet still wide enough that a vague label can hide a real price difference.
 
 Testing has its own economics. A laboratory bill can exceed the retail value of a small purchase, so verification is rational only above a certain price. Cheap sticks therefore live on category words; expensive pieces live or die on documents. The buyer's task is to know which side of that line the purchase sits on.
 
-The gap also explains why some substitutes are honest products and others are frauds. Australian sandalwood is not a counterfeit. Sumatra benzoin is a real resin with a legitimate role. Ambroxide is a standard perfumery ingredient. The trouble starts when a label claims the prestige material while the box holds the relative, or when the price is anchored to a name the contents never earned.
+Nothing in this arithmetic makes a relative dishonest. *S. spicatum* is a real wood with its own market. Sumatra benzoin is a working resin, not a counterfeit. Ambroxide has been a standard perfumery material for decades. Fraud enters at the label, not at the material: the box may hold any of these and still be sold under a name none of them earned, with a price attached to the borrowed name.
 
 ---
 
@@ -118,7 +118,7 @@ The gap also explains why some substitutes are honest products and others are fr
 
 Names are the strongest anchor available, but they are not a score. A well-grown *S. spicatum* can outperform a poor *S. album*. The binomial ends the argument about which plant is being sold; it does not settle whether the plant was grown, processed, or graded well.
 
-For the material pages behind these rows, see [the sandalwood file](/blog/sandalwood-incense/), [the agarwood file](/blog/agarwood-incense/), the [fake-object notes](/blog/incense-authentication-database/), [the oil-versus-wood note](/blog/essential-oils-in-incense/), [benzoin](/ingredients/benzoin/), [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), [frankincense](/ingredients/frankincense/), the [ingredients index](/ingredients/), [cinnamon](/ingredients/cinnamon/), [cedar](/ingredients/cedar/), and [the format decision guide](/blog/how-to-choose-incense/).
+The rows have longer files behind them. The two woods lead: [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/). Objects that failed a check are collected in the [authentication case notes](/blog/incense-authentication-database/), and the form question is followed through in [oils versus wood](/blog/essential-oils-in-incense/). For the individual materials, see the entity pages for [benzoin](/ingredients/benzoin/), [borneol](/ingredients/borneol/), [ambergris](/ingredients/ambergris/), [frankincense](/ingredients/frankincense/), [cinnamon](/ingredients/cinnamon/), and [cedar](/ingredients/cedar/); the full list sits at the [ingredients index](/ingredients/), and format choice is covered in the [decision guide](/blog/how-to-choose-incense/).
 
 ---
 
@@ -128,11 +128,13 @@ For the material pages behind these rows, see [the sandalwood file](/blog/sandal
 
 A wood-based stick usually opens gradually and holds a middle. A stick built on a scented core tends to arrive fast and thin out. A resin tear softens unevenly; a re-formed pellet softens all at once. A natural chip releases aroma as heat moves through the grain; an oiled chip releases a burst from the surface and then goes quiet.
 
+The two curves can be written out. A coated stick runs surface fragrance → fast release → early peak → thin, dry tail. A wood-powder stick runs heat into the grain → slow release → a held middle → a late fade.
+
 These differences are real, and they are not proof. A skilled compound can imitate a plausible curve for a while. A genuine material can burn badly because it is old, damp, or badly stored. The burn narrows the field; it does not name the plant.
 
 Ash carries less information than the scent. Colour, weight, and texture vary with the material, the binder, and the temperature, so ash is a weak signal on its own. It becomes useful only in comparison: the same stick, the same holder, the same room, two different samples.
 
-The practical rule is to compare like with like. A stick against a stick, a resin against a resin, a blend against a blend. Comparing a stick to a raw chip tests the format, not the material.
+Compare like with like: stick against stick, resin against resin, blend against blend. A stick beside a raw chip tests the format, not the material.
 
 ---
 
@@ -156,7 +158,7 @@ The practical rule is to compare like with like. A stick against a stick, a resi
 
 **Laboratory analysis.** Reports a molecular profile, species markers, or adulterants. It says nothing about other batches.
 
-The ceiling deserves emphasis. A dense chip is dense; it is not necessarily resinous. A dark bead is dark; it is not necessarily old. Each test produces a property, and the buyer supplies the interpretation. That interpretation is where self-testing usually goes wrong.
+Each test produces a property; the buyer supplies the interpretation. A dense chip is dense, not necessarily resinous. A dark bead is dark, not necessarily old. That interpretive step is where self-testing usually fails, and two claims stay out of reach: origin leaves no trace in the hand, and rank lives in resin distribution rather than surface appearance.
 
 ---
 
@@ -185,7 +187,7 @@ Each document answers one question and leaves the next open. A certificate of or
 
 The smallest useful set is identity, form, lot, and origin, each with a date and an issuer. For an everyday purchase, that set is not worth the cost; the label and the burn are the practical substitute. For a high-value piece, the set is the difference between a purchase and a bet.
 
-For agarwood, legality is part of the product. *Aquilaria* is CITES-listed, so the permit chain is not an optional extra. The [CITES checklist](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria) is the reference for the listing.
+Legality belongs in the agarwood specification, not beside it. *Aquilaria* sits on the CITES appendices, which makes the permit trail a condition of the goods rather than a bonus document. The [CITES checklist](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria) is where the listing itself can be confirmed.
 
 ---
 
@@ -218,7 +220,7 @@ Keep a retained sample. A small sealed bag of each purchase, labeled with the da
 
 Separate the claim from the conclusion. In the notebook, write "seller said X" in one column and "I observed Y" in another. The habit prevents a plausible story from hardening into a remembered fact. It also makes disputes easier, because the original claim is still visible in writing.
 
-None of this requires expertise. It requires the patience to write four lines before the packaging goes in the bin. Over a year, those lines become the most reliable reference a non-specialist can own.
+No expertise is needed, only the patience to write four lines before the packaging goes out. A year of those lines becomes a reference no single test can match.
 
 ---
 
@@ -252,7 +254,7 @@ The order matters. Starting with "is this good?" invites an opinion; starting wi
 
 **A single high-value piece.** Paper, lot, origin, and an independent opinion are all proportionate. The object alone cannot prove rank or place, and the price makes the missing document expensive. Pressure to decide quickly is a warning, not a courtesy.
 
-The tiers are not about snobbery. They are about the economics of checking: below a certain price, verification costs more than the product; above it, the absence of verification costs more than the paperwork.
+The tiers track the cost of checking, not taste: below a certain price, verification costs more than the product; above it, the missing verification costs more than the paperwork.
 
 ---
 
@@ -260,15 +262,15 @@ The tiers are not about snobbery. They are about the economics of checking: belo
 
 **Direct answer:** Grade words feel objective, but most of them describe a position in a local sorting convention rather than a measurable property. Two sellers can both be honest and still mean different things by "first grade."
 
-A grade usually combines several visible traits: density, colour, oiliness, grain, size, and the absence of defects. Different markets weight those traits differently. A producing region may sort by size because size is easy to show at a roadside sale. An export broker may sort by density because weight pays. A retailer may sort by appearance because the customer sees the object before smelling it. The same parcel can land in different grades depending on who is doing the sorting and for whom.
+Most grade words bundle several visible properties: weight for volume, colour, oiliness, grain figure, dimensions, freedom from defects. Each market weights the bundle its own way. At a roadside sale, size is the easiest thing to demonstrate, so size leads. An exporter is paid by weight, so density leads. A shop sells what the eye sees first, so appearance leads. One parcel, sorted by three different people for three different customers, can honestly emerge with three different ranks.
 
 This is not necessarily manipulation. It is what happens when a trade skill is passed down through practice rather than written into a standard. The buyer's difficulty is that a grade word travels without its sorting rule. "Top grade" from one workshop may be a middle grade by another workshop's rule, and neither seller has lied.
 
-The remedy is not to abolish grades but to ask for the traits behind them. Which property puts this piece in the top rank: density, oil content, scent at room temperature, or size? A seller who can name the trait has a rule. A seller who can only repeat the rank has a label. The named trait also gives the buyer something to inspect, which is more useful than a rank with no definition.
+The answer is not to discard grades but to ask what trait produced them. Is this piece top rank because of density, oil load, cold scent, or size? Naming the trait shows a rule at work; repeating the rank shows only a word. It also hands the buyer something inspectable, which a bare rank never does.
 
-A second remedy is to compare inside a single seller's stock. If a seller offers three grades, the difference between them is observable even when the absolute labels are idiosyncratic. The top grade should differ from the middle in a way the seller can state and the buyer can see. That internal comparison is often more informative than a cross-market rank, because it holds the sorting convention constant.
+Comparing within one seller's stock is the other way in. Where a workshop sells three tiers, the gap between tiers can be observed even if its labels mean nothing outside that workshop. The seller should be able to name what separates top from middle, and you should be able to see it. Holding the sorting convention fixed makes that comparison more informative than any cross-market rank.
 
-The limit is obvious: grades cannot be compared across markets without a shared standard, and most incense materials do not have one. That is why documentation tends to replace grade words at the high end. A certificate does not settle whether a piece is beautiful, but it can settle which species and which lot were tested. Grade remains a craft judgment; identity can be papered.
+The boundary is plain: grade words do not travel between markets without a common standard, and incense has none for most materials. Paperwork takes over at the top end for that reason. A certificate cannot say whether a piece is beautiful, but it can pin species and lot. Rank stays a craft judgment; identity can be documented.
 
 ---
 
@@ -317,11 +319,11 @@ The pattern is not that these phrases are lies. Most are shortcuts that sellers 
 
 **Direct answer:** A blend is the hardest place to audit a single material, because the named ingredient can be a small fraction of a recipe the seller has no obligation to publish.
 
-"Contains sandalwood" and "sandalwood blend" are different claims. The first says the material is present; the second says it is part of a mixture. Neither says how much. A blend can be honest and still contain only a token amount of the material that gives it its name, because the name describes a character rather than a proportion.
+Read "contains sandalwood" and "sandalwood blend" as two separate statements. Presence is asserted by the first; membership in a mixture by the second. Quantity appears in neither. A truthful blend may still hold a token pinch of the material whose name it wears, since the name is doing character work, not dosage work.
 
-Traditional formula thinking helps here. In a 合香 recipe, each material has a role: chief, minister, assistant, guide. A substitution is judged by whether the replacement performs the role, not by whether it matches a label. A cheaper wood that holds the base is a successful substitution inside the formula. The same wood sold as a single-material product would be a different claim entirely.
+The 合香 tradition offers a cleaner test. A formula assigns roles — 君 (chief), 臣 (minister), 佐 (assistant), 使 (guide) — and a replacement is judged by whether it performs the assigned role, not by whether it resembles the named material. A modest wood that carries the base is a good substitution inside that frame. Sold on its own as the prestige material, the same wood would be a different and false claim.
 
-For a buyer, the practical question is whether the product promises a material or a character. A single-material stick promises a material, and the label should name it. A blend promises a character, and the label should describe the family without borrowing a prestige name it cannot support. When a blend uses "kyara" as a mood word, the claim has drifted from material to atmosphere, and the price should be judged accordingly.
+The buyer's question is what the product actually promises: a substance or an effect. A single-material stick owes you a name. A blend owes you a character, described in its own family terms rather than through a prestige name it cannot carry. Once "kyara" appears in a blend as atmosphere rather than as material, the claim has moved categories, and the price should be read as atmosphere too.
 
 The burn gives one more clue. A blend built around a real base tends to change across its length; a compound built to smell like that base tends to stay flat. Development is not proof of quality, but the absence of any change is a warning that the scent is a coat rather than a structure.
 
@@ -340,6 +342,30 @@ The burn gives one more clue. A blend built around a real base tends to change a
 | Reliable binder | Makko at a tested ratio | "Natural binder" with no name | Binder controls the burn |
 
 Role-first thinking prevents a common mistake: buying by reputation instead of function. A base note needs persistence; a top note needs lift. The same substitute can be wrong for one job and right for the other. The one rule that holds across both is disclosure.
+
+---
+
+## What a swap actually costs
+
+**Direct answer:** The price difference between a named material and its relative is the smallest part of the loss. A swap also changes how the product behaves, and that second loss can dwarf the first.
+
+The losses arrive in order. Money goes first: a prestige price was paid for a cheaper material. Performance goes second: the replacement releases aroma on a different curve, so a formula balanced around the original no longer balances. Information goes third, and it lasts longest: a buyer who never learns which layer moved cannot correct the next purchase.
+
+The chain explains why the performance loss dominates: wrong form → different release curve → the base arrives early and dies → the blend loses its floor → the whole batch smells thin → the saving on the material is smaller than the loss on the batch. Species and origin swaps run the same chain more slowly, because the aromatic distance is narrower.
+
+| Layer swapped | First loss | Where it surfaces | Who absorbs it |
+|---|---|---|---|
+| Species | Money | First burn | Buyer |
+| Rank | Money and longevity | Mid-burn, or a month into storage | Buyer, later |
+| Form | Balance of the whole formula | During compounding | Maker, then buyer |
+| Origin | Price premium only | Paperwork, if at all | Buyer at resale |
+| Binder, unlisted | Burn behaviour | Every stick in the batch | Maker |
+
+The table is a reminder that "substitution" is not one event. A form swap inside a workshop is a production problem before it is a labelling problem, and the person who notices first is usually the maker, not the customer. Origin swaps are the reverse: they may never affect the burn at all, which is exactly why they survive on paper alone.
+
+In practice, the cheapest swap is often the most expensive. Replacing a base with a top note saves a little material cost and forces a rebuild of the whole formula, since the mixture's floor has moved. The loss is not the difference in resin price; it is the batch that has to be reworked, plus the confidence the maker loses in the next batch. A declared relative that performs the base role avoids that chain entirely, which is why disclosure is worth more than a fancy name.
+
+This does not mean every cheap material is a trap. It means the question to ask is what the material is doing in the product. A relative in the wrong role costs more than its price; the same relative in the right role can be the better purchase.
 
 ---
 
@@ -375,7 +401,7 @@ Fifth, record the outcome. A note that a seller answered precisely, or refused t
 
 **Find the contradiction.** A scarce material at an implausible price, a top rank with no paper, a famous origin with no record. The contradiction is not proof; it is the place to ask the next question.
 
-Score the label out of six. Four or more answers mean the seller is communicating. Two or fewer mean you are looking at atmosphere. The score is not a quality rating; it tells you how much of the price is being asked for on trust.
+Score the label out of six. Four or more answers mean the seller is communicating; two or fewer mean atmosphere. The score is not a quality rating; it measures how much of the price rests on trust.
 
 ---
 
@@ -383,51 +409,47 @@ Score the label out of six. Four or more answers mean the seller is communicatin
 
 ### Q: Where does substitution concentrate?
 
-In the expensive end of the trade. Indian sandalwood, agarwood at the kyara rank, natural ambergris, and true frankincense all carry prices far above their nearest usable relatives. The margin pays for ambiguity. Cheaper spices and gums are sometimes mislabeled too, but the motive is weaker and the loss is smaller.
+At the top of the market, where a name carries the largest premium. Indian sandalwood, kyara-grade agarwood, natural ambergris, and true frankincense all cost many times their nearest working relative, and that multiple is what pays for ambiguity. Spices and gums lower down get mislabeled too; the gain is smaller, so the practice is thinner.
 
 ### Q: What is the shortest useful check on a sandalwood stick?
 
-Break one stick and look at the interior. A fibrous, pale centre suggests ground wood; a uniform, darker core suggests a coated or dyed base. Then burn a marked stick and watch the middle: a wood-based stick tends to develop, while a surface coat opens fast and flattens. Neither check names the species, but together they separate a wood product from a scented one.
+Break one stick and read the cross-section: a pale, fibrous interior points to ground wood, while a uniform dark core suggests a coated or dyed base. Then burn a marked stick and watch the middle third. Wood-based sticks build and hold; surface coats flare early and flatten. The pair separates a wood product from a scented one; neither names the species.
 
 ### Q: Is a declared cheaper material a bad buy?
 
-No. *Santalum spicatum*, Sumatra benzoin, and ambroxide are legitimate materials with their own uses. The problem is an undeclared swap or a price set by a prestige name the contents do not earn. A fair price for a declared relative is a normal transaction.
+No. *Santalum spicatum*, Sumatra benzoin, and ambroxide are established materials with real uses. What spoils a purchase is a swap nobody disclosed, or a price set by a prestige name the contents never carried. Paying a fair price for a named relative is ordinary trade.
 
 ### Q: Does the choice of benzoin change a formula?
 
-It changes the finish. Siam resin (*Styrax tonkinensis*) is soft, sweet, and powdery; the Sumatra resins (*S. benzoin*, *S. paralleloneurus*) carry a sharper, cinnamic edge. One smooths a base, the other gives it bite. A blend that names only "benzoin" leaves the choice invisible. The [benzoin entity](/ingredients/benzoin/) covers the materials in more detail.
+It changes the finish, and the two gums are not interchangeable. Siam (*Styrax tonkinensis*) reads soft, sweet, and powdery; Sumatra (*S. benzoin*, *S. paralleloneurus*) carries a sharper cinnamic edge. One rounds a base, the other lifts it. A label that says only "benzoin" withholds the choice. The [benzoin entity](/ingredients/benzoin/) goes further.
 
 ### Q: What does a certificate of analysis settle?
 
-It settles what a named laboratory found in a named sample on a named date, using a stated method. It does not settle whether the sample came from your package unless the lot number matches, and it says nothing about other batches. Read the identity, form, rank, lot, issuer, method, and date before treating the paper as evidence about your purchase.
-
-### Q: Which claims can no home test reach?
-
-Origin and rank. A chip cannot reveal the forest it came from, and the same species can produce several grades whose difference lives in resin distribution rather than surface appearance. Species can sometimes be narrowed by an experienced nose, but confirmation usually needs a laboratory.
+It records what one named laboratory found in one named sample on one date, by one stated method. Your package is covered only if the lot number matches. Other batches are not covered at all. Check identity, form, rank, lot, issuer, method, and date before you treat the paper as evidence about your own purchase.
 
 ---
 
 ## Sources
 
-- Flora of China — [*Aquilaria* entry](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) and Santalaceae pages.
-- CITES Checklist — [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria).
-- 本草纲目 — materia medica, cited as traditional knowledge. [Text at Wikisource](https://zh.wikisource.org/wiki/本草綱目).
-- 周嘉胄《香乘》(Ming) — classical material distinctions. [Text at Wikisource](https://zh.wikisource.org/wiki/香乘).
-- Trade and collector accounts; price ranges are descriptions, not quotations.
+- Flora of China: the [*Aquilaria* treatment](http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=102387) and its Santalaceae family pages, used for botanical identity.
+- CITES Checklist: the [*Aquilaria* listing](https://checklist.cites.org/#/en/search/output_layout=alphabetical&level_of_listing=0&show_synonyms=1&show_author=1&show_english=1&show_spanish=1&show_french=1&scientific_name=Aquilaria) as the regulatory reference.
+- 本草纲目 (Bencao Gangmu): historical materia medica, used here as traditional knowledge rather than clinical evidence. [Text at Wikisource](https://zh.wikisource.org/wiki/本草綱目).
+- 周嘉胄《香乘》(Ming): a classical source on material distinctions. [Text at Wikisource](https://zh.wikisource.org/wiki/香乘).
+- Trade and collector accounts. Price ranges are described, not quoted as offers.
 
 ---
 
 ## Related Resources
 
-- [Plant material or fragrance compound?](/blog/natural-vs-synthetic-incense/) — the difference followed through the burn.
-- [The sandalwood material file](/blog/sandalwood-incense/) — species, grades, and behaviour under heat.
-- [Agarwood, from resin to grade](/blog/agarwood-incense/) — resin formation, grading, and cultivated supply.
-- [Case notes on fakes](/blog/incense-authentication-database/) — the objects this reference describes.
+- [Wood or compound?](/blog/natural-vs-synthetic-incense/) follows the distinction through the burn.
+- [Sandalwood file](/blog/sandalwood-incense/) covers species, market grades, and heat behaviour.
+- [Agarwood file](/blog/agarwood-incense/) traces resin formation, grading, and plantation supply.
+- [Authentication cases](/blog/incense-authentication-database/) holds the objects behind these categories.
 
 ## Summary
 
-- Label words do different jobs: category, rank, place, form, and mood.
-- Botanical names pin a material; rank and origin need documents.
-- Substitution follows price gaps, and the widest gaps sit around sandalwood and agarwood.
-- The burn shows behaviour, not identity; paper ties a claim to a lot.
-- A declared substitute is a product. An undeclared one is a claim the buyer cannot audit.
+- Label words split into category, rank, place, form, and mood, and each job needs a different check.
+- A botanical name pins the plant; rank and origin depend on records.
+- Substitution follows price gaps, widest around sandalwood and agarwood.
+- Burning reveals behaviour; paper connects a claim to a lot.
+- A declared relative is a product. A concealed one is a claim no buyer can audit.
