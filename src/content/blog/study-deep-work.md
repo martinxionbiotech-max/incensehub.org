@@ -11,9 +11,17 @@ brand: "\"IncenseHub\""
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** At a study desk, incense is a **cue and a clock**, not a stimulant. The scent worth choosing is bright and clean — citrus peel, frankincense resin, dry cedar — because it registers once and then leaves the room alone. Light it when the work begins, let it burn out, and the ritual supplies two things no aroma can manufacture: a start signal and an end signal.
+> **Direct answer:** At a study desk, incense is a **cue and a clock**, not a stimulant. The scent worth choosing is bright and clean — citrus peel, frankincense resin, dry cedar — because it registers once and then leaves the room alone. Light it when the work begins, let it burn out, and the ritual supplies two things no aroma can manufacture: a start signal and an end signal.
 
-**Key facts:** Repetition is what turns a smell into a cue. IncenseHub publishes no concentration, memory, or productivity claim; "focus" here describes the room and the routine, not a measured change in the person.
+## Key facts
+
+- **What works:** structure, not scent chemistry — a fixed start, a fixed stop, repeated at the same desk.
+- **What to burn:** bright, low-sweetness material — citrus peel, frankincense, dry cedar — because it fills the room fast and stops competing after a minute or two.
+- **What to avoid:** deep sweet woods and heavy white florals, which keep releasing and re-announce themselves.
+- **Clock:** burn length is the timer. A thin coreless stick commonly runs twenty-five to thirty-five minutes; a bamboo-core stick forty-five to sixty.
+- **Cost:** smoke. One stick at a time, air on the move, and a shorter format for a longer session.
+- **Claim boundary:** no concentration, memory, or productivity gain is asserted; "focus" here names the room and the routine, not a measured change in the person.
+- **Cue value:** repetition is what turns a smell into a cue, so a single note for work beats a daily rotation.
 
 ---
 
@@ -121,6 +129,10 @@ The phrase "incense for focus" is a search term, not a finding. It describes a c
 What can be said without overreach: a consistent cue can help some people begin a task; a fixed burn can mark a block; a bright, low-lingering scent is less likely to interrupt than a heavy one. What cannot be said: that burning a stick raises concentration, improves memory, or increases output. Those are performance claims, and no fragrance has earned them.
 
 The line is worth holding because it protects the useful part. A ritual sold as a miracle collapses the first time the miracle fails to appear. A ritual sold as a boundary keeps working, because the boundary is real whether or not anyone feels sharper.
+
+## Evidence status
+
+Two kinds of statement share this page, and only one of them is measured. The behavioural half — a repeated cue can help someone begin a task, a fixed burn can mark a block — is ordinary habit formation, offered here as a pattern a reader can test at their own desk, not as a trial result. The air-quality half rests on public health guidance that treats indoor combustion as a source of fine particles worth limiting; that guidance supports the dose and ventilation advice, and it does not quantify what one stick does to one room. The claim that a scent raises concentration, improves memory, or lifts output is not made anywhere on this page, because no fragrance has earned it. Where the page says bright notes stop competing, read that as a report on olfactory adaptation — a description of the room, not of cognition.
 
 ## FAQ
 

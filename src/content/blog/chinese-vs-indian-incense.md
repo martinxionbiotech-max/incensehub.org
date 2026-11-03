@@ -12,9 +12,16 @@ author: "Landeng Tech Team"
 ---
 
 
-**Direct answer:** Set a Chinese stick beside an Indian agarbatti and the gap is one of intent rather than quality: one is a formula dressed in a burnable shape, the other a delivery device for fragrance and ritual presence. The Chinese lineage treats 合香 (hé xiāng), compound blending, as the craft itself; the Indian lineage treats agarbatti, the bamboo-cored stick, as the finished object. Warm and layered on one side, bold and smoky on the other.
+> **Direct answer:** Set a Chinese stick beside an Indian agarbatti and the gap is one of intent rather than quality: one is a formula dressed in a burnable shape, the other a delivery device for fragrance and ritual presence. The Chinese lineage treats 合香 (hé xiāng), compound blending, as the craft itself; the Indian lineage treats agarbatti, the bamboo-cored stick, as the finished object. Warm and layered on one side, bold and smoky on the other.
 
-**Key facts:** In India the grade question is *masala* (a hand-rolled botanical paste) against *dipped* (a core soaked in fragrance oil), and it decides most of what the price means. In China format is secondary to recipe: sticks, coils, cones, loose powder and seal incense all carry the same blended logic. Sandalwood is the one material both traditions treat as foundational, and each gives it a different rank.
+## Key facts
+
+- **Unit of value:** in China the formula (合香) is the product and the delivery shape is secondary; in India the stick (agarbatti) is the product and the blend is a means to it.
+- **Indian grade question:** *masala* — a hand-rolled botanical paste — against *dipped* — a core soaked in fragrance oil. That one word decides most of what the price means.
+- **Chinese grade question:** material or fragrance oil. Format is secondary to recipe: sticks, coils, cones, loose powder and seal incense all carry the same blended logic.
+- **Shared material, two ranks:** sandalwood is foundational to both traditions — a background voice inside a Chinese blend, the defining spine of an Indian masala stick.
+- **Structure:** a bamboo splint is a second fuel, adding a faint woody-char note and enough strength to survive export.
+- **Burn bands:** sticks from either tradition usually finish in twenty minutes to an hour, cones in ten to fifteen, coils over hours.
 
 ---
 
@@ -205,6 +212,10 @@ A last habit worth building is the unlit comparison. Lay a Chinese stick and a m
 What you collect follows from the same logic. Chinese incense rewards a keeper of many materials and blends, revisited and compared over years — a library. Indian agarbatti rewards a rotating box of sticks for daily use — a pantry. Buy one to keep and compare, the other to use and replace, and the posture will match the tradition rather than fight it. *The author's view, not a verified fact.*
 
 ---
+
+## Evidence status
+
+The comparison mixes three kinds of material, and the page keeps them labelled. Production routes are documented practice: masala is a hand-rolled botanical paste, dipped is a core soaked in fragrance oil, and the difference is visible on the stick before it is lit. Historical and etymological claims — 合香 as a compositional discipline, the agar-plus-batti root of agarbatti, the Ming refinement of the stick — are recorded tradition and trade usage, not laboratory findings, and the two gaps the page cannot close are marked `[need-source]` rather than filled with invention. Burn times and moisture behaviour are workshop observation: the direction of the effect is dependable, the specific minutes are not, and a figure printed on a pack outranks any rule of thumb. No health, spiritual, or therapeutic effect is claimed for either tradition; the smoke disclosure applies to both sides.
 
 ## Summary
 

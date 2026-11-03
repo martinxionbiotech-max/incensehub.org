@@ -11,9 +11,17 @@ brand: "IncenseHub"
 author: "Landeng Tech Team"
 ---
 
-**Direct answer:** Floral is the **blossom register** — the smell of petals rather than wood, resin, or leaf. Four materials carry it in this library: rose (玫瑰), jasmine (茉莉), osmanthus (桂花), and chrysanthemum (菊花). Three read sweet and honeyed; jasmine tips into the heady; chrysanthemum keeps a bittersweet, herbal edge.
+> **Direct answer:** Floral is the **blossom register** — the smell of petals rather than wood, resin, or leaf. Four materials carry it in this library: rose (玫瑰), jasmine (茉莉), osmanthus (桂花), and chrysanthemum (菊花). Three read sweet and honeyed; jasmine tips into the heady; chrysanthemum keeps a bittersweet, herbal edge.
 
-**Key facts:** All four are catalogued as members of one family in `aroma.json`. Floral entered the Chinese incense canon late and mostly as an accent, a tea-scenting material, or a symbolic note — the burned base of the tradition is wood and resin. Genuine floral absolutes are costly enough that a great deal of commercial "rose" and "jasmine" is a rebuilt accord, which is legitimate when the label says so.
+## Key facts
+
+- **Members:** four — chrysanthemum, jasmine, osmanthus, rose — catalogued as one family in `aroma.json`.
+- **Shared register:** sweet and honeyed, with jasmine's narcotic weight at one pole and chrysanthemum's bitter-herbal edge at the other.
+- **Canon position:** floral entered Chinese incense late, mostly as an accent, a tea-scenting material, or a symbolic note; the burned base of the tradition is wood and resin.
+- **Role in a blend:** a top note. It opens a burn and fades early, so it sits over a base rather than under one.
+- **Cost driver:** the absolute, not the flower. Dried petals are cheap; the captured volatile fraction is not.
+- **Market reality:** much commercial "rose" and "jasmine" is a rebuilt accord — legitimate when the label says so, a problem when charged at absolute prices.
+- **Claim boundary:** "headiness" describes impact on the nose, not an effect on the body.
 
 ---
 
@@ -116,7 +124,9 @@ This table is the practical heart of the family. Floral is a tool for adjusting 
 
 In [aroma.json](https://data.incensehub.org/datasets/aroma.json) the family appears as a `DefinedTerm`, and four ingredients are listed under `memberIngredients`: chrysanthemum, jasmine, osmanthus, rose. On the entity side, the same four pages tag floral in their `aroma` field, sometimes beside a second family — chrysanthemum is tagged herbal as well, which is why it keeps turning up in two places. Where prose and dataset disagree, treat the dataset as authoritative.
 
-## A Short Protocol for Judging a Floral go wrong because the buyer judges the note from a cold stick sniffed in a shop. A stick smells of binder, dust, and the strongest isolate in the blend; the flower appears only once heat is applied. A better protocol, in order:
+## A Short Protocol for Judging a Floral
+
+Floral incense purchases go wrong because the buyer judges the note from a cold stick sniffed in a shop. A stick smells of binder, dust, and the strongest isolate in the blend; the flower appears only once heat is applied. A better protocol, in order:
 
 1. **Smell the unlit stick at arm's length.** You are checking for a harsh solvent edge or a dusty, stale top. A clean stick should smell faintly of the flower and strongly of very little.
 2. **Burn a short piece in the room you will use.** The first two minutes tell you about the opening; minutes five to fifteen tell you whether anything sits underneath.
@@ -125,6 +135,10 @@ In [aroma.json](https://data.incensehub.org/datasets/aroma.json) the family appe
 5. **Check the ash and the smoke.** Heavy smoke masks floral nuance; flaking ash suggests a loosely pressed stick.
 
 None of this requires expertise. It requires fifteen minutes and the willingness to notice that the opening and the middle are different smells. Buyers who do this stop paying absolute prices for accords, and they stop dismissing floral as a category after one soapy stick.
+
+## Evidence status
+
+The claims on this page divide into two piles, and the page keeps them apart. What the tradition records — flowers entering Chinese practice as tea scenters, foods, poetic symbols, and later blended accents — is craft history, stated as usage rather than as a measured finding. What can be checked is narrower: an absolute costs more per gram than dried petals because the captured volatile fraction is a small share of the flower's mass, and a floral opening fades because light molecules leave first. The chemistry section marks its own limit — benzyl acetate for jasmine and ionones for osmanthus are published descriptions, while the record for rose and chrysanthemum stops at "studied." Nothing here is a therapeutic claim, and no aroma effect on mood or body is asserted.
 
 ## FAQ
 
