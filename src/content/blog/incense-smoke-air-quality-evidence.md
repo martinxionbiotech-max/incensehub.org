@@ -8,7 +8,7 @@ content_type: "authority_reference"
 cluster_role: "authority_reference"
 last_reviewed: "2026-09-11"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** A gram of incense puts about 45 milligrams of particles into the air; cigarette tobacco is reported at about 10 milligrams. The four-to-one gap measures emission, not risk — and "natural" says what the paste holds, not what the ember gives off.

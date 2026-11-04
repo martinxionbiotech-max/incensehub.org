@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 
@@ -241,7 +241,7 @@ Three limits are worth stating plainly.
 
 **It describes character, not effect.** No family tag implies a therapeutic outcome, and the reference makes no medical claims. Terms like calming or grounding are descriptions of aroma, not promises about a body. The [scent guide](/blog/scent-guide/) handles the same boundary from the material side.
 
-**It does not grade.** Family membership says nothing about species, age, resin density, or authenticity. Those belong to separate references — the [knowledge map](/blog/landeng-knowledge-map/) shows where.
+**It does not grade.** Family membership says nothing about species, age, resin density, or authenticity. Those belong to separate references — the [knowledge map](/blog/incensehub-knowledge-map/) shows where.
 
 ## The Chinese Names Beside Each Family
 
@@ -286,7 +286,7 @@ No. Tags describe character. Species, origin, resin density, age, and authentici
 - [Floral family](/blog/floral-aroma-family/) — the modern layer on a classical canon.
 - [Incense Scent Wheel](/blog/scent-wheel/) — the same palette arranged by atmosphere instead of by character.
 - [Scent guide](/blog/scent-guide/) — the long-form material reference behind these tags.
-- [Knowledge map](/blog/landeng-knowledge-map/) — where the datasets, family pages, and entity pages connect.
+- [Knowledge map](/blog/incensehub-knowledge-map/) — where the datasets, family pages, and entity pages connect.
 
 **Natural next step:** pick one material you own, look up its tags, and check whether the blend you would build from them matches what the material actually does. Start with the [woody family](/blog/woody-aroma-family/), where the map is densest.
 

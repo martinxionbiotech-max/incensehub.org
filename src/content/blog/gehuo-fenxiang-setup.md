@@ -8,7 +8,7 @@ content_type: "how_to"
 cluster_role: "how_to"
 last_reviewed: "2026-09-11"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 

@@ -8,7 +8,7 @@ content_type: "reference"
 cluster_role: "reference"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 
@@ -240,7 +240,7 @@ For a researcher, the practical consequence is citation. A claim drawn from vers
 
 ### Q: How many terms are in the dataset?
 
-249. Each is a structured record with a Chinese headword, a pinyin reading, a literal meaning and a preferred English translation. The set is versioned at 1.4, licensed CC BY-SA 4.0, and served as JSON from `data.incensehub.org`. The [knowledge map](/blog/landeng-knowledge-map/) lists it alongside the other datasets in the series.
+249. Each is a structured record with a Chinese headword, a pinyin reading, a literal meaning and a preferred English translation. The set is versioned at 1.4, licensed CC BY-SA 4.0, and served as JSON from `data.incensehub.org`. The [knowledge map](/blog/incensehub-knowledge-map/) lists it alongside the other datasets in the series.
 
 ### Q: Why can one Chinese word have several English meanings?
 
@@ -277,7 +277,7 @@ Yes, under CC BY-SA 4.0, with attribution and share-alike terms for derivative w
 - [Incense Terminology Glossary](/blog/incense-terminology-glossary/) — form and practice terms in table form.
 - [Incense Ingredients Glossary](/blog/incense-ingredients-glossary/) — the material vocabulary.
 - [Incense Materials, Techniques & Forms](/blog/incense-materials-techniques-forms/) — how the categories fit together.
-- [IncenseHub Knowledge Map](/blog/landeng-knowledge-map/) — the full dataset inventory.
+- [IncenseHub Knowledge Map](/blog/incensehub-knowledge-map/) — the full dataset inventory.
 
 **A natural next step:** take a term you have just resolved and follow it into the [terminology glossary](/blog/incense-terminology-glossary/), or see the whole taxonomy in [materials, techniques and forms](/blog/incense-materials-techniques-forms/).
 

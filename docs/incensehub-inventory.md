@@ -241,8 +241,8 @@ Jaccard（正文去图/去链接/去表格后词集相似度）。高相似主�
 | 1 | KEEP | `/blog/chinese-vs-japanese-incense/` | Chinese vs Japanese Incense: 合香 and Kōdō Compared | 2251 | EN | 16 | P8 — Regional Incense Traditions |
 | 2 | KEEP | `/blog/history-of-chinese-incense/` | History of Chinese Incense: Shang to Revival | 1603 | MIX | 13 | P1 — Chinese Incense 101 |
 | 3 | KEEP | `/blog/japanese-incense-kodo/` | Japanese Incense & Kōdō (香道): The Art From China | 2196 | EN | 17 | P8 — Regional Incense Traditions |
-| 4 | KEEP | `/blog/landeng-editorial-methodology/` | How IncenseHub Researches Chinese Incense | 1931 | EN | 9 | Editorial & Data |
-| 5 | KEEP | `/blog/landeng-knowledge-map/` | IncenseHub Knowledge Map: Entities, Datasets & Policies | 1238 | EN | 8 | Editorial & Data |
+| 4 | KEEP | `/blog/incensehub-editorial-methodology/` | How IncenseHub Researches Chinese Incense | 1931 | EN | 9 | Editorial & Data |
+| 5 | KEEP | `/blog/incensehub-knowledge-map/` | IncenseHub Knowledge Map: Entities, Datasets & Policies | 1238 | EN | 8 | Editorial & Data |
 | 6 | KEEP | `/blog/what-is-chinese-incense/` | What Is Chinese Incense? 香 (Xiāng) | 2770 | EN | 19 | P1 — Chinese Incense 101 |
 | 7 | KEEP | `/blog/xiangpu-incense-manuals/` | 香谱 Incense Manuals: Complete, Rarely Translated | 973 | MIX | 10 | P1 — Chinese Incense 101 |
 | 8 | TRANSFORM · T1 | `/blog/agarwood-grading-guide/` | Agarwood Grading: 沉香, 沉水 & 奇楠 | 2115 | MIX | 18 | P2 — Scent & Ingredient Guide |

@@ -1,4 +1,4 @@
-# IncenseHub (澜灯)
+# IncenseHub (IncenseHub)
 
 > A quiet, research-led English-language knowledge platform for Chinese botanical incense: its materials, botanicals, history, terminology, craft and culture.
 
@@ -197,7 +197,7 @@
 - [How Incense Is Dried and Cured: Waiting Shapes Scent](/blog/how-incense-is-dried-and-cured/)
 - [How Incense Is Made: From Raw Material to Finished Product](/blog/how-incense-is-made/)
 - [How Incense Powder Is Made: Grinding, Sieving, and Blending](/blog/how-incense-powder-is-made/)
-- [How IncenseHub Researches Chinese Incense](/blog/lanDeng-editorial-methodology/)
+- [How IncenseHub Researches Chinese Incense](/blog/incensehub-editorial-methodology/)
 - [How to Burn Incense Safely: Holders & Placement](/blog/how-to-burn-incense-safely/)
 - [How to Choose Incense: A Honest Selection Guide](/blog/how-to-choose-incense/)
 - [Incense and Breathwork: Scent as a Focus](/blog/incense-and-breathwork/)
@@ -237,7 +237,7 @@
 - [Incense vs Reed Diffuser vs Wax Melts](/blog/incense-vs-reed-diffuser-wax-melts/)
 - [Incense, Pets & Sensitivities: What to Watch](/blog/incense-pets-sensitivities/)
 - [Incense, Ventilation & Indoor Air](/blog/incense-ventilation-indoor-air/)
-- [IncenseHub Knowledge Map: Entities, Datasets & Policies](/blog/lanDeng-knowledge-map/)
+- [IncenseHub Knowledge Map: Entities, Datasets & Policies](/blog/incensehub-knowledge-map/)
 - [Indian Incense (Agarbatti): Two Different Grades](/blog/indian-incense-agarbatti/)
 - [Japanese Incense & Kōdō (香道): The Art From China](/blog/japanese-incense-kodo/)
 - [Lavender Incense: A Western Scent](/blog/lavender-incense/)

@@ -3,12 +3,12 @@
   "@type": "Dataset",
   "@id": "https://data.incensehub.org/datasets/materials.json",
   "name": "IncenseHub Incense Material Database",
-  "description": "Machine-readable definitions of the functional materials used to make Chinese botanical incense — binders, bases, cores, fuels, and loose aromatic materials. Extracted from the IncenseHub (澜灯) incense encyclopedia; values are traceable to source pages and no value is fabricated.",
+  "description": "Machine-readable definitions of the functional materials used to make Chinese botanical incense — binders, bases, cores, fuels, and loose aromatic materials. Extracted from the IncenseHub (IncenseHub) incense encyclopedia; values are traceable to source pages and no value is fabricated.",
   "url": "https://data.incensehub.org/datasets/materials.json",
   "publisher": {
     "@type": "Organization",
     "@id": "https://incensehub.org/#organization",
-    "name": "Zhangjiakou Landeng Technology Co., Ltd."
+    "name": "IncenseHub"
   },
   "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",

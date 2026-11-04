@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 <img src="/images/incense-candle-diffuser-comparison-1200x675.webp" alt="Three room-scenting formats on one table: a stick of incense, a lit pillar candle, and a bottle of reeds." width="1200" height="675" loading="lazy">

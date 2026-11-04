@@ -1,8 +1,8 @@
-# IncenseHub 澜灯 (incensehub.org) 合规审计报告
+# IncenseHub IncenseHub (incensehub.org) 合规审计报告
 
-- **站点**：incensehub.org（IncenseHub 澜灯 — Chinese Botanical Incense 内容站）
+- **站点**：incensehub.org（IncenseHub IncenseHub — Chinese Botanical Incense 内容站）
 - **仓库**：repos/IncenseHub（Astro · 静态站 · 280 页）
-- **主体**：Zhangjiakou Landeng Technology Co., Ltd.（张家口澜灯科技有限公司 · USCC 91130702MAKM4QXH5Q）
+- **主体**：IncenseHub（张家口IncenseHub科技有限公司 · USCC 91130702MAKM4QXH5Q）
 - **审计日期**：2026-10-18
 - **审计师角色**：合规审计（广告法 / 医药宣称 / CITES 保护物种 / 消费者保护 / 隐私多法域）
 - **方法**：逐页扫描 150 个原料实体 + 115 篇博客 + 16 个 Astro 页面 + 法律页 + BaseLayout 主体披露 + 商业页；全文 grep（中/英疗效词、绝对化用语、CITES、analytics/cookie、图片来源）。
@@ -132,13 +132,13 @@
 
 **结论：良好，2 项 P2。**
 
-- **品牌一致性**：`IncenseHub`（285 次）/ `Landeng`（137，含邮箱域名、footer 法律名「Landeng Technology」）/ `landeng`（35，邮箱/URL 前缀）/ `澜灯`（8）——主品牌「IncenseHub」与法律实体「Zhangjiakou Landeng Technology」用法区分正确，无拼写漂移（相比 audit skill 中 DINWEYS 站的 Maju/Mayu 类问题，本站干净）。
+- **品牌一致性**：`IncenseHub`（285 次）/ `Landeng`（137，含邮箱域名、footer 法律名「Landeng Technology」）/ `incensehub`（35，邮箱/URL 前缀）/ `IncenseHub`（8）——主品牌「IncenseHub」与法律实体「Zhangjiakou Landeng Technology」用法区分正确，无拼写漂移（相比 audit skill 中 DINWEYS 站的 Maju/Mayu 类问题，本站干净）。
 - **数据集许可**：`data.incensehub.org` 下 8 个数据集均 CC BY-SA 4.0，knowledge-map / terminology-reference 页明示许可与版本。
 - **古籍引用**：香乘（Xiang Cheng）/ 本草纲目（Bencao Gangmu）/ 梦粱录 等均链接 Wikisource / ctext 原文，ToS §3 声明引用规范。
 
 **P2 建议：**
 1. **图片来源声明缺失**。全站 200+ 张图片（`/images/*.webp`，含原料静物、工艺步骤图）为本地自产，但**无任何图片出处/生成方式声明**（无 seedream/AI 生成标注、无图注 credit）。按本站「来源透明」定位，建议在 ToS 或 disclaimer 增加一句「product/process images are illustrative still-life photography created for this site」。
-2. footer 版权 `© IncenseHub` 与 ToS「© Zhangjiakou Landeng Technology Co., Ltd.」措辞可统一（P2 级一致性问题）。
+2. footer 版权 `© IncenseHub` 与 ToS「© IncenseHub」措辞可统一（P2 级一致性问题）。
 
 ---
 

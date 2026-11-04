@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-22"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 **Direct answer:** Cutting and milling are two exits from the same room. A block of resin-loaded heartwood either leaves as pieces destined for a warm plate, or as grains destined for a mixing tray — and the choice is made on commercial grounds long before it reaches you. Whole pieces belong to the practice of attending to a single material (品香). Grains belong to the practice of building a formula (制香). Once you know which of those two you are doing, the rest of the buying question collapses into a short list of things to check.
 

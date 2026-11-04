@@ -8,7 +8,7 @@ content_type: "glossary"
 cluster_role: "glossary"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Walk into a shop and the inventory resolves into five physical formats — 线香 sticks, 盘香 coils, 塔香 cones, 香脂 or 香片 resin, and loose 香粉 powder — alongside prepared variants such as coreless sticks and 倒流香 backflow cones. Shape decides how the piece burns, how long it lasts, what holds it, and how much smoke it releases.

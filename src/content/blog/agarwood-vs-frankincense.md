@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** They are not cousins, whatever the shelving suggests. Agarwood (沉香) is *Aquilaria* heartwood whose damaged tissue has filled with resin over years — you are buying wood in a particular condition. Frankincense (乳香) is the exudate itself, tapped from *Boswellia* bark and hardened into tears. Wood carrying resin versus resin alone: that split governs how each is heated, how each is graded, and which frauds to expect.

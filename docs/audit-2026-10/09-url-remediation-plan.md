@@ -58,7 +58,7 @@
 
 ### P2-02 E-E-A-T 署名信号强化
 - **严重程度**：Medium
-- **证据 URL**：全部 115 blog 页 `author: "Landeng Tech Team"`；/blog/landeng-editorial-methodology/
+- **证据 URL**：全部 115 blog 页 `author: "IncenseHub Editorial Team"`；/blog/incensehub-editorial-methodology/
 - **问题与证据**：作者统一为团队名，无个人署名/资质/方法论作者。这不是虚假（是诚信），但 E-E-A-T 署名信号偏弱。
 - **推荐方法**：增设"编辑团队"页说明真实团队构成与专业背景（**真实、不虚构个人**）；方法论页补"审核流程 + 来源准入标准"。
 - **预期效果**：强化 E-E-A-T，不引入虚假资历。

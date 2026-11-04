@@ -50,8 +50,8 @@ This repository follows a documentation-first gate. The `docs/` directory is the
 
 | Field | Value |
 |---|---|
-| Brand name | IncenseHub (澜灯) |
-| Legal entity | Zhangjiakou Landeng Technology Co., Ltd. (张家口澜灯科技有限公司) |
+| Brand name | IncenseHub (IncenseHub) |
+| Legal entity | IncenseHub (张家口IncenseHub科技有限公司) |
 | Domain | incensehub.org (placeholder) |
 | Data domain | data.incensehub.org |
 | Datasets license | CC BY-SA 4.0 |

@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Aromatherapy beads are **porous beads that hold essential oil and release it slowly while you wear them**. The bead is the reservoir; the oil is the scent. Nothing burns, nothing smokes, and the aroma stays within arm's reach rather than filling a room.

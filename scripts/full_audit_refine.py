@@ -4,7 +4,7 @@ import os, re, json
 from collections import Counter, defaultdict
 
 IH = "/root/.openclaw/workspace/repos/incensehub.org"
-LD = "/root/.openclaw/workspace/repos/LanDeng"
+LD = "/root/.openclaw/workspace/repos/IncenseHub"
 IHC = os.path.join(IH, "src/content")
 LDC = os.path.join(LD, "src/content")
 FRONT_RE = re.compile(r'^---\s*\n.*?\n---\s*\n', re.DOTALL)

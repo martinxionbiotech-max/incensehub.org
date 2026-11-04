@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-22"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 <img src="/images/incense-quality-indicators-closeup-1200x675.webp" alt="Row of incense sticks being inspected for diameter, straightness, surface finish, and even coating." width="1200" height="675" loading="lazy">

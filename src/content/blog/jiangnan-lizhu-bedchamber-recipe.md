@@ -8,7 +8,7 @@ content_type: "recipe"
 cluster_role: "recipe"
 last_reviewed: "2026-09-11"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** 江南李主帐中香 belongs to the classical 合香 (hé xiāng, layered blending) tradition and carries the name of 李煜 (Li Yu), the Southern Tang's last ruler — "江南李主" being "the Lord of Jiangnan" — and in its best-known form agarwood powder and a trace of sandalwood are packed into hollowed goose pears, steamed three times, and left with a clean, sweet fruit character that enters the wood before burning.

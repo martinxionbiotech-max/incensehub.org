@@ -5,7 +5,7 @@ Text wireframes for the core page types. Wireframes precede implementation (see 
 ## 1. Homepage
 
 ```
-Header (brand 澜灯 IncenseHub · nav)
+Header (brand IncenseHub IncenseHub · nav)
 Hero — restrained: brand line + one-sentence "what is Chinese botanical incense"
   → not a product catalog; lead with knowledge
 Section: What is Chinese botanical incense (direct answer + link to /chinese-incense/)

@@ -8,7 +8,7 @@ content_type: "data_asset"
 cluster_role: "data_asset"
 last_reviewed: "2026-09-11"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Seven classic materials — agarwood, sandalwood, frankincense, borneol, benzoin, myrrh, clove — separate along five lines a buyer uses: smell, plant source, relative cost, job in the formula, and how far the name can be trusted.

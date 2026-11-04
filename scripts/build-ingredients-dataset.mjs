@@ -53,7 +53,7 @@ const dataset = {
   '@id': `${SITE}/data/ingredients.json`,
   name: 'IncenseHub Chinese Botanical Incense Ingredient Encyclopedia',
   description:
-    'Machine-readable definitions of the botanical ingredients in the IncenseHub (澜灯) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.',
+    'Machine-readable definitions of the botanical ingredients in the IncenseHub (IncenseHub) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.',
   url: `${SITE}/data/ingredients.json`,
   publisher: { '@id': `${SITE}/#organization` },
   dateModified: new Date().toISOString().slice(0, 10),

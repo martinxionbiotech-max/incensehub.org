@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 IncenseHub.org 全内容审计（五维 · AUDIT ONLY）
-对比源站 LanDeng（incensehub.org 原内容归档）。
+对比源站 IncenseHub（incensehub.org 原内容归档）。
 
 维度：
 1. 原站重复检测（N-gram/Jaccard 段落级）
@@ -16,7 +16,7 @@ import os, re, json, hashlib, sys
 from collections import Counter, defaultdict
 
 IH = "/root/.openclaw/workspace/repos/incensehub.org"
-LD = "/root/.openclaw/workspace/repos/LanDeng"
+LD = "/root/.openclaw/workspace/repos/IncenseHub"
 IH_CONTENT = os.path.join(IH, "src/content")
 LD_CONTENT = os.path.join(LD, "src/content")
 
@@ -181,7 +181,7 @@ for relp in sorted(ih_files):
     rec = {'rel': relp, 'section': relp.split('/')[0] if '/' in relp else 'root',
            'ih_words': ih_struct['words'], 'struct': ih_struct}
 
-    # dim 1: duplicate vs LanDeng (paragraph-level n-gram)
+    # dim 1: duplicate vs IncenseHub (paragraph-level n-gram)
     ld_path = ld_files.get(relp)
     if ld_path:
         ld_text = load_file(ld_path)

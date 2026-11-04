@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-22"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 <img loading="lazy" width="1200" height="675" src="/images/incense-making-drying-sticks-1200x675.webp" alt="Newly rolled sticks laid out in rows on wooden boards to dry.">
 

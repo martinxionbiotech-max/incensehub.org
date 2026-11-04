@@ -3,12 +3,12 @@
   "@type": "Dataset",
   "@id": "https://data.incensehub.org/datasets/comparisons.json",
   "name": "IncenseHub Incense Comparison Database",
-  "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the IncenseHub (澜灯) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
+  "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the IncenseHub (IncenseHub) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
   "url": "https://data.incensehub.org/datasets/comparisons.json",
   "publisher": {
     "@type": "Organization",
     "@id": "https://incensehub.org/#organization",
-    "name": "Zhangjiakou Landeng Technology Co., Ltd."
+    "name": "IncenseHub"
   },
   "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",

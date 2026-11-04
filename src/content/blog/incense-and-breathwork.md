@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** In breathwork, incense is a place to put your attention. The scent gives a wandering mind something constant to notice, and the smoke gives the exhale something slow to follow. It is a practice aid, not a treatment, and nothing here claims that a fragrance changes how your lungs work.

@@ -22,7 +22,7 @@ quiet · premium · natural · intelligent · editorial · tactile · authentic 
 
 ## Brand motif
 
-**澜灯 — "lantern on the waves."** Light + water as the quiet conceptual motif (not literal decoration): a soft glow over still water. Translate into restrained visual language — warm amber accents on deep neutral surfaces, generous whitespace, subtle texture.
+**IncenseHub — "lantern on the waves."** Light + water as the quiet conceptual motif (not literal decoration): a soft glow over still water. Translate into restrained visual language — warm amber accents on deep neutral surfaces, generous whitespace, subtle texture.
 
 ## Photography direction (original preferred)
 

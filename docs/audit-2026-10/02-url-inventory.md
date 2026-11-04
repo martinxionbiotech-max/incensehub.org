@@ -42,7 +42,7 @@ URL 清单来自三条独立来源，交叉核验：
 
 | URL | HTTP | Title | Meta description（首段） | Canonical |
 |---|---|---|---|---|
-| / | 200 | IncenseHub 澜灯 — Chinese Botanical Incense Knowledge | A research-led English-language knowledge platform… | https://incensehub.org/ |
+| / | 200 | IncenseHub IncenseHub — Chinese Botanical Incense Knowledge | A research-led English-language knowledge platform… | https://incensehub.org/ |
 | /ingredients/agarwood/ | 200 | Agarwood (沉香) — Grades & Fakes — IncenseHub Ingredients | 沉香 (chénxiāng) is an ingredient from Aquilaria spp., with an aroma profile of woody, resinous, sweet… | https://incensehub.org/ingredients/agarwood/ |
 | /blog/incense-smoke-air-quality-evidence/ | 200 | Incense Smoke & Air Quality: The Evidence — IncenseHub | At a glance: Yes, incense smoke measurably degrades indoor air — and the honest headline number… | https://incensehub.org/blog/incense-smoke-air-quality-evidence/ |
 | /disclaimer/ | 200 | Disclaimer — IncenseHub | （正文页） | — |

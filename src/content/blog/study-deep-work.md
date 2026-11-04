@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** At a study desk, incense is a **cue and a clock**, not a stimulant. The scent worth choosing is bright and clean — citrus peel, frankincense resin, dry cedar — because it registers once and then leaves the room alone. Light it when the work begins, let it burn out, and the ritual supplies two things no aroma can manufacture: a start signal and an end signal.

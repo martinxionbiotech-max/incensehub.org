@@ -8,7 +8,7 @@
 |---|---|---|---|
 | **Knowledge** | `/chinese-incense/` (concept), P1–P12 informational (72 informational posts) | — | ✅ strong |
 | **Entity** | `/ingredients/` + 150 DefinedTerm entity pages | `ingredients.json` (150) | ✅ strong |
-| **Guide** | blog `guide`/`hub` (12 hub + 10 guide) + `landeng-editorial-methodology` | — | ✅ strong |
+| **Guide** | blog `guide`/`hub` (12 hub + 10 guide) + `incensehub-editorial-methodology` | — | ✅ strong |
 | **Quality / Comparison** | P5 `how-to-choose-incense`, P2 `incense-material-comparison-matrix`, P7 "vs" cluster, P10 QC | `comparisons.json` (17) | ✅ present |
 | **Buying Guide** | P5 hub + `incense-gift-guide`, Commercial cluster | — | ✅ present |
 | **Wholesale** | `/wholesale/` + `wholesale-guide`, `moq-pricing-guide`, `factory-vetting-guide`, `bulk-incense-ingredient-sourcing`, `how-to-buy-agarwood-for-incense-manufacturing` | — | ✅ present |

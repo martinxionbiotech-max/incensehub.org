@@ -8,7 +8,7 @@ content_type: "data_asset"
 cluster_role: "data_asset"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 

@@ -46,7 +46,7 @@ remaining.sort(key=lambda x: -x[1])
 
 L = []
 L.append("# IncenseHub Rewrite — Batch E2 Report\n")
-L.append(f"> Generated {date.today().isoformat()} from the before/after similarity verifier (4-gram Jaccard vs LanDeng).\n")
+L.append(f"> Generated {date.today().isoformat()} from the before/after similarity verifier (4-gram Jaccard vs IncenseHub).\n")
 L.append("## Summary\n")
 L.append(f"- Files rewritten: **{len(ok)}** (E1 legacy second pass: {len([r for r in ok if r['rel'] in legacy])} · fresh rewrites: {len([r for r in ok if r['rel'] not in legacy])})")
 L.append(f"- Similarity before→after (mean): **{mean_before:.3f} → {mean_after:.3f}**")

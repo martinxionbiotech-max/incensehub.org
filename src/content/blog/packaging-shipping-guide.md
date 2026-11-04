@@ -8,7 +8,7 @@ content_type: "guide"
 cluster_role: "guide"
 last_reviewed: "2026-09-19"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** An incense shipment crosses two systems on its way to a warehouse: a physical one, where packing has to keep a fragile, aromatic product intact, and a legal one, where a trade term, a tariff code, and a destination rule decide who pays and whether entry is allowed. Fix the packing spec, the term, the code, and the destination check in that order, before booking.

@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** 藏香 is a formula, not a note. What arrives in the box is a thick stick rolled by hand from a blended herbal paste, and its character — resinous, herbal, faintly bitter, smouldering rather than sweet — comes from the combination rather than from any single ingredient. A shopper hunting "the smell of Tibet" is hunting the wrong object.

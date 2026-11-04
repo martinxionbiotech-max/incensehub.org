@@ -3,12 +3,12 @@
   "@type": "Dataset",
   "@id": "https://data.incensehub.org/datasets/forms.json",
   "name": "IncenseHub Incense Form Database",
-  "description": "Machine-readable definitions of Chinese botanical incense forms — sticks, coils, cones, powder, resin, pills, beads, and the prepared low-smoke / smokeless categories. Extracted from the IncenseHub (澜灯) incense encyclopedia; every fact is traceable to a source page, and unverified facts are marked unverified.",
+  "description": "Machine-readable definitions of Chinese botanical incense forms — sticks, coils, cones, powder, resin, pills, beads, and the prepared low-smoke / smokeless categories. Extracted from the IncenseHub (IncenseHub) incense encyclopedia; every fact is traceable to a source page, and unverified facts are marked unverified.",
   "url": "https://data.incensehub.org/datasets/forms.json",
   "publisher": {
     "@type": "Organization",
     "@id": "https://incensehub.org/#organization",
-    "name": "Zhangjiakou Landeng Technology Co., Ltd."
+    "name": "IncenseHub"
   },
   "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",

@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Sandalwood and frankincense share a shelf in most incense shops, yet they are not the same kind of material. 檀香 names the scented core wood of *Santalum*, a solid in which aroma sits locked inside the fibre. 乳香 is what *Boswellia* bleeds after its bark is cut: a milky sap that sets into brittle lumps. Scent held inside wood, versus scent that is the material — hold that contrast and the rest of the comparison falls into place.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""LanDeng pillar-cluster taxonomy normalization.
+"""IncenseHub pillar-cluster taxonomy normalization.
 
 Deterministic, body-safe: performs TARGETED LINE EDITS on the full file text,
 never reconstructing or touching the markdown body.

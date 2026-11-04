@@ -8,7 +8,7 @@ content_type: "guide"
 cluster_role: "guide"
 last_reviewed: "2026-09-19"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Treat the purchase as five gates rather than one long conversation. Fix the goods in writing, find out whether you are dealing with a workshop or a broker, gather evidence someone else could check, judge a physical sample you drew yourself, and only then compare offers on the cost delivered to your door. A seller who names a figure before naming a species is quoting against a product neither of you has defined.

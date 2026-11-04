@@ -8,7 +8,7 @@ content_type: "reference_database"
 cluster_role: "reference_database"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** Counterfeit incense wood is usually plain timber that has been cooked in oil, loaded with oil under pressure, or soaked in dye and chemicals, then sold as agarwood or sandalwood. Three checks still do useful work — the plume when it burns, the smell it gives off on mild heat, and whether it goes down in water — but they read different properties, so none of them closes the case alone.

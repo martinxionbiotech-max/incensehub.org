@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 <img src="/images/incense-safety-holder-1200x675.webp" alt="A lit incense stick in a fireproof holder on a clear stone surface by an open window." width="1200" height="675" loading="lazy">

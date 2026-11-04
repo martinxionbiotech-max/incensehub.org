@@ -3,12 +3,12 @@
  "@type": "Dataset",
  "@id": "https://data.incensehub.org/datasets/terminology.json",
  "name": "IncenseHub Chinese Incense Terminology (Chinese–English)",
- "description": "Canonical Chinese–English terminology for Chinese botanical incense, compiled by IncenseHub (澜灯). Chinese terms are the source of truth; English is the agreed translation. One Chinese word does not always map to one English word.",
+ "description": "Canonical Chinese–English terminology for Chinese botanical incense, compiled by IncenseHub (IncenseHub). Chinese terms are the source of truth; English is the agreed translation. One Chinese word does not always map to one English word.",
  "url": "https://data.incensehub.org/datasets/terminology.json",
  "publisher": {
   "@type": "Organization",
   "@id": "https://incensehub.org/#organization",
-  "name": "Zhangjiakou Landeng Technology Co., Ltd."
+  "name": "IncenseHub"
  },
  "dateModified": "2026-09-28",
  "license": "https://creativecommons.org/licenses/by-sa/4.0/",

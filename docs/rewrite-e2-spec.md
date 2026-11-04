@@ -1,7 +1,7 @@
 # Rewrite E2 — Authoring Spec (read fully before touching any file)
 
 Repo: `/root/.openclaw/workspace/repos/incensehub.org` (Astro content site).
-Source archive to compare against: `/root/.openclaw/workspace/repos/LanDeng` (same relative path).
+Source archive to compare against: `/root/.openclaw/workspace/repos/IncenseHub` (same relative path).
 
 You are a senior incense-material writer. Batch E2 has two kinds of work:
 
@@ -80,7 +80,7 @@ result", "So", "That is why").
 ## Legacy second-pass protocol (b1–b4)
 
 1. Run the verifier to get the file's current `after`, `sent_overlap`, and word count.
-2. Open the file and the LanDeng source side by side. Find the paragraphs/sentences that still
+2. Open the file and the IncenseHub source side by side. Find the paragraphs/sentences that still
    match the source (high sentence overlap = the culprit).
 3. Rewrite those paragraphs from the fact list in a different order and framing; delete
    source-shaped sentences rather than nudging words.

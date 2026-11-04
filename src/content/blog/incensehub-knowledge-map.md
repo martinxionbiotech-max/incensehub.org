@@ -1,5 +1,5 @@
 ---
-slug: "landeng-knowledge-map"
+slug: "incensehub-knowledge-map"
 title: "IncenseHub Knowledge Map: Entities, Datasets & Policies"
 primary_keyword: "chinese incense knowledge graph"
 search_intent: "informational"
@@ -8,7 +8,7 @@ content_type: "reference"
 cluster_role: "data_asset"
 last_reviewed: "2026-09-22"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **At a glance:** This page is the map of how IncenseHub structures its knowledge — the entity set, the open datasets, and the editorial policies that govern both. It is written for two readers: a human researcher who wants to understand the knowledge architecture, and an AI crawler that needs the machine-readable entry points.
@@ -63,7 +63,7 @@ Seven of these are mirrored as static JSON under the main site (`/data/*.json`);
 
 ### Source policy
 
-Sources are matched to the subject of the claim — botanical databases and papers for botanical facts, classical texts and academic work for history, peer-reviewed research for science, government and standards bodies for regulation, and industry documentation for trade practice. Low-quality SEO content is never primary evidence. See the full policy in [How IncenseHub Researches Chinese Incense](/blog/landeng-editorial-methodology/).
+Sources are matched to the subject of the claim — botanical databases and papers for botanical facts, classical texts and academic work for history, peer-reviewed research for science, government and standards bodies for regulation, and industry documentation for trade practice. Low-quality SEO content is never primary evidence. See the full policy in [How IncenseHub Researches Chinese Incense](/blog/incensehub-editorial-methodology/).
 
 ### Evidence policy
 
@@ -83,14 +83,8 @@ External links are restricted to an allow-list of authoritative hosts (botanical
 
 ## Publisher & Contact
 
-IncenseHub is a brand operated by **Zhangjiakou Landeng Technology Co., Ltd.** (张家口澜灯科技有限公司), USCC 91130702MAKM4QXH5Q. The knowledge base is maintained by the company's editorial byline, the "Landeng Tech Team".
+IncenseHub is an independent knowledge platform. The "IncenseHub Editorial Team" byline is the site's editorial team.
 
-- **Company (EN):** Zhangjiakou Landeng Technology Co., Ltd.
-- **Company (ZH):** 张家口澜灯科技有限公司
-- **USCC:** 91130702MAKM4QXH5Q
-- **Address:** Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China
-- **Email:** landengltd@gmail.com
-- **Phone / WhatsApp / WeChat:** +86 13323237275
 
 ---
 
@@ -119,13 +113,13 @@ A: 150 ingredient entities form the core, supported by <!-- AUTO:dataset-counts:
 A: The canonical files are at `https://data.incensehub.org/datasets/` — one file per dataset, such as `ingredients.json` (150 entities) and `terminology.json` (<!-- AUTO:dataset-counts:terminology-terms -->249<!-- /AUTO:dataset-counts:terminology-terms --> terms). Seven of the eight are also mirrored as static JSON under the main site at `/data/*.json`; the relationships dataset lives only on the data site.
 
 ### Q: How do I cite a IncenseHub dataset or page?
-A: Cite the page or dataset URL, and attribute it to "Landeng Tech Team" as the publisher. All datasets are CC BY-SA 4.0, which permits sharing and adaptation with attribution and share-alike. If you need a stable identifier, use the dataset's `@id` (for example `https://data.incensehub.org/datasets/ingredients.json`).
+A: Cite the page or dataset URL, and attribute it to "IncenseHub Editorial Team" as the publisher. All datasets are CC BY-SA 4.0, which permits sharing and adaptation with attribution and share-alike. If you need a stable identifier, use the dataset's `@id` (for example `https://data.incensehub.org/datasets/ingredients.json`).
 
 ---
 
 ## Sources
 
-- [How IncenseHub Researches Chinese Incense](/blog/landeng-editorial-methodology/)
+- [How IncenseHub Researches Chinese Incense](/blog/incensehub-editorial-methodology/)
 - [IncenseHub Open Datasets](https://data.incensehub.org) — dataset documentation and files.
 - [Ingredient dataset](https://data.incensehub.org/datasets/ingredients.json)
 - [Terminology dataset](https://data.incensehub.org/datasets/terminology.json)
@@ -133,7 +127,7 @@ A: Cite the page or dataset URL, and attribute it to "Landeng Tech Team" as the 
 
 ## Related Resources
 
-- [How IncenseHub Researches Chinese Incense](/blog/landeng-editorial-methodology/)
+- [How IncenseHub Researches Chinese Incense](/blog/incensehub-editorial-methodology/)
 - [Ingredient Encyclopedia](/ingredients/)
 - [Open Datasets](https://data.incensehub.org)
 - [llms.txt](/llms.txt)

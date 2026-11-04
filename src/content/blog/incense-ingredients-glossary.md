@@ -8,7 +8,7 @@ content_type: "glossary"
 cluster_role: "glossary"
 last_reviewed: "2026-09-10"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Incense materials sort into a handful of families — woods, resins, flowers, spices, binders, and a small residual group of animal and mineral notes. Name the family and you already know most of how a material will behave under heat: how fast it releases, how much it needs, and what it does to the burn.

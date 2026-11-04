@@ -1,6 +1,6 @@
 # IncenseHub.org 全内容审计报告（五维 · AUDIT ONLY）
 
-> 日期：2026-10-31 · 审计师：内容审计（只读）· 对比源站：`/root/.openclaw/workspace/repos/LanDeng`（incensehub.org 原内容归档）
+> 日期：2026-10-31 · 审计师：内容审计（只读）· 对比源站：`/root/.openclaw/workspace/repos/IncenseHub`（incensehub.org 原内容归档）
 > 范围：266 内容文件（ingredients 150 · blog 115 · concepts 1）· 同路径可比 266/266
 > **纪律：本次为纯审计，零内容修改，仅产出本报告 + 分析脚本（scripts/full_audit_5dim.py / full_audit_refine.py）。**
 
@@ -111,7 +111,7 @@
 
 ### 4.3 关键发现：五段链标记「继承自原站」，非本批新增
 
-源站 LanDeng 中，同样的标记早已存在：
+源站 IncenseHub 中，同样的标记早已存在：
 
 | 标记 | 源站命中篇数 |
 |---|---|

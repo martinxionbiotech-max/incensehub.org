@@ -1,7 +1,7 @@
 # Site audit — 2026-11-02
 
 Scope: 281 rendered pages (282 HTML incl. 404), 266 content files, 206 images, 275 Markdown variants.
-Method: `scripts/site-audit.py` over `dist/`, 4-gram similarity verifier vs the LanDeng source archive, dataset validation, link crawl, `llms.txt`/sitemap/robots checks.
+Method: `scripts/site-audit.py` over `dist/`, 4-gram similarity verifier vs the IncenseHub source archive, dataset validation, link crawl, `llms.txt`/sitemap/robots checks.
 
 ## Scorecard (weighted)
 
@@ -39,7 +39,7 @@ Method: `scripts/site-audit.py` over `dist/`, 4-gram similarity verifier vs the 
 - Gaps: 150 `relatedEntity` category refs point to `inDataset: ingredients.json` but use category names (`Woods`, `Resins`, …) that are not termCodes in that dataset (categories are stored as `additionalProperty`); data files `dateModified: 2026-09-28` are stale relative to 2026-11-02 content changes.
 
 ### Originality — 55
-- 120/266 content files < 0.40 similarity vs LanDeng; mean 0.663.
+- 120/266 content files < 0.40 similarity vs IncenseHub; mean 0.663.
 - 142/266 (53%) remain ≥ 0.80 similarity — essentially near-verbatim source copies.
 - 265/266 have at least one original asset; 245/266 free of mechanical phrases.
 

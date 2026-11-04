@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** Take one sliver of aromatic wood, heat it gently from beneath so it never catches, and give it an hour of close attention: that is kōdō (香道). Its practitioners describe the act as listening. Japan built the ritual, the grades and the games around a Chinese warming method that reached the islands with Buddhism.

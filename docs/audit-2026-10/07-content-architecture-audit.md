@@ -45,8 +45,8 @@
 
 ## 四、作者/编辑方法/参考/修订可信度
 
-- **作者署名**：统一 "Landeng Tech Team"（115 blog）+ 页脚企业实体。**不伪造专家/个人作者/头衔/经历**——这是诚信（但 E-E-A-T 署名信号偏弱，见 P2）。
-- **编辑方法**：/blog/landeng-editorial-methodology/ 明确声明"传统/证据/贸易术语分层 + 来源透明 + 不伪造评分"。方法可审计。
+- **作者署名**：统一 "IncenseHub Editorial Team"（115 blog）+ 页脚企业实体。**不伪造专家/个人作者/头衔/经历**——这是诚信（但 E-E-A-T 署名信号偏弱，见 P2）。
+- **编辑方法**：/blog/incensehub-editorial-methodology/ 明确声明"传统/证据/贸易术语分层 + 来源透明 + 不伪造评分"。方法可审计。
 - **参考**：逐页 "Evidence & Sources" + "Sources" + 证据分层表（Established / Historically documented / Trade terminology / Practical screening / Requires testing / Not established）。
 - **修订可信度**：blog 页有 `last_reviewed` 日期；docs/content-freshness-policy.md 定义分 Tier 复审节奏与 6 类触发条件，并**明令"不得为刷新而刷日期"**。→ 诚信的更新治理。
 - **缺失**：ingredient/concept 页无日期信号（P1，见 09）。

@@ -5,7 +5,7 @@ Generation prompts for the 30 images in IMAGE-MANIFEST.md, aligned with DESIGN-S
 ## Universal style block (prepend or append to every prompt)
 
 ```
-Editorial photography for a premium Chinese incense brand (澜灯 IncenseHub).
+Editorial photography for a premium Chinese incense brand (IncenseHub IncenseHub).
 Palette: warm off-white rice paper (#faf7f1), muted amber (#b07a3f), muted sage (#5c7260),
 deep charcoal (#1c1a17), warm wood (#8a6b4f). Restrained magazine-editorial composition,
 generous negative space, subtle "lantern glow over still water" mood. Realistic textures

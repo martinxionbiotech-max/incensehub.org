@@ -61,7 +61,7 @@
 - **P11 — Aromatherapy & Botany:** `how-aromatherapy-works` (hub), `aroma-molecules-and-mood`, `essential-oils-in-incense`, `plant-sources-of-incense-scents`.
 - **P12 — Culture & Mindfulness:** `incense-in-daily-ritual` (hub), `calming-evening-ritual`, `four-leisure-arts`, `incense-and-breathwork`, `incense-for-meditation`.
 - **Commercial — B2B Buying & Supply:** `incense-for-business` (hub), `wholesale-guide`, `moq-pricing-guide`, `factory-vetting-guide`, `oem-private-label-guide`, `custom-fragrance-development`, `packaging-shipping-guide`, `samples-program`, `bulk-incense-ingredient-sourcing` (buyer_intelligence), `how-to-buy-agarwood-for-incense-manufacturing` (buyer_intelligence), `incense-export-considerations` (buyer_intelligence).
-- **Editorial & Data:** `landeng-editorial-methodology` (authority_reference), `landeng-knowledge-map` (data_asset).
+- **Editorial & Data:** `incensehub-editorial-methodology` (authority_reference), `incensehub-knowledge-map` (data_asset).
 
 ## Concept page
 

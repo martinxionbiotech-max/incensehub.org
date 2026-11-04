@@ -8,7 +8,7 @@ content_type: "guide"
 cluster_role: "buyer_intelligence"
 last_reviewed: "2026-09-22"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 

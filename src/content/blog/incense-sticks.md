@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** An incense stick is a slender rod of fragrant paste that smolders for roughly 20 to 60 minutes, made one of two ways — a coating pressed over a thin bamboo splint, or a solid cylinder with no splint inside at all.

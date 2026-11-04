@@ -1,6 +1,6 @@
 # 01 — 执行摘要（Executive Summary）
 
-审计对象：https://incensehub.org（IncenseHub 澜灯，中国植物香材英文知识站）
+审计对象：https://incensehub.org（IncenseHub IncenseHub，中国植物香材英文知识站）
 审计日期：2026-10-18
 审计性质：只读审计（未发布、未删页、未改 canonical/robots、未改任何源码）
 执行者：IncenseHub.com 内容质量与 Google 算法风险审计
@@ -24,7 +24,7 @@
 | 意图重叠 | 无关键词蚕食 | 8 组候选对全部已差异化（hub-and-spoke / glossary-vs-index / 对比-vs-流程） |
 | 科学/安全声明 | 严谨、可溯源 | 引用 PMC/ALA/EPA/CPSC/NFPA；明确"相关≠因果""传统≠疗效"；无编造文献 |
 | 原创性 | 高（中文源情报+植物分类+鉴别分级） | 逐页引用 香乘/本草纲目/夢粱录 原文 + Flora of China/GBIF 分类 |
-| 虚假声明 | 无 | 无伪造作者/专家/资质/检测/引用；作者统一为 "Landeng Tech Team" |
+| 虚假声明 | 无 | 无伪造作者/专家/资质/检测/引用；作者统一为 "IncenseHub Editorial Team" |
 | 抓取/索引 | 健康 | robots 全允许 + sitemap 279 URL + canonical 正确 + meta description 0 重复 |
 | 部署 | 轻微漂移 | 线上有 /disclaimer/ 页 + 更完整 robots.txt，本地 origin/main 无（生产领先于仓库） |
 
@@ -56,7 +56,7 @@
 | P1 | ingredient/concept 页无日期信号（无 last_reviewed/dateModified） | 150 ingredient + 1 concept 源码 schema 均无 dateModified；blog 页有 |
 | P1 | 部署与 GitHub 仓库漂移（disclaimer/robots 未入库） | 线上 /disclaimer/ 200；本地 `grep -rl disclaimer src/` 为空 |
 | P2 | 意图最接近的重复组：incense-powder-vs-wood-chips 与 agarwood-powder-vs-chips（结构相似、范围不同） | 两页均用"同材两形/表面积"框架 |
-| P2 | E-E-A-T 作者信号弱（统一 "Landeng Tech Team"，无署名方法论/资质） | 全部 115 blog frontmatter `author: "Landeng Tech Team"` |
+| P2 | E-E-A-T 作者信号弱（统一 "IncenseHub Editorial Team"，无署名方法论/资质） | 全部 115 blog frontmatter `author: "IncenseHub Editorial Team"` |
 | P2 | "natural ≠ smoke-free" 观点在多页复用（轻度冗余，非重复内容） | safety-guide / smoke-air-quality / pets / 3 个对比页 |
 
 **无 Critical 问题**：未发现抓取阻断、规范化错误、批量重复、虚构声明、医疗越界等 Critical 级风险。

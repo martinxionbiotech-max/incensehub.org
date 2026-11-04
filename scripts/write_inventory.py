@@ -28,7 +28,7 @@ ledger_lines = []
 for slug, pillar, role, status, wc in rows:
     ledger_lines.append(f"| `{slug}` | {pillar} | `{role}` | {status} | {wc} |")
 
-md = f"""# CONTENT-INVENTORY.md — LanDeng
+md = f"""# CONTENT-INVENTORY.md — IncenseHub
 
 Live ledger of every content asset in the Astro content collections
 (`src/content/{{blog,ingredients,concepts}}`). One row per page, generated from

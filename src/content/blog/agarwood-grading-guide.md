@@ -8,7 +8,7 @@ content_type: "authority_reference"
 cluster_role: "authority_reference"
 last_reviewed: "2026-09-11"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** What buyers inherit is one staircase and two separate gauges. The staircase runs from cheap chips through sinking wood to 奇楠. The gauges say something else: one reads how much resin a piece carries, the other reads whether the fibre itself has changed. Learn the gauges and the staircase stops misleading you.

@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 **Quick answer:** The inner block of a *Santalum* tree — Indian sandalwood (*Santalum album*) is the famous example — yields a material that reads as cream, warm bread, and soft timber rather than as resin or smoke. The label is where certainty ends: it may name that tree, a cousin from Australia or the Pacific, or a factory formula that never met a plant, and those four things are not sold at the same price.
 

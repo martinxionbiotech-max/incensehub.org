@@ -1,6 +1,6 @@
 # Image inventory — IncenseHub
 
-Generated 2026-11-02. Source: LanDeng archive (`public/images`), identical SHA-256 set to the pre-import archive.
+Generated 2026-11-02. Source: IncenseHub archive (`public/images`), identical SHA-256 set to the pre-import archive.
 
 ## Summary
 

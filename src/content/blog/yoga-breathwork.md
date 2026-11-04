@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **Direct answer:** A practice room wants one thing from a scent: to stay put and stop asking for attention. Sandalwood, frankincense, and cedar do that best, in a format thin enough that the air stays clear while you move and breathe. The aroma marks the session; it does not work on the body.

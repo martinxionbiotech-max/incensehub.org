@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Rewrite E1 verifier — per-file before→after similarity + quality checks.
-Compares IncenseHub body vs LanDeng body (4-gram Jaccard, sentence overlap),
+Compares IncenseHub body vs IncenseHub body (4-gram Jaccard, sentence overlap),
 and reports the five-segment chain, mechanical-phrase hits, original assets,
 viewpoint density and word counts.
 
@@ -14,7 +14,7 @@ import os, re, json, sys, argparse
 from collections import defaultdict
 
 IH = "/root/.openclaw/workspace/repos/incensehub.org"
-LD = "/root/.openclaw/workspace/repos/LanDeng"
+LD = "/root/.openclaw/workspace/repos/IncenseHub"
 
 FRONT_RE = re.compile(r'^---\s*\n.*?\n---\s*\n', re.DOTALL)
 

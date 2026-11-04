@@ -1,5 +1,5 @@
 ---
-slug: "landeng-editorial-methodology"
+slug: "incensehub-editorial-methodology"
 title: "How IncenseHub Researches Chinese Incense"
 primary_keyword: "chinese incense research methodology"
 search_intent: "informational"
@@ -8,12 +8,12 @@ content_type: "authority_reference"
 cluster_role: "authority_reference"
 last_reviewed: "2026-09-22"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 **At a glance:** IncenseHub documents Chinese botanical incense in English, but the Chinese term is always the source of truth. Every ingredient entry is built through a fixed eight-step method: establish the Chinese name, verify the botanical identity, normalize the English term, identify the historical source, separate modern scientific evidence, label trade terminology, mark uncertain claims, and review before publication. Traditional knowledge and scientific evidence are never merged.
 
-**Key facts:** This page describes how we work, what sources we accept, how we tier evidence, how we correct errors, and who the "Landeng Tech Team" byline actually is. There is no fabricated author, credential, or review board behind it.
+**Key facts:** This page describes how we work, what sources we accept, how we tier evidence, how we correct errors, and who the "IncenseHub Editorial Team" byline actually is. There is no fabricated author, credential, or review board behind it.
 
 ---
 
@@ -117,22 +117,16 @@ Content is updated only when there is a reason: new evidence, a new source, new 
 
 ## Who Writes IncenseHub
 
-> IncenseHub's content is published under a single collective byline — "Landeng Tech Team" — rather than a named individual. There is no fabricated PhD, expert title, or review board behind any page.
+> IncenseHub's content is published under a single collective byline — "IncenseHub Editorial Team" — rather than a named individual. There is no fabricated PhD, expert title, or review board behind any page.
 
 The byline is honest about what it is: a team entity, not a person. We do not invent an author name, a credential, a photograph, or a biography. The site's own editorial rule is stated on the homepage: no fake reviews, ratings, prices, or authors.
 
-What the byline represents is the method described above — the eight-step research process, the source policy, the evidence tiers, and the correction policy. Authority on this site comes from the traceability of each claim, not from a name attached to it. If you need to attribute a IncenseHub page, cite "Landeng Tech Team" as the publisher and the page as the source.
+What the byline represents is the method described above — the eight-step research process, the source policy, the evidence tiers, and the correction policy. Authority on this site comes from the traceability of each claim, not from a name attached to it. If you need to attribute a IncenseHub page, cite "IncenseHub Editorial Team" as the publisher and the page as the source.
 
 ### Publisher
 
-IncenseHub is a brand operated by **Zhangjiakou Landeng Technology Co., Ltd.** (张家口澜灯科技有限公司), the legal entity behind this knowledge platform. The "Landeng Tech Team" byline is the company's editorial team.
+IncenseHub is an independent knowledge platform. The "IncenseHub Editorial Team" byline is the site's editorial team.
 
-- **Company (EN):** Zhangjiakou Landeng Technology Co., Ltd.
-- **Company (ZH):** 张家口澜灯科技有限公司
-- **USCC:** 91130702MAKM4QXH5Q
-- **Address:** Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China
-- **Email:** landengltd@gmail.com
-- **Phone / WhatsApp / WeChat:** +86 13323237275
 
 ---
 
@@ -151,7 +145,7 @@ These are the editorial lines the site holds, stated plainly:
 ## FAQ
 
 ### Q: Why does IncenseHub publish under a team byline instead of a named author?
-A: Because there is no single named person behind the site to claim authorship, and inventing one would be exactly the kind of fake authority the site is built to avoid. A collective "Landeng Tech Team" byline is honest: it signals that the content follows a defined editorial process without attaching a fabricated name or credential to it. Authority here rests on source traceability and the eight-step method, which any reader can audit page by page.
+A: Because there is no single named person behind the site to claim authorship, and inventing one would be exactly the kind of fake authority the site is built to avoid. A collective "IncenseHub Editorial Team" byline is honest: it signals that the content follows a defined editorial process without attaching a fabricated name or credential to it. Authority here rests on source traceability and the eight-step method, which any reader can audit page by page.
 
 ### Q: How can I tell whether a claim on a IncenseHub page is fact or tradition?
 A: Look at the labels and the evidence tier. Traditional use is introduced as traditional, historical record as history, trade terminology as market convention, and scientific evidence as scientific, with its source and tier cited. When a claim is uncertain, the page says so directly. The evidence tier — from Tier 1 (scientific/government) to Tier 6 (editorial synthesis) — is attached to the source, not buried in prose.
@@ -166,8 +160,8 @@ A: Sources are matched to the subject of the claim — botanical databases and p
 
 ## Sources
 
-- [IncenseHub Editorial Methodology (this page)](/blog/landeng-editorial-methodology/)
-- [IncenseHub Knowledge Map](/blog/landeng-knowledge-map/) — the entity and dataset map this method feeds.
+- [IncenseHub Editorial Methodology (this page)](/blog/incensehub-editorial-methodology/)
+- [IncenseHub Knowledge Map](/blog/incensehub-knowledge-map/) — the entity and dataset map this method feeds.
 - [IncenseHub Terminology dataset](https://data.incensehub.org/datasets/terminology.json) — the canonical Chinese–English glossary referenced in step 3.
 - [IncenseHub Ingredient dataset](https://data.incensehub.org/datasets/ingredients.json) — the structured, evidence-tiered ingredient definitions.
 - 本草纲目 and 香乘 — classical primary texts, cited in the pages where they are the source.
@@ -175,7 +169,7 @@ A: Sources are matched to the subject of the claim — botanical databases and p
 ## Related Resources
 
 - [The Xiangpu Incense Manuals](/blog/xiangpu-incense-manuals/) — the classical manuals used as a historical source.
-- [IncenseHub Knowledge Map](/blog/landeng-knowledge-map/)
+- [IncenseHub Knowledge Map](/blog/incensehub-knowledge-map/)
 - [Ingredient Encyclopedia](/ingredients/)
 - [Open Datasets](https://data.incensehub.org)
 - [llms.txt](/llms.txt) — the machine-readable site summary.

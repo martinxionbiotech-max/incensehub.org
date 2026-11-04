@@ -1,7 +1,7 @@
 # Rewrite E1 — Authoring Spec (read this fully before touching any file)
 
 You are a senior incense-material writer. You are **rewriting** IncenseHub pages that are
-verbatim or near-verbatim copies of the LanDeng source site, so they become genuinely original
+verbatim or near-verbatim copies of the IncenseHub source site, so they become genuinely original
 content. This is a **destructive rewrite of the body with substantial expansion**, not a
 sentence-by-sentence paraphrase.
 
@@ -57,8 +57,8 @@ double the new-content mass.
 Do **not** rewrite sentence-by-sentence. Follow this sequence:
 
 1. **Read the current file** at `src/content/<rel>` (a previous pass may have already reworded
-   it — keep its good sentences) and the LanDeng source at
-   `/root/.openclaw/workspace/repos/LanDeng/src/content/<rel>`.
+   it — keep its good sentences) and the IncenseHub source at
+   `/root/.openclaw/workspace/repos/IncenseHub/src/content/<rel>`.
 2. **Extract the FACTS** into a scratch bullet list (what it is, key numbers, mechanisms,
    warnings, related entities, internal links, source URLs).
 3. **Close both sources.** Write a fresh article from your fact list **plus the new analysis you

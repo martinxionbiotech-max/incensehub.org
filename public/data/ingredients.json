@@ -3,12 +3,12 @@
  "@type": "Dataset",
  "@id": "https://data.incensehub.org/datasets/ingredients.json",
  "name": "IncenseHub Chinese Botanical Incense Ingredient Encyclopedia",
- "description": "Machine-readable definitions of the botanical ingredients in the IncenseHub (澜灯) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.",
+ "description": "Machine-readable definitions of the botanical ingredients in the IncenseHub (IncenseHub) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.",
  "url": "https://data.incensehub.org/datasets/ingredients.json",
  "publisher": {
   "@type": "Organization",
   "@id": "https://incensehub.org/#organization",
-  "name": "Zhangjiakou Landeng Technology Co., Ltd."
+  "name": "IncenseHub"
  },
  "dateModified": "2026-09-28",
  "license": "https://creativecommons.org/licenses/by-sa/4.0/",

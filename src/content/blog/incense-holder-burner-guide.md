@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** Match the holder to the form you burn — a stick, cone, backflow cone, coil, or resin each need different geometry — and the job stays the same in every case: catch the ash and keep a live ember off anything that can burn.

@@ -8,7 +8,7 @@ content_type: "article"
 cluster_role: "article"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 > **Direct answer:** Floral is the **blossom register** — the smell of petals rather than wood, resin, or leaf. Four materials carry it in this library: rose (玫瑰), jasmine (茉莉), osmanthus (桂花), and chrysanthemum (菊花). Three read sweet and honeyed; jasmine tips into the heady; chrysanthemum keeps a bittersweet, herbal edge.

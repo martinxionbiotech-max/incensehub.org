@@ -30,7 +30,7 @@ KEEP = {
     # concepts pillar page (the single concepts-collection entry)
     'chinese-incense',
     # editorial/data (rebrand only)
-    'landeng-editorial-methodology','landeng-knowledge-map',
+    'incensehub-editorial-methodology','incensehub-knowledge-map',
 }
 
 T1 = {

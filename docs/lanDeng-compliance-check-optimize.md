@@ -1,8 +1,8 @@
 # IncenseHub (incensehub.org) 合规页面检查 + 优化批
 
-- **站点**：incensehub.org（IncenseHub 澜灯 — Chinese Botanical Incense 内容站）
+- **站点**：incensehub.org（IncenseHub IncenseHub — Chinese Botanical Incense 内容站）
 - **仓库**：repos/IncenseHub（Astro · 静态站 · 282 页）
-- **主体**：Zhangjiakou Landeng Technology Co., Ltd.（张家口澜灯科技有限公司 · USCC 91130702MAKM4QXH5Q）
+- **主体**：IncenseHub（张家口IncenseHub科技有限公司 · USCC 91130702MAKM4QXH5Q）
 - **日期**：2026-10-23
 - **角色**：合规法律内容编辑 + 技术 SEO
 - **任务**：对齐六页基线（about/contact/privacy/terms/cookies/disclaimer 条款级 1500–2200 · 主体一致 · 零虚构）
@@ -29,7 +29,7 @@
 ## 二、优化项清单
 
 ### 1. contact 增厚（157 → 1538 词）
-- 询价/商业联系主渠道：Email（landengltd@gmail.com，主渠道）+ WhatsApp/电话/WeChat（+86 13323237275，如实注明 Meta 条款适用）——**如实沿用站点现有触点**。
+- 询价/商业联系主渠道：Email（incensehubltd@gmail.com，主渠道）+ WhatsApp/电话/WeChat（+86 13323237275，如实注明 Meta 条款适用）——**如实沿用站点现有触点**。
 - 新增：语言/时区、四类询价明细、各商业路径入口（wholesale/OEM/private-label/samples）、「写信后流程」、编辑纠错通道（含「纠正≠删除」声明）、「不做什么」（含「不编造客户案例/证言」）、FAQ（MOQ/sample/store）。
 - 互链：六页 + request-a-quote + 商业页。
 
@@ -41,22 +41,22 @@
 
 ### 3. 新建 about 页（1504 词）
 - 平台定位：知识平台 + 制造商/供应商目录（如实：品牌/产品目录/私人定制 = wholesale/OEM/private-label 三路径）。
-- **主体披露**：Zhangjiakou Landeng Technology Co., Ltd.（张家口澜灯科技有限公司）+ USCC + 完整地址 + 邮箱 + 电话（与 BaseLayout Organization schema、footer、manufacturer 页三处一致）。
-- 编辑团队与方法论：集体 byline「Landeng Tech Team」、无虚构作者/专家、八步法 + 六档证据层级 → 互链 `/blog/landeng-editorial-methodology/`。
+- **主体披露**：IncenseHub（张家口IncenseHub科技有限公司）+ USCC + 完整地址 + 邮箱 + 电话（与 BaseLayout Organization schema、footer、manufacturer 页三处一致）。
+- 编辑团队与方法论：集体 byline「IncenseHub Editorial Team」、无虚构作者/专家、八步法 + 六档证据层级 → 互链 `/blog/incensehub-editorial-methodology/`。
 - 互链：contact / methodology / manufacturer / 六页。
 
 ### 4. 一致性
 - 六页口径/主体/联系/日期（2026-10-23）统一；互链齐全（每页 Related pages 含其余页）。
 - 页脚 nav：Company 组加 About；Compliance 组加 Cookie Policy。
-- schema Organization 与真实主体一致（未回归）：legalName / USCC / 地址 / landengltd@gmail.com / +86 13323237275。
+- schema Organization 与真实主体一致（未回归）：legalName / USCC / 地址 / incensehubltd@gmail.com / +86 13323237275。
 - AI 配图声明保持（disclaimer §10 + about 专节）。
 
 ---
 
 ## 三、零虚构核对
 
-- ✅ **主体**：全部沿用 Zhangjiakou Landeng Technology Co., Ltd. + USCC 91130702MAKM4QXH5Q + 完整地址（与 footer/schema/methodology 一致）。
-- ✅ **联系**：沿用站点现有 landengltd@gmail.com / +86 13323237275 / wa.me/8613323237275。**未引入外部提供的 joanna@dinweys.com / +8615153588090**（该值属姊妹站 DINGWEY battery，非本站在用值——已按「以站点现有为准」原则弃用，全站 grep 无 dinweys/joanna 残留）。
+- ✅ **主体**：全部沿用 IncenseHub + USCC 91130702MAKM4QXH5Q + 完整地址（与 footer/schema/methodology 一致）。
+- ✅ **联系**：沿用站点现有 incensehubltd@gmail.com / +86 13323237275 / wa.me/8613323237275。**未引入外部提供的 joanna@dinweys.com / +8615153588090**（该值属姊妹站 DINGWEY battery，非本站在用值——已按「以站点现有为准」原则弃用，全站 grep 无 dinweys/joanna 残留）。
 - ✅ **追踪**：cookies 页如实写「无追踪 cookie」（grep 实测 0 命中），未虚构 cookie 页/横幅/同意机制。
 - ✅ **无虚构**：无编造作者/专家/证书/产能/客户案例/MOQ 固定值；无编造仲裁机构；责任上限按真实口径（免费信息免责 + 交易实付金额上限 + 法定不可排除不排除）。
 - ✅ **争议解决**：协商优先 + 运营地法院（张家口），无虚构仲裁机构。

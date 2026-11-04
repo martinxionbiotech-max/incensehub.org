@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-09"
 brand: "\"IncenseHub\""
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 <img src="/images/scent-by-intention-scenes-1200x675.webp" alt="Three calm scenes of incense use: meditation, evening rest, and a work desk." width="1200" height="675" loading="lazy">

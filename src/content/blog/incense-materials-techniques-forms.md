@@ -8,7 +8,7 @@ content_type: "hub"
 cluster_role: "hub"
 last_reviewed: "2026-09-25"
 brand: "IncenseHub"
-author: "Landeng Tech Team"
+author: "IncenseHub Editorial Team"
 ---
 
 
@@ -153,7 +153,7 @@ This is a reading aid, not a translation key. Characters combine and shift betwe
 
 **Direct answer:** All three taxonomies ship as machine-readable JSON — materials, techniques, forms — served from `data.incensehub.org`, with a static mirror under the main site.
 
-Counts live in three files: fifteen materials, twelve techniques, twelve forms. Each is typed as a Schema.org Dataset and DefinedTerm record, hosted at `data.incensehub.org/datasets/` and mirrored on the main site, so a raw entry can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set. Filenames and addresses sit under Sources. A record is built from a stable `termCode`, a `name`, a Chinese `alternateName`, a definition, and typed `additionalProperty` entries for Type, Source, Processing, and Burning behaviour. All three files carry CC BY-SA 4.0. The [knowledge map](/blog/landeng-knowledge-map/) indexes the other five datasets in the set.
+Counts live in three files: fifteen materials, twelve techniques, twelve forms. Each is typed as a Schema.org Dataset and DefinedTerm record, hosted at `data.incensehub.org/datasets/` and mirrored on the main site, so a raw entry can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set. Filenames and addresses sit under Sources. A record is built from a stable `termCode`, a `name`, a Chinese `alternateName`, a definition, and typed `additionalProperty` entries for Type, Source, Processing, and Burning behaviour. All three files carry CC BY-SA 4.0. The [knowledge map](/blog/incensehub-knowledge-map/) indexes the other five datasets in the set.
 
 ## A Blender Works the Layers in Reverse
 
@@ -211,7 +211,7 @@ The counts and definitions come from three files: [materials.json](https://data.
 
 ## Related Resources
 
-The step-by-step making sequence is in [How Incense Is Made](/blog/how-incense-is-made/); the shape decision is worked through in [Which Incense Format Is Right for You?](/blog/which-incense-format/); binder sourcing sits in [Makko & Natural Binders](/blog/makko-natural-binders/); the full dataset set is indexed on the [LanDeng Knowledge Map](/blog/landeng-knowledge-map/).
+The step-by-step making sequence is in [How Incense Is Made](/blog/how-incense-is-made/); the shape decision is worked through in [Which Incense Format Is Right for You?](/blog/which-incense-format/); binder sourcing sits in [Makko & Natural Binders](/blog/makko-natural-binders/); the full dataset set is indexed on the [IncenseHub Knowledge Map](/blog/incensehub-knowledge-map/).
 
 ---
 
