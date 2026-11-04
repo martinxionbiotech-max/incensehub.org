@@ -1,6 +1,6 @@
 ---
 slug: "how-to-buy-agarwood-for-incense-manufacturing"
-title: "Buying Agarwood for Incense Manufacturing: A Sourcing Checklist"
+title: "Buying Agarwood for Incense: A Sourcing Checklist"
 primary_keyword: "buying agarwood for incense manufacturing"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

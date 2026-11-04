@@ -260,4 +260,4 @@ The word divides into *agar* (aromatic wood, agarwood) and *batti* (stick or wic
 - [World Incense Traditions](/blog/world-incense-traditions/) — how the regional schools sit beside each other.
 - [Tibetan Incense (藏香)](/blog/tibetan-incense/) — a third model, herbal and monastic.
 
-**Natural next step:** set Indian boldness beside [Tibetan herbal incense](/blog/tibetan-incense/) and the quiet formalism of [Japanese kōdō](/blog/japanese-incense-kodo/), then zoom out with the [world traditions overview](/blog/world-incense-traditions/).
+**Natural next step:** set Indian boldness beside [Tibetan herbal incense](/blog/tibetan-incense/) and the quiet formalism of [Japanese kōdō](/blog/japanese-incense-kodo/), then zoom out with the [world traditions overview](/blog/world-incense-traditions/). For the direct comparison, see [Chinese vs Japanese incense](/blog/chinese-vs-japanese-incense/).

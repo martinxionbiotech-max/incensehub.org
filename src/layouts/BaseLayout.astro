@@ -16,6 +16,8 @@ const canonical = Astro.site
   ? new URL(Astro.url.pathname, Astro.site).toString()
   : `${SITE}${Astro.url.pathname}`;
 const ogImage = new URL('images/og-image-incense-still-life-1200x630.jpg', SITE).toString();
+const cleanPath = Astro.url.pathname.replace(/\/+$/, '');
+const mdHref = cleanPath === '' ? '/index.md' : `${cleanPath}.md`;
 
 const navItems = [
   { href: '/', label: 'Home', exact: true },
@@ -70,6 +72,7 @@ const webSiteJsonLd = {
     <meta name="description" content={description} />
     {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
+    {!noindex && <link rel="alternate" type="text/markdown" href={mdHref} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />

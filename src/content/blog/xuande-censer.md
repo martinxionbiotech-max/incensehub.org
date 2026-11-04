@@ -93,6 +93,8 @@ The paradox of this object is that its most prized feature, the patina, is built
 
 Two editorial judgments follow. First, a well-made later bronze with an honest, uneven patina is a perfectly good censer; the mistake is paying Xuande-original prices for one, not the purchase itself. Second, the "perfect patina" is overrated as a signal — uniformity is the one thing a forger can reliably manufacture, and the one thing real age does not produce. For a collector, the practical skill is reading unevenness, depth, and wear, not memorizing color names. *This is the author's editorial view, not a verified fact.*
 
+Our position is explicit: we treat patina as the primary evidence, not the story attached to a piece. We do not claim a Xuande date from a mark alone; we read surface, alloy and wear together, and we price a good later casting as a later casting. The line between an honest Qing copy and a modern fake matters to buyers, and it should be stated plainly.
+
 ## Summary
 
 - The 宣德炉 is a deliberately plain bronze censer poured on imperial order in the Ming Xuande reign (1426–1435) from imported copper.

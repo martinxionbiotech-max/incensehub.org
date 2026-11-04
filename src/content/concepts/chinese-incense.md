@@ -36,7 +36,7 @@ The confusion has a simple cause. Japan's incense ceremony is highly structured,
 
 What Japan did was substantial. It turned a technique into a formal discipline with schools, grades, and a body of etiquette. What China did was originate the material culture and the blending system that made the technique worth formalising. Treating the two as rival inventions misses the relationship: one tradition grew out of the other, and the older root is Chinese.
 
-*This is an editorial reading of the cultural history, not a claim about national ownership. The practical point is that a reader looking for the older, more varied tradition should not stop at the Japanese form.*
+*This is an editorial reading of the cultural history, not a claim about national ownership. The practical point is that a reader looking for the older, more varied tradition should not stop at the Japanese form. See the direct [Chinese vs Japanese incense comparison](/blog/chinese-vs-japanese-incense/) for the line-by-line contrast.*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 slug: "sandalwood-vs-red-sandalwood"
-title: "Sandalwood vs Red Sandalwood: 檀香 vs 紫檀 — The Shared-Character Trap"
+title: "Sandalwood vs Red Sandalwood: 檀香 vs 紫檀 Trap"
 primary_keyword: "sandalwood vs red sandalwood"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

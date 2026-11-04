@@ -1,6 +1,6 @@
 ---
 slug: "sandalwood-vs-frankincense"
-title: "Sandalwood vs Frankincense: Creamy Wood and Citrus Resin Compared"
+title: "Sandalwood vs Frankincense: Wood and Resin Compared"
 primary_keyword: "sandalwood vs frankincense"
 search_intent: "informational"
 pillar: "P2 — Scent & Ingredient Guide"

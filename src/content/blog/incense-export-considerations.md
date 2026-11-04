@@ -1,6 +1,6 @@
 ---
 slug: "incense-export-considerations"
-title: "Incense Export Considerations: Compliance, CITES & Documentation"
+title: "Incense Export: Compliance, CITES & Documentation"
 primary_keyword: "incense export considerations"
 search_intent: "commercial_investigation"
 pillar: "Commercial — B2B Buying & Supply"

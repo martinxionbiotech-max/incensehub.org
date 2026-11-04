@@ -1,6 +1,6 @@
 ---
 slug: "incense-manufacturing-quality-control"
-title: "Incense Quality Control: How Repeatability Is Actually Checked"
+title: "Incense Quality Control: Checking Repeatability"
 primary_keyword: "incense manufacturing quality control"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

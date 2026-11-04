@@ -1,6 +1,6 @@
 ---
 slug: "how-incense-is-dried-and-cured"
-title: "How Incense Is Dried and Cured: The Waiting That Shapes Scent"
+title: "How Incense Is Dried and Cured: Waiting Shapes Scent"
 primary_keyword: "how incense is dried and cured"
 search_intent: "informational"
 pillar: "P10 — Incense Craft & Materials"

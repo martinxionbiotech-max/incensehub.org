@@ -1,6 +1,6 @@
 ---
 slug: "incense-spec-sheet-coa"
-title: "Incense Spec Sheets & COAs: What a Buyer Should Actually Check"
+title: "Incense Spec Sheets & COAs: What Buyers Should Check"
 primary_keyword: "incense spec sheet COA certificate of analysis"
 search_intent: "informational"
 pillar: "P8 — Sourcing & Manufacturing"

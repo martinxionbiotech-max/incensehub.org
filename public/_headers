@@ -4,7 +4,11 @@
   Content-Type: text/markdown; charset=utf-8
 
 /*
+  Vary: Accept
   Content-Signal: ai-train=yes, search=yes, ai-input=yes
   Link: </llms.txt>; rel="describedby"
   Link: </sitemap-index.xml>; rel="sitemap"
   X-Robots-Tag: index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; script-src 'self' 'unsafe-inline'; connect-src 'self' https://data.incensehub.org; frame-ancestors 'self'; base-uri 'self'; form-action 'self'

@@ -76,7 +76,7 @@ export async function onRequest(context) {
       headers: {
         'Content-Type': 'text/markdown; charset=utf-8',
         'Vary': 'Accept',
-        'Cache-Control': 'no-store',
+        'Cache-Control': 'public, max-age=0, must-revalidate',
       },
     });
   } catch {
