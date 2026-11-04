@@ -163,6 +163,46 @@ Pillar 页标准：4,000–6,000 词、12–18 个 H2、1 个 “Start here” �
 - 10+ 内链：Pillar、2 个同级、3 个相关、2 个数据实体
 - 句间重叠 <5%；不复制数据站全文
 
+### 3.1 写作标准（强制，deep-research-human-writer v3）
+
+每篇 Pillar / Cluster 必须按以下流程：
+
+> Intent → Entity → Research → Evidence → Verification → Normalization → Analysis → Contradiction Resolution → Information Gain → Content Architecture → Human Writing → SEO/GEO/AIO → E-E-A-T → QA
+
+**禁止 Search → Rewrite → Publish。**
+
+1. **碎片 → 观点**
+   - 8–12 个中文/英文来源；每条 claim 标 `F / D / I / E / U`
+   - 建 contradiction log：来源冲突、为什么冲突、对读者意味着什么
+   - 先形成“我的判断”，再找证据支撑；不是先抄再改
+
+2. **原创性**
+   - 句间重叠 <5%；不得整段改写
+   - 每页 8+ 个“只有这页才有”的数据点/框架/决策规则
+   - 必须回答：读者看完前 5 个搜索结果，这页还多给什么？
+
+3. **作者立场**
+   - 固定板块 `## The Author's Take`
+   - **Position**：一句可引用、第一人称、明确支持/反对
+   - **Reasoning**：2–3 条具体理由
+   - **Disclosure**：明确这是编辑判断，不是事实
+   - 观点可以锋利，但不能夹带医疗/法律/安全断言
+
+4. **人味**
+   - 避免 `In today's...`、`It is important to note...`、`This comprehensive guide...`
+   - 具体观察、条件推理、技术细节、真实限制；长短句混合
+   - 允许不确定性与反常识判断
+
+5. **硬禁区**
+   - 不编来源、数字、亲身经历、认证、测评
+   - 不保留未解决的重大矛盾
+   - 不做重复 intent 页
+   - 不写模板化“10 个要点”凑字数
+
+6. **QA**
+   - 120 分制；cornerstone ≥95
+   - Gate：Evidence / Accuracy / Originality / Intent / Entity / SEO / GEO-AIO / E-E-A-T
+
 ## 4. 内链规则
 
 - Pillar → 所有 cluster（按主题分组）
