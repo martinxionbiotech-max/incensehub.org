@@ -16,7 +16,7 @@ author: "Landeng Tech Team"
 
 ## Key facts
 
-The counts are 15 materials, 12 techniques, and 12 forms, served as JSON from `data.incenseherbs.com` under CC BY-SA 4.0. The JSON is authoritative; the prose below is a reading aid.
+The counts are 15 materials, 12 techniques, and 12 forms, served as JSON from `data.incensehub.org` under CC BY-SA 4.0. The JSON is authoritative; the prose below is a reading aid.
 
 ---
 
@@ -151,9 +151,9 @@ This is a reading aid, not a translation key. Characters combine and shift betwe
 
 ## The Open Data Behind the Lists
 
-**Direct answer:** All three taxonomies ship as machine-readable JSON — materials, techniques, forms — served from `data.incenseherbs.com`, with a static mirror under the main site.
+**Direct answer:** All three taxonomies ship as machine-readable JSON — materials, techniques, forms — served from `data.incensehub.org`, with a static mirror under the main site.
 
-Counts live in three files: fifteen materials, twelve techniques, twelve forms. Each is typed as a Schema.org Dataset and DefinedTerm record, hosted at `data.incenseherbs.com/datasets/` and mirrored on the main site, so a raw entry can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set. Filenames and addresses sit under Sources. A record is built from a stable `termCode`, a `name`, a Chinese `alternateName`, a definition, and typed `additionalProperty` entries for Type, Source, Processing, and Burning behaviour. All three files carry CC BY-SA 4.0. The [knowledge map](/blog/landeng-knowledge-map/) indexes the other five datasets in the set.
+Counts live in three files: fifteen materials, twelve techniques, twelve forms. Each is typed as a Schema.org Dataset and DefinedTerm record, hosted at `data.incensehub.org/datasets/` and mirrored on the main site, so a raw entry can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set. Filenames and addresses sit under Sources. A record is built from a stable `termCode`, a `name`, a Chinese `alternateName`, a definition, and typed `additionalProperty` entries for Type, Source, Processing, and Burning behaviour. All three files carry CC BY-SA 4.0. The [knowledge map](/blog/landeng-knowledge-map/) indexes the other five datasets in the set.
 
 ## A Blender Works the Layers in Reverse
 
@@ -189,7 +189,7 @@ A glossary also cannot show sequence. Entries sit alphabetically, side by side, 
 Use three verbs as a test: hold, do, see. You can hold a material (a chip of sandalwood, a spoon of makko). You can do a technique (grind it, warm it over coal, compose a blend). You can see a form (a rod, a pyramid, a spiral, a heap of meal). A product description that only supports one verb is a partial description.
 
 ### Q: How many records are in the three datasets?
-Fifteen materials, twelve techniques, twelve forms. Each file is Schema.org Dataset / DefinedTerm JSON under `data.incenseherbs.com/datasets/`, mirrored on the main site, so the raw records can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set.
+Fifteen materials, twelve techniques, twelve forms. Each file is Schema.org Dataset / DefinedTerm JSON under `data.incensehub.org/datasets/`, mirrored on the main site, so the raw records can be pulled and checked rather than taken on trust. The knowledge map indexes the full eight-dataset set.
 
 ### Q: Which ingredient marks a stick as naturally bound?
 Makko (抹香) — flour from the inner bark of *Machilus thunbergii*, working as both glue and combustion aid. A paste built on it needs no chemical adhesive and burns at an even rate, which makes its presence the simplest single signal of plant-based construction. The makko guide goes further into sourcing and behaviour.
@@ -207,7 +207,7 @@ A coal is buried in ash, a mica or silver-leaf plate rests above it, and the mat
 
 ## Sources
 
-The counts and definitions come from three files: [materials.json](https://data.incenseherbs.com/datasets/materials.json), [techniques.json](https://data.incenseherbs.com/datasets/techniques.json), and [forms.json](https://data.incenseherbs.com/datasets/forms.json). Ingredient pages cover [cypress seed](/ingredients/cypress-seed/), [frankincense](/ingredients/frankincense/), and [myrrh](/ingredients/myrrh/). For the making sequence, see [how incense is made](/blog/how-incense-is-made/) and the [hexiang blending system](/blog/hexiang-blending-system/).
+The counts and definitions come from three files: [materials.json](https://data.incensehub.org/datasets/materials.json), [techniques.json](https://data.incensehub.org/datasets/techniques.json), and [forms.json](https://data.incensehub.org/datasets/forms.json). Ingredient pages cover [cypress seed](/ingredients/cypress-seed/), [frankincense](/ingredients/frankincense/), and [myrrh](/ingredients/myrrh/). For the making sequence, see [how incense is made](/blog/how-incense-is-made/) and the [hexiang blending system](/blog/hexiang-blending-system/).
 
 ## Related Resources
 

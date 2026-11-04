@@ -1,4 +1,4 @@
-# Phase 2 Baseline Audit — IncenseHerbs (IncenseHub)
+# Phase 2 Baseline Audit — IncenseHub (IncenseHub)
 
 > Audit-only baseline. No content, URL, schema, or navigation changes were made.
 > Populated from the actual repositories on 2026-09-25.

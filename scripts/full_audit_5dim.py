@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 IncenseHub.org 全内容审计（五维 · AUDIT ONLY）
-对比源站 LanDeng（incenseherbs.com 原内容归档）。
+对比源站 LanDeng（incensehub.org 原内容归档）。
 
 维度：
 1. 原站重复检测（N-gram/Jaccard 段落级）

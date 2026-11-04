@@ -17,7 +17,7 @@ author: "Landeng Tech Team"
 
 ## Key facts
 
-Membership lives in `aroma.json`, a Schema.org `Dataset` on `data.incenseherbs.com`. Each tag is a `DefinedTerm`, and its `memberIngredients` array names the materials that carry it, by slug. Character only: no grade, no medical claim, no species guarantee.
+Membership lives in `aroma.json`, a Schema.org `Dataset` on `data.incensehub.org`. Each tag is a `DefinedTerm`, and its `memberIngredients` array names the materials that carry it, by slug. Character only: no grade, no medical claim, no species guarantee.
 
 ## Key Takeaways
 
@@ -255,7 +255,7 @@ Translation loses something here. "Balsamic" in English suggests vinegar to some
 
 ### Q: How many aroma families does this reference use?
 
-Ten. Each is a `DefinedTerm` in [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) with a member list by slug: woody, resinous, sweet, herbal, spicy, floral, citrus, earthy, smoky, balsamic. The count is a design choice, not a natural law — ten covers the classical palette without forcing distinctions that the materials do not support.
+Ten. Each is a `DefinedTerm` in [aroma.json](https://data.incensehub.org/datasets/aroma.json) with a member list by slug: woody, resinous, sweet, herbal, spicy, floral, citrus, earthy, smoky, balsamic. The count is a design choice, not a natural law — ten covers the classical palette without forcing distinctions that the materials do not support.
 
 ### Q: Can one ingredient belong to more than one family?
 
@@ -275,9 +275,9 @@ No. Tags describe character. Species, origin, resin density, age, and authentici
 
 ## Sources
 
-- Membership and counts: the ten `DefinedTerm` records in `aroma.json` ([dataset](https://data.incenseherbs.com/datasets/aroma.json)), each carrying a `memberIngredients` array.
-- Entity coverage: the 150 records in `ingredients.json` ([dataset](https://data.incenseherbs.com/datasets/ingredients.json)), checked against the `aroma` field on individual material pages.
-- Cross-links: the typed edges in `relationships.json` ([dataset](https://data.incenseherbs.com/datasets/relationships.json)), 806 of them, including the aroma joins used above.
+- Membership and counts: the ten `DefinedTerm` records in `aroma.json` ([dataset](https://data.incensehub.org/datasets/aroma.json)), each carrying a `memberIngredients` array.
+- Entity coverage: the 150 records in `ingredients.json` ([dataset](https://data.incensehub.org/datasets/ingredients.json)), checked against the `aroma` field on individual material pages.
+- Cross-links: the typed edges in `relationships.json` ([dataset](https://data.incensehub.org/datasets/relationships.json)), 806 of them, including the aroma joins used above.
 
 ## Related Resources
 

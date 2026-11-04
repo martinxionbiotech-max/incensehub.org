@@ -3,7 +3,7 @@
 审计对象：https://incensehub.org（IncenseHub 澜灯，中国植物香材英文知识站）
 审计日期：2026-10-18
 审计性质：只读审计（未发布、未删页、未改 canonical/robots、未改任何源码）
-执行者：IncenseHerbs.com 内容质量与 Google 算法风险审计
+执行者：IncenseHub.com 内容质量与 Google 算法风险审计
 
 ---
 

@@ -1,4 +1,4 @@
-# Content Freshness Policy — IncenseHerbs (IncenseHub)
+# Content Freshness Policy — IncenseHub (IncenseHub)
 
 > Governance document (§50). Defines **when** content is re-reviewed and **what** triggers an update.
 > This is a policy only — it does **not** change any content date, and it does not retroactively add or alter `last_reviewed` values. Dates stay truthful.
