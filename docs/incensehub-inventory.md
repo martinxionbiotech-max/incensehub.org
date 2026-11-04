@@ -26,9 +26,9 @@
 | MIX（英文正文 + 中文术语） | 72 | 正文英文，含少量中文名/引文（约 1–5% CJK），如 `沉香`、`檀香`、香乘引文 |
 | ZH（纯中文） | 0 | 不存在 |
 
-## 3. 与 data-landeng 兄弟仓关系
+## 3. 与 incensehubdata 兄弟仓关系
 
-`data-landeng` 是**权威数据源**（唯一源），主仓通过 `scripts/sync-datasets.mjs` 幂等同步 8 个 `datasets/*.json` 到 `data/` 与 `public/data/`。数据站域名 `data.incensehub.org`（→ 目标 `data.incensehub.org`）。本批只分析不触碰数据层。
+`incensehubdata` 是**权威数据源**（唯一源），主仓通过 `scripts/sync-datasets.mjs` 幂等同步 8 个 `datasets/*.json` 到 `data/` 与 `public/data/`。数据站域名 `data.incensehub.org`（→ 目标 `data.incensehub.org`）。本批只分析不触碰数据层。
 
 
 ## 4. 处置分布汇总

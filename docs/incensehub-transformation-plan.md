@@ -48,12 +48,12 @@
 | 4 | **加工工艺** | `how-incense-is-made` / `incense-materials-techniques-forms` | 研磨/过筛/配伍/成型/干燥陈化 | P10 簇（12 篇 T2/T3） |
 | 5 | **香气特征** | `scent-guide` + `scent-wheel` | 香气家族（10）、香气分子、氛围场景 | P2 簇（22 篇） |
 | 6 | **香文化** | `what-is-chinese-incense` / `history-of-chinese-incense` | 历史、四般闲事、香谱、香道、地域传统、香方 | P1/P8/P9/P12 簇 |
-| 7 | **行业认知** | `incense-terminology-reference` + 数据层 | 术语、分类体系、行业标准认知（去商业） | 术语 reference + data-landeng 8 数据集 |
+| 7 | **行业认知** | `incense-terminology-reference` + 数据层 | 术语、分类体系、行业标准认知（去商业） | 术语 reference + incensehubdata 8 数据集 |
 
 **支柱设计原则**：
 - 每个主题域一个 hub 页，承载"主题总览 + 全站该域内链入口"。
 - spoke 页在首段与结尾互链回 hub 及同域相关 spoke（不做孤立页）。
-- 七大域与 `data-landeng` 的 8 个数据集（ingredients/terminology/aroma/materials/comparisons/techniques/forms/relationships）一一呼应，叙事层引用数据层，数据层回链叙事层。
+- 七大域与 `incensehubdata` 的 8 个数据集（ingredients/terminology/aroma/materials/comparisons/techniques/forms/relationships）一一呼应，叙事层引用数据层，数据层回链叙事层。
 
 ---
 
@@ -83,7 +83,7 @@ Information → Analysis → Conclusion → Originality → Author Viewpoint
 因此**不存在"中文→英文翻译"任务**；策略是**术语规范化**而非翻译：
 
 1. **中文名作为"源真值"内嵌**：英文正文首次出现实体时给 `Chinese name (拼音)`，如 `Agarwood (沉香 chénxiāng)`。
-2. **拼音一致性**：全站统一拼音标注（对照 `CHINESE-ENGLISH-GLOSSARY.md` 与 `data-landeng/terminology.json`）。
+2. **拼音一致性**：全站统一拼音标注（对照 `CHINESE-ENGLISH-GLOSSARY.md` 与 `incensehubdata/terminology.json`）。
 3. **中文引文保留原文 + 英文意译**：香谱/香乘引文保留原句 + 括号英译，不做直译拼接。
 4. **禁机械翻译腔**：MIX 页的中文术语不是"翻译残留"，是"权威真值锚点"——保留，但不新增中文段落。
 
@@ -165,5 +165,5 @@ Information → Analysis → Conclusion → Originality → Author Viewpoint
 ## 6. 收口与可复现
 
 - 清册生成：`python3 scripts/incensehub_inventory.py`（自包含，只读，可复现 T2/T3 批次重跑）。
-- 本批不触碰 `data-landeng` 数据层；域名 `data.incensehub.org → data.incensehub.org` 与主站品牌替换在部署层执行。
+- 本批不触碰 `incensehubdata` 数据层；域名 `data.incensehub.org → data.incensehub.org` 与主站品牌替换在部署层执行。
 - 改造执行（写内容）为 Batch A 后续动作，按 T1 → T2 → T3 → CUT 顺序推进。

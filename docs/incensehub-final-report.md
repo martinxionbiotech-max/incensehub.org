@@ -181,4 +181,4 @@ CUT 14 篇（`bulk-incense-ingredient-sourcing` / `custom-fragrance-development`
 
 ---
 
-**说明**：本批为内容改造（Markdown + Astro 页层），未触碰 `data-landeng` 数据层与 schema；品牌名 IncenseHub / 域名 incensehub.org 保持既有。全站商业框架归零、机械腔归零、孤儿归零、断链归零、build/sitemap 通过。
+**说明**：本批为内容改造（Markdown + Astro 页层），未触碰 `incensehubdata` 数据层与 schema；品牌名 IncenseHub / 域名 incensehub.org 保持既有。全站商业框架归零、机械腔归零、孤儿归零、断链归零、build/sitemap 通过。

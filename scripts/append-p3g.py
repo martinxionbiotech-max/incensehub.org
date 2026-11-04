@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Append 12 new P3g entities to ingredients.json (main + public + data-landeng)."""
+"""Append 12 new P3g entities to ingredients.json (main + public + incensehubdata)."""
 import json, collections
 
 E = [

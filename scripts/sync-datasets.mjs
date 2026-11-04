@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// 同步权威数据集（../data-landeng/datasets/*.json，唯一源）到主仓 data/ 与
+// 同步权威数据集（../incensehubdata/datasets/*.json，唯一源）到主仓 data/ 与
 // public/data/，并把数据集计数注入 knowledge-map 页（标记区块内改写）。
 //
 // 流程：
@@ -7,7 +7,7 @@
 //   2) 读主仓 data/*.json，注入 knowledge-map 页的 Dataset Map 表（条数 + version）
 //      与正文/FAQ 的 terminology 计数（<!-- AUTO:dataset-counts:... --> 标记区内）
 //
-// 幂等：重复运行得到相同结果。数据站 data-landeng 是唯一权威源。
+// 幂等：重复运行得到相同结果。数据站 incensehubdata 是唯一权威源。
 import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
@@ -15,7 +15,7 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
-const SRC_DIR = join(__dirname, '..', '..', 'data-landeng', 'datasets');
+const SRC_DIR = join(__dirname, '..', '..', 'incensehubdata', 'datasets');
 
 const DATASETS = [
   { file: 'ingredients.json',   label: 'Ingredient database' },
@@ -105,7 +105,7 @@ function injectKnowledgeMap() {
 const sync = syncJson();
 const km = injectKnowledgeMap();
 
-console.log('sync-datasets.mjs — source = ../data-landeng/datasets/ (authoritative)');
+console.log('sync-datasets.mjs — source = ../incensehubdata/datasets/ (authoritative)');
 for (const r of sync) {
   console.log(`  ${r.file}: src=${r.srcHash}  data=${r.data}  public/data=${r.publicData}`);
 }

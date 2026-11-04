@@ -1,6 +1,6 @@
 # Data Site Audit — data.incensehub.org (8 Datasets)
 
-> Audit-only. Populated from `data-landeng/datasets/*.json`, `mkdocs.yml`, `.github/workflows/validate.yml`, `hooks.py`.
+> Audit-only. Populated from `incensehubdata/datasets/*.json`, `mkdocs.yml`, `.github/workflows/validate.yml`, `hooks.py`.
 
 ## Overview
 

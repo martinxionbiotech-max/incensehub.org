@@ -60,7 +60,7 @@ Next phase (after this baseline is reviewed): P0 repairs first (§63 — audit �
 
 | Date | File | Change | Reason | Risk | Validation | Rollback |
 |---|---|---|---|---|---|---|
-| 2026-09-25 | `data/relationships.json`, `public/data/relationships.json` | Copied `relationships.json` (150 records / 450 edges) from `data-landeng/datasets/` into main-site mirror (now 8/8 files) | G01 cross-site consistency (§31); main site could not serve the relationship graph | None (own data, no new domain) | md5 match vs data-landeng source; 8 files present in both mirrors | `git revert` |
+| 2026-09-25 | `data/relationships.json`, `public/data/relationships.json` | Copied `relationships.json` (150 records / 450 edges) from `incensehubdata/datasets/` into main-site mirror (now 8/8 files) | G01 cross-site consistency (§31); main site could not serve the relationship graph | None (own data, no new domain) | md5 match vs incensehubdata source; 8 files present in both mirrors | `git revert` |
 | 2026-09-25 | `scripts/generate-llms.mjs` | Rewrote to emit all 8 datasets with live counts (relationships shows `150 / 450`) | G06 incomplete machine-readable index; G01 needs relationships row | None (prebuild regenerates only) | `node scripts/generate-llms.mjs` → 8 dataset lines; build succeeded | `git revert` |
 | 2026-09-25 | `public/llms.txt` | Machine-readable section now lists 8 datasets (ingredients 150 / terminology 249 / relationships 150+450 / comparisons 17 / materials 15 / forms 12 / techniques 12 / aroma 10) | G01 + G06 | None | grep confirms 8 rows + correct counts | `git revert` |
 

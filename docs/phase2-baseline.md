@@ -2,7 +2,7 @@
 
 > Audit-only baseline. No content, URL, schema, or navigation changes were made.
 > Populated from the actual repositories on 2026-09-25.
-> Source repos: `repos/IncenseHub` (primary site) and `repos/data-landeng` (data site).
+> Source repos: `repos/IncenseHub` (primary site) and `repos/incensehubdata` (data site).
 
 ## Scope at a glance
 

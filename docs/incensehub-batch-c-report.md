@@ -148,4 +148,4 @@ world-incense-traditions, xuande-censer
 
 ---
 
-**说明**：本批为内容改造（Markdown 层），未触碰 `data-landeng` 数据层与 schema；品牌名 IncenseHub / 域名 incensehub.org 保持既有。
+**说明**：本批为内容改造（Markdown 层），未触碰 `incensehubdata` 数据层与 schema；品牌名 IncenseHub / 域名 incensehub.org 保持既有。

@@ -7,7 +7,7 @@
 
 | # | Topic | Intent | Primary entity | Related entities | Existing URL | Gap | Reason | Priority | Commercial | AIO | Required sources |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| G01 | Data-site mirror parity | data | — | 150 entities | `data/` + `public/data/` (7 files) | `relationships.json` (450 edges) absent from main-site mirror; data site has 8 files | Cross-site consistency (§31); main site cannot serve the relationship graph | **P0** | Low | High | `data-landeng/datasets/relationships.json` |
+| G01 | Data-site mirror parity | data | — | 150 entities | `data/` + `public/data/` (7 files) | `relationships.json` (450 edges) absent from main-site mirror; data site has 8 files | Cross-site consistency (§31); main site cannot serve the relationship graph | **P0** | Low | High | `incensehubdata/datasets/relationships.json` |
 | G02 | Homepage duplicate schema | technical | organization | — | `/` | Organization + WebSite JSON-LD emitted twice (index + BaseLayout) | Duplicate @id in one document | **P0** | Low | High | `src/pages/index.astro`, `BaseLayout.astro` |
 | G03 | Custom 404 page | technical | — | — | none | No `src/pages/404.astro` | Broken-link UX + crawl waste | **P0** | Low | Low | Astro 404 convention |
 | G04 | Vestigial `status: draft` | governance | 150 ingredients | — | `src/content/ingredients/*` | All 150 files `status: draft` yet built/served | Status field unwired; misleads future gating | **P0** | Low | Low | content.config.ts + templates |

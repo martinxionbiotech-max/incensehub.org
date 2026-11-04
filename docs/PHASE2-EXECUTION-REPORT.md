@@ -1,7 +1,7 @@
 # Phase 2 Execution Report — IncenseHub (IncenseHub)
 
 > §58/§59 structure. Summarises the actual Phase 2 work done on the main site (`repos/IncenseHub`) across three batches: **audit** → **P0 repair** → **P1 repair + content** → **P2 audit + small-fix**.
-> Date: 2026-09-25. Data site (`repos/data-landeng`) remained read-only reference throughout.
+> Date: 2026-09-25. Data site (`repos/incensehubdata`) remained read-only reference throughout.
 
 ---
 
