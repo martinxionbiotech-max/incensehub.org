@@ -33,8 +33,21 @@ const orgJsonLd = {
   '@type': 'Organization',
   '@id': `${SITE}#organization`,
   name: 'IncenseHub',
+  legalName: 'Zhangjiakou Landeng Technology Co., Ltd.',
+  alternateName: ['张家口澜灯科技有限公司'],
   url: SITE,
-  description: 'Chinese botanical incense knowledge platform.',
+  description: 'Chinese botanical incense knowledge platform operated by Zhangjiakou Landeng Technology Co., Ltd..',
+  taxID: '91130702MAKM4QXH5Q',
+  email: 'landengltd@gmail.com',
+  telephone: '+86-13323237275',
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: 'Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street',
+    addressLocality: 'Zhangjiakou',
+    addressRegion: 'Hebei',
+    addressCountry: 'CN',
+  },
+  brand: { '@type': 'Brand', name: 'IncenseHub' },
 };
 
 const webSiteJsonLd = {
@@ -141,9 +154,9 @@ const webSiteJsonLd = {
           <a href="/llms.txt">llms.txt</a>
           <a href="/sitemap-index.xml">Sitemap</a>
         </nav>
-        <p class="copyright">© {new Date().getFullYear()} IncenseHub</p>
+        <p class="copyright">© {new Date().getFullYear()} Zhangjiakou Landeng Technology Co., Ltd. · IncenseHub</p>
         <p class="footer-legal">
-          IncenseHub ·  · 
+          IncenseHub is a brand operated by Zhangjiakou Landeng Technology Co., Ltd. (张家口澜灯科技有限公司) · USCC 91130702MAKM4QXH5Q · Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China · <a href="mailto:landengltd@gmail.com">landengltd@gmail.com</a> · +86 13323237275
         </p>
       </div>
     </footer>
