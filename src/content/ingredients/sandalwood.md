@@ -509,7 +509,7 @@ A base note is a job description, and several materials can do the job. They do 
 
 **Against agarwood.** Agarwood is resinous, complex, and unpredictable, with a scent that shifts as the burn advances. It is the dramatic middle of a composition. Sandalwood is the quiet floor under it. The two are more often paired than compared, because they solve different problems.
 
-**Against the sweet resins.** Benzoin and myrrh add sweetness and a balsamic weight, but they can turn sticky and cloying. Sandalwood sweetens without the resinous heaviness, which is why it can support a floral blend that a resin would smother. See [benzoin](/ingredients/benzoin/) and [myrrh](/ingredients/myyrrh/) for those materials in their own right.
+**Against the sweet resins.** Benzoin and myrrh add sweetness and a balsamic weight, but they can turn sticky and cloying. Sandalwood sweetens without the resinous heaviness, which is why it can support a floral blend that a resin would smother. See [benzoin](/ingredients/benzoin/) and [myrrh](/ingredients/myrrh/) for those materials in their own right.
 
 The comparison has a practical use. When a formula feels top-heavy, the question is which kind of base it needs: earthy, dry, resinous, or creamy. Sandalwood answers only the last. Reaching for it when the blend wants vetiver is a common mistake, and it produces a stick that is soft where it should be grounded.
 
