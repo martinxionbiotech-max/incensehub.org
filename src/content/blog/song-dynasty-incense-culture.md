@@ -35,7 +35,7 @@ That is why I treat the Song as a technical threshold rather than a golden age. 
 
 The fiscal side is easier to document than the aesthetic side, and it begins with a date. In 971, the Song court established a maritime trade office — 市舶司 — at Guangzhou. Offices at Hangzhou and Mingzhou followed. The [Song History's trade chapter](https://zh.wikisource.org/wiki/宋史/卷186) lists what official buyers took in exchange for gold, silver, coin, lead, tin, silk and porcelain: aromatics first, then rhinoceros horn, ivory, coral, amber, pearls, sapphires, tortoiseshell, agate and sappanwood.
 
-Aromatics were not a marginal import. They appear at the head of the list, and the same chapter records that from the TianSheng era (1023–1032) "elephants, rhinoceros, pearls, jade, aromatics and precious goods filled the treasuries." That is court language, not market research, but it establishes the category.
+Aromatics were not a marginal import. They appear at the head of the list, and the same chapter records that from the TianSheng era (1023–1032) "elephants, rhinoceros, pearls, jade, aromatics and precious goods filled the treasuries."
 
 The state did not simply tax scent; it traded it. Frankincense was among the goods reserved as a monopoly in the early Song, along with pearls, tortoiseshell, rhinoceros horn and ivory. A later edict allowed other aromatics to be sold to the public after the government had taken its pick. First the state takes the aromatic, then it lets the remainder circulate, then it taxes the circulation. A substance that began as an offering had become an instrument of revenue.
 
@@ -51,7 +51,7 @@ The urban memoirs give the street view. Meng Yuanlao's [東京夢華錄](https:/
 
 Neither book is a price list. They are reminiscences, written by people with a point to make about what had been lost. Read them as evidence of commercial density, not as a directory.
 
-Still, the density is the point. A city where incense is sold alongside tea, medicine, flowers and paintings produces a different kind of customer from a court where it is presented as tribute. The customer can compare. The customer can ask for a cheaper grade. The customer can be cheated.
+Still, the density is the point. A city where incense is sold alongside tea, medicine, flowers and paintings produces a different kind of customer from a court where it is presented as tribute. The customer can compare, bargain and be cheated.
 
 Zhang Zeduan's handscroll [清明上河圖](https://en.wikipedia.org/wiki/Along_the_River_During_the_Qingming_Festival), painted in the Northern Song capital, preserves one of the best-known traces of that market: a shopboard reading 劉家上色沉檀揀香 — "the Liu family's selected aloeswood and sandalwood." The sign is a claim about discernment. It does not say "incense"; it says selected aloeswood and sandalwood, the two woods that carried prestige. A shop that advertises its grading is a shop operating in a market where grading is contested.
 
