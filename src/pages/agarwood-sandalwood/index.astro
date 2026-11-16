@@ -1,0 +1,52 @@
+---
+import { getEntry, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const concept = await getEntry('concepts', 'agarwood-sandalwood');
+const { Content } = await render(concept);
+const { title, last_reviewed } = concept.data;
+const pageUrl = `${Astro.site?.toString() ?? 'https://incensehub.org'}agarwood-sandalwood/`;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    '@id': `${pageUrl}#webpage`,
+    name: title,
+    url: pageUrl,
+    ...(last_reviewed ? { dateModified: last_reviewed } : {}),
+    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incensehub.org'}#website` },
+    breadcrumb: { '@id': `${pageUrl}#breadcrumb` },
+    mainEntity: { '@id': `${pageUrl}#article` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${pageUrl}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${Astro.site?.toString() ?? 'https://incensehub.org'}` },
+      { '@type': 'ListItem', position: 2, name: title, item: pageUrl },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    '@id': `${pageUrl}#article`,
+    headline: title,
+    url: pageUrl,
+    ...(last_reviewed ? { dateModified: last_reviewed } : {}),
+    isPartOf: { '@id': `${Astro.site?.toString() ?? 'https://incensehub.org'}#website` },
+  },
+];
+---
+
+<BaseLayout
+  title={`${title} — IncenseHub`}
+  description="A buyer's field guide to agarwood and sandalwood: species, resin formation, grading, authentication, CITES rules, and the four components of price."
+>
+  <article class="article">
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+    <h1>{title}</h1>
+    <Content />
+  </article>
+</BaseLayout>
