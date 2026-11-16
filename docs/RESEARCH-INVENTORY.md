@@ -7,8 +7,11 @@ Research ledger. Records are added as research is actually performed.
 | R-001 | Agarwood 沉香 — terminology, grading (奇楠), botanical vs trade, adulteration | Agarwood · Aquilaria · 奇楠 | zh: vocus/nsteaset/sohu/baidu baike; en: Wikipedia/Me&Qi/China Daily/SilkwayOud | researched (notes) | /ingredients/agarwood/ | 2026-09-08 |
 | R-002 | Sandalwood 檀香 — botanical identity, evidence review vs SERP overclaiming | Sandalwood · Santalum · 檀香 | en DTC blogs (overclaim pattern) + enthusiast reviews | researched (notes) | /ingredients/sandalwood/ | 2026-09-08 |
 | R-003 | Chinese incense 香/香道 — history, 四般闲事, 隔火焚香, 合香, 香谱, China-vs-Japan | Chinese incense · 香道 · 合香 | zh: 光明日报/merit-times/南山居/Scenter; en: Bifang/Cenisy/China Daily | researched (notes) | /chinese-incense/ | 2026-09-08 |
+| R-004 | Agarwood & sandalwood — formation, species, grading, authentication, legality | Agarwood · Aquilaria · 奇楠 · Sandalwood · Santalum | 4 peer-reviewed reviews/studies + Kew POWO + CITES + IUCN + Flora of China + 香乘/本草纲目 | researched (notes); pages published | /agarwood-sandalwood/ | 2026-11-17 |
 
 > Coverage note (2026-09-19): target pages for R-001–R-003 are now live — `/ingredients/agarwood/`, `/ingredients/sandalwood/`, and `/chinese-incense/` (see [CONTENT-INVENTORY.md](CONTENT-INVENTORY.md)).
+
+> Coverage note (2026-11-17): R-004 notes and the W2 pages are live — `/agarwood-sandalwood/`, `/blog/agarwood-formation-and-species/`, and the tightened `/blog/agarwood-grading-guide/`. Full notes: [docs/research/agarwood-sandalwood-pillar-notes.md](research/agarwood-sandalwood-pillar-notes.md).
 
 ## R-001 findings summary
 
