@@ -19,6 +19,9 @@ const ogImage = new URL('images/og-image-incense-still-life-1200x630.jpg', SITE)
 const cleanPath = Astro.url.pathname.replace(/\/+$/, '');
 const mdHref = cleanPath === '' ? '/index.md' : `${cleanPath}.md`;
 const isErrorPage = cleanPath === '/404';
+const metaTitle = title.length > 60 ? `${title.slice(0, 57).trimEnd()}…` : title;
+const metaDescription =
+  description.length > 160 ? `${description.slice(0, 157).trimEnd()}…` : description;
 
 const navItems = [
   { href: '/', label: 'Home', exact: true },
@@ -67,7 +70,7 @@ const webSiteJsonLd = {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content={description} />
+    <meta name="description" content={metaDescription} />
     {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
     {!noindex && !isErrorPage && <link rel="alternate" type="text/markdown" href={mdHref} />}
@@ -79,16 +82,16 @@ const webSiteJsonLd = {
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Noto+Serif+SC:wght@400;600&display=swap"
       rel="stylesheet"
     />
-    <title>{title}</title>
+    <title>{metaTitle}</title>
     <meta property="og:site_name" content="IncenseHub" />
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
+    <meta property="og:title" content={metaTitle} />
+    <meta property="og:description" content={metaDescription} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={ogImage} />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:title" content={metaTitle} />
+    <meta name="twitter:description" content={metaDescription} />
     <meta name="twitter:image" content={ogImage} />
     <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteJsonLd)} />

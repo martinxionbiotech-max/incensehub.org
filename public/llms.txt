@@ -8,7 +8,14 @@
 - [Chinese Incense (香 / Xiang)](/chinese-incense/): what Chinese incense is — history, the Four Leisure Arts, and the way of incense (香道).
 - [About IncenseHub](/about/): the platform's scope, editorial standards and provenance policy.
 - [Blog & Guides](/blog/): the full article index — materials, history, craft and authentication.
-- [Contact](/contact/): editorial corrections, sourcing questions and privacy requests.
+
+- [Agarwood & Sandalwood](/agarwood-sandalwood/): the two aromatic heartwoods, their grades and their differences.
+- [Ingredients](/ingredients/): the full botanical ingredient reference.
+- [Privacy policy](/privacy-policy/): personal-information handling for the site and data subdomain.
+- [Cookies](/cookies/): cookie and tracking statement.
+- [Disclaimer](/disclaimer/): research, evidence and use boundaries.
+- [Safety](/safety/): smoke, ventilation and household precautions.
+- [Terms of service](/terms-of-service/): site-use terms.
 
 ## Ingredient encyclopedia
 
@@ -296,21 +303,13 @@
 
 ## Machine-readable markdown
 
-Clean markdown variants of the data-driven pages are generated at build time (`.md` endpoints) for LLMs and AI agents. Each file carries a YAML frontmatter (title, description, canonical, updated), an H1, a one-sentence definition, core data tables and source links — with no navigation, footer or JavaScript noise — and links back to its human-readable HTML page.
+Markdown is available through content negotiation from each HTML URL:
 
-Endpoint patterns:
+```http
+Accept: text/markdown
+```
 
-- `/ingredients/{slug}.md` — 150 ingredient entity pages
-- `/blog/{slug}.md` — 115 blog guides
-- `/chinese-incense.md` — Chinese incense pillar page
-
-Example URLs:
-
-- [Agarwood](https://incensehub.org/ingredients/agarwood.md)
-- [Sandalwood](https://incensehub.org/ingredients/sandalwood.md)
-- [What is Chinese incense?](https://incensehub.org/chinese-incense.md)
-- [Agarwood grading guide](https://incensehub.org/blog/agarwood-grading-guide.md)
-- [Incense safety guide](https://incensehub.org/blog/incense-safety-guide.md)
+No separate `.md` URLs are published. This keeps HTML, canonical URLs and Markdown output on the same URL.
 
 ## AI content notes
 

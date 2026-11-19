@@ -376,6 +376,8 @@ Settling ownership after the product succeeds. Once a product is selling, the fa
 - [How incense is made](/blog/how-incense-is-made/) — the process behind the quotation.
 - [Incense manufacturing quality control](/blog/incense-manufacturing-quality-control/) — inspection points and defect categories.
 - [OEM and private label guide](/blog/oem-private-label-guide/) — the adjacent walkthrough.
+- [Private-label production](/private-label/) — how an existing product is branded for a buyer.
+- [Incense manufacturer](/incense-manufacturer/) — the manufacturing side of the same decision.
 
 **Natural next step:** if the brief is the bottleneck, start with the [合香 blending system](/blog/hexiang-blending-system/); if quality is the worry, start with [incense manufacturing quality control](/blog/incense-manufacturing-quality-control/).
 
