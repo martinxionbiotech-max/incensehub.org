@@ -205,4 +205,4 @@ It can be inexpensive without being deceptive, if the aromatic layer is modest. 
 - [Sandalwood Incense Guide](/blog/sandalwood-incense/) — what a named aromatic layer looks like in practice.
 - [Agarwood (沉香) Incense Guide](/blog/agarwood-incense/) — the material whose scarcity most affects price.
 
-**Natural next step:** establishing what the word means and learning to spot it at the counter are two jobs. The second job has its own checklist in [natural vs synthetic: how to tell](/blog/natural-vs-synthetic-incense/); the two materials that justify the trouble are [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).
+**Natural next step:** the pillar on [incense materials](/incense-materials/) treats "natural" as an origin claim rather than a test; establishing what the word means and learning to spot it at the counter are two jobs. The second job has its own checklist in [natural vs synthetic: how to tell](/blog/natural-vs-synthetic-incense/); the two materials that justify the trouble are [sandalwood](/blog/sandalwood-incense/) and [agarwood](/blog/agarwood-incense/).

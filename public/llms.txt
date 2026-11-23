@@ -10,6 +10,7 @@
 - [Blog & Guides](/blog/): the full article index — materials, history, craft and authentication.
 
 - [Agarwood & Sandalwood](/agarwood-sandalwood/): the two aromatic heartwoods, their grades and their differences.
+- [Incense Materials](/incense-materials/): identity, form, grade, treatment, and the tests behind a material claim.
 - [Ingredients](/ingredients/): the full botanical ingredient reference.
 - [Privacy policy](/privacy-policy/): personal-information handling for the site and data subdomain.
 - [Cookies](/cookies/): cookie and tracking statement.
@@ -224,6 +225,7 @@
 - [Incense Holder & Burner Guide: What You Need](/blog/incense-holder-burner-guide/)
 - [Incense in Daily Ritual: Scent as a Time Marker](/blog/incense-in-daily-ritual/)
 - [Incense Ingredients Glossary: Wood to Spice](/blog/incense-ingredients-glossary/)
+- [Incense Material Authentication: Six Tests, In Order](/blog/incense-material-authentication-methods/)
 - [Incense Material Comparison Matrix: 7 Classics](/blog/incense-material-comparison-matrix/)
 - [Incense Materials, Techniques & Forms: The Craft Taxonomy](/blog/incense-materials-techniques-forms/)
 - [Incense Powder & Resin: Smoke-Light Format](/blog/incense-powder-resin/)

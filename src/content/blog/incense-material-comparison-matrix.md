@@ -169,6 +169,7 @@ Two species, two grades. *Styrax tonkinensis* yields Siam benzoin, the finer sor
 - Research notes: docs/research/agarwood-chenxiang-notes.md (R-001) and sandalwood-tanxiang-notes.md (R-002).
 - [Santalum album on GBIF](https://www.gbif.org/species/2889785) — sandalwood taxonomy.
 - [Aquilaria malaccensis on GBIF](https://www.gbif.org/species/5524063) — agarwood taxonomy.
+- [Incense materials: identity and grade](/incense-materials/) — the four-question frame behind this matrix.
 
 *Verification note: smell words here are descriptive, not measured; plant names follow accepted taxonomy; cost bands point at a range rather than a quotation. Fraud ratings are the editors' reading of published trade practice, not laboratory results.*
 

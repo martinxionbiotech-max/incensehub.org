@@ -158,7 +158,7 @@ The checks on this page are trade heuristics with a long Chinese pedigree, not l
 - [Agarwood Incense Guide](/blog/agarwood-incense/) — species and grade, with notes on heating behaviour.
 - [Sandalwood Incense Guide](/blog/sandalwood-incense/) — the substitution problem told from the sandalwood side.
 
-**Natural next step:** read how the 沉水 bands are set in the [agarwood grading guide](/blog/agarwood-grading-guide/), or follow the species question into the [sandalwood guide](/blog/sandalwood-incense/).
+**Natural next step:** start with [incense material authentication methods](/blog/incense-material-authentication-methods/) for the test ladder, then read how the 沉水 bands are set in the [agarwood grading guide](/blog/agarwood-grading-guide/), or follow the species question into the [sandalwood guide](/blog/sandalwood-incense/).
 
 ## Summary
 

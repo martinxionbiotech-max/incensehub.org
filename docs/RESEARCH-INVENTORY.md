@@ -31,3 +31,5 @@ Research ledger. Records are added as research is actually performed.
 | P1 | Sandalwood 檀香 — botanical vs trade identity, evidence review | high demand, overclaiming in SERP to correct | R-002 drafted; verify species substitution + run evidence sweep |
 | P1 | Chinese incense material classification framework | original taxonomy opportunity | not started |
 | P2 | 香道 terminology + cultural context (vs Japanese koh-do) | terminology gap | partially addressed by R-003; verify 香道 origin vs S1/S2 |
+
+- **R-005** Materials & Authentication pillar (W3, 2026-11-24): `docs/research/materials-pillar-notes.md` — 15 claims, 5 contradictions, 8 information-gain items.

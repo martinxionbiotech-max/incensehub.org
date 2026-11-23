@@ -311,6 +311,7 @@ You can swap the role, not the material. Both are warm spices, but clove is domi
 
 - [Makko & Natural Binders](/blog/makko-natural-binders/) — the binder family in detail.
 - [Incense Substitution Cross-Reference](/blog/incense-substitution-cross-reference/) — pair-by-pair substitution logic.
+- [Incense materials pillar](/incense-materials/) — how identity, form, grade, and treatment fit together.
 - [How Incense Is Made](/blog/how-incense-is-made/) — where these materials meet the process.
 - [Scent Guide](/blog/scent-guide/) — how families combine into accords.
 - [Xiangpu Incense Manuals](/blog/xiangpu-incense-manuals/) — the classical lists this glossary draws on.
